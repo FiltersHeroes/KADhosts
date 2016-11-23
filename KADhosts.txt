@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2016112201
+# Aktualizacja zbiorowa: 2016112301
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -411,6 +411,10 @@
 0.0.0.0 www.updatestar.com
 0.0.0.0 usunwirusa.pl
 0.0.0.0 bony.warszawa.pl 
+0.0.0.0 wygraj-nagrody-konkurs.pl
+0.0.0.0 codzienne-wiadomosci.pl
+0.0.0.0 swietne-promocje.pl
+0.0.0.0 aaad.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -510,6 +514,7 @@
 0.0.0.0 zetnijto.pl
 
 # Szybko wygaszajace
+0.0.0.0 bes.sportsontheweb.net
 0.0.0.0 govahoyuge.itup.pw
 0.0.0.0 ecadutaro.yadozalamom.pw
 0.0.0.0 mitobeb.yadozalamom.pw
