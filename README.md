@@ -1,5 +1,10 @@
 # KADhosts
 
-Uwaga! Plik hosts jest nadal w fazach testowych.
+Odpowiednik hosts dla filtra KAD.
+Zalecany dla użytkowników zaawansowanych.
 
-Niektóre strony mogą być przepuszczane. Lista ta jest stworzona tylko dla zaawansowanych użytkowników.
+# Informacje
+
+Oryginalne repozytorium KAD: https://github.com/azet12/KAD
+
+Lista hosts jest udostępniana na tej samej licencji co filtr - https://azet12.github.io/KAD/informacje.html
