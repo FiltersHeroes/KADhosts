@@ -116,5 +116,5 @@ for i in "$@"; do
     # Dodawanie zmienionych plików do repozytorium git
     git add $i
     git commit -m "Update $filtr to version $wersja [ci skip]"
-    git push https://KADTravis:${GH_TOKEN}@github.com/azet12/KADhosts.git HEAD:master
+    git push https://KADTravis:${GH_TOKEN}@github.com/azet12/KADhosts.git HEAD:master >/dev/null 2>&1
 done
