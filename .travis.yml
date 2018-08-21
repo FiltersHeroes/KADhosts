@@ -1,0 +1,12 @@
+addons:
+  apt:
+    packages:
+    - locales
+    - language-pack-pl
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+script:
+- "./scripts/TRAVIS_LETS_DO_THIS.sh"
+
