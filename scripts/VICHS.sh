@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.0.1
+# v2.0.2
 
 for i in "$@"; do
 
@@ -74,17 +74,17 @@ for i in "$@"; do
     # Konwertowanie na hosts i doklejanie zawartości list w odpowiednie miejsca
     for (( n=1; n<=$END_HOSTS; n++ ))
     do
-        ZEWNETRZNY=$(grep -oP -m 1 '@HOSTSinclude \K.*' $KONCOWY)
-        wget -O $SEKCJE_KAT/external.temp "${ZEWNETRZNY}"
-        grep -o '\||.*^' $SEKCJE_KAT/external.temp > $SEKCJE_KAT/external_hosts.temp
-        sed -i "s|[|][|]|0.0.0.0 |" $SEKCJE_KAT/external_hosts.temp
-        sed -i 's/[/\^]//g' $SEKCJE_KAT/external_hosts.temp
-        sed -i 's/[/\*]//g' $SEKCJE_KAT/external_hosts.temp
-        sort -uV -o $SEKCJE_KAT/external_hosts.temp $SEKCJE_KAT/external_hosts.temp
-        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$SEKCJE_KAT/external_hosts.temp'' -e 'd }' $KONCOWY > $TYMCZASOWY
-        cp -R $TYMCZASOWY $KONCOWY
-        rm -r $SEKCJE_KAT/external.temp
-        rm -r $SEKCJE_KAT/external_hosts.temp
+        EXTERNAL=$(grep -oP -m 1 '@HOSTSinclude \K.*' $FINAL)
+        wget -O $SECTIONS_DIR/external.temp "${EXTERNAL}"
+        grep -o '\||.*^' $SECTIONS_DIR/external.temp > $SECTIONS_DIR/external_hosts.temp
+        sed -i "s|[|][|]|0.0.0.0 |" $SECTIONS_DIR/external_hosts.temp
+        sed -i 's/[/\^]//g' $SECTIONS_DIR/external_hosts.temp
+        sed -i 's/[/\*]//g' $SECTIONS_DIR/external_hosts.temp
+        sort -uV -o $SECTIONS_DIR/external_hosts.temp $SECTIONS_DIR/external_hosts.temp
+        sed -e '0,/^@HOSTSinclude/!b; /@HOSTSinclude/{ r '$SECTIONS_DIR/external_hosts.temp'' -e 'd }' $FINAL > $TEMPORARY
+        cp -R $TEMPORARY $FINAL
+        rm -r $SECTIONS_DIR/external.temp
+        rm -r $SECTIONS_DIR/external_hosts.temp
     done
 
     # Usuwanie tymczasowego pliku
