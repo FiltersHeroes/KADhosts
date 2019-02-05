@@ -5,6 +5,6 @@ Zalecany dla użytkowników zaawansowanych.
 
 # Informacje
 
-Oryginalne repozytorium KAD: https://github.com/azet12/KAD
+Oryginalne repozytorium KAD: https://github.com/PolishFiltersTeam/KAD
 
-Lista hosts jest udostępniana na tej samej licencji co filtr - https://azet12.github.io/KAD/informacje.html
+Lista hosts jest udostępniana na tej samej licencji co filtr - https://kadantiscam.netlify.com/#contact
