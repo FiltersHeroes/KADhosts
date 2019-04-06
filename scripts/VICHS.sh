@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.0.3
+# v2.1.1
 
 for i in "$@"; do
 
@@ -35,6 +35,9 @@ for i in "$@"; do
 
     # Usuwanie pustych linii z sekcji
     find ${SECTIONS_DIR} -type f -exec sed -i '/^$/d' {} \;
+
+    # Usuwanie białych znaków z końca linii
+    find ${SECTIONS_DIR} -type f -exec sed -i 's/[[:space:]]*$//' {} \;
 
     # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
     find ${SECTIONS_DIR} -type f ! -iname ""*_specjalne_instrukcje.txt"" -exec sort -uV -o {} {} \;
