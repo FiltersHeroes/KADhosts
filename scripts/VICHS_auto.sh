@@ -14,17 +14,13 @@ else
 fi
 
 if [[ "$ost_plik" == *"sections"* ]]; then
-    if [[ "$lista" != *" KADhosts.txt"* ]] ;then
+    if [[ "$lista" != *" KADhosts.txt"* ]]; then
         lista+=" "KADhosts.txt
     fi
-fi
-
-if [[ "$ost_plik" == *"sections"* ]]; then
-    if [[ "$lista" != *" KADhosts_bez_pseudonauki.txt"* ]] ;then
-        lista+=" "KADhosts_bez_pseudonauki.txt
+    if [[ "$lista" != *" KADhosts_without_controversies.txt"* ]]; then
+        lista+=" "KADhosts_without_controversies.txt
     fi
 fi
-
 
 if [ "$lista" ] ; then
     $sciezka/VICHS.sh $lista
