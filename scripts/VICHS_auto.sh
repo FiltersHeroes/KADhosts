@@ -21,7 +21,7 @@ fi
 
 if [[ "$ost_plik" == *"sections"* ]]; then
     if [[ "$lista" != *" KADhosts_whitelist.txt"* ]] ;then
-        lista+=" "KADhosts.txt
+        lista+=" "KADhosts_whitelist.txt
     fi
 fi
 
