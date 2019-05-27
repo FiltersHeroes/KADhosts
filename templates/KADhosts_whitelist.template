@@ -1,0 +1,30 @@
+# Title: KADhosts whitelist
+# Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
+# Last modified: @modified
+# Version: @version
+# Expires: 2 days
+# Website: https://kadantiscam.netlify.com/
+# Repository: https://github.com/PolishFiltersTeam/KADhosts
+# Based on: https://github.com/PolishFiltersTeam/KAD
+# Check the repository for license information. / Sprawdz repozytorium po informacje o licencji.
+#
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+#
+# Podejrzane i/lub strony polaczone z innymi oszustwami
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt
+#
+# Przekierowuja do innych stron z przekretami
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowania_do_przekretow.txt
+#
+# Szybko wygaszajace
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt
+#
+# Przekrety
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
+#
+# Blogspot
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt
+#
+# Dodatki hosts
+@include hostsplus
