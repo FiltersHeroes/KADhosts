@@ -20,8 +20,8 @@ if [[ "$ost_plik" == *"sections"* ]]; then
 fi
 
 if [[ "$ost_plik" == *"sections"* ]]; then
-    if [[ "$lista" != *" KADhosts_whitelist.txt"* ]] ;then
-        lista+=" "KADhosts_whitelist.txt
+    if [[ "$lista" != *" KADhosts_bez_pseudonauki.txt"* ]] ;then
+        lista+=" "KADhosts_bez_pseudonauki.txt
     fi
 fi
 
