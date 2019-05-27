@@ -19,6 +19,13 @@ if [[ "$ost_plik" == *"sections"* ]]; then
     fi
 fi
 
+if [[ "$ost_plik" == *"sections"* ]]; then
+    if [[ "$lista" != *" KADhosts_whitelist.txt"* ]] ;then
+        lista+=" "KADhosts.txt
+    fi
+fi
+
+
 if [ "$lista" ] ; then
     $sciezka/VICHS.sh $lista
 fi
