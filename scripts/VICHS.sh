@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.3.6
+# v2.3.7
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -137,6 +137,7 @@ for i in "$@"; do
         sed -i "s|[|][|]|0.0.0.0 |" "$HOSTS_TEMP"
         sed -i 's/[/\^]//g' "$HOSTS_TEMP"
         sed -i '/[/\*]/d' "$HOSTS_TEMP"
+        sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$HOSTS_TEMP"
         sed -r "/(www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$HOSTS_TEMP" > "$HOSTS_TEMP.2"
         if [ -f "$HOSTS_TEMP.2" ]
         then
@@ -173,7 +174,8 @@ for i in "$@"; do
         sed -i "s|[|][|]|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
         sed -i 's/[/\^]//g' "$EXTERNALHOSTS_TEMP"
         sed -i '/[/\*]/d' "$EXTERNALHOSTS_TEMP"
-        sed -r "/(www\.|www[0-9]\.|www\-|pl\.| [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9])/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$EXTERNALHOSTS_TEMP" > "$EXTERNALHOSTS_TEMP.2"
+        sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$EXTERNALHOSTS_TEMP"
+        sed -r "/(www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$EXTERNALHOSTS_TEMP" > "$EXTERNALHOSTS_TEMP.2"
         if [ -f "$EXTERNALHOSTS_TEMP.2" ]
         then
             cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
