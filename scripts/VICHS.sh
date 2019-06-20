@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.3.8
+# v2.3.9
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -77,8 +77,8 @@ for i in "$@"; do
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
-            git reset --hard
-            git clean -xdf
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
             exit 0
         fi
         sed -i '/! Checksum/d' "$EXTERNAL_TEMP"
@@ -104,8 +104,8 @@ for i in "$@"; do
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
-            git reset --hard
-            git clean -xdf
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
             exit 0
         fi
         sed -i '/! Checksum/d' "$EXTERNAL_TEMP"
@@ -166,8 +166,8 @@ for i in "$@"; do
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
-            git reset --hard
-            git clean -xdf
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
             exit 0
         fi
         grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
