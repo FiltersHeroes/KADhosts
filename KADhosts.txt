@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Sat, 20 Jul 2019, 16:38 UTC+02
-# Version: 2019.7.20.3
+# Last modified: Sat, 20 Jul 2019, 16:49 UTC+02
+# Version: 2019.7.20.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1880,7 +1880,6 @@
 0.0.0.0 cobolito.pl
 0.0.0.0 detoxpolska.pl
 0.0.0.0 globalhealingcenter.com
-0.0.0.0 go.globalhealingcenter.com
 0.0.0.0 gotsprouts.com
 0.0.0.0 jerzyzieba.com
 0.0.0.0 mabello.pl
@@ -1892,9 +1891,7 @@
 0.0.0.0 planetazdrowia.com
 0.0.0.0 planet-tachyon.com
 0.0.0.0 polakuleczsiesam.pl
-0.0.0.0 shop.planet-tachyon.com
 0.0.0.0 stopnop.com.pl
-0.0.0.0 store.planet-tachyon.com
 0.0.0.0 szczepienie.info
 0.0.0.0 timeforvitamins.com
 0.0.0.0 ukryteterapie.pl
@@ -1905,7 +1902,6 @@
 0.0.0.0 www.detoxpolska.pl
 0.0.0.0 www.globalhealingcenter.com
 0.0.0.0 www.gotsprouts.com
-0.0.0.0 www.go.globalhealingcenter.com
 0.0.0.0 www.jerzyzieba.com
 0.0.0.0 www.mabello.pl
 0.0.0.0 www.meganiusy.com
@@ -1923,8 +1919,6 @@
 0.0.0.0 www.bio-chemik24.pl
 0.0.0.0 www.misja-cera.pl
 0.0.0.0 www.planet-tachyon.com
-0.0.0.0 www.shop.planet-tachyon.com
-0.0.0.0 www.store.planet-tachyon.com
 #
 # Przekierowuja do innych stron z przekretami
 0.0.0.0 9xa.pl
@@ -3333,3 +3327,11 @@
 0.0.0.0 www.secure.s-pay24.com
 0.0.0.0 wydawca.lead.network
 0.0.0.0 zmienkolory.blogspot.com
+#
+# Uzupełnienie hosts do promocji pseudonauki / fake newsów
+0.0.0.0 go.globalhealingcenter.com
+0.0.0.0 shop.planet-tachyon.com
+0.0.0.0 store.planet-tachyon.com
+0.0.0.0 www.go.globalhealingcenter.com
+0.0.0.0 www.shop.planet-tachyon.com
+0.0.0.0 www.store.planet-tachyon.com
