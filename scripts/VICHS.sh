@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.4.2
+# v2.5
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -275,7 +275,7 @@ for i in "$@"; do
     do
         HOSTS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@HOSTSinclude \K.*' "$FINAL").txt
         HOSTS_TEMP=$SECTIONS_DIR/hosts.temp
-        grep -o '\||.*^' "$HOSTS_FILE" > "$HOSTS_TEMP"
+        grep -o '\||.*^$' "$HOSTS_FILE" > "$HOSTS_TEMP"
         grep -o '\0.0.0.0.*' "$HOSTS_FILE" >> "$HOSTS_TEMP"
         convertToHosts "$HOSTS_TEMP"
         if [ -f "$HOSTS_TEMP.2" ]
@@ -309,7 +309,7 @@ for i in "$@"; do
             rm -r "$EXTERNAL_TEMP"
             exit 0
         fi
-        grep -o '\||.*^' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
+        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
         convertToHosts "$EXTERNALHOSTS_TEMP"
         if [ -f "$EXTERNALHOSTS_TEMP.2" ]
         then
@@ -325,6 +325,60 @@ for i in "$@"; do
         then
             rm -r "$EXTERNALHOSTS_TEMP.2"
         fi
+    done
+
+    function convertToPihole() {
+        sed -i "s|[|][|]|0.0.0.0 |" "$1"
+        sed -i 's/[\^]//g' "$1"
+        sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$1"
+        sed -r "/^0\.0\.0\.0 (www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 //" "$1" >> "$1.2"
+        sed -i '/^0\.0\.0\.0\b/d' "$1.2"
+        sed -i 's|\.|\\.|g' "$1.2"
+        sed -i 's|^|(^\|\\.)|' "$1.2"
+        sed -i "s|$|$|" "$1.2"
+        rm -rf "$1"
+        mv "$1.2" "$1"
+    }
+
+    # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł w celu konwersji na format regex zgodny z PiHole
+    END_PH=$(grep -o -i '@PHinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_PH; n++ ))
+    do
+        PH_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
+        PH_TEMP=$SECTIONS_DIR/ph.temp
+        grep -o '\||.*^$' "$PH_FILE" > "$PH_TEMP"
+        convertToPihole "$PH_TEMP"
+        sort -uV -o "$PH_TEMP" "$PH_TEMP"
+        sed -e '0,/^@PHinclude/!b; /@PHinclude/{ r '"$PH_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        rm -r "$PH_TEMP"
+        mv "$TEMPORARY" "$FINAL"
+    done
+
+    # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł w celu konwersji na format regex zgodny z PiHole
+    END_URLPH=$(grep -o -i '@URLPHinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_URLPH; n++ ))
+    do
+        EXTERNAL=$(grep -oP -m 1 '@URLPHinclude \K.*' "$FINAL")
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNALPH_TEMP=$SECTIONS_DIR/external_ph.temp
+        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
+        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
+            echo "Błąd w trakcie pobierania pliku"
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
+            exit 0
+        fi
+        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALPH_TEMP"
+        convertToPihole "$EXTERNALPH_TEMP"
+        sort -uV -o "$EXTERNALPH_TEMP" "$EXTERNALPH_TEMP"
+        sed -e '0,/^@URLPHinclude/!b; /@URLPHinclude/{ r '"$EXTERNALPH_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        mv "$TEMPORARY" "$FINAL"
+        rm -r "$EXTERNAL_TEMP"
+        rm -r "$EXTERNALPH_TEMP"
     done
 
     # Usuwanie instrukcji informującej o ścieżce do sekcji
@@ -408,14 +462,12 @@ for i in "$@"; do
         rm -r "$i".chk
 
         # Dodawanie zmienionych plików do repozytorium git
-        if [ ! "$RTM_MODE" ] ; then
-            git add "$i"
-        fi
+        git add "$i"
 
         # Commitowanie zmienionych plików
         if [ "$CI" = "true" ] ; then
             git commit -m "Update $filter to version $version [ci skip]"
-        elif [ ! "$RTM_MODE" ] ; then
+        else
             printf "Podaj rozszerzony opis commita do listy filtrów %s$filter, np 'Fix #1, fix #2' (bez ciapek; jeśli nie chcesz rozszerzonego opisu, to możesz po prostu nic nie wpisywać): "
             read -r roz_opis
             git commit -m "Update $filter to version $version [ci skip]" -m "${roz_opis}"
@@ -432,7 +484,7 @@ if [ "$commited" ]; then
     if [ "$CI" = "true" ] ; then
         GIT_SLUG=$(git ls-remote --get-url | sed "s|https://||g" | sed "s|git@||g" | sed "s|:|/|g")
         git push https://"${CI_USERNAME}":"${GH_TOKEN}"@"${GIT_SLUG}" HEAD:master > /dev/null 2>&1
-    elif [ ! "$RTM_MODE" ] ; then
+    else
         echo "Czy chcesz teraz wysłać do gita zmienione pliki?"
         select yn in "Tak" "Nie"; do
             case $yn in
