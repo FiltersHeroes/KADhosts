@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.5
+# v2.5.1
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -336,6 +336,7 @@ for i in "$@"; do
         sed -i 's|\.|\\.|g' "$1.2"
         sed -i 's|^|(^\|\\.)|' "$1.2"
         sed -i "s|$|$|" "$1.2"
+        sed -i "s|\*|.*|" "$1.2"
         rm -rf "$1"
         mv "$1.2" "$1"
     }
