@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 10 Aug 2019, 21:43 UTC+02
-# Version: 2019.8.10.2
+# Last modified: Sun, 11 Aug 2019, 10:23 UTC+02
+# Version: 2019.8.11.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -571,7 +571,7 @@
 (^|\.)pobierzse\.pl$
 (^|\.)pobierz-online\.co\.pl$
 (^|\.)pobierz\.biz$
-(^|\.)pokolorujfb*\.glt\.pl$
+(^|\.)pokolorujfb.*\.glt\.pl$
 (^|\.)poland\.fizzyslim\.biz$
 (^|\.)polska-tv\.pl$
 (^|\.)polskifilm\.com\.pl$
@@ -1029,7 +1029,7 @@
 (^|\.)androidsecurityplus\.com$
 (^|\.)appandroider\.com$
 (^|\.)appiq\.mobi$
-(^|\.)apple-*\.deviceoffergiveaways\.icu$
+(^|\.)apple-.*\.deviceoffergiveaways\.icu$
 (^|\.)apple\.com-care-macbook-system\.live$
 (^|\.)apple\.com-improve-macos\.live$
 (^|\.)apple\.com-macos-clean-systems\.live$
@@ -1044,7 +1044,7 @@
 (^|\.)apple\.com-speedup-macos\.live$
 (^|\.)apple\.com-speed-macos\.live$
 (^|\.)appsdorado\.com$
-(^|\.)app*\.kromtech\.net$
+(^|\.)app.*\.kromtech\.net$
 (^|\.)aseanlegaltech\.com$
 (^|\.)astrocash\.org$
 (^|\.)bazafilmowa\.org$
@@ -1107,9 +1107,9 @@
 (^|\.)faccebook\.5v\.pl$
 (^|\.)faceapp\.eu$
 (^|\.)facebbook\.5v\.pl$
-(^|\.)facebook*\.5v\.pl$
 (^|\.)facebook-login\.5v\.pl$
 (^|\.)facebook-profile\.5v\.pl$
+(^|\.)facebook.*\.5v\.pl$
 (^|\.)facebook\.5v\.pl$
 (^|\.)facewatch\.borec\.cz$
 (^|\.)failmobile\.net$
@@ -1176,10 +1176,10 @@
 (^|\.)giveskincs\.nd\.pl$
 (^|\.)globile\.co$
 (^|\.)gogameportal\.com$
-(^|\.)google-*\.anniversarygiveawaysseries\.xyz$
-(^|\.)google-*\.bestgadgetoffers\.icu$
-(^|\.)google-*\.newgadgetpresents\.icu$
-(^|\.)google-*\.smartphonesbonusoffers\.icu$
+(^|\.)google-.*\.anniversarygiveawaysseries\.xyz$
+(^|\.)google-.*\.bestgadgetoffers\.icu$
+(^|\.)google-.*\.newgadgetpresents\.icu$
+(^|\.)google-.*\.smartphonesbonusoffers\.icu$
 (^|\.)hackerbot\.net$
 (^|\.)hajoopteg\.com$
 (^|\.)hdseriale\.pl$
@@ -1211,7 +1211,7 @@
 (^|\.)kipokahynr\.xyz$
 (^|\.)kocham-cie\.c0\.pl$
 (^|\.)kolor\.oq\.pl$
-(^|\.)komornik*-gov\.tk$
+(^|\.)komornik.*-gov\.tk$
 (^|\.)konkursy\.de$
 (^|\.)ksiazka-telefoniczna-online\.pl$
 (^|\.)ktopodgladamnienafacebooku\.wordpress\.com$
@@ -1372,7 +1372,7 @@
 (^|\.)ulink\.pl$
 (^|\.)update-1\.com$
 (^|\.)update-flash\.s0l8ybzj9u\.top$
-(^|\.)update\.*sf*\.online$
+(^|\.)update\..*sf*\.online$
 (^|\.)upshare\.org$
 (^|\.)uzupelniajdane\.ga$
 (^|\.)uzupelniajdane\.gq$
@@ -1409,7 +1409,7 @@
 (^|\.)za10groszy\.pl$
 (^|\.)zalukaj-online\.pl$
 (^|\.)zamowienia-priorytetowe\.pl$
-(^|\.)zaplata*\.tk$
+(^|\.)zaplata.*\.tk$
 (^|\.)zarabativaisazartom\.net$
 (^|\.)zarabiajwsieci\.5v\.pl$
 (^|\.)zasilkonto\.cba\.pl$
@@ -1425,33 +1425,33 @@
 (^|\.)5gb-internetu-pakiety\.blogspot\.com$
 (^|\.)adrianzajewicz\.blogspot\.com$
 (^|\.)aktualizacjafacebooka\.blogspot\.com$
-(^|\.)barsy*\.blogspot\.com$
+(^|\.)barsy.*\.blogspot\.com$
 (^|\.)colors-app\.blogspot\.com$
-(^|\.)czas-na-fb*\.blogspot\.com$
+(^|\.)czas-na-fb.*\.blogspot\.com$
 (^|\.)darmowedoladowania25\.blogspot\.com$
 (^|\.)darmowygenerator\.blogspot\.com$
 (^|\.)dascoininfo\.blogspot\.com$
 (^|\.)dataasmierci\.blogspot\.com$
 (^|\.)datasmierci01\.blogspot\.com$
-(^|\.)fabryka-chinczykow*\.blogspot\.com$
-(^|\.)facebokznajomi*\.blogspot\.com$
+(^|\.)fabryka-chinczykow.*\.blogspot\.com$
+(^|\.)facebokznajomi.*\.blogspot\.com$
 (^|\.)facebookaplikacje\.blogspot\.com$
 (^|\.)facebookcolors24\.blogspot\.com$
 (^|\.)facebookkoloruj\.blogspot\.com$
 (^|\.)facebookkviewer\.blogspot\.com$
-(^|\.)facebook-kolor*\.blogspot\.com$
+(^|\.)facebook-kolor.*\.blogspot\.com$
 (^|\.)face--viewer\.blogspot\.com$
-(^|\.)fbcolor*\.blogspot\.com$
-(^|\.)fbpodglad*\.blogspot\.com$
+(^|\.)fbcolor.*\.blogspot\.com$
+(^|\.)fbpodglad.*\.blogspot\.com$
 (^|\.)fbweryfikacja123\.blogspot\.com$
 (^|\.)fb-kolor\.blogspot\.com$
-(^|\.)fb-podglad*\.blogspot\.com$
-(^|\.)fcolors*\.blogspot\.com$
-(^|\.)fejsopodgladacz*\.blogspot\.com$
+(^|\.)fb-podglad.*\.blogspot\.com$
+(^|\.)fcolors.*\.blogspot\.com$
+(^|\.)fejsopodgladacz.*\.blogspot\.com$
 (^|\.)fejspodgllaadacz\.blogspot\.com$
 (^|\.)fejspodglladacz\.blogspot\.com$
 (^|\.)filmoo-maniacy\.blogspot\.com$
-(^|\.)freeiqtest*\.blogspot\.com$
+(^|\.)freeiqtest.*\.blogspot\.com$
 (^|\.)hackidomsp\.blogspot\.com$
 (^|\.)informacjeszok24\.blogspot\.com$
 (^|\.)kolloryfejsa\.blogspot\.com$
@@ -1464,8 +1464,8 @@
 (^|\.)motyw-fb\.blogspot\.com$
 (^|\.)najprzydatniejsze\.blogspot\.com$
 (^|\.)narzedzia-fb\.blogspot\.com$
-(^|\.)nauczycielkasex*\.blogspot\.com$
-(^|\.)odzyskajsnapy*\.blogspot\.com$
+(^|\.)nauczycielkasex.*\.blogspot\.com$
+(^|\.)odzyskajsnapy.*\.blogspot\.com$
 (^|\.)okaleczenie15laatkii\.blogspot\.com$
 (^|\.)okaleczon15-lattka\.blogspot\.com$
 (^|\.)okaleczona15-llatka\.blogspot\.com$
@@ -1474,36 +1474,36 @@
 (^|\.)podgladfacebokaa\.blogspot\.com$
 (^|\.)pokemon2k16go\.blogspot\.com$
 (^|\.)pokemon-go-pakiety\.blogspot\.com$
-(^|\.)polkawlesie*\.blogspot\.com$
+(^|\.)polkawlesie.*\.blogspot\.com$
 (^|\.)programyfb\.blogspot\.com$
-(^|\.)sexdzieci*\.blogspot\.com$
-(^|\.)sexfabryka*\.blogspot\.com$
-(^|\.)sex-fabryka*\.blogspot\.com$
+(^|\.)sexdzieci.*\.blogspot\.com$
+(^|\.)sexfabryka.*\.blogspot\.com$
+(^|\.)sex-fabryka.*\.blogspot\.com$
 (^|\.)snapchat-save\.blogspot\.com$
 (^|\.)sprawdzktopodgglada\.blogspot\.com$
 (^|\.)sspawdzktopodgglada\.blogspot\.com$
 (^|\.)suczki-mlode\.blogspot\.com$
-(^|\.)szokgwalt*\.blogspot\.com$
+(^|\.)szokgwalt.*\.blogspot\.com$
 (^|\.)szokinfo247\.blogspot\.com$
 (^|\.)szybki-przeglad\.blogspot\.com$
 (^|\.)testowanietwojegoiq\.blogspot\.com$
 (^|\.)test--na--iq\.blogspot\.com$
-(^|\.)twoj-test-iq*\.blogspot\.com$
+(^|\.)twoj-test-iq.*\.blogspot\.com$
 (^|\.)ustaw--tlo-fb\.blogspot\.com$
-(^|\.)wideo-pryszcz*\.blogspot\.com$
+(^|\.)wideo-pryszcz.*\.blogspot\.com$
 (^|\.)wilkzwallstreet\.blogspot\.com$
-(^|\.)wyciskaniepryszcza0*\.blogspot\.com$
-(^|\.)wyciskanie-pryszcza*\.blogspot\.com$
-(^|\.)wygrajnike*\.blogspot\.com$
+(^|\.)wyciskaniepryszcza0.*\.blogspot\.com$
+(^|\.)wyciskanie-pryszcza.*\.blogspot\.com$
+(^|\.)wygrajnike.*\.blogspot\.com$
 (^|\.)wypad3k0\.blogspot\.com$
 (^|\.)zamiana-koloru\.blogspot\.com$
-(^|\.)zgarnijnike*\.blogspot\.com$
+(^|\.)zgarnijnike.*\.blogspot\.com$
 (^|\.)zmienienie-koloru\.blogspot\.com$
 (^|\.)zmienkolorfejsazafree\.blogspot\.com$
-(^|\.)zmienkolory*\.blogspot\.com$
+(^|\.)zmienkolory.*\.blogspot\.com$
 (^|\.)zmien-motyw\.blogspot\.com$
 (^|\.)zobaczktopodgladaa\.blogspot\.com$
-(^|\.)*fejs-colors\.blogspot\.com$
-(^|\.)*internet-lte-5gb\.blogspot\.com$
-(^|\.)*pakiety-lte-5gb\.blogspot\.com$
-(^|\.)*pakiety-pokemon-go\.blogspot\.com$
+(^|\.).*fejs-colors\.blogspot\.com$
+(^|\.).*internet-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-pokemon-go\.blogspot\.com$
