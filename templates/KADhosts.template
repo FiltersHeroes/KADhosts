@@ -11,27 +11,36 @@
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
 #
+#
+#
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt
+#
 #
 # Promocja pseudonauki / Fake news
 # Nieprawdziwe, wprowadzajace w blad informacje lub podobne.
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/pseudonauka_fake_news.txt
 #
+#
 # Przekierowuja do innych stron z przekretami
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowania_do_przekretow.txt
+#
 #
 # Szybko wygaszajace
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt
 #
+#
 # Przekrety
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
+#
 #
 # Blogspot
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt
 #
+#
 # Dodatki hosts
 @HOSTSinclude hostsplus
+#
 #
 # Uzupelnienie hosts do promocji pseudonauki / fake newsow
 @HOSTSinclude hostsplus_kontrowersje
