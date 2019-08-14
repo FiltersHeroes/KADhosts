@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Wed, 14 Aug 2019, 01:02 UTC+02
-# Version: 2019.8.14.1
+# Last modified: Wed, 14 Aug 2019, 23:02 UTC+02
+# Version: 2019.8.14.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -10,6 +10,8 @@
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+#
+#
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 (^|\.)4ksport\.pl$
@@ -1036,6 +1038,7 @@
 (^|\.)zukiewicz\.com$
 (^|\.)zyski-z-innowacji\.pl$
 #
+#
 # Przekierowuja do innych stron z przekretami
 (^|\.)9xa\.pl$
 (^|\.)adaranth\.com$
@@ -1106,6 +1109,7 @@
 (^|\.)vcxz\.pl$
 (^|\.)vexacion\.com$
 (^|\.)wap\.mobiltek\.pl$
+#
 #
 # Szybko wygaszajace
 (^|\.)4ur\.click$
@@ -1219,6 +1223,7 @@
 (^|\.)zcontentlocker7gpa8a\.xyz$
 (^|\.)zejrzyj-zdjecia\.bo\.pl$
 (^|\.)zgarniij_vouchher\.skroc\.pl$
+#
 #
 # Przekrety
 (^|\.)1freesoftwareonline\.com$
@@ -1643,6 +1648,7 @@
 (^|\.)zweryfiikujdane\.tk$
 (^|\.)zweryfikuj-sie\.eu$
 (^|\.)zweryfikuj-sie\.pl$
+#
 #
 # Blogspot
 (^|\.)5gb-internetu-pakiety\.blogspot\.com$
