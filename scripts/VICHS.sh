@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.5.1
+# v2.7
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -57,6 +57,10 @@ for i in "$@"; do
     find "${SECTIONS_DIR}" -type f -exec sed -i 's/[[:space:]]*$//' {} \;
 
     # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
+    FOP="${MAIN_PATH}"/scripts/FOP.py
+    if [ -f "$FOP" ]; then
+        python3 "$MAIN_PATH"/scripts/FOP.py --d "${SECTIONS_DIR}"
+    fi
     find "${SECTIONS_DIR}" -type f ! -iname '*_specjalne_instrukcje.txt' -exec sort -uV -o {} {} \;
 
     # Obliczanie ilości sekcji (wystąpień słowa @include w template'cie)
@@ -238,8 +242,10 @@ for i in "$@"; do
     do
         LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $2; exit }' "$FINAL").txt
         EXTERNAL=$(awk '$1 == "@COMBINEinclude" { print $3; exit }' "$FINAL")
-        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
-        MERGED_TEMP=$SECTIONS_DIR/merged.temp
+        SECTIONS_TMP=${SECTIONS_DIR}/temp/
+        mkdir "$SECTIONS_TMP"
+        EXTERNAL_TEMP=$SECTIONS_DIR/temp/external.temp
+        MERGED_TEMP=$SECTIONS_DIR/temp/merged.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
@@ -248,14 +254,15 @@ for i in "$@"; do
             exit 0
         fi
         external_cleanup
-        sort -u -o "$LOCAL" "$LOCAL"
         sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
         cat "$LOCAL" "$EXTERNAL_TEMP" >> "$MERGED_TEMP"
-        sort -uV -o "$LOCAL" "$LOCAL"
+        rm -r "$EXTERNAL_TEMP"
+        if [ -f "$FOP" ]; then
+            python3 "$MAIN_PATH"/scripts/FOP.py --d "${SECTIONS_TMP}"
+        fi
         sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
         sed -e '0,/^@COMBINEinclude/!b; /@COMBINEinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
-        rm -r "$EXTERNAL_TEMP"
         rm -r "$MERGED_TEMP"
     done
 
@@ -357,6 +364,22 @@ for i in "$@"; do
         mv "$TEMPORARY" "$FINAL"
     done
 
+    # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł (jedynie reguły zawierajace gwiazdki) w celu konwersji na format regex zgodny z PiHole
+    END_PHL=$(grep -o -i '@PHLinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_PHL; n++ ))
+    do
+        PHL_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
+        PHL_TEMP=$SECTIONS_DIR/phl.temp
+        grep -o '\||.*\*.*^$' "$PHL_FILE" > "$PHL_TEMP"
+        convertToPihole "$PHL_TEMP"
+        sort -uV -o "$PHL_TEMP" "$PHL_TEMP"
+        sed -e '0,/^@PHLinclude/!b; /@PHLinclude/{ r '"$PHL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        rm -r "$PHL_TEMP"
+        mv "$TEMPORARY" "$FINAL"
+    done
+
     # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł w celu konwersji na format regex zgodny z PiHole
     END_URLPH=$(grep -o -i '@URLPHinclude' "${TEMPLATE}" | wc -l)
 
@@ -382,6 +405,31 @@ for i in "$@"; do
         rm -r "$EXTERNALPH_TEMP"
     done
 
+    # Obliczanie ilości sekcji/list filtrów, z których zostanie wyodrębnionych część reguł (jedynie reguły zawierajace gwiazdki) w celu konwersji na format regex zgodny z PiHole
+    END_URLPHL=$(grep -o -i '@URLPHLinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na format regex zgodny z PiHole i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_URLPHL; n++ ))
+    do
+        EXTERNAL=$(grep -oP -m 1 '@URLPHLinclude \K.*' "$FINAL")
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNALPHL_TEMP=$SECTIONS_DIR/external_phl.temp
+        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
+        if ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
+            echo "Błąd w trakcie pobierania pliku"
+            git checkout "$FINAL"
+            rm -r "$EXTERNAL_TEMP"
+            exit 0
+        fi
+        grep -o '\||.*\*.*^$' "$EXTERNAL_TEMP" > "$EXTERNALPHL_TEMP"
+        convertToPihole "$EXTERNALPHL_TEMP"
+        sort -uV -o "$EXTERNALPHL_TEMP" "$EXTERNALPHL_TEMP"
+        sed -e '0,/^@URLPHLinclude/!b; /@URLPHLinclude/{ r '"$EXTERNALPHL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        mv "$TEMPORARY" "$FINAL"
+        rm -r "$EXTERNAL_TEMP"
+        rm -r "$EXTERNALPHL_TEMP"
+    done
+
     # Usuwanie instrukcji informującej o ścieżce do sekcji
     sed -i '/@path /d' "$FINAL"
 
@@ -398,7 +446,7 @@ for i in "$@"; do
     # Dodawanie zmienionych sekcji do repozytorium git
     if [ ! "$RTM_MODE" ] ; then
         git add "$SECTIONS_DIR"/*
-        git commit -m "Update sections of $filter [ci skip]"
+        git commit -m "Update sections [ci skip]"
     fi
 
     # Ustawienie polskiej strefy czasowej
