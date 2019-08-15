@@ -21,5 +21,5 @@ if [[ "$ost_plik" == *"sections"* ]]; then
 fi
 
 if [ "$lista" ] ; then
-    $sciezka/VICHS.sh $lista
+    $sciezka/VICHS.sh $lista KADhosts_without_controversies.txt KADhole.txt KADhole_Lite.txt
 fi

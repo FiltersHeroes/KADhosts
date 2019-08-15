@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.7
+# v2.7.1
 
 # MAIN_PATH to miejsce, w którym znajduje się główny katalog repozytorium (zakładamy, że skrypt znajduje się w katalogu o 1 niżej od głównego katalogu repozytorium)
 MAIN_PATH=$(dirname "$0")/..
@@ -59,7 +59,7 @@ for i in "$@"; do
     # Sortowanie sekcji z pominięciem tych, które zawierają specjalne instrukcje
     FOP="${MAIN_PATH}"/scripts/FOP.py
     if [ -f "$FOP" ]; then
-        python3 "$MAIN_PATH"/scripts/FOP.py --d "${SECTIONS_DIR}"
+        python3 "${FOP}" --d "${SECTIONS_DIR}"
     fi
     find "${SECTIONS_DIR}" -type f ! -iname '*_specjalne_instrukcje.txt' -exec sort -uV -o {} {} \;
 
@@ -242,10 +242,10 @@ for i in "$@"; do
     do
         LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEinclude" { print $2; exit }' "$FINAL").txt
         EXTERNAL=$(awk '$1 == "@COMBINEinclude" { print $3; exit }' "$FINAL")
-        SECTIONS_TMP=${SECTIONS_DIR}/temp/
-        mkdir "$SECTIONS_TMP"
-        EXTERNAL_TEMP=$SECTIONS_DIR/temp/external.temp
-        MERGED_TEMP=$SECTIONS_DIR/temp/merged.temp
+        SECTIONS_TEMP=${SECTIONS_DIR}/temp/
+        mkdir "$SECTIONS_TEMP"
+        EXTERNAL_TEMP=${SECTIONS_TEMP}/external.temp
+        MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         if  ! wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"; then
             echo "Błąd w trakcie pobierania pliku"
@@ -258,12 +258,13 @@ for i in "$@"; do
         cat "$LOCAL" "$EXTERNAL_TEMP" >> "$MERGED_TEMP"
         rm -r "$EXTERNAL_TEMP"
         if [ -f "$FOP" ]; then
-            python3 "$MAIN_PATH"/scripts/FOP.py --d "${SECTIONS_TMP}"
+            python3 "${FOP}" --d "${SECTIONS_DIR}"/temp/
         fi
         sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
         sed -e '0,/^@COMBINEinclude/!b; /@COMBINEinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$MERGED_TEMP"
+        rm -r "$SECTIONS_TEMP"
     done
 
     function convertToHosts() {
