@@ -1,7 +1,7 @@
 # Title: KADhole Lite
 # Description: Uzupelnienie KADhosts do Pi-hole (wersja odchudzona)
-# Last modified: Wed, 14 Aug 2019, 14:13 UTC+02
-# Version: 2019.8.14.1
+# Last modified: Thu, 15 Aug 2019, 10:17 UTC+02
+# Version: 2019.8.15.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -10,6 +10,8 @@
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+#
+#
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 (^|\.)pokolorujfb.*\.glt\.pl$
@@ -26,6 +28,7 @@
 (^|\.)komornik.*-gov\.tk$
 (^|\.)update\..*sf*\.online$
 (^|\.)zaplata.*\.tk$
+#
 #
 # Blogspot
 (^|\.)barsy.*\.blogspot\.com$
