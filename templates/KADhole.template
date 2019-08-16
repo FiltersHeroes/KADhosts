@@ -14,20 +14,12 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-@URLPHinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt
-#
-#
-# Przekierowuja do innych stron z przekretami
-@URLPHinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowania_do_przekretow.txt
-#
-#
-# Szybko wygaszajace
-@URLPHinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt
+@URLPHLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt
 #
 #
 # Przekrety
-@URLPHinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
+@URLPHLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
 #
 #
 # Blogspot
-@URLPHinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt
+@URLPHLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt
