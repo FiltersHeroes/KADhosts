@@ -21,5 +21,5 @@ if [[ "$ost_plik" == *"sections"* ]]; then
 fi
 
 if [ "$lista" ] ; then
-    LANG="pl_PL.UTF-8" $sciezka/VICHS.sh $lista KADhosts_without_controversies.txt KADhole.txt
+    $sciezka/VICHS.sh $lista KADhosts_without_controversies.txt KADhole.txt
 fi
