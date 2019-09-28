@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 10 Sep 2019, 21:36 UTC+02
-# Version: 2019.9.10.1
+# Last modified: Sat, 28 Sep 2019, 17:56 UTC+02
+# Version: 2019.9.28.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -18,6 +18,7 @@
 #
 #
 # Przekrety
+(^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
 (^|\.)apple\.com-.*\.live$
 (^|\.)apple\.com-.*\.xyz$
