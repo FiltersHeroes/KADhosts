@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.9.3
+# v2.9.4
 
 # MIT License
 
@@ -340,6 +340,7 @@ for i in "$@"; do
     done
 
     function convertToPihole() {
+        sed -i "s|\$all$||" "$1"
         sed -i "s|[|][|]|0.0.0.0 |" "$1"
         sed -i 's/[\^]//g' "$1"
         sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$1"
@@ -379,6 +380,7 @@ for i in "$@"; do
         PHL_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
         PHL_TEMP=$SECTIONS_DIR/phl.temp
         grep -o '\||.*\*.*^$' "$PHL_FILE" > "$PHL_TEMP"
+        grep -o '\||.*^$all$' "$PHL_FILE" > "$PHL_TEMP"
         convertToPihole "$PHL_TEMP"
         sort -uV -o "$PHL_TEMP" "$PHL_TEMP"
         sed -e '0,/^@PHLinclude/!b; /@PHLinclude/{ r '"$PHL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
@@ -419,6 +421,7 @@ for i in "$@"; do
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
         grep -o '\||.*\*.*^$' "$EXTERNAL_TEMP" > "$EXTERNALPHL_TEMP"
+        grep -o '\||.*\*.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALPHL_TEMP"
         convertToPihole "$EXTERNALPHL_TEMP"
         sort -uV -o "$EXTERNALPHL_TEMP" "$EXTERNALPHL_TEMP"
         sed -e '0,/^@URLPHLinclude/!b; /@URLPHLinclude/{ r '"$EXTERNALPHL_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"

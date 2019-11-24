@@ -1,13 +1,13 @@
 # KADhosts
 
-Odpowiednik hosts dla filtra KAD.
+Odpowiednik hosts dla filtrów KAD.
 Zalecany dla użytkowników zaawansowanych.
 
 # Informacje
 
 Oryginalne repozytorium KAD: https://github.com/PolishFiltersTeam/KAD
 
-Lista hosts jest udostępniana na tej samej licencji co filtr - https://kadantiscam.netlify.com/#contact
+Lista hosts jest udostępniana na tej samej licencji co filtry - https://kadantiscam.netlify.com/#contact
 
 Jeśli nie chcesz blokować sekcji [kontrowersyjnych stron](https://github.com/PolishFiltersTeam/KAD/issues/649), to zamiast listy [KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt) korzystaj z [KADhosts (bez kontrowersji)](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt).
 
