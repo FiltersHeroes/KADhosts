@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Wed, 25 Mar 2020, 12:15 UTC+01
-# Version: 2020.3.25.0
+# Last modified: Thu, 26 Mar 2020, 12:32 UTC+01
+# Version: 2020.3.26.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -25,6 +25,7 @@
 (^|\.)apple\..*\.top$
 (^|\.)app.*\.kromtech\.net$
 (^|\.)facebook.*\.5v\.pl$
+(^|\.)faktury[0-9]+\.org$
 (^|\.)faktypolska.*\.b-cdn\.net$
 (^|\.)google-.*\.anniversarygiveawaysseries\.xyz$
 (^|\.)google-.*\.bestgadgetoffers\.icu$
@@ -73,7 +74,3 @@
 (^|\.).*internet-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-pokemon-go\.blogspot\.com$
-#
-#
-# Dodatki
-(^|\.)faktury[0-9]+\.org$
