@@ -1,5 +1,9 @@
 # KADhosts
 
+[![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/KADhosts.svg)](https://github.com/PolishFiltersTeam/KADhosts/issues)
+[![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/KADhosts.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KADhosts/issues)
+
+
 Odpowiednik hosts dla filtrów KAD.
 Zalecany dla użytkowników zaawansowanych.
 
