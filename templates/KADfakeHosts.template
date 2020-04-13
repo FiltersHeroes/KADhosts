@@ -1,0 +1,12 @@
+# Title: KADfake Hosts Edition
+! Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
+# Last modified: @modified
+# Version: @version
+# Expires: 2 days
+# Website: https://kadantiscam.netlify.com/
+# Repository: https://github.com/PolishFiltersTeam/KADhosts
+# Based on: https://github.com/PolishFiltersTeam/KAD
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+#
+@URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/pseudonauka_fake_news.txt
