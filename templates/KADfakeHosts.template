@@ -1,5 +1,5 @@
-# Title: KADfake Hosts Edition
-! Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
+# Title: KADfake Hosts
+# Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
 # Last modified: @modified
 # Version: @version
 # Expires: 2 days
@@ -7,6 +7,14 @@
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
 # Based on: https://github.com/PolishFiltersTeam/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Uzywanie tej listy jest jednoznaczne ze swiadomoscia co do jej zawartosci, a tworcy nie ponosza odpowiedzialnosci za jakiekolwiek posrednie, bezposrednie, karne, specjalne, przypadkowe lub wynikowe szkody. Pobierajac, przegladajac albo korzystajac z KADfake Hosts, akceptujesz te warunki i licencje.
+#
+# Zrodla:
+# http://fakenews.pl/
+# https://www.totylkoteoria.pl/
+# https://demagog.org.pl
+# https://sprawdzam.afp.com
+#
 #
 #
 @URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/pseudonauka_fake_news.txt
