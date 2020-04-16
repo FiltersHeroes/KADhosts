@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
 # Last modified: Thu, 16 Apr 2020, 16:16 UTC+02
-# Version: 2020.4.16.1
+# Version: 2020.4.16.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -9211,9 +9211,12 @@
 0.0.0.0 dzieckoalert.waw.pl
 0.0.0.0 dziennikprasowy.pusiaweb.com
 0.0.0.0 echo-dnia.24.eu
+0.0.0.0 eporwanienatalki.pl
 0.0.0.0 eu.iconsumerstocksymbol.icu
 0.0.0.0 eu-click.eworldtrack.com
+0.0.0.0 e-polskaporwania.pl
 0.0.0.0 e-porwanienatalki.pl
+0.0.0.0 e-poszukiwananatalka.pl
 0.0.0.0 facebokznajomi.blogspot.com
 0.0.0.0 faktury3941.org
 0.0.0.0 faktypolska1.b-cdn.net
@@ -9250,6 +9253,9 @@
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 gw.firesub.pl
 0.0.0.0 historieludzkie1.online
+0.0.0.0 hosting2021623.online.pro
+0.0.0.0 hosting2024700.online.pro
+0.0.0.0 hosting2086464.online.pro
 0.0.0.0 hp.myway.com
 0.0.0.0 hwww.zweryfiikujdane.tk
 0.0.0.0 informacje24fakt.pusiaweb.com
@@ -9267,6 +9273,7 @@
 0.0.0.0 iporwaniedziecka24.net.pl
 0.0.0.0 iporwaniedziecka24.pl
 0.0.0.0 iporwaniedziecka24.waw.pl
+0.0.0.0 iposzukiwananatalka.pl
 0.0.0.0 j0yp.l3f.info
 0.0.0.0 jrly.l3f.info
 0.0.0.0 kaufland.gift-cards.co.pl
@@ -9286,6 +9293,7 @@
 0.0.0.0 onetporwanie.net.pl
 0.0.0.0 onetporwanie.online
 0.0.0.0 onetporwanie.pl
+0.0.0.0 onetposzukiwani.eu
 0.0.0.0 oplata3981.tpskp.com
 0.0.0.0 packza.dostawy24.com
 0.0.0.0 paczka.poczta-pay.com
@@ -9340,6 +9348,7 @@
 0.0.0.0 porwanienatalki.com.pl
 0.0.0.0 porwanienatalki.eu
 0.0.0.0 porwanienatalki.pl
+0.0.0.0 poszukiwanadziewczynka.eu
 0.0.0.0 poszukiwananatalka.eu
 0.0.0.0 poszukiwananatalka.net.pl
 0.0.0.0 poszukiwananatalka.online
@@ -9434,6 +9443,7 @@
 0.0.0.0 www.dzieckoalert.pl
 0.0.0.0 www.dzieckoalert.waw.pl
 0.0.0.0 www.dziennikprasowy.pusiaweb.com
+0.0.0.0 www.eporwanienatalki.pl
 0.0.0.0 www.eu.iconsumerstocksymbol.icu
 0.0.0.0 www.facebokznajomi.blogspot.com
 0.0.0.0 www.faktury3941.org
@@ -9448,6 +9458,9 @@
 0.0.0.0 www.go.bestmobiworld.com
 0.0.0.0 www.gw.firesub.pl
 0.0.0.0 www.historieludzkie1.online
+0.0.0.0 www.hosting2021623.online.pro
+0.0.0.0 www.hosting2024700.online.pro
+0.0.0.0 www.hosting2086464.online.pro
 0.0.0.0 www.hp.myway.com
 0.0.0.0 www.hwww.zweryfiikujdane.tk
 0.0.0.0 www.informacje24fakt.pusiaweb.com
@@ -9464,6 +9477,7 @@
 0.0.0.0 www.iporwaniedziecka24.net.pl
 0.0.0.0 www.iporwaniedziecka24.pl
 0.0.0.0 www.iporwaniedziecka24.waw.pl
+0.0.0.0 www.iposzukiwananatalka.pl
 0.0.0.0 www.j0yp.l3f.info
 0.0.0.0 www.jrly.l3f.info
 0.0.0.0 www.load9.nowosczdrowieporadyvlc.pl
@@ -9475,6 +9489,7 @@
 0.0.0.0 www.onetporwanie.net.pl
 0.0.0.0 www.onetporwanie.online
 0.0.0.0 www.onetporwanie.pl
+0.0.0.0 www.onetposzukiwani.eu
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
 0.0.0.0 www.ping.ublock.org
@@ -9500,6 +9515,7 @@
 0.0.0.0 www.porwanienatalki.com.pl
 0.0.0.0 www.porwanienatalki.eu
 0.0.0.0 www.porwanienatalki.pl
+0.0.0.0 www.poszukiwanadziewczynka.eu
 0.0.0.0 www.poszukiwananatalka.eu
 0.0.0.0 www.poszukiwananatalka.net.pl
 0.0.0.0 www.poszukiwananatalka.online
@@ -9577,7 +9593,9 @@
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
 0.0.0.0 www.echo-dnia.24.eu
 0.0.0.0 www.eu-click.eworldtrack.com
+0.0.0.0 www.e-polskaporwania.pl
 0.0.0.0 www.e-porwanienatalki.pl
+0.0.0.0 www.e-poszukiwananatalka.pl
 0.0.0.0 www.faktypolska1.b-cdn.net
 0.0.0.0 www.faktypolska2.b-cdn.net
 0.0.0.0 www.faktypolska3.b-cdn.net
