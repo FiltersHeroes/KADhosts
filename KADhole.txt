@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Mon, 20 Apr 2020, 00:01 UTC+02
-# Version: 2020.4.20.0
+# Last modified: Mon, 20 Apr 2020, 17:39 UTC+02
+# Version: 2020.4.20.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -26,6 +26,7 @@
 (^|\.)apple\..*\.top$
 (^|\.)app.*\.kromtech\.net$
 (^|\.)childalertfakt\..*$
+(^|\.)doonalermet.*\.live$
 (^|\.)dworzecfakt\..*$
 (^|\.)dworzecporwanie\..*$
 (^|\.)dzieckoalert\..*$
@@ -33,6 +34,7 @@
 (^|\.)e-polskaporwania\..*$
 (^|\.)e-porwanienatalki\..*$
 (^|\.)e-poszukiwananatalka\..*$
+(^|\.)e-poszukiwania\..*$
 (^|\.)facebook.*\.5v\.pl$
 (^|\.)faktury[0-9]+\.org$
 (^|\.)faktypolska.*\.b-cdn\.net$
@@ -66,6 +68,7 @@
 (^|\.)procars-shoppl.*\.com$
 (^|\.)sprnr.*\.net$
 (^|\.)superchance-forwin.*\.life$
+(^|\.)tvp-informacyjna.*\.eu$
 (^|\.)update\..*sf*\.online$
 (^|\.)wp\..*\.top$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
@@ -80,6 +83,8 @@
 (^|\.).*dworzeconline24\.*$
 (^|\.).*dworzecporwaniepl*\.*$
 (^|\.).*dworzecporwaniepl\.*$
+(^|\.).*uprowadzeniedworzec\.*$
+(^|\.).*uprowadzniezdworca\.*$
 (^|\.)[0-9]+platnosci\.online$
 (^|\.)[0-9]+platnosc\.online$
 #
