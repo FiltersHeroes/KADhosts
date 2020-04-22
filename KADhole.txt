@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Mon, 20 Apr 2020, 17:39 UTC+02
-# Version: 2020.4.20.1
+# Last modified: Wed, 22 Apr 2020, 18:28 UTC+02
+# Version: 2020.4.22.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -57,6 +57,7 @@
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)platnik.*\.online$
+(^|\.)poczta-polska24\..*$
 (^|\.)polskaporwania\..*$
 (^|\.)porwaniadzieci.*\.*$
 (^|\.)porwaniapolska\..*$
@@ -83,6 +84,10 @@
 (^|\.).*dworzeconline24\.*$
 (^|\.).*dworzecporwaniepl*\.*$
 (^|\.).*dworzecporwaniepl\.*$
+(^|\.).*porwaniapolska24*\.*$
+(^|\.).*porwaniapolska48\.*$
+(^|\.).*porwaniepolska24*\.*$
+(^|\.).*porwaniepolska48\.*$
 (^|\.).*uprowadzeniedworzec\.*$
 (^|\.).*uprowadzniezdworca\.*$
 (^|\.)[0-9]+platnosci\.online$
