@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS i wirusy.
-# Last modified: Mon, 27 Apr 2020, 17:06 UTC+02
-# Version: 2020.4.27.2
+# Last modified: Mon, 27 Apr 2020, 17:18 UTC+02
+# Version: 2020.4.27.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -9241,6 +9241,7 @@
 #
 #
 # Dodatki hosts
+0.0.0.0 
 0.0.0.0 2automatyczny-dozownik-mydla-pl.com
 0.0.0.0 2-login.alleqro-pl.choljai.info
 0.0.0.0 24platnosci.online
@@ -9261,10 +9262,7 @@
 0.0.0.0 alleqro-pl.choljai.info
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 api.myeforsa.pl
-0.0.0.0 apple.com-macos-clean-systems.live
 0.0.0.0 apple.com-mac-booster.live
-0.0.0.0 apple.com-repair.live
-0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-scan-mac.live
 0.0.0.0 apple.com-shield.live
 0.0.0.0 apple.com-shields-guard.live
@@ -9280,7 +9278,6 @@
 0.0.0.0 ce.winfreetoday.com
 0.0.0.0 childalertfakt.eu
 0.0.0.0 childalertfakt.online
-0.0.0.0 childalertfakt.pl
 0.0.0.0 childalertfakt.site
 0.0.0.0 chomikuj.best
 0.0.0.0 claimyourprizes16.life
@@ -9295,57 +9292,27 @@
 0.0.0.0 doonalermet8.live
 0.0.0.0 dotpay.pocztexpolska.eu
 0.0.0.0 download.apps.co.pl
-0.0.0.0 dworzecfakt.com.pl
 0.0.0.0 dworzecfakt.eu
 0.0.0.0 dworzecfakt.online
-0.0.0.0 dworzecfakt.pl
-0.0.0.0 dworzecfakt.waw.pl
-0.0.0.0 dworzeconline24.com.pl
 0.0.0.0 dworzeconline24.online
-0.0.0.0 dworzeconline24.pl
 0.0.0.0 dworzeconline24.site
-0.0.0.0 dworzeconline24.waw.pl
-0.0.0.0 dworzecporwanie.pl
-0.0.0.0 dworzecporwaniepl.com.pl
 0.0.0.0 dworzecporwaniepl.eu
-0.0.0.0 dworzecporwaniepl.net.pl
 0.0.0.0 dworzecporwaniepl.online
-0.0.0.0 dworzecporwaniepl.pl
 0.0.0.0 dworzecporwaniepl.site
-0.0.0.0 dworzecporwaniepl.waw.pl
-0.0.0.0 dworzecporwaniepl-24.pl
 0.0.0.0 dw.lp.eu.emobi-sys.com
-0.0.0.0 dzieckoalert.com.pl
-0.0.0.0 dzieckoalert.net.pl
-0.0.0.0 dzieckoalert.pl
-0.0.0.0 dzieckoalert.waw.pl
 0.0.0.0 dziennikprasowy.pusiaweb.com
 0.0.0.0 echo-dnia.24.eu
-0.0.0.0 edworzeconline24.pl
-0.0.0.0 edworzecporwaniepl.pl
 0.0.0.0 eiporwania.pl
 0.0.0.0 eporwaniedziecka.com.pl
 0.0.0.0 eporwaniedziecka.net.pl
 0.0.0.0 eporwaniedziecka.pl
 0.0.0.0 eporwaniedziecka.site
 0.0.0.0 eporwaniedziecka.waw.pl
-0.0.0.0 eporwaniepolska.pl
-0.0.0.0 eporwaniepolska48.pl
 0.0.0.0 eu.iconsumerstocksymbol.icu
-0.0.0.0 euprowadzeniedworzec.pl
-0.0.0.0 euprowadzniezdworca.pl
 0.0.0.0 eu-click.eworldtrack.com
-0.0.0.0 e-dworzeconline24.pl
-0.0.0.0 e-dworzecporwaniepl.pl
 0.0.0.0 e-eporwaniedziecka.pl
-0.0.0.0 e-porwaniepolska.pl
-0.0.0.0 e-porwaniepolska48.pl
-0.0.0.0 e-poszukiwania.com.pl
 0.0.0.0 e-poszukiwania.eu
-0.0.0.0 e-poszukiwania.pl
 0.0.0.0 e-poszukiwania.site
-0.0.0.0 e-uprowadzeniedworzec.pl
-0.0.0.0 e-uprowadzniezdworca.pl
 0.0.0.0 facebokznajomi.blogspot.com
 0.0.0.0 facebook-com-pl-profile.7m.pl
 0.0.0.0 facebook-login.5v.pl
@@ -9395,7 +9362,6 @@
 0.0.0.0 hosting2086464.online.pro
 0.0.0.0 hp.myway.com
 0.0.0.0 hwww.zweryfiikujdane.tk
-0.0.0.0 idworzecporwaniepl.pl
 0.0.0.0 informacje24fakt.pusiaweb.com
 0.0.0.0 informacje-fakty.pusiaweb.com
 0.0.0.0 info-polska.24.eu
@@ -9410,7 +9376,6 @@
 0.0.0.0 iporwania.pl
 0.0.0.0 iporwania.site
 0.0.0.0 iporwania.waw.pl
-0.0.0.0 iporwaniapolska24.pl
 0.0.0.0 iporwanie.com.pl
 0.0.0.0 iporwanie.eu
 0.0.0.0 iporwanie.net.pl
@@ -9420,9 +9385,7 @@
 0.0.0.0 iporwanie24.eu
 0.0.0.0 iporwanie24.pl
 0.0.0.0 iposzukiwananatalka.pl
-0.0.0.0 i-dworzecporwaniepl.pl
 0.0.0.0 jquerysxur6.live
-0.0.0.0 jrly.l3f.info
 0.0.0.0 karty-biedronkowe.24.eu
 0.0.0.0 kasia-czat.24.eu
 0.0.0.0 kaufland.gift-cards.co.pl
@@ -9451,7 +9414,6 @@
 0.0.0.0 odbieramy-karty.24.eu
 0.0.0.0 odzyskajsnapy.blogspot.com
 0.0.0.0 ogladaj-foteczki.pusiaweb.com
-0.0.0.0 onetporwanie.com.pl
 0.0.0.0 onetporwanie.net.pl
 0.0.0.0 onetporwanie.online
 0.0.0.0 onetporwanie.pl
@@ -9461,6 +9423,7 @@
 0.0.0.0 paczka.poczta-pay.com
 0.0.0.0 pakiety-lte-5gb.blogspot.com
 0.0.0.0 pakiety-pokemon-go.blogspot.com
+0.0.0.0 pay.pocztapolska24.com
 0.0.0.0 pay.express-pocztex.com
 0.0.0.0 pay.e-kurier24.net
 0.0.0.0 ping.ublock.org
@@ -9502,25 +9465,11 @@
 0.0.0.0 pomoc.sie-pomaga.net
 0.0.0.0 portalrandkowy.c.pl
 0.0.0.0 porwaniadzieci.eu
-0.0.0.0 porwaniapolska.com.pl
-0.0.0.0 porwaniapolska24.com.pl
-0.0.0.0 porwaniapolska24.net.pl
-0.0.0.0 porwaniapolska24.pl
-0.0.0.0 porwaniapolska24.waw.pl
-0.0.0.0 porwaniapolska24online.pl
 0.0.0.0 porwaniedziecki24.eu
 0.0.0.0 porwaniedziecki24.net.pl
 0.0.0.0 porwaniedziecki24.pl
 0.0.0.0 porwanienatalki.eu
 0.0.0.0 porwanienatalki.online
-0.0.0.0 porwaniepolska.com.pl
-0.0.0.0 porwaniepolska.net.pl
-0.0.0.0 porwaniepolska.pl
-0.0.0.0 porwaniepolska.waw.pl
-0.0.0.0 porwaniepolska48.com.pl
-0.0.0.0 porwaniepolska48.net.pl
-0.0.0.0 porwaniepolska48.pl
-0.0.0.0 porwaniepolska48.waw.pl
 0.0.0.0 poszukiwanadziewczynka.eu
 0.0.0.0 poszukiwananatalka.eu
 0.0.0.0 poszukiwananatalka.net.pl
@@ -9540,7 +9489,6 @@
 0.0.0.0 promotions.monthlywinners.com
 0.0.0.0 przechwyconeefotki.pusiaweb.com
 0.0.0.0 przechwyconefotki24.pusiaweb.com
-0.0.0.0 przechwycone-zdjecia.pl
 0.0.0.0 przechwycone-zdjecia.pusiaweb.com
 0.0.0.0 przechwycone-zdjecia-fotki.pusiaweb.com
 0.0.0.0 publisher.lead.network
@@ -9560,14 +9508,6 @@
 0.0.0.0 training.sitegiant.info
 0.0.0.0 tvp-informacyjna1.eu
 0.0.0.0 twoja-historia.24.eu
-0.0.0.0 uprowadzeniedworzec.com.pl
-0.0.0.0 uprowadzeniedworzec.net.pl
-0.0.0.0 uprowadzeniedworzec.pl
-0.0.0.0 uprowadzeniedworzec.waw.pl
-0.0.0.0 uprowadzniezdworca.com.pl
-0.0.0.0 uprowadzniezdworca.net.pl
-0.0.0.0 uprowadzniezdworca.pl
-0.0.0.0 uprowadzniezdworca.waw.pl
 0.0.0.0 ver.braintest4you.com
 0.0.0.0 vip.fortunatefellow.xyz
 0.0.0.0 vip.fortunatetime.xyz
@@ -9586,6 +9526,7 @@
 0.0.0.0 ww1.shinden-anime.info
 0.0.0.0 ww2.xn--30986-udb.biz
 0.0.0.0 ww7.openwrt.com
+0.0.0.0 www.
 0.0.0.0 www.ace.jamba.pl
 0.0.0.0 www.ace.jamster.pl
 0.0.0.0 www.adpro.futurenet.club
@@ -9605,7 +9546,6 @@
 0.0.0.0 www.ce.winfreetoday.com
 0.0.0.0 www.childalertfakt.eu
 0.0.0.0 www.childalertfakt.online
-0.0.0.0 www.childalertfakt.pl
 0.0.0.0 www.childalertfakt.site
 0.0.0.0 www.chomikuj.best
 0.0.0.0 www.claimyourprizes16.life
@@ -9618,41 +9558,20 @@
 0.0.0.0 www.doonalermet8.live
 0.0.0.0 www.dotpay.pocztexpolska.eu
 0.0.0.0 www.download.apps.co.pl
-0.0.0.0 www.dworzecfakt.com.pl
 0.0.0.0 www.dworzecfakt.eu
 0.0.0.0 www.dworzecfakt.online
-0.0.0.0 www.dworzecfakt.pl
-0.0.0.0 www.dworzecfakt.waw.pl
-0.0.0.0 www.dworzeconline24.com.pl
 0.0.0.0 www.dworzeconline24.online
-0.0.0.0 www.dworzeconline24.pl
 0.0.0.0 www.dworzeconline24.site
-0.0.0.0 www.dworzeconline24.waw.pl
-0.0.0.0 www.dworzecporwaniepl.com.pl
 0.0.0.0 www.dworzecporwaniepl.eu
-0.0.0.0 www.dworzecporwaniepl.net.pl
 0.0.0.0 www.dworzecporwaniepl.online
-0.0.0.0 www.dworzecporwaniepl.pl
 0.0.0.0 www.dworzecporwaniepl.site
-0.0.0.0 www.dworzecporwaniepl.waw.pl
-0.0.0.0 www.dworzecporwanie.pl
-0.0.0.0 www.dzieckoalert.com.pl
-0.0.0.0 www.dzieckoalert.net.pl
-0.0.0.0 www.dzieckoalert.pl
-0.0.0.0 www.dzieckoalert.waw.pl
 0.0.0.0 www.dziennikprasowy.pusiaweb.com
-0.0.0.0 www.edworzeconline24.pl
-0.0.0.0 www.edworzecporwaniepl.pl
 0.0.0.0 www.eiporwania.pl
 0.0.0.0 www.eporwaniedziecka.com.pl
 0.0.0.0 www.eporwaniedziecka.net.pl
 0.0.0.0 www.eporwaniedziecka.pl
 0.0.0.0 www.eporwaniedziecka.site
 0.0.0.0 www.eporwaniedziecka.waw.pl
-0.0.0.0 www.eporwaniepolska48.pl
-0.0.0.0 www.eporwaniepolska.pl
-0.0.0.0 www.euprowadzeniedworzec.pl
-0.0.0.0 www.euprowadzniezdworca.pl
 0.0.0.0 www.eu.iconsumerstocksymbol.icu
 0.0.0.0 www.facebokznajomi.blogspot.com
 0.0.0.0 www.faktury3941.org
@@ -9674,14 +9593,12 @@
 0.0.0.0 www.hosting2086464.online.pro
 0.0.0.0 www.hp.myway.com
 0.0.0.0 www.hwww.zweryfiikujdane.tk
-0.0.0.0 www.idworzecporwaniepl.pl
 0.0.0.0 www.informacje24fakt.pusiaweb.com
 0.0.0.0 www.init.epoczta247.com
 0.0.0.0 www.init.plpocztex.net
 0.0.0.0 www.init.polskapaczka24.net
 0.0.0.0 www.ionetporwanie.online
 0.0.0.0 www.ionetporwanie.site
-0.0.0.0 www.iporwaniapolska24.pl
 0.0.0.0 www.iporwania.com.pl
 0.0.0.0 www.iporwania.eu
 0.0.0.0 www.iporwania.net.pl
@@ -9698,7 +9615,6 @@
 0.0.0.0 www.iporwanie.waw.pl
 0.0.0.0 www.iposzukiwananatalka.pl
 0.0.0.0 www.jquerysxur6.live
-0.0.0.0 www.jrly.l3f.info
 0.0.0.0 www.load9.nowosczdrowieporadyvlc.pl
 0.0.0.0 www.lokalneinformacje1.vot.pl
 0.0.0.0 www.millensbank.fun
@@ -9712,13 +9628,13 @@
 0.0.0.0 www.netflix.apps.co.pl
 0.0.0.0 www.nigthyoustr16.live
 0.0.0.0 www.odzyskajsnapy.blogspot.com
-0.0.0.0 www.onetporwanie.com.pl
 0.0.0.0 www.onetporwanie.net.pl
 0.0.0.0 www.onetporwanie.online
 0.0.0.0 www.onetporwanie.pl
 0.0.0.0 www.onetposzukiwani.eu
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
+0.0.0.0 www.pay.pocztapolska24.com
 0.0.0.0 www.ping.ublock.org
 0.0.0.0 www.platnik247.online
 0.0.0.0 www.platnosc.podatkigov.net
@@ -9733,25 +9649,11 @@
 0.0.0.0 www.pomagajmypl.site
 0.0.0.0 www.portalrandkowy.c.pl
 0.0.0.0 www.porwaniadzieci.eu
-0.0.0.0 www.porwaniapolska24online.pl
-0.0.0.0 www.porwaniapolska24.com.pl
-0.0.0.0 www.porwaniapolska24.net.pl
-0.0.0.0 www.porwaniapolska24.pl
-0.0.0.0 www.porwaniapolska24.waw.pl
-0.0.0.0 www.porwaniapolska.com.pl
 0.0.0.0 www.porwaniedziecki24.eu
 0.0.0.0 www.porwaniedziecki24.net.pl
 0.0.0.0 www.porwaniedziecki24.pl
 0.0.0.0 www.porwanienatalki.eu
 0.0.0.0 www.porwanienatalki.online
-0.0.0.0 www.porwaniepolska48.com.pl
-0.0.0.0 www.porwaniepolska48.net.pl
-0.0.0.0 www.porwaniepolska48.pl
-0.0.0.0 www.porwaniepolska48.waw.pl
-0.0.0.0 www.porwaniepolska.com.pl
-0.0.0.0 www.porwaniepolska.net.pl
-0.0.0.0 www.porwaniepolska.pl
-0.0.0.0 www.porwaniepolska.waw.pl
 0.0.0.0 www.poszukiwanadziewczynka.eu
 0.0.0.0 www.poszukiwananatalka.eu
 0.0.0.0 www.poszukiwananatalka.net.pl
@@ -9778,14 +9680,6 @@
 0.0.0.0 www.support2.trocable.ga
 0.0.0.0 www.thecryptogenius.com
 0.0.0.0 www.training.sitegiant.info
-0.0.0.0 www.uprowadzeniedworzec.com.pl
-0.0.0.0 www.uprowadzeniedworzec.net.pl
-0.0.0.0 www.uprowadzeniedworzec.pl
-0.0.0.0 www.uprowadzeniedworzec.waw.pl
-0.0.0.0 www.uprowadzniezdworca.com.pl
-0.0.0.0 www.uprowadzniezdworca.net.pl
-0.0.0.0 www.uprowadzniezdworca.pl
-0.0.0.0 www.uprowadzniezdworca.waw.pl
 0.0.0.0 www.ver.braintest4you.com
 0.0.0.0 www.vip.fortunatefellow.xyz
 0.0.0.0 www.vip.fortunatetime.xyz
@@ -9816,10 +9710,7 @@
 0.0.0.0 www.allegro.pl-nowe-regulamini7913.uhu362.com
 0.0.0.0 www.allegro.pl-oferta.ml
 0.0.0.0 www.alleqro-pl.choljai.info
-0.0.0.0 www.apple.com-macos-clean-systems.live
 0.0.0.0 www.apple.com-mac-booster.live
-0.0.0.0 www.apple.com-repair.live
-0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-scan-mac.live
 0.0.0.0 www.apple.com-shield.live
 0.0.0.0 www.apple.com-shields-guard.live
@@ -9830,21 +9721,12 @@
 0.0.0.0 www.buzz.mobiapp-games.com
 0.0.0.0 www.czas-na-fb.blogspot.com
 0.0.0.0 www.darmowe-bony.24.eu
-0.0.0.0 www.dworzecporwaniepl-24.pl
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
 0.0.0.0 www.echo-dnia.24.eu
 0.0.0.0 www.eu-click.eworldtrack.com
-0.0.0.0 www.e-dworzeconline24.pl
-0.0.0.0 www.e-dworzecporwaniepl.pl
 0.0.0.0 www.e-eporwaniedziecka.pl
-0.0.0.0 www.e-porwaniepolska.pl
-0.0.0.0 www.e-porwaniepolska48.pl
-0.0.0.0 www.e-poszukiwania.com.pl
 0.0.0.0 www.e-poszukiwania.eu
-0.0.0.0 www.e-poszukiwania.pl
 0.0.0.0 www.e-poszukiwania.site
-0.0.0.0 www.e-uprowadzeniedworzec.pl
-0.0.0.0 www.e-uprowadzniezdworca.pl
 0.0.0.0 www.facebook-com-pl-profile.7m.pl
 0.0.0.0 www.facebook-login.5v.pl
 0.0.0.0 www.facebook-profile.5v.pl
@@ -9876,7 +9758,6 @@
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.informacje-fakty.pusiaweb.com
 0.0.0.0 www.info-polska.24.eu
-0.0.0.0 www.i-dworzecporwaniepl.pl
 0.0.0.0 www.karty-biedronkowe.24.eu
 0.0.0.0 www.kasia-czat.24.eu
 0.0.0.0 www.kaufland.gift-cards.co.pl
@@ -9907,7 +9788,6 @@
 0.0.0.0 www.premiumlink.7tools.eu
 0.0.0.0 www.procars-shoppl1.com
 0.0.0.0 www.promocjezkauflandu.24.eu
-0.0.0.0 www.przechwycone-zdjecia.pl
 0.0.0.0 www.przechwycone-zdjecia.pusiaweb.com
 0.0.0.0 www.przechwycone-zdjecia-fotki.pusiaweb.com
 0.0.0.0 www.samsung-produkcja.24.eu
