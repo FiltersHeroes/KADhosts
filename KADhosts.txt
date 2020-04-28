@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i fałszywe sklepy internetowe.
-# Last modified: Tue, 28 Apr 2020, 07:51 UTC+02
-# Version: 2020.4.28.1
+# Last modified: Tue, 28 Apr 2020, 23:03 UTC+02
+# Version: 2020.4.28.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6481,6 +6481,7 @@
 0.0.0.0 amariceo.duckdns.org
 0.0.0.0 amonitalia.it
 0.0.0.0 anabim.com
+0.0.0.0 andekkurier.org
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 android-cleaner.net
 0.0.0.0 anetakurier.info
@@ -6534,6 +6535,7 @@
 0.0.0.0 blog.lalalalala.club
 0.0.0.0 blog.medkad.com
 0.0.0.0 bmillenhome.com
+0.0.0.0 bokpgnig.pl
 0.0.0.0 bondagetrip.com
 0.0.0.0 bondbengals.info
 0.0.0.0 bonus.gamblingz.net
@@ -6645,7 +6647,7 @@
 0.0.0.0 domniespodzianek.com
 0.0.0.0 doski.by
 0.0.0.0 dostawaca24.online
-0.0.0.0 dostawy24.com 
+0.0.0.0 dostawy24.com
 0.0.0.0 dotabet100.com
 0.0.0.0 dotabet103.com
 0.0.0.0 download.inboxace.com
@@ -6701,6 +6703,7 @@
 0.0.0.0 epgnig.pl
 0.0.0.0 epiatnosc.com
 0.0.0.0 epoczta247.com
+0.0.0.0 epocztapolska.pl
 0.0.0.0 epocztapolska24.pl
 0.0.0.0 ergjt.bxugac.live
 0.0.0.0 ericius.eu
@@ -6716,6 +6719,7 @@
 0.0.0.0 express-pocztex.com
 0.0.0.0 ex-torrentycom.5v.pl
 0.0.0.0 eyupp.com
+0.0.0.0 e-bokpgnig.pl
 0.0.0.0 e-filmy24.pl
 0.0.0.0 e-koronawirusnews.pl
 0.0.0.0 e-kurier24.net
@@ -6915,6 +6919,7 @@
 0.0.0.0 hotnews24h.pl
 0.0.0.0 hpaudiobooksfree.com
 0.0.0.0 hrekcustomer.icu
+0.0.0.0 ibokpgnig.pl
 0.0.0.0 icleanammunitio.xyz
 0.0.0.0 iconsumerstocksymbol.icu
 0.0.0.0 idealnafigura.com
@@ -6924,6 +6929,7 @@
 0.0.0.0 industry-deals.com
 0.0.0.0 inesmanila.com
 0.0.0.0 info24-warszawa.pl
+0.0.0.0 infogazeta.hekko24.pl
 0.0.0.0 infomiasto.hekko24.pl
 0.0.0.0 infomiasto24.pl
 0.0.0.0 infonews24.com.pl
@@ -7309,9 +7315,8 @@
 0.0.0.0 pobierz-pliczek.eu
 0.0.0.0 pobiieerz-fotografiee.eu
 0.0.0.0 pocztapolska.eu
-0.0.0.0 pocztapolska24.com
-0.0.0.0 pocztapolska48.net
 0.0.0.0 poczta-interia.com
+0.0.0.0 poczta-interia.net
 0.0.0.0 poczta-login-neostrada.com
 0.0.0.0 poczta-pay.com
 0.0.0.0 poczta-polska.net
@@ -7711,6 +7716,7 @@
 0.0.0.0 www.amariceo.duckdns.org
 0.0.0.0 www.amonitalia.it
 0.0.0.0 www.anabim.com
+0.0.0.0 www.andekkurier.org
 0.0.0.0 www.androidsecurityplus.com
 0.0.0.0 www.anetakurier.info
 0.0.0.0 www.anglekeys.warzonedns.com
@@ -7758,6 +7764,7 @@
 0.0.0.0 www.blog.lalalalala.club
 0.0.0.0 www.blog.medkad.com
 0.0.0.0 www.bmillenhome.com
+0.0.0.0 www.bokpgnig.pl
 0.0.0.0 www.bondagetrip.com
 0.0.0.0 www.bondbengals.info
 0.0.0.0 www.bonus.gamblingz.net
@@ -7844,6 +7851,7 @@
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.doski.by
 0.0.0.0 www.dostawaca24.online
+0.0.0.0 www.dostawy24.com
 0.0.0.0 www.dotabet100.com
 0.0.0.0 www.dotabet103.com
 0.0.0.0 www.downloadfiles.pl
@@ -7896,6 +7904,7 @@
 0.0.0.0 www.epiatnosc.com
 0.0.0.0 www.epoczta247.com
 0.0.0.0 www.epocztapolska24.pl
+0.0.0.0 www.epocztapolska.pl
 0.0.0.0 www.ergjt.bxugac.live
 0.0.0.0 www.ericius.eu
 0.0.0.0 www.eroutks.co
@@ -8049,12 +8058,14 @@
 0.0.0.0 www.hotnews24h.pl
 0.0.0.0 www.hpaudiobooksfree.com
 0.0.0.0 www.hrekcustomer.icu
+0.0.0.0 www.ibokpgnig.pl
 0.0.0.0 www.icleanammunitio.xyz
 0.0.0.0 www.iconsumerstocksymbol.icu
 0.0.0.0 www.idealnafigura.com
 0.0.0.0 www.ikoronawirusnews.pl
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.inesmanila.com
+0.0.0.0 www.infogazeta.hekko24.pl
 0.0.0.0 www.infomiasto24.pl
 0.0.0.0 www.infomiasto.hekko24.pl
 0.0.0.0 www.infonews24.com.pl
@@ -8338,8 +8349,6 @@
 0.0.0.0 www.pobierz24.pl
 0.0.0.0 www.pobierzgo.pl
 0.0.0.0 www.pobierzpliki.pl
-0.0.0.0 www.pocztapolska24.com
-0.0.0.0 www.pocztapolska48.net
 0.0.0.0 www.pocztapolska.eu
 0.0.0.0 www.pocztexpolska24.com
 0.0.0.0 www.pocztexpolska.eu
@@ -8702,7 +8711,6 @@
 0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 www.dobry-fryzjer.lublin.lu
 0.0.0.0 www.doladowania-telefonu.pl
-0.0.0.0 www.dostawy24.com 
 0.0.0.0 www.downloads-mobile.com
 0.0.0.0 www.easy-service.org
 0.0.0.0 www.ebd-cda.pl
@@ -8710,6 +8718,7 @@
 0.0.0.0 www.express-dhl.com
 0.0.0.0 www.express-pocztex.com
 0.0.0.0 www.ex-torrentycom.5v.pl
+0.0.0.0 www.e-bokpgnig.pl
 0.0.0.0 www.e-filmy24.pl
 0.0.0.0 www.e-koronawirusnews.pl
 0.0.0.0 www.e-kurier24.net
@@ -8865,6 +8874,7 @@
 0.0.0.0 www.pobierz-pliczek.eu
 0.0.0.0 www.pobiieerz-fotografiee.eu
 0.0.0.0 www.poczta-interia.com
+0.0.0.0 www.poczta-interia.net
 0.0.0.0 www.poczta-login-neostrada.com
 0.0.0.0 www.poczta-pay.com
 0.0.0.0 www.poczta-polska.net
@@ -9198,6 +9208,7 @@
 0.0.0.0 deutschepost.de.deliveryexpress.today
 0.0.0.0 dev.apps.co.pl
 0.0.0.0 doonalermet8.live
+0.0.0.0 dotpay.pocztapolska48.com
 0.0.0.0 dotpay.pocztexpolska.eu
 0.0.0.0 download.apps.co.pl
 0.0.0.0 dworzecfakt.eu
@@ -9275,6 +9286,7 @@
 0.0.0.0 informacje24fakt.pusiaweb.com
 0.0.0.0 informacje-fakty.pusiaweb.com
 0.0.0.0 info-polska.24.eu
+0.0.0.0 info.poczta-interia.net
 0.0.0.0 init.epoczta247.com
 0.0.0.0 init.plpocztex.net
 0.0.0.0 init.polskapaczka24.net
@@ -9336,8 +9348,10 @@
 0.0.0.0 pakiety-lte-5gb.blogspot.com
 0.0.0.0 pakiety-pokemon-go.blogspot.com
 0.0.0.0 pay.pocztapolska24.com
+0.0.0.0 pay.pocztapolska24.org
 0.0.0.0 pay.express-pocztex.com
 0.0.0.0 pay.e-kurier24.net
+0.0.0.0 pay.poczta-polska24.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pl.btcprofitnow.website
 0.0.0.0 pl.centrumofert.com
@@ -9366,8 +9380,12 @@
 0.0.0.0 pl.health-line.me
 0.0.0.0 pl.mobile-redirection.com
 0.0.0.0 pl.slimg0ji-berry.com
+0.0.0.0 pocztapolska24.com
+0.0.0.0 pocztapolska24.org
+0.0.0.0 pocztapolska48.net
 0.0.0.0 poczta-polska24.eu
 0.0.0.0 poczta-polska24.net
+0.0.0.0 poczta-polska48.eu
 0.0.0.0 poland.calivita.com
 0.0.0.0 poland.bit-revolution.world
 0.0.0.0 polskaporwania.eu
@@ -9473,6 +9491,7 @@
 0.0.0.0 www.deutschepost.de.deliveryexpress.today
 0.0.0.0 www.dev.apps.co.pl
 0.0.0.0 www.doonalermet8.live
+0.0.0.0 www.dotpay.pocztapolska48.com
 0.0.0.0 www.dotpay.pocztexpolska.eu
 0.0.0.0 www.download.apps.co.pl
 0.0.0.0 www.dworzecfakt.eu
@@ -9553,6 +9572,7 @@
 0.0.0.0 www.oplata3981.tpskp.com
 0.0.0.0 www.packza.dostawy24.com
 0.0.0.0 www.pay.pocztapolska24.com
+0.0.0.0 www.pay.pocztapolska24.org
 0.0.0.0 www.ping.ublock.org
 0.0.0.0 www.platnik247.online
 0.0.0.0 www.platnosc.podatkigov.net
@@ -9560,6 +9580,9 @@
 0.0.0.0 www.play.appiq.mobi
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.play.mobsfun.net
+0.0.0.0 www.pocztapolska24.com
+0.0.0.0 www.pocztapolska24.org
+0.0.0.0 www.pocztapolska48.net
 0.0.0.0 www.poland.calivita.com
 0.0.0.0 www.polskaporwania.eu
 0.0.0.0 www.polskaporwanie.eu
@@ -9624,6 +9647,9 @@
 0.0.0.0 www.zalukaj.ws
 0.0.0.0 www.zdjecienago2.c.pl
 0.0.0.0 www.zebywybielanie.c.pl
+0.0.0.0 www.zgwalconadziewczyna.eu
+0.0.0.0 www.zgwalconadziewczyna.online
+0.0.0.0 www.zgwalconadziewczyna.site
 0.0.0.0 www.zmienkolory.blogspot.com
 0.0.0.0 www.2automatyczny-dozownik-mydla-pl.com
 0.0.0.0 www.2-login.alleqro-pl.choljai.info
@@ -9684,6 +9710,7 @@
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.informacje-fakty.pusiaweb.com
 0.0.0.0 www.info-polska.24.eu
+0.0.0.0 www.info.poczta-interia.net
 0.0.0.0 www.karty-biedronkowe.24.eu
 0.0.0.0 www.kasia-czat.24.eu
 0.0.0.0 www.kaufland.gift-cards.co.pl
@@ -9705,11 +9732,13 @@
 0.0.0.0 www.pakiety-pokemon-go.blogspot.com
 0.0.0.0 www.pay.express-pocztex.com
 0.0.0.0 www.pay.e-kurier24.net
+0.0.0.0 www.pay.poczta-polska24.com
 0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.platnosc.twoj-kurier.com
 0.0.0.0 www.plf.chanceto-start.info
 0.0.0.0 www.poczta-polska24.eu
 0.0.0.0 www.poczta-polska24.net
+0.0.0.0 www.poczta-polska48.eu
 0.0.0.0 www.poland.bit-revolution.world
 0.0.0.0 www.pomoc.sie-pomaga.net
 0.0.0.0 www.premiumlink.7tools.eu
@@ -9759,6 +9788,9 @@
 0.0.0.0 zdjecienago2.c.pl
 0.0.0.0 zdjecie-facebook-zdj3425jeio.dkonto.pl
 0.0.0.0 zebywybielanie.c.pl
+0.0.0.0 zgwalconadziewczyna.eu
+0.0.0.0 zgwalconadziewczyna.online
+0.0.0.0 zgwalconadziewczyna.site
 0.0.0.0 zmienkolory.blogspot.com
 #
 #
