@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.11
+# v2.12
 
 # MIT License
 
-# Copyright (c) 2019 Polish Filters Team
+# Copyright (c) 2020 Polish Filters Team
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -118,7 +118,7 @@ for i in "$@"; do
     for (( n=1; n<=END_NWL; n++ ))
     do
         SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@NWLinclude \K.*' "$FINAL").txt
-        grep -o '\||.*^$' "$SECTION" > "$SECTION.temp"
+        grep -o '^||.*^$' "$SECTION" > "$SECTION.temp"
         sed -e '0,/^@NWLinclude/!b; /@NWLinclude/{ r '"${SECTION}.temp"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|[|][|]|@@|" "$TEMPORARY"
         sed -i 's/[\^]//g' "$TEMPORARY"
@@ -133,8 +133,8 @@ for i in "$@"; do
     for (( n=1; n<=END_BNWL; n++ ))
     do
         SECTION=${SECTIONS_DIR}/$(grep -oP -m 1 '@BNWLinclude \K.*' "$FINAL").txt
-        grep -o '\||.*^$' "$SECTION" > "$SECTION.temp"
-        grep -o '\||.*^$all$' "$SECTION" >> "$SECTION.temp"
+        grep -o '^||.*^$' "$SECTION" > "$SECTION.temp"
+        grep -o '^||.*^$all$' "$SECTION" >> "$SECTION.temp"
         sed -e '0,/^@BNWLinclude/!b; /@BNWLinclude/{ r '"${SECTION}.temp"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|\$all$|\$all,badfilter|" "$TEMPORARY"
         sed -i "s|\^$|\^\$badfilter|" "$TEMPORARY"
@@ -188,7 +188,7 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
-        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
         sed -e '0,/^@URLNWLinclude/!b; /@URLNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|[|][|]|@@|" "$TEMPORARY"
         sed -i 's/[\^]//g' "$TEMPORARY"
@@ -207,8 +207,8 @@ for i in "$@"; do
         EXTERNAL_TEMP=$MAIN_PATH/external.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
-        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
-        grep -o '\||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNAL_TEMP.2"
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNAL_TEMP.2"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNAL_TEMP.2"
         sed -e '0,/^@URLBNWLinclude/!b; /@URLBNWLinclude/{ r '"$EXTERNAL_TEMP.2"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         sed -i "s|\$all$|\$all,badfilter|" "$TEMPORARY"
         sed -i "s|\^$|\^\$badfilter|" "$TEMPORARY"
@@ -290,9 +290,9 @@ for i in "$@"; do
     do
         HOSTS_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@HOSTSinclude \K.*' "$FINAL").txt
         HOSTS_TEMP=$SECTIONS_DIR/hosts.temp
-        grep -o '\||.*^$' "$HOSTS_FILE" > "$HOSTS_TEMP"
-        grep -o '\0.0.0.0.*' "$HOSTS_FILE" >> "$HOSTS_TEMP"
-        grep -o '\||.*^$all$' "$HOSTS_FILE" >> "$HOSTS_TEMP"
+        grep -o '^||.*^$' "$HOSTS_FILE" > "$HOSTS_TEMP"
+        grep -o '^0.0.0.0.*' "$HOSTS_FILE" >> "$HOSTS_TEMP"
+        grep -o '^||.*^$all$' "$HOSTS_FILE" >> "$HOSTS_TEMP"
         convertToHosts "$HOSTS_TEMP"
         if [ -f "$HOSTS_TEMP.2" ]
         then
@@ -320,8 +320,8 @@ for i in "$@"; do
         EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
-        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
-        grep -o '\||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
         convertToHosts "$EXTERNALHOSTS_TEMP"
         if [ -f "$EXTERNALHOSTS_TEMP.2" ]
         then
@@ -355,8 +355,8 @@ for i in "$@"; do
         revertWhenDownloadError
         externalCleanup
         sort -u -o "$EXTERNAL_TEMP" "$EXTERNAL_TEMP"
-        grep -o '\||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
-        grep -o '\||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
         convertToHosts "$EXTERNALHOSTS_TEMP"
         if [ -f "$EXTERNALHOSTS_TEMP.2" ]
         then
@@ -364,9 +364,9 @@ for i in "$@"; do
             mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
         fi
         HOSTS_TEMP=$SECTIONS_DIR/hosts.temp
-        grep -o '\||.*^$' "$LOCAL" > "$HOSTS_TEMP"
-        grep -o '\0.0.0.0.*' "$LOCAL" >> "$HOSTS_TEMP"
-        grep -o '\||.*^$all$' "$LOCAL" >> "$HOSTS_TEMP"
+        grep -o '^||.*^$' "$LOCAL" > "$HOSTS_TEMP"
+        grep -o '^0.0.0.0.*' "$LOCAL" >> "$HOSTS_TEMP"
+        grep -o '^||.*^$all$' "$LOCAL" >> "$HOSTS_TEMP"
         convertToHosts "$HOSTS_TEMP"
         if [ -f "$HOSTS_TEMP.2" ]
         then
@@ -418,8 +418,8 @@ for i in "$@"; do
     do
         PH_FILE=${SECTIONS_DIR}/$(grep -oP -m 1 '@PHinclude \K.*' "$FINAL").txt
         PH_TEMP=$SECTIONS_DIR/ph.temp
-        grep -o '\||.*\*.*^$' "$PH_FILE" > "$PH_TEMP"
-        grep -o '\||.*^$all$' "$PH_FILE" > "$PH_TEMP"
+        grep -o '^||.*\*.*^$' "$PH_FILE" > "$PH_TEMP"
+        grep -o '^||.*^$all$' "$PH_FILE" > "$PH_TEMP"
         convertToPihole "$PH_TEMP"
         sort -uV -o "$PH_TEMP" "$PH_TEMP"
         sed -e '0,/^@PHinclude/!b; /@PHinclude/{ r '"$PH_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
@@ -571,7 +571,8 @@ for i in "$@"; do
 
         # Commitowanie zmienionych plików
         if [ "$CI" = "true" ] ; then
-            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]"
+            commit_desc=$(grep -oP -m 1 '@commitDesc \K.*' "$CONFIG")
+            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "${commit_desc} [ci skip]"
         else
             printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
             read -r extended_desc
