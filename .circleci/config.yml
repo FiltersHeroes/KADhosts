@@ -5,7 +5,7 @@ jobs:
     - image: polishfiltersteam/vichs_image:latest
     steps:
     - checkout
-    - run: ./scripts/VICHS.sh KADhosts.txt KADhosts_without_controversies.txt KADhole.txt KADfakeHosts.txt
+    - run: ./scripts/VICHS.sh KADhosts.txt KADhosts_without_controversies.txt KADhole.txt KADfakeHosts.txt KadhostsOnline.txt
 workflows:
   version: 2
   workflow:

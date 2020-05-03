@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.12
+# v2.13
 
 # MIT License
 
@@ -339,6 +339,47 @@ for i in "$@"; do
         fi
     done
 
+    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na hosts, pobrane ze źródeł zewnętrznych i wydrębnione tylko te, które są online
+    END_URLONLINEHOSTS=$(grep -o -i '@URLONLINEHOSTSinclude' "${TEMPLATE}" | wc -l)
+
+    # Konwertowanie na hosts i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
+    for (( n=1; n<=END_URLONLINEHOSTS; n++ ))
+    do
+        EXTERNAL=$(grep -oP -m 1 '@URLONLINEHOSTSinclude \K.*' "$FINAL")
+        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
+        EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
+        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
+        revertWhenDownloadError
+        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
+        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
+        convertToHosts "$EXTERNALHOSTS_TEMP"
+        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
+        then
+            cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
+            mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
+        fi
+        sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
+
+        sed -i -r "s|^0.0.0.0 ||" "$EXTERNALHOSTS_TEMP"
+        while IFS= read -r domain; do
+            hostname=$(host "${domain}")
+            if [[ ! "${hostname}" =~ "NXDOMAIN" ]]; then
+                echo "$domain" >>"$EXTERNALHOSTS_TEMP.3"
+            fi
+        done <"$EXTERNALHOSTS_TEMP"
+        mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
+        sed -i "s|^|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
+
+        sed -e '0,/^@URLONLINEHOSTSinclude/!b; /@URLONLINEHOSTSinclude/{ r '"$EXTERNALHOSTS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        mv "$TEMPORARY" "$FINAL"
+        rm -r "$EXTERNAL_TEMP"
+        rm -r "$EXTERNALHOSTS_TEMP"
+        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
+        then
+            rm -r "$EXTERNALHOSTS_TEMP.2"
+        fi
+    done
+
     # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
     END_HOSTSCOMBINE=$(grep -o -i '@HOSTSCOMBINEinclude' "${TEMPLATE}" | wc -l)
 
@@ -497,7 +538,7 @@ for i in "$@"; do
     # Dodawanie zmienionych sekcji do repozytorium git
     if [ ! "$RTM" ] ; then
         git add "$SECTIONS_DIR"/*
-        git commit -m "$(gettext "Update sections") [ci skip]"
+        git commit -m "$(gettext "Update sections")" -m "[ci skip]"
     fi
 
     # Ustawienie strefy czasowej
@@ -576,7 +617,7 @@ for i in "$@"; do
         else
             printf "%s" "$(eval_gettext "Enter extended commit description to \$filter list, e.g 'Fix #1, fix #2' (without quotation marks; if you do not want an extended description, you can simply enter nothing): ")"
             read -r extended_desc
-            git commit -m "$(eval_gettext "Update \$filter to version \$version") [ci skip]" -m "${extended_desc}"
+            git commit -m "$(eval_gettext "Update \$filter to version \$version")" -m "${extended_desc} [ci skip]"
         fi
     else
         printf "%s\n" "$(eval_gettext "Nothing new has been added to \$filter list. If you still want to update it, then set the variable FORCED and run script again.")"
