@@ -339,55 +339,6 @@ for i in "$@"; do
         fi
     done
 
-    # Obliczanie ilości sekcji/list filtrów, które zostaną przekonwertowane na hosts, pobrane ze źródeł zewnętrznych i wydrębnione tylko te, które są online
-    END_URLONLINEHOSTS=$(grep -o -i '@URLONLINEHOSTSinclude' "${TEMPLATE}" | wc -l)
-
-    # Konwertowanie na hosts i doklejanie zawartości sekcji/list filtrów w odpowiednie miejsca
-    for (( n=1; n<=END_URLONLINEHOSTS; n++ ))
-    do
-        EXTERNAL=$(grep -oP -m 1 '@URLONLINEHOSTSinclude \K.*' "$FINAL")
-        EXTERNAL_TEMP=$SECTIONS_DIR/external.temp
-        EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
-        wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
-        revertWhenDownloadError
-        grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
-        grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
-        sed -i "s|\$all$||" "$EXTERNALHOSTS_TEMP"
-        sed -i "s|[|][|]|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
-        sed -i 's/[\^]//g' "$EXTERNALHOSTS_TEMP"
-        sed -i '/[/\*]/d' "$EXTERNALHOSTS_TEMP"
-        sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$EXTERNALHOSTS_TEMP"
-        sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
-
-        sed -i -r "s|^0.0.0.0 ||" "$EXTERNALHOSTS_TEMP"
-        while IFS= read -r domain; do
-            hostname=$(host "${domain}")
-            echo "Checking domains status..."
-            if [[ ! "${hostname}" =~ "NXDOMAIN" ]]; then
-                echo "$domain" >>"$EXTERNALHOSTS_TEMP.3"
-            fi
-        done <"$EXTERNALHOSTS_TEMP"
-        mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
-        sed -i "s|^|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
-
-        sed -r "/^0\.0\.0\.0 (www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$EXTERNALHOSTS_TEMP" > "$EXTERNALHOSTS_TEMP.2"
-        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
-        then
-            cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
-            mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
-        fi
-        sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
-
-        sed -e '0,/^@URLONLINEHOSTSinclude/!b; /@URLONLINEHOSTSinclude/{ r '"$EXTERNALHOSTS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
-        mv "$TEMPORARY" "$FINAL"
-        rm -r "$EXTERNAL_TEMP"
-        rm -r "$EXTERNALHOSTS_TEMP"
-        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
-        then
-            rm -r "$EXTERNALHOSTS_TEMP.2"
-        fi
-    done
-
     # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
     END_HOSTSCOMBINE=$(grep -o -i '@HOSTSCOMBINEinclude' "${TEMPLATE}" | wc -l)
 
