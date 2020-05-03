@@ -352,12 +352,11 @@ for i in "$@"; do
         revertWhenDownloadError
         grep -o '^||.*^$' "$EXTERNAL_TEMP" > "$EXTERNALHOSTS_TEMP"
         grep -o '^||.*^$all$' "$EXTERNAL_TEMP" >> "$EXTERNALHOSTS_TEMP"
-        convertToHosts "$EXTERNALHOSTS_TEMP"
-        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
-        then
-            cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
-            mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
-        fi
+        sed -i "s|\$all$||" "$EXTERNALHOSTS_TEMP"
+        sed -i "s|[|][|]|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
+        sed -i 's/[\^]//g' "$EXTERNALHOSTS_TEMP"
+        sed -i '/[/\*]/d' "$EXTERNALHOSTS_TEMP"
+        sed -i -r "/0\.0\.0\.0 [0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]\.[0-9]?[0-9]?[0-9]/d" "$EXTERNALHOSTS_TEMP"
         sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
 
         sed -i -r "s|^0.0.0.0 ||" "$EXTERNALHOSTS_TEMP"
@@ -369,6 +368,14 @@ for i in "$@"; do
         done <"$EXTERNALHOSTS_TEMP"
         mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
         sed -i "s|^|0.0.0.0 |" "$EXTERNALHOSTS_TEMP"
+
+        sed -r "/^0\.0\.0\.0 (www\.|www[0-9]\.|www\-|pl\.|pl[0-9]\.)/! s/^0\.0\.0\.0 /0.0.0.0 www./" "$EXTERNALHOSTS_TEMP" > "$EXTERNALHOSTS_TEMP.2"
+        if [ -f "$EXTERNALHOSTS_TEMP.2" ]
+        then
+            cat "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP.2"  > "$EXTERNALHOSTS_TEMP.3"
+            mv "$EXTERNALHOSTS_TEMP.3" "$EXTERNALHOSTS_TEMP"
+        fi
+        sort -uV -o "$EXTERNALHOSTS_TEMP" "$EXTERNALHOSTS_TEMP"
 
         sed -e '0,/^@URLONLINEHOSTSinclude/!b; /@URLONLINEHOSTSinclude/{ r '"$EXTERNALHOSTS_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
