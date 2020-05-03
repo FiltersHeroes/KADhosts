@@ -1,7 +1,7 @@
 # Title: KADfake Hosts
 # Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
-# Last modified: Tue, 28 Apr 2020, 07:45 UTC+02
-# Version: 2020.4.28.0
+# Last modified: Sun, 03 May 2020, 13:31 UTC+02
+# Version: 2020.5.3.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -127,3 +127,12 @@
 0.0.0.0 www.zdrowie-i-dieta.pl
 0.0.0.0 zdrowie-i-dieta.pl
 0.0.0.0 zmianynaziemi.pl
+#
+#
+# Uzupelnienie hosts do promocji pseudonauki / fake newsow
+0.0.0.0 go.globalhealingcenter.com
+0.0.0.0 shop.planet-tachyon.com
+0.0.0.0 store.planet-tachyon.com
+0.0.0.0 www.go.globalhealingcenter.com
+0.0.0.0 www.shop.planet-tachyon.com
+0.0.0.0 www.store.planet-tachyon.com
