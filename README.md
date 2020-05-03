@@ -11,7 +11,7 @@ Zalecany dla użytkowników zaawansowanych.
 
 Oryginalne repozytorium KAD: https://github.com/PolishFiltersTeam/KAD
 
-Lista hosts jest udostępniana na tej samej licencji co filtry - https://kadantiscam.netlify.com/#contact
+Lista hosts jest udostępniana na tej samej licencji co filtry - https://kadantiscam.netlify.app/#contact
 
 Jeżeli korzystasz z **Pi-hole**, to polecamy również zainstalować dodatkową listę [KADhole](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhole.txt), blokującą więcej stron. Jednakże, aby działała ono prawidłowo, nie ściągaj listy samodzielnie, tylko pobierz [Instalator Regex Hosts do Pi-hole](https://raw.githubusercontent.com/PolishFiltersTeam/ScriptsPlayground/master/scripts/RLI_for_Pi-hole.sh), a następnie uruchom go z wpisanym adresem do listy jako jego parametrem, czyli `sciezka_do_instalatora/RLI_for_Pi-hole.sh https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhole.txt`. Aktualizacje również należy przeprowadzać podobnie. Oczywiście można dodać ten skrypt do crona, by były automatycznie pobierane i instalowane co jakiś czas.
 
