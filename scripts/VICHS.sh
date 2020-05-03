@@ -362,6 +362,7 @@ for i in "$@"; do
         sed -i -r "s|^0.0.0.0 ||" "$EXTERNALHOSTS_TEMP"
         while IFS= read -r domain; do
             hostname=$(host "${domain}")
+            echo "Checking domains status..."
             if [[ ! "${hostname}" =~ "NXDOMAIN" ]]; then
                 echo "$domain" >>"$EXTERNALHOSTS_TEMP.3"
             fi
