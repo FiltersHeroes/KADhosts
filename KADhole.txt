@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sun, 03 May 2020, 23:18 UTC+02
-# Version: 2020.5.3.1
+# Last modified: Tue, 05 May 2020, 17:23 UTC+02
+# Version: 2020.5.5.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -65,6 +65,8 @@
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)platnik.*\.online$
+(^|\.)pocztexpolska\..*$
+(^|\.)pocztex.*\d+\.*$
 (^|\.)polskaporwania\..*$
 (^|\.)pomagajmypl\..*$
 (^|\.)porwaniadzieci.*\.*$
@@ -78,6 +80,7 @@
 (^|\.)update\..*sf*\.online$
 (^|\.)wp\..*\.top$
 (^|\.)xn--faktygwat-xub\..*$
+(^|\.)xn.*gwatpolska24*\.*$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.life$
@@ -98,11 +101,6 @@
 (^|\.).*iporwania\.*$
 (^|\.).*iporwanie24\.*$
 (^|\.).*iporwanie\.*$
-(^|\.).*pocztapolska24\.*$
-(^|\.).*pocztapolska48\.*$
-(^|\.).*pocztapolska\.*$
-(^|\.).*poczta-polska24\.*$
-(^|\.).*poczta-polska48\.*$
 (^|\.).*polskaporwanie\.*$
 (^|\.).*porwaniapolska24*\.*$
 (^|\.).*porwaniapolska48*\.*$
@@ -118,6 +116,8 @@
 (^|\.).*uprowadzniezdworca\.*$
 (^|\.)[0-9]+platnosci\.online$
 (^|\.)[0-9]+platnosc\.online$
+(^|\.)[a-z0-9]+-?pocztapolska\.*$
+(^|\.)[a-z0-9]+-?pocztex\.*$
 #
 #
 # Blogspot
