@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS i wirusy.
-# Last modified: Wed, 06 May 2020, 14:57 UTC+02
-# Version: 2020.5.6.0
+# Last modified: Wed, 06 May 2020, 18:35 UTC+02
+# Version: 2020.5.6.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6171,6 +6171,7 @@
 0.0.0.0 15x.eu
 0.0.0.0 24ekspres.online
 0.0.0.0 24fakty-sniadaniowe.pl
+0.0.0.0 24lite.eu
 0.0.0.0 24-biznes.eu
 0.0.0.0 50kaweek.live
 0.0.0.0 50kzl.pl
@@ -6543,6 +6544,7 @@
 0.0.0.0 e-payu.xyz
 0.0.0.0 e-platnosc.best
 0.0.0.0 e-podatek.net
+0.0.0.0 e-przesylki.com
 0.0.0.0 e-yourmovies.com
 0.0.0.0 e-yourmovies.pl
 0.0.0.0 faberville.com
@@ -6684,6 +6686,7 @@
 0.0.0.0 gawaher-services.com
 0.0.0.0 gayza.net
 0.0.0.0 gazeta.pl.com.bz
+0.0.0.0 gazetabracka.eu
 0.0.0.0 gazetainfo.hekko24.pl
 0.0.0.0 gazetainfo24tv.hekko24.pl
 0.0.0.0 gazetalublin.pl
@@ -6692,6 +6695,8 @@
 0.0.0.0 gazeta-natemat-pol.eu
 0.0.0.0 gazetkawarszawa.eu
 0.0.0.0 gazetkawarszawa.pl
+0.0.0.0 gazetowo.eu
+0.0.0.0 gazetowo.pl
 0.0.0.0 gcesab.com
 0.0.0.0 gdzieogladac.online
 0.0.0.0 genfotir.com
@@ -6769,6 +6774,7 @@
 0.0.0.0 idealnafigura.com
 0.0.0.0 idpd.pl
 0.0.0.0 id-appie.com
+0.0.0.0 ifaktygwalt.eu
 0.0.0.0 ikoronawirusnews.pl
 0.0.0.0 ilovemobi.com
 0.0.0.0 iluzja.pl
@@ -6823,6 +6829,7 @@
 0.0.0.0 itorrenty.org
 0.0.0.0 iurzad.net
 0.0.0.0 i-chomik.pl
+0.0.0.0 i-dpd.pl
 0.0.0.0 i-films.pl
 0.0.0.0 i-filmy.pl
 0.0.0.0 i-ksiazka.pl
@@ -7406,6 +7413,7 @@
 0.0.0.0 servicecheck5.wixsite.com
 0.0.0.0 service-pay.company
 0.0.0.0 serwer2045220.home.pl
+0.0.0.0 serwer2079025.home.pl
 0.0.0.0 serwer2081930.home.pl
 0.0.0.0 setup-firefox.host
 0.0.0.0 sexmonitor.net
@@ -7532,6 +7540,7 @@
 0.0.0.0 tematyczny.h2g.pl
 0.0.0.0 temporary.nsx.pl
 0.0.0.0 terazty24.eu
+0.0.0.0 terminator3000.ct8.pl
 0.0.0.0 terminatorzy.cba.pl
 0.0.0.0 termstal.cba.pl
 0.0.0.0 test.maciejdudek.com.pl
@@ -8074,6 +8083,7 @@
 0.0.0.0 www.garmulewicz.pl
 0.0.0.0 www.gastrohurt.neostrada.pl
 0.0.0.0 www.gayza.net
+0.0.0.0 www.gazetabracka.eu
 0.0.0.0 www.gazetainfo24tv.hekko24.pl
 0.0.0.0 www.gazetainfo.hekko24.pl
 0.0.0.0 www.gazetalublin.pl
@@ -8082,6 +8092,8 @@
 0.0.0.0 www.gazeta.pl.com.bz
 0.0.0.0 www.gazetkawarszawa.eu
 0.0.0.0 www.gazetkawarszawa.pl
+0.0.0.0 www.gazetowo.eu
+0.0.0.0 www.gazetowo.pl
 0.0.0.0 www.gcesab.com
 0.0.0.0 www.gdzieogladac.online
 0.0.0.0 www.genfotir.com
@@ -8150,6 +8162,7 @@
 0.0.0.0 www.iconsumerstocksymbol.icu
 0.0.0.0 www.idealnafigura.com
 0.0.0.0 www.idpd.pl
+0.0.0.0 www.ifaktygwalt.eu
 0.0.0.0 www.ikoronawirusnews.pl
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.iluzja.pl
@@ -8630,6 +8643,7 @@
 0.0.0.0 www.server730889.nazwa.pl
 0.0.0.0 www.servicecheck5.wixsite.com
 0.0.0.0 www.serwer2045220.home.pl
+0.0.0.0 www.serwer2079025.home.pl
 0.0.0.0 www.serwer2081930.home.pl
 0.0.0.0 www.sexmonitor.net
 0.0.0.0 www.sexmonitor.top
@@ -8728,6 +8742,7 @@
 0.0.0.0 www.tematyczny.h2g.pl
 0.0.0.0 www.temporary.nsx.pl
 0.0.0.0 www.terazty24.eu
+0.0.0.0 www.terminator3000.ct8.pl
 0.0.0.0 www.terminatorzy.cba.pl
 0.0.0.0 www.termstal.cba.pl
 0.0.0.0 www.test.maciejdudek.com.pl
@@ -8903,6 +8918,7 @@
 0.0.0.0 www.15x.eu
 0.0.0.0 www.24ekspres.online
 0.0.0.0 www.24fakty-sniadaniowe.pl
+0.0.0.0 www.24lite.eu
 0.0.0.0 www.24-biznes.eu
 0.0.0.0 www.50kaweek.live
 0.0.0.0 www.50kzl.pl
@@ -8976,6 +8992,7 @@
 0.0.0.0 www.e-payu.xyz
 0.0.0.0 www.e-platnosc.best
 0.0.0.0 www.e-podatek.net
+0.0.0.0 www.e-przesylki.com
 0.0.0.0 www.e-yourmovies.com
 0.0.0.0 www.e-yourmovies.pl
 0.0.0.0 www.fajne-filmy.pl
@@ -9043,6 +9060,7 @@
 0.0.0.0 www.in-post.org
 0.0.0.0 www.ipko.pl-weryfikacja-konta-bank-pko.j.pl
 0.0.0.0 www.i-chomik.pl
+0.0.0.0 www.i-dpd.pl
 0.0.0.0 www.i-films.pl
 0.0.0.0 www.i-filmy.pl
 0.0.0.0 www.i-ksiazka.pl
@@ -9510,6 +9528,7 @@
 0.0.0.0 dotpay.pocztexpolska.eu
 0.0.0.0 dotpay.pocztexpolska.org
 0.0.0.0 dotpay.bok-poczta.pl
+0.0.0.0 dotpay.i-dpd.pl
 0.0.0.0 dotpay.pocztex-poland.net
 0.0.0.0 dotpay.pocztex-polska.eu
 0.0.0.0 download.apps.co.pl
@@ -9523,6 +9542,8 @@
 0.0.0.0 dw.lp.eu.emobi-sys.com
 0.0.0.0 dziennikprasowy.pusiaweb.com
 0.0.0.0 echo-dnia.24.eu
+0.0.0.0 emonitoring-pocztapolska.net
+0.0.0.0 emonitoring-poczta-polska.eu
 0.0.0.0 epocztapolska.pl
 0.0.0.0 epocztapolska24.pl
 0.0.0.0 epocztex.pl
@@ -9590,6 +9611,7 @@
 0.0.0.0 informacje24fakt.pusiaweb.com
 0.0.0.0 informacje-fakty.pusiaweb.com
 0.0.0.0 info-polska.24.eu
+0.0.0.0 info-polska.24lite.eu
 0.0.0.0 info.poczta-interia.net
 0.0.0.0 init.epoczta247.com
 0.0.0.0 init.plpocztex.net
@@ -9685,6 +9707,7 @@
 0.0.0.0 pocztapolska24.com
 0.0.0.0 pocztapolska24.net
 0.0.0.0 pocztapolska24.org
+0.0.0.0 pocztapolska24.pl
 0.0.0.0 pocztapolska48.com
 0.0.0.0 pocztapolska48.net
 0.0.0.0 pocztapolska247.com
@@ -9889,6 +9912,7 @@
 0.0.0.0 www.pocztapolska24.com
 0.0.0.0 www.pocztapolska24.net
 0.0.0.0 www.pocztapolska24.org
+0.0.0.0 www.pocztapolska24.pl
 0.0.0.0 www.pocztapolska48.com
 0.0.0.0 www.pocztapolska48.net
 0.0.0.0 www.pocztapolska247.com
@@ -9985,10 +10009,13 @@
 0.0.0.0 www.czas-na-fb.blogspot.com
 0.0.0.0 www.darmowe-bony.24.eu
 0.0.0.0 www.dotpay.bok-poczta.pl
+0.0.0.0 www.dotpay.i-dpd.pl
 0.0.0.0 www.dotpay.pocztex-poland.net
 0.0.0.0 www.dotpay.pocztex-polska.eu
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
 0.0.0.0 www.echo-dnia.24.eu
+0.0.0.0 www.emonitoring-pocztapolska.net
+0.0.0.0 www.emonitoring-poczta-polska.eu
 0.0.0.0 www.eu-click.eworldtrack.com
 0.0.0.0 www.e-childalert.online
 0.0.0.0 www.e-childalert.pl
@@ -10030,6 +10057,7 @@
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.informacje-fakty.pusiaweb.com
 0.0.0.0 www.info-polska.24.eu
+0.0.0.0 www.info-polska.24lite.eu
 0.0.0.0 www.info.poczta-interia.net
 0.0.0.0 www.karty-biedronkowe.24.eu
 0.0.0.0 www.kasia-czat.24.eu
@@ -10101,7 +10129,10 @@
 0.0.0.0 www.xn--onetgwat-dpb.net.pl
 0.0.0.0 www.xn--onetgwat-dpb.pl
 0.0.0.0 www.xn--onetgwat-dpb.waw.pl
+0.0.0.0 www.xn--polskagwat24-lcc.eu
+0.0.0.0 www.xn--polskagwat24-lcc.waw.pl
 0.0.0.0 www.zaginienifaktty.098.pl
+0.0.0.0 www.zaglosuj-teraz.eu
 0.0.0.0 www.zalukaj-cda.pl
 0.0.0.0 www.zalukaj-film.24.eu
 0.0.0.0 www.zalukaj-online.pl
@@ -10117,7 +10148,10 @@
 0.0.0.0 xn--onetgwat-dpb.net.pl
 0.0.0.0 xn--onetgwat-dpb.pl
 0.0.0.0 xn--onetgwat-dpb.waw.pl
+0.0.0.0 xn--polskagwat24-lcc.eu
+0.0.0.0 xn--polskagwat24-lcc.waw.pl
 0.0.0.0 zaginienifaktty.098.pl
+0.0.0.0 zaglosuj-teraz.eu
 0.0.0.0 zalukaj.cc
 0.0.0.0 zalukaj.online
 0.0.0.0 zalukaj.org
