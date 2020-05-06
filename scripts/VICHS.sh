@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # VICHS - Version Include Checksum Hosts Sort
-# v2.14
+# v2.16
 
 # MIT License
 
@@ -340,16 +340,17 @@ for i in "$@"; do
     done
 
     # Obliczanie ilości sekcji, które zostaną pobrane ze źródeł zewnętrznych i połączone z lokalnymi sekcjami
-    END_HOSTSCOMBINE=$(grep -o -i '@HOSTSCOMBINEinclude' "${TEMPLATE}" | wc -l)
+    END_HOSTSCOMBINE=$(grep -o -i '@COMBINEHOSTSinclude' "${TEMPLATE}" | wc -l)
 
     # Łączenie lokalnych i zewnętrznych sekcji w jedno oraz doklejanie ich w odpowiednie miejsca
     for (( n=1; n<=END_HOSTSCOMBINE; n++ ))
     do
-        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@HOSTSCOMBINEinclude" { print $2; exit }' "$FINAL").txt
-        EXTERNAL=$(awk '$1 == "@HOSTSCOMBINEinclude" { print $3; exit }' "$FINAL")
+        LOCAL=${SECTIONS_DIR}/$(awk '$1 == "@COMBINEHOSTSinclude" { print $2; exit }' "$FINAL").txt
+        EXTERNAL=$(awk '$1 == "@COMBINEHOSTSinclude" { print $3; exit }' "$FINAL")
         SECTIONS_TEMP=${SECTIONS_DIR}/temp/
         mkdir "$SECTIONS_TEMP"
         EXTERNAL_TEMP=${SECTIONS_TEMP}/external.temp
+        EXTERNALHOSTS_TEMP=$SECTIONS_DIR/external_hosts.temp
         MERGED_TEMP=${SECTIONS_TEMP}/merged-temp.txt
         wget -O "$EXTERNAL_TEMP" "${EXTERNAL}"
         revertWhenDownloadError
@@ -380,7 +381,7 @@ for i in "$@"; do
             python3 "${FOP}" --d "${SECTIONS_DIR}"/temp/
         fi
         sort -uV -o "$MERGED_TEMP" "$MERGED_TEMP"
-        sed -e '0,/^@HOSTSCOMBINEinclude/!b; /@HOSTSCOMBINEinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
+        sed -e '0,/^@COMBINEHOSTSinclude/!b; /@COMBINEHOSTSinclude/{ r '"$MERGED_TEMP"'' -e 'd }' "$FINAL" > "$TEMPORARY"
         mv "$TEMPORARY" "$FINAL"
         rm -r "$MERGED_TEMP"
         rm -r "$SECTIONS_TEMP"

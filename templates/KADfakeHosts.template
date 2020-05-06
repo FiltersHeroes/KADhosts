@@ -17,8 +17,4 @@
 #
 #
 #
-@URLHOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/pseudonauka_fake_news.txt
-#
-#
-# Uzupelnienie hosts do promocji pseudonauki / fake newsow
-@HOSTSinclude hostsplus_kontrowersje
+@COMBINEHOSTSinclude hostsplus_kontrowersje https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/pseudonauka_fake_news.txt
