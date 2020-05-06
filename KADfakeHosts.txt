@@ -1,7 +1,7 @@
 # Title: KADfake Hosts
-# Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony (bez polityki i satyry).
-# Last modified: Sun, 03 May 2020, 13:31 UTC+02
-# Version: 2020.5.3.0
+# Description: Filtry blokujace pseudonauke, dezinformacje, nieprawdziwe informacje i kontrowersyjne strony. Satyra i kwestie polityczne nie stanowią głównego celu listy.
+# Last modified: Wed, 06 May 2020, 14:57 UTC+02
+# Version: 2020.5.6.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -28,6 +28,7 @@
 0.0.0.0 fitsekret.pl
 0.0.0.0 globalhealingcenter.com
 0.0.0.0 globalna.info
+0.0.0.0 go.globalhealingcenter.com
 0.0.0.0 gotsprouts.com
 0.0.0.0 homoseksualizm.edu.pl
 0.0.0.0 innemedium.pl
@@ -51,11 +52,13 @@
 0.0.0.0 polakuleczsiesam.pl
 0.0.0.0 prisonplanet.pl
 0.0.0.0 recektorelecza.pl
+0.0.0.0 shop.planet-tachyon.com
 0.0.0.0 sokiwyciskane.pl
 0.0.0.0 spyware.neocities.org
 0.0.0.0 stop5g.com.pl
 0.0.0.0 stopgender.pl
 0.0.0.0 stopnop.com.pl
+0.0.0.0 store.planet-tachyon.com
 0.0.0.0 surowezdrowieksiazka.com
 0.0.0.0 surowezycie.com
 0.0.0.0 szczepienie.info
@@ -80,6 +83,7 @@
 0.0.0.0 www.globalhealingcenter.com
 0.0.0.0 www.globalna.info
 0.0.0.0 www.gotsprouts.com
+0.0.0.0 www.go.globalhealingcenter.com
 0.0.0.0 www.homoseksualizm.edu.pl
 0.0.0.0 www.innemedium.pl
 0.0.0.0 www.jasnastronamocy.info
@@ -123,16 +127,9 @@
 0.0.0.0 www.bio-chemik24.pl
 0.0.0.0 www.misja-cera.pl
 0.0.0.0 www.planet-tachyon.com
+0.0.0.0 www.shop.planet-tachyon.com
+0.0.0.0 www.store.planet-tachyon.com
 0.0.0.0 www.wolna-polska.pl
 0.0.0.0 www.zdrowie-i-dieta.pl
 0.0.0.0 zdrowie-i-dieta.pl
 0.0.0.0 zmianynaziemi.pl
-#
-#
-# Uzupelnienie hosts do promocji pseudonauki / fake newsow
-0.0.0.0 go.globalhealingcenter.com
-0.0.0.0 shop.planet-tachyon.com
-0.0.0.0 store.planet-tachyon.com
-0.0.0.0 www.go.globalhealingcenter.com
-0.0.0.0 www.shop.planet-tachyon.com
-0.0.0.0 www.store.planet-tachyon.com
