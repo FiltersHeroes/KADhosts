@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 05 May 2020, 18:46 UTC+02
-# Version: 2020.5.5.1
+# Last modified: Wed, 06 May 2020, 14:57 UTC+02
+# Version: 2020.5.6.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -18,6 +18,7 @@
 #
 #
 # Przekrety
+(^|\.)allegrolokalnie-pl\..*$
 (^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
 (^|\.)allegro\.pl\..*\.pl$
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
@@ -80,6 +81,7 @@
 (^|\.)update\..*sf*\.online$
 (^|\.)wp\..*\.top$
 (^|\.)xn--faktygwat-xub\..*$
+(^|\.)xn--onetgwat-.*\.*$
 (^|\.)xn.*gwatpolska24*\.*$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
