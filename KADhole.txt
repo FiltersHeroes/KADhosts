@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Fri, 08 May 2020, 21:01 UTC+02
-# Version: 2020.5.8.1
+# Last modified: Sat, 09 May 2020, 13:00 UTC+02
+# Version: 2020.5.9.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -119,7 +119,7 @@
 (^|\.).*poszukiwanialaury\.*$
 (^|\.).*uprowadzeniedworzec\.*$
 (^|\.).*uprowadzniezdworca\.*$
-(^|\.).*-?emonitoring-?poczta[0-9]+\..*$
+(^|\.).*-?emonitoring-?poczta[a-z]+?[0-9]+\..*$
 (^|\.).*-?faktygwalt\..*$
 (^|\.)[0-9]+platnosci?\.online$
 (^|\.)[a-z0-9]+-?poczta-?polska\..*$
