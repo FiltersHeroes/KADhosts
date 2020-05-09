@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe.
-# Last modified: Sat, 09 May 2020, 16:07 UTC+02
-# Version: 2020.5.9.1
+# Last modified: Sat, 09 May 2020, 17:00 UTC+02
+# Version: 2020.5.9.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -431,6 +431,7 @@
 0.0.0.0 cbldc.io
 0.0.0.0 cda-bez-limitu.pl
 0.0.0.0 cda-filmy.com.pl
+0.0.0.0 cdp.pl
 0.0.0.0 cdsportadapte91.fr
 0.0.0.0 cedino.pl
 0.0.0.0 cello24.net
@@ -1546,7 +1547,9 @@
 0.0.0.0 megazakupy.net
 0.0.0.0 menshealthweb.co
 0.0.0.0 merkuryklasyka.pl
+0.0.0.0 merlin.pl
 0.0.0.0 merrellsklep.pl
+0.0.0.0 mestro.pl
 0.0.0.0 metaankieta.pl
 0.0.0.0 metalroofinggiants.com
 0.0.0.0 mezczyzna-trendy.pl
@@ -1709,6 +1712,7 @@
 0.0.0.0 niechoruje.pl
 0.0.0.0 niekulturalna.pl
 0.0.0.0 nielukrowana.pl
+0.0.0.0 nieprzeczytane.pl
 0.0.0.0 nightclubpalma.pl
 0.0.0.0 nikeairadidaszx.pl
 0.0.0.0 nikeairhuarache.pl
@@ -2041,6 +2045,7 @@
 0.0.0.0 procardia.com.pl
 0.0.0.0 proeventart.pl
 0.0.0.0 proficredit.pl
+0.0.0.0 profit24.pl
 0.0.0.0 profitmaximizer.co
 0.0.0.0 profit-trader.net
 0.0.0.0 profolan.pl
@@ -2329,6 +2334,7 @@
 0.0.0.0 sklepnbbuty.pl
 0.0.0.0 sklepnorthface.com
 0.0.0.0 skleppolo.pl
+0.0.0.0 sklepswiatowid.pl
 0.0.0.0 sklepszkolen.pl
 0.0.0.0 skleptanie.pl
 0.0.0.0 sklep-agricar.pl
@@ -2360,6 +2366,7 @@
 0.0.0.0 slownikoptyczny.pl
 0.0.0.0 slubneauta.com.pl
 0.0.0.0 sluchawafm.pl
+0.0.0.0 smarkacz.pl
 0.0.0.0 smartraport.pl
 0.0.0.0 smartsim.pl
 0.0.0.0 smart-m-system.com
@@ -3178,6 +3185,7 @@
 0.0.0.0 www.catroad.pl
 0.0.0.0 www.catzell.com
 0.0.0.0 www.cbldc.io
+0.0.0.0 www.cdp.pl
 0.0.0.0 www.cdsportadapte91.fr
 0.0.0.0 www.cedino.pl
 0.0.0.0 www.cello24.net
@@ -4124,7 +4132,9 @@
 0.0.0.0 www.megazakupy.net
 0.0.0.0 www.menshealthweb.co
 0.0.0.0 www.merkuryklasyka.pl
+0.0.0.0 www.merlin.pl
 0.0.0.0 www.merrellsklep.pl
+0.0.0.0 www.mestro.pl
 0.0.0.0 www.metaankieta.pl
 0.0.0.0 www.metalroofinggiants.com
 0.0.0.0 www.mezur4.com
@@ -4267,6 +4277,7 @@
 0.0.0.0 www.niechoruje.pl
 0.0.0.0 www.niekulturalna.pl
 0.0.0.0 www.nielukrowana.pl
+0.0.0.0 www.nieprzeczytane.pl
 0.0.0.0 www.nightclubpalma.pl
 0.0.0.0 www.nikeairadidaszx.pl
 0.0.0.0 www.nikeairhuarache.pl
@@ -4551,6 +4562,7 @@
 0.0.0.0 www.procardia.com.pl
 0.0.0.0 www.proeventart.pl
 0.0.0.0 www.proficredit.pl
+0.0.0.0 www.profit24.pl
 0.0.0.0 www.profitmaximizer.co
 0.0.0.0 www.profolan.pl
 0.0.0.0 www.programdarmowy.pl
@@ -4805,6 +4817,7 @@
 0.0.0.0 www.sklepnbbuty.pl
 0.0.0.0 www.sklepnorthface.com
 0.0.0.0 www.skleppolo.pl
+0.0.0.0 www.sklepswiatowid.pl
 0.0.0.0 www.sklepszkolen.pl
 0.0.0.0 www.skleptanie.pl
 0.0.0.0 www.sklep.ekoenergia24.eu
@@ -4829,6 +4842,7 @@
 0.0.0.0 www.slownikoptyczny.pl
 0.0.0.0 www.slubneauta.com.pl
 0.0.0.0 www.sluchawafm.pl
+0.0.0.0 www.smarkacz.pl
 0.0.0.0 www.smartraport.pl
 0.0.0.0 www.smartsim.pl
 0.0.0.0 www.smithsfloristva.com
@@ -6882,10 +6896,12 @@
 0.0.0.0 gazetainfo.hekko24.pl
 0.0.0.0 gazetainfo24tv.hekko24.pl
 0.0.0.0 gazetalublin.pl
+0.0.0.0 gazetalubuski.pl
 0.0.0.0 gazetamazowska.eu
 0.0.0.0 gazetamazowska.pl
 0.0.0.0 gazetamazowsze.eu
 0.0.0.0 gazetanowoczesna.pl
+0.0.0.0 gazetapucka.pl
 0.0.0.0 gazeta-natemat-pol.eu
 0.0.0.0 gazetkamazowsze.pl
 0.0.0.0 gazetkawarszawa.eu
@@ -7475,6 +7491,7 @@
 0.0.0.0 podatek2020.net
 0.0.0.0 podatkigov.net
 0.0.0.0 podologik.ca
+0.0.0.0 pogodaanuluj.net
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 poland-news.pl
 0.0.0.0 policja24.eu
@@ -7616,8 +7633,6 @@
 0.0.0.0 serialosy.pl
 0.0.0.0 serialowo.pl
 0.0.0.0 server364021.nazwa.pl
-0.0.0.0 server379672.nazwa.pl
-0.0.0.0 server432067.nazwa.pl
 0.0.0.0 server553372.nazwa.pl
 0.0.0.0 server730889.nazwa.pl
 0.0.0.0 server839704.nazwa.pl
@@ -8317,10 +8332,12 @@
 0.0.0.0 www.gazetainfo24tv.hekko24.pl
 0.0.0.0 www.gazetainfo.hekko24.pl
 0.0.0.0 www.gazetalublin.pl
+0.0.0.0 www.gazetalubuski.pl
 0.0.0.0 www.gazetamazowska.eu
 0.0.0.0 www.gazetamazowska.pl
 0.0.0.0 www.gazetamazowsze.eu
 0.0.0.0 www.gazetanowoczesna.pl
+0.0.0.0 www.gazetapucka.pl
 0.0.0.0 www.gazeta.pl.com.bz
 0.0.0.0 www.gazetkamazowsze.pl
 0.0.0.0 www.gazetkawarszawa.eu
@@ -8777,6 +8794,7 @@
 0.0.0.0 www.podatek2020.net
 0.0.0.0 www.podatkigov.net
 0.0.0.0 www.podologik.ca
+0.0.0.0 www.pogodaanuluj.net
 0.0.0.0 www.pogotowie.pcserwis.c0.pl
 0.0.0.0 www.policja24.eu
 0.0.0.0 www.polishwebmailadmin.weebly.com
@@ -8880,8 +8898,6 @@
 0.0.0.0 www.serialowo.pl
 0.0.0.0 www.serial.vod.co.pl
 0.0.0.0 www.server364021.nazwa.pl
-0.0.0.0 www.server379672.nazwa.pl
-0.0.0.0 www.server432067.nazwa.pl
 0.0.0.0 www.server553372.nazwa.pl
 0.0.0.0 www.server730889.nazwa.pl
 0.0.0.0 www.server839704.nazwa.pl
@@ -9907,7 +9923,6 @@
 0.0.0.0 free.apps.co.pl
 0.0.0.0 free.propdfconverter.com
 0.0.0.0 freeiqtest.blogspot.com
-0.0.0.0 ftp.server379672.nazwa.pl
 0.0.0.0 game.apps.co.pl
 0.0.0.0 gazeta-polska.24.eu
 0.0.0.0 glosowanie-kliknij.zaglosuj-teraz.eu
@@ -10110,6 +10125,20 @@
 0.0.0.0 sprnr59813.net
 0.0.0.0 support1.trocable.ga
 0.0.0.0 support2.trocable.ga
+0.0.0.0 tekerstreet6.live
+0.0.0.0 tekerstreet7.live
+0.0.0.0 tekerstreet8.live
+0.0.0.0 tekerstreet9.live
+0.0.0.0 tekerstreet10.live
+0.0.0.0 tekerstreet11.live
+0.0.0.0 tekerstreet12.live
+0.0.0.0 tekerstreet13.live
+0.0.0.0 tekerstreet14.live
+0.0.0.0 tekerstreet15.live
+0.0.0.0 tekerstreet16.live
+0.0.0.0 tekerstreet17.live
+0.0.0.0 tekerstreet18.live
+0.0.0.0 tekerstreet19.live
 0.0.0.0 thecryptogenius.com
 0.0.0.0 training.sitegiant.info
 0.0.0.0 tvp-informacyjna1.eu
@@ -10204,7 +10233,6 @@
 0.0.0.0 www.freeiqtest.blogspot.com
 0.0.0.0 www.free.apps.co.pl
 0.0.0.0 www.free.propdfconverter.com
-0.0.0.0 www.ftp.server379672.nazwa.pl
 0.0.0.0 www.game.apps.co.pl
 0.0.0.0 www.go.bestmobiworld.com
 0.0.0.0 www.gw.firesub.pl
@@ -10314,6 +10342,20 @@
 0.0.0.0 www.sprnr59813.net
 0.0.0.0 www.support1.trocable.ga
 0.0.0.0 www.support2.trocable.ga
+0.0.0.0 www.tekerstreet6.live
+0.0.0.0 www.tekerstreet7.live
+0.0.0.0 www.tekerstreet8.live
+0.0.0.0 www.tekerstreet9.live
+0.0.0.0 www.tekerstreet10.live
+0.0.0.0 www.tekerstreet11.live
+0.0.0.0 www.tekerstreet12.live
+0.0.0.0 www.tekerstreet13.live
+0.0.0.0 www.tekerstreet14.live
+0.0.0.0 www.tekerstreet15.live
+0.0.0.0 www.tekerstreet16.live
+0.0.0.0 www.tekerstreet17.live
+0.0.0.0 www.tekerstreet18.live
+0.0.0.0 www.tekerstreet19.live
 0.0.0.0 www.thecryptogenius.com
 0.0.0.0 www.training.sitegiant.info
 0.0.0.0 www.u706163p6w.ha004.t.justns.ru
