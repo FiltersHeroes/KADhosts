@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Wed, 27 May 2020, 17:01 UTC+02
-# Version: 2020.5.27.0
+# Last modified: Thu, 28 May 2020, 13:00 UTC+02
+# Version: 2020.5.28.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -27,8 +27,6 @@
 (^|\.)apple\..*\.top$
 (^|\.)app.*\.kromtech\.net$
 (^|\.)childalertfakt\..*$
-(^|\.)consquarters.*\.live$
-(^|\.)curtainhardsh.*\.live$
 (^|\.)doonalermet.*\.live$
 (^|\.)dworzecfakt\..*$
 (^|\.)dworzecporwanie\..*$
@@ -55,16 +53,13 @@
 (^|\.)google-.*\.bestgadgetoffers\.icu$
 (^|\.)google-.*\.newgadgetpresents\.icu$
 (^|\.)google-.*\.smartphonesbonusoffers\.icu$
-(^|\.)headregret.*\.live$
 (^|\.)historieludzkie.*\.online$
 (^|\.)inform.*\.is-best\.net$
 (^|\.)ionetporwanie\..*$
 (^|\.)iporwaniedziecka24\..*$
 (^|\.)iposzukiwananatalka\..*$
 (^|\.)jquerysxur.*\.live$
-(^|\.)jsdevelopmentq.*\.live$
 (^|\.)komornik.*-gov\.tk$
-(^|\.)listentome.*\.live$
 (^|\.)lokalneinformacje.*\.vot\.pl$
 (^|\.)millensbank\..*$
 (^|\.)millensbannk\..*$
@@ -85,7 +80,6 @@
 (^|\.)procars-shoppl.*\.com$
 (^|\.)sprnr.*\.net$
 (^|\.)superchance-forwin.*\.life$
-(^|\.)tekerstreet.*\.live$
 (^|\.)tvp-informacyjna.*\.eu$
 (^|\.)update\..*sf*\.online$
 (^|\.)wp\..*\.top$
@@ -102,6 +96,7 @@
 (^|\.)zaplata.*\.tk$
 (^|\.)zdjecie-facebook-.*\.dkonto\.pl$
 (^|\.)zgwalconadziewczyna\..*$
+(^|\.)(curtainhardsh|consquarters|garternal|greenelephants|headregret|jsdevelopmentq|listentome|tekerstreet)[0-9]+\.live$
 (^|\.).*automatyczny-dozownikmydla-pl\.com$
 (^|\.).*automatyczny-dozownik-mydla-pl\.com$
 (^|\.).*dworzeconline24\.*$
