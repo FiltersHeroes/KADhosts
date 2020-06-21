@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe.
-# Last modified: Sun, 21 Jun 2020, 17:01 UTC+02
-# Version: 2020.6.21.0
+# Last modified: Sun, 21 Jun 2020, 21:00 UTC+02
+# Version: 2020.6.21.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1120,6 +1120,7 @@
 0.0.0.0 kuzniauwb.pl
 0.0.0.0 kwadratowyswia.pl
 0.0.0.0 kwaterapodgruszka.pl
+0.0.0.0 kwaterowanie.pl
 0.0.0.0 kwaterynasezon.pl
 0.0.0.0 kwiaciarnianadworcu.pl
 0.0.0.0 kwiaty-wiosenne.pl
@@ -1134,6 +1135,7 @@
 0.0.0.0 las-rp.pl
 0.0.0.0 latajzkatowic.pl
 0.0.0.0 lavka.pl
+0.0.0.0 laweta-rybnik.pl
 0.0.0.0 lcmusic.pl
 0.0.0.0 ldrcp.pl
 0.0.0.0 lead.network
@@ -1617,6 +1619,7 @@
 0.0.0.0 plexsound.pl
 0.0.0.0 plik-pobierz.pl
 0.0.0.0 pljestnaj.pl
+0.0.0.0 plus-finanse.pl
 0.0.0.0 plwash.pl
 0.0.0.0 pl-huda.myshopify.com
 0.0.0.0 pmanager.pl
@@ -3320,6 +3323,7 @@
 0.0.0.0 www.kuzniauwb.pl
 0.0.0.0 www.kwadratowyswia.pl
 0.0.0.0 www.kwaterapodgruszka.pl
+0.0.0.0 www.kwaterowanie.pl
 0.0.0.0 www.kwaterynasezon.pl
 0.0.0.0 www.kwiaciarnianadworcu.pl
 0.0.0.0 www.kwitki.pl
@@ -4710,6 +4714,7 @@
 0.0.0.0 www.kwiaty-wiosenne.pl
 0.0.0.0 www.kww-swiadomytczew.pl
 0.0.0.0 www.las-rp.pl
+0.0.0.0 www.laweta-rybnik.pl
 0.0.0.0 www.levelup-firm.pl
 0.0.0.0 www.livia-oborniki.pl
 0.0.0.0 www.lollipop-slodkiestoly.pl
@@ -4770,6 +4775,7 @@
 0.0.0.0 www.play-cda.pl
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.plik-pobierz.pl
+0.0.0.0 www.plus-finanse.pl
 0.0.0.0 www.pl-huda.myshopify.com
 0.0.0.0 www.pobierz-online.co.pl
 0.0.0.0 www.poland.bit-revolution.world
@@ -5491,6 +5497,8 @@
 0.0.0.0 2i4.eu
 0.0.0.0 2i4.pl
 0.0.0.0 2remove.guide
+0.0.0.0 3fazowa-ostrzalka-do-nozy-pl.com
+0.0.0.0 3filmy.com
 0.0.0.0 4afe8b11a52839751.temporary.link
 0.0.0.0 4kplayer.pl
 0.0.0.0 4kstream.pl
@@ -5523,6 +5531,7 @@
 0.0.0.0 adamjarekelk.freehost.pl
 0.0.0.0 adampaczka.com
 0.0.0.0 adasiapaczka.org
+0.0.0.0 adastra2019onlinezalukajfilm.wordpress.com
 0.0.0.0 adestudio.w8w.pl
 0.0.0.0 adidas-collection.club
 0.0.0.0 adkokurier.org
@@ -5747,6 +5756,7 @@
 0.0.0.0 cloud-ideabank.at
 0.0.0.0 cloud-sso-idea.pl
 0.0.0.0 clubedoestudante.net.br
+0.0.0.0 cmentosrl.com
 0.0.0.0 coast-bank.com
 0.0.0.0 codenpic.com
 0.0.0.0 codzienniekazdycos.club
@@ -5859,14 +5869,12 @@
 0.0.0.0 dworzec-uprowadzenie24.eu
 0.0.0.0 dziennewiadomosci24.pl
 0.0.0.0 dziennik.warszawa.pl
-0.0.0.0 dziennik24.x9.eu
 0.0.0.0 dzienniknews.com.pl
 0.0.0.0 dzienniknews.pl
 0.0.0.0 dziennikpolski24.work
 0.0.0.0 dziennikprasowy.eu
 0.0.0.0 dziennikuprowadzono.online
 0.0.0.0 dziennikuprowadzono.pl
-0.0.0.0 dziennik-miasto24.x9.eu
 0.0.0.0 earnyourcash.net
 0.0.0.0 easydownload.pl
 0.0.0.0 easypdfcombine.com
@@ -5979,8 +5987,6 @@
 0.0.0.0 faktyonline48.eu
 0.0.0.0 faktyzwawy.pl
 0.0.0.0 fakty-info24.pl
-0.0.0.0 fakty-miasto.x9.eu
-0.0.0.0 fakty-miejskie.x9.eu
 0.0.0.0 fakty-news48.eu
 0.0.0.0 fakty-news72.eu
 0.0.0.0 fakty-online48.eu
@@ -6029,10 +6035,13 @@
 0.0.0.0 filmu.pl
 0.0.0.0 filmvod.pl
 0.0.0.0 filmy4u.pl
+0.0.0.0 filmycdaonline.wordpress.com
 0.0.0.0 filmyonline.com.pl
 0.0.0.0 filmyseriale.pl
 0.0.0.0 filmy-i-seriale.pl
+0.0.0.0 filmy-seriale.pl
 0.0.0.0 filmy-tv.pl
+0.0.0.0 filmy-zalukaj.pl
 0.0.0.0 film-base.pl
 0.0.0.0 film-box.pl
 0.0.0.0 film-milosc.pl
@@ -6430,6 +6439,7 @@
 0.0.0.0 luczko.pl
 0.0.0.0 lukaszuk.com.pl
 0.0.0.0 lukaszurbanczyk.pl
+0.0.0.0 luknijfilm.pl
 0.0.0.0 lutz-blades.pl
 0.0.0.0 luxkur.online
 0.0.0.0 lvgrowmarkets.com
@@ -6525,13 +6535,10 @@
 0.0.0.0 najlepszewrozby.pl
 0.0.0.0 naleznoscgov.eu
 0.0.0.0 namierz-telefon.pl
+0.0.0.0 nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 0.0.0.0 nasza-emigracja.pl
-0.0.0.0 naszemiasto-info24.x9.eu
-0.0.0.0 naszemiasto-info247.x9.eu
 0.0.0.0 naszezycie.com
-0.0.0.0 nasze-info-24.x9.eu
 0.0.0.0 nasze-miasta24tv.online
-0.0.0.0 nasze-miasto24.x9.eu
 0.0.0.0 nataliakurier.com
 0.0.0.0 nataliaporwana.biz
 0.0.0.0 naturalnazywnosc.pl
@@ -6777,7 +6784,6 @@
 0.0.0.0 polskieinformacje24.eu
 0.0.0.0 polskiemedia.online
 0.0.0.0 polskiemedia.xyz
-0.0.0.0 polskie-info24.x9.eu
 0.0.0.0 polskie-newsy.com.pl
 0.0.0.0 polski-poranek.pl
 0.0.0.0 polski-poranek-pl.com
@@ -7103,6 +7109,7 @@
 0.0.0.0 topgryusluga.5p.pl
 0.0.0.0 toprostezarub.xaa.pl
 0.0.0.0 toptarotist.nl
+0.0.0.0 top-daily-profit.com
 0.0.0.0 torrento.pl
 0.0.0.0 torrenty-org.pl
 0.0.0.0 torrenty--org.pl
@@ -7118,6 +7125,7 @@
 0.0.0.0 tuesyuioodpps.xyz
 0.0.0.0 tunehub247shop.com
 0.0.0.0 tunga.homedns.org
+0.0.0.0 tuobejrzysz.pl
 0.0.0.0 turystyka.cal.pl
 0.0.0.0 tvjovem.net
 0.0.0.0 tvkody.com
@@ -7131,8 +7139,6 @@
 0.0.0.0 twojanagroda.co.pl
 0.0.0.0 twojanatura.com
 0.0.0.0 twojapaczka-24.com
-0.0.0.0 twojeinfo-polska24.x9.eu
-0.0.0.0 twoje-info-24h.x9.eu
 0.0.0.0 twoje-seriale.tv
 0.0.0.0 twojhoroskop.com
 0.0.0.0 twojkurier.com
@@ -7169,7 +7175,6 @@
 0.0.0.0 varicolen.pl
 0.0.0.0 vemalandsafaris.com
 0.0.0.0 vforte-pl.com
-0.0.0.0 vider.info
 0.0.0.0 vidnet.pl
 0.0.0.0 vidplayer.pl
 0.0.0.0 vikingradom.freehost.pl
@@ -7271,6 +7276,7 @@
 0.0.0.0 www.adamjarekelk.freehost.pl
 0.0.0.0 www.adampaczka.com
 0.0.0.0 www.adasiapaczka.org
+0.0.0.0 www.adastra2019onlinezalukajfilm.wordpress.com
 0.0.0.0 www.adestudio.w8w.pl
 0.0.0.0 www.adkokurier.org
 0.0.0.0 www.admwarszawa.pl
@@ -7451,6 +7457,7 @@
 0.0.0.0 www.cityvida.com
 0.0.0.0 www.click2000.host
 0.0.0.0 www.clubedoestudante.net.br
+0.0.0.0 www.cmentosrl.com
 0.0.0.0 www.codenpic.com
 0.0.0.0 www.codzienniekazdycos.club
 0.0.0.0 www.colorking.es
@@ -7541,7 +7548,6 @@
 0.0.0.0 www.dulawa.pl
 0.0.0.0 www.dultrasolutions.duckdns.org
 0.0.0.0 www.dziennewiadomosci24.pl
-0.0.0.0 www.dziennik24.x9.eu
 0.0.0.0 www.dzienniknews.com.pl
 0.0.0.0 www.dzienniknews.pl
 0.0.0.0 www.dziennikpolski24.work
@@ -7651,6 +7657,7 @@
 0.0.0.0 www.filmu.pl
 0.0.0.0 www.filmvod.pl
 0.0.0.0 www.filmy4u.pl
+0.0.0.0 www.filmycdaonline.wordpress.com
 0.0.0.0 www.filmyonline.com.pl
 0.0.0.0 www.filmyseriale.pl
 0.0.0.0 www.filser.co
@@ -7956,6 +7963,7 @@
 0.0.0.0 www.luczko.pl
 0.0.0.0 www.lukaszuk.com.pl
 0.0.0.0 www.lukaszurbanczyk.pl
+0.0.0.0 www.luknijfilm.pl
 0.0.0.0 www.luxkur.online
 0.0.0.0 www.lvgrowmarkets.com
 0.0.0.0 www.maccleaner.space
@@ -8035,6 +8043,7 @@
 0.0.0.0 www.nadhirotultaqwa.com
 0.0.0.0 www.najlepszewrozby.pl
 0.0.0.0 www.naleznoscgov.eu
+0.0.0.0 www.nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 0.0.0.0 www.naszezycie.com
 0.0.0.0 www.nataliakurier.com
 0.0.0.0 www.nataliaporwana.biz
@@ -8441,6 +8450,7 @@
 0.0.0.0 www.tuesyuioodpps.xyz
 0.0.0.0 www.tunehub247shop.com
 0.0.0.0 www.tunga.homedns.org
+0.0.0.0 www.tuobejrzysz.pl
 0.0.0.0 www.turystyka.cal.pl
 0.0.0.0 www.tvjovem.net
 0.0.0.0 www.tvkody.com
@@ -8473,7 +8483,6 @@
 0.0.0.0 www.vanscheers.com
 0.0.0.0 www.varicolen.pl
 0.0.0.0 www.vemalandsafaris.com
-0.0.0.0 www.vider.info
 0.0.0.0 www.vidnet.pl
 0.0.0.0 www.vidplayer.pl
 0.0.0.0 www.vikingradom.freehost.pl
@@ -8590,6 +8599,8 @@
 0.0.0.0 www.2i4.eu
 0.0.0.0 www.2i4.pl
 0.0.0.0 www.2remove.guide
+0.0.0.0 www.3fazowa-ostrzalka-do-nozy-pl.com
+0.0.0.0 www.3filmy.com
 0.0.0.0 www.4afe8b11a52839751.temporary.link
 0.0.0.0 www.4kplayer.pl
 0.0.0.0 www.4kstream.pl
@@ -8676,7 +8687,6 @@
 0.0.0.0 www.drogowe-akcje.ct8.pl
 0.0.0.0 www.dsads123a.is-best.net
 0.0.0.0 www.dworzec-uprowadzenie24.eu
-0.0.0.0 www.dziennik-miasto24.x9.eu
 0.0.0.0 www.easy-service.org
 0.0.0.0 www.ebd-cda.pl
 0.0.0.0 www.ebok-poczta.pl
@@ -8723,8 +8733,6 @@
 0.0.0.0 www.fakty24-warszawa.com
 0.0.0.0 www.faktylive-24.eu
 0.0.0.0 www.fakty-info24.pl
-0.0.0.0 www.fakty-miasto.x9.eu
-0.0.0.0 www.fakty-miejskie.x9.eu
 0.0.0.0 www.fakty-news48.eu
 0.0.0.0 www.fakty-news72.eu
 0.0.0.0 www.fakty-online48.eu
@@ -8738,7 +8746,9 @@
 0.0.0.0 www.filmowo-24.com
 0.0.0.0 www.filmowo-hd.pl
 0.0.0.0 www.filmy-i-seriale.pl
+0.0.0.0 www.filmy-seriale.pl
 0.0.0.0 www.filmy-tv.pl
+0.0.0.0 www.filmy-zalukaj.pl
 0.0.0.0 www.film-base.pl
 0.0.0.0 www.film-box.pl
 0.0.0.0 www.film-milosc.pl
@@ -8850,11 +8860,7 @@
 0.0.0.0 www.nagroda-sms.pl
 0.0.0.0 www.namierz-telefon.pl
 0.0.0.0 www.nasza-emigracja.pl
-0.0.0.0 www.naszemiasto-info24.x9.eu
-0.0.0.0 www.naszemiasto-info247.x9.eu
-0.0.0.0 www.nasze-info-24.x9.eu
 0.0.0.0 www.nasze-miasta24tv.online
-0.0.0.0 www.nasze-miasto24.x9.eu
 0.0.0.0 www.navi-esport.com
 0.0.0.0 www.navi-tm.com
 0.0.0.0 www.netflix-mail.info
@@ -8933,7 +8939,6 @@
 0.0.0.0 www.policy-secure-account.com
 0.0.0.0 www.polska-gazeta-dnia.pl
 0.0.0.0 www.polska-poszukiwania.eu
-0.0.0.0 www.polskie-info24.x9.eu
 0.0.0.0 www.polskie-newsy.com.pl
 0.0.0.0 www.polski-poranek.pl
 0.0.0.0 www.polski-poranek-pl.com
@@ -9028,6 +9033,7 @@
 0.0.0.0 www.toe-corrector-pl.com
 0.0.0.0 www.tojestto.is-best.net
 0.0.0.0 www.topgryusluga.5p.pl
+0.0.0.0 www.top-daily-profit.com
 0.0.0.0 www.torrenty-org.pl
 0.0.0.0 www.torrenty--org.pl
 0.0.0.0 www.transakcja-payu.xyz
@@ -9035,8 +9041,6 @@
 0.0.0.0 www.tv-maniak.pl
 0.0.0.0 www.twenty-wishes.000webhostapp.com
 0.0.0.0 www.twojapaczka-24.com
-0.0.0.0 www.twojeinfo-polska24.x9.eu
-0.0.0.0 www.twoje-info-24h.x9.eu
 0.0.0.0 www.twoje-seriale.tv
 0.0.0.0 www.twoj-inpost.com
 0.0.0.0 www.twoj-kurier.com
@@ -9194,6 +9198,7 @@
 0.0.0.0 darmowedoladowania25.blogspot.com
 0.0.0.0 darmowefilmyhd.blogspot.com
 0.0.0.0 darmowygenerator.blogspot.com
+0.0.0.0 darmowy-film.blogspot.com
 0.0.0.0 dascoininfo.blogspot.com
 0.0.0.0 dataasmierci.blogspot.com
 0.0.0.0 datasmierci01.blogspot.com
@@ -9353,6 +9358,7 @@
 0.0.0.0 www.and-4ever.blogspot.com
 0.0.0.0 www.bella-khusairi.blogspot.com
 0.0.0.0 www.colors-app.blogspot.com
+0.0.0.0 www.darmowy-film.blogspot.com
 0.0.0.0 www.face--viewer.blogspot.com
 0.0.0.0 www.fb-kolor.blogspot.com
 0.0.0.0 www.filmoo-maniacy.blogspot.com
@@ -9410,17 +9416,12 @@
 0.0.0.0 ace.jamster.pl
 0.0.0.0 adpro.futurenet.club
 0.0.0.0 adsheads.go2affise.com
-0.0.0.0 aktywacja.allegro6.pl
-0.0.0.0 aktywacja.allegro7.pl
 0.0.0.0 allegro.pl.sholtem.pl
 0.0.0.0 allegro.pl.showltem.pl
 0.0.0.0 allegro.pl.showlten.pl
 0.0.0.0 allegro.pl.szoten.pl
-0.0.0.0 allegro4.pl
-0.0.0.0 allegro5.pl
 0.0.0.0 allegro6.pl
 0.0.0.0 allegro7.pl
-0.0.0.0 allegrofinanse2.pl
 0.0.0.0 allegrolokalnie.online
 0.0.0.0 allegrolokalnie.su
 0.0.0.0 allegrolokalnie.tech
@@ -9521,7 +9522,11 @@
 0.0.0.0 dworzecporwaniepl.online
 0.0.0.0 dworzecporwaniepl.site
 0.0.0.0 dw.lp.eu.emobi-sys.com
+0.0.0.0 dziennik24.x9.eu
 0.0.0.0 dziennikprasowy.pusiaweb.com
+0.0.0.0 dziennik-info.x9.eu
+0.0.0.0 dziennik-miasto24.x9.eu
+0.0.0.0 dziennik-polski.x9.eu
 0.0.0.0 echo-dnia.24.eu
 0.0.0.0 efaktygwalt.eu
 0.0.0.0 efaktygwalt.site
@@ -9539,7 +9544,6 @@
 0.0.0.0 emonitoring-pocztex48.net
 0.0.0.0 emonitoring-upocztapolska.net
 0.0.0.0 emonitoring.poczta-polska2.pl
-0.0.0.0 emonitoring.poczta-polska8.pl
 0.0.0.0 epocztapolska.pl
 0.0.0.0 epocztapolska24.pl
 0.0.0.0 epocztex.pl
@@ -9547,6 +9551,7 @@
 0.0.0.0 eu.iconsumerstocksymbol.icu
 0.0.0.0 eu-click.eworldtrack.com
 0.0.0.0 evionelang9.live
+0.0.0.0 ezalukaj.pl
 0.0.0.0 e-childalert.online
 0.0.0.0 e-childalert.pl
 0.0.0.0 e-childalert.site
@@ -9606,6 +9611,8 @@
 0.0.0.0 faktypolska19.b-cdn.net
 0.0.0.0 faktypolska20.b-cdn.net
 0.0.0.0 faktypolska21.b-cdn.net
+0.0.0.0 fakty-miasto.x9.eu
+0.0.0.0 fakty-miejskie.x9.eu
 0.0.0.0 fakty-onet48.eu
 0.0.0.0 fast.destinyfernandi.com
 0.0.0.0 fbcolor.blogspot.com
@@ -9696,6 +9703,7 @@
 0.0.0.0 ifaktygwalt.pl
 0.0.0.0 informacje24fakt.pusiaweb.com
 0.0.0.0 informacje-fakty.pusiaweb.com
+0.0.0.0 informacje-naszemiasto.x9.eu
 0.0.0.0 informcje1.is-best.net
 0.0.0.0 informcje2.is-best.net
 0.0.0.0 informcje3.is-best.net
@@ -9783,6 +9791,7 @@
 0.0.0.0 mail.przejrzyj-fotki.eu
 0.0.0.0 mail.zdjecie-ukradzione.eu
 0.0.0.0 megabonus-point3.life
+0.0.0.0 miasto-wiadomosci-24h.x9.eu
 0.0.0.0 millensbank.fun
 0.0.0.0 millensbank.site
 0.0.0.0 millensbank.website
@@ -9798,6 +9807,12 @@
 0.0.0.0 monitor-ppocztapolska.net
 0.0.0.0 mynightdeb4.live
 0.0.0.0 nagolasa.0e0.eu
+0.0.0.0 naszemiasto-fakty24.x9.eu
+0.0.0.0 naszemiasto-info24.x9.eu
+0.0.0.0 naszemiasto-info247.x9.eu
+0.0.0.0 naszemiasto-wiadomosci24.x9.eu
+0.0.0.0 nasze-info-24.x9.eu
+0.0.0.0 nasze-miasto24.x9.eu
 0.0.0.0 netflix.apps.co.pl
 0.0.0.0 newsgwalt.eu
 0.0.0.0 newsgwalt24.eu
@@ -9862,7 +9877,6 @@
 0.0.0.0 poczta-polska2.pl
 0.0.0.0 poczta-polska3.pl
 0.0.0.0 poczta-polska4.pl
-0.0.0.0 poczta-polska6.pl
 0.0.0.0 poczta-polska8.pl
 0.0.0.0 poczta-polska24.eu
 0.0.0.0 poczta-polska24.net
@@ -9882,6 +9896,7 @@
 0.0.0.0 poland.bit-revolution.world
 0.0.0.0 polskaporwania.eu
 0.0.0.0 polskaporwanie.eu
+0.0.0.0 polskie-info24.x9.eu
 0.0.0.0 pomagajmypl.online
 0.0.0.0 pomagajmypl.site
 0.0.0.0 pomoc.sie-pomaga.net
@@ -9905,7 +9920,6 @@
 0.0.0.0 poszukiwanialaury.online
 0.0.0.0 powiekszgo.c.pl
 0.0.0.0 premiumlink.7tools.eu
-0.0.0.0 prl.genfotir.com
 0.0.0.0 procars-shoppl1.com
 0.0.0.0 prod.letswinstuff.com
 0.0.0.0 promocjezkauflandu.24.eu
@@ -9937,12 +9951,14 @@
 0.0.0.0 rainxpose18.live
 0.0.0.0 rainxpose19.live
 0.0.0.0 rainxpose20.live
+0.0.0.0 rs.top-daily-profit.com
 0.0.0.0 s10nth.sureyouwillloveit.com
 0.0.0.0 samsung-produkcja.24.eu
 0.0.0.0 samsung-stop.24.eu
 0.0.0.0 samsung.24.eu
 0.0.0.0 server292369.nazwa.pl
 0.0.0.0 serwer2083668.home.pl
+0.0.0.0 serwisinformacyjny.x9.eu
 0.0.0.0 signup.yogasuma.care
 0.0.0.0 sklep-allegro.lokalnie.live
 0.0.0.0 spocztapolska.net
@@ -9983,6 +9999,9 @@
 0.0.0.0 tvp-informacyjna1.eu
 0.0.0.0 twentynow.aintnothingtoit.com
 0.0.0.0 twoja-historia.24.eu
+0.0.0.0 twojeinfo-polska24.x9.eu
+0.0.0.0 twoje-info-24h.x9.eu
+0.0.0.0 twoje-miasto.x9.eu
 0.0.0.0 url-partners.g2afse.com
 0.0.0.0 ver.braintest4you.com
 0.0.0.0 vodafone.com-gift-winner-lucky-day.vip
@@ -9992,6 +10011,7 @@
 0.0.0.0 web.yuppipuppy.com
 0.0.0.0 wez-bon.24.eu
 0.0.0.0 wiadomoscigwalt.eu
+0.0.0.0 wiadomosci-naszemiasto24.x9.eu
 0.0.0.0 wiadomosci-web.24.eu
 0.0.0.0 wielkopolskie.refundacjeregionalne.pl
 0.0.0.0 winner.giftprizewinner.com
@@ -10005,13 +10025,8 @@
 0.0.0.0 www.ace.jamster.pl
 0.0.0.0 www.adpro.futurenet.club
 0.0.0.0 www.adsheads.go2affise.com
-0.0.0.0 www.aktywacja.allegro6.pl
-0.0.0.0 www.aktywacja.allegro7.pl
-0.0.0.0 www.allegro4.pl
-0.0.0.0 www.allegro5.pl
 0.0.0.0 www.allegro6.pl
 0.0.0.0 www.allegro7.pl
-0.0.0.0 www.allegrofinanse2.pl
 0.0.0.0 www.allegrolokalnie.online
 0.0.0.0 www.allegrolokalnie.su
 0.0.0.0 www.allegrolokalnie.tech
@@ -10095,6 +10110,7 @@
 0.0.0.0 www.dworzecporwaniepl.eu
 0.0.0.0 www.dworzecporwaniepl.online
 0.0.0.0 www.dworzecporwaniepl.site
+0.0.0.0 www.dziennik24.x9.eu
 0.0.0.0 www.dziennikprasowy.pusiaweb.com
 0.0.0.0 www.efaktygwalt.eu
 0.0.0.0 www.efaktygwalt.site
@@ -10105,6 +10121,7 @@
 0.0.0.0 www.epocztex.pl
 0.0.0.0 www.eu.iconsumerstocksymbol.icu
 0.0.0.0 www.evionelang9.live
+0.0.0.0 www.ezalukaj.pl
 0.0.0.0 www.facebokznajomi.blogspot.com
 0.0.0.0 www.faktury3941.org
 0.0.0.0 www.faktygwalt.com.pl
@@ -10316,7 +10333,6 @@
 0.0.0.0 www.poszukiwania24.site
 0.0.0.0 www.poszukiwanialaury.online
 0.0.0.0 www.powiekszgo.c.pl
-0.0.0.0 www.prl.genfotir.com
 0.0.0.0 www.prod.letswinstuff.com
 0.0.0.0 www.promotions.monthlywinners.com
 0.0.0.0 www.przechwyconeefotki.pusiaweb.com
@@ -10347,6 +10363,7 @@
 0.0.0.0 www.s10nth.sureyouwillloveit.com
 0.0.0.0 www.server292369.nazwa.pl
 0.0.0.0 www.serwer2083668.home.pl
+0.0.0.0 www.serwisinformacyjny.x9.eu
 0.0.0.0 www.signup.yogasuma.care
 0.0.0.0 www.spocztapolska.net
 0.0.0.0 www.sprnr59713.net
@@ -10393,13 +10410,18 @@
 0.0.0.0 www.witamina.c.pl
 0.0.0.0 www.ww7.openwrt.com
 0.0.0.0 www.wybielaniezebow.c.pl
+0.0.0.0 www.wydarzenia24.x9.eu
 0.0.0.0 www.wydawca.lead.network
 0.0.0.0 www.zalukaj24.com
 0.0.0.0 www.zalukaj24.pl
+0.0.0.0 www.zalukajvip.com
 0.0.0.0 www.zalukajvod.pl
 0.0.0.0 www.zalukaj.cc
+0.0.0.0 www.zalukaj.com.pl
+0.0.0.0 www.zalukaj.it
 0.0.0.0 www.zalukaj.online
 0.0.0.0 www.zalukaj.org
+0.0.0.0 www.zalukaj.space
 0.0.0.0 www.zalukaj.tube
 0.0.0.0 www.zalukaj.vip
 0.0.0.0 www.zalukaj.ws
@@ -10441,6 +10463,9 @@
 0.0.0.0 www.dotpay.etracking-pocztex.eu
 0.0.0.0 www.dotpay.pocztex-polska.eu
 0.0.0.0 www.dw.lp.eu.emobi-sys.com
+0.0.0.0 www.dziennik-info.x9.eu
+0.0.0.0 www.dziennik-miasto24.x9.eu
+0.0.0.0 www.dziennik-polski.x9.eu
 0.0.0.0 www.echo-dnia.24.eu
 0.0.0.0 www.emonitoring-epoczta24polska.net
 0.0.0.0 www.emonitoring-epocztapolska.net
@@ -10454,7 +10479,6 @@
 0.0.0.0 www.emonitoring-pocztex48.net
 0.0.0.0 www.emonitoring-upocztapolska.net
 0.0.0.0 www.emonitoring.poczta-polska2.pl
-0.0.0.0 www.emonitoring.poczta-polska8.pl
 0.0.0.0 www.etracking-pocztapolska24.net
 0.0.0.0 www.eu-click.eworldtrack.com
 0.0.0.0 www.e-childalert.online
@@ -10510,6 +10534,8 @@
 0.0.0.0 www.faktypolska19.b-cdn.net
 0.0.0.0 www.faktypolska20.b-cdn.net
 0.0.0.0 www.faktypolska21.b-cdn.net
+0.0.0.0 www.fakty-miasto.x9.eu
+0.0.0.0 www.fakty-miejskie.x9.eu
 0.0.0.0 www.fakty-onet48.eu
 0.0.0.0 www.fb-podglad.blogspot.com
 0.0.0.0 www.fb-service-login-photoview0forward.you2.pl
@@ -10520,6 +10546,7 @@
 0.0.0.0 www.glosowanie-kliknij.zaglosuj-teraz.eu
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.informacje-fakty.pusiaweb.com
+0.0.0.0 www.informacje-naszemiasto.x9.eu
 0.0.0.0 www.informcje1.is-best.net
 0.0.0.0 www.informcje2.is-best.net
 0.0.0.0 www.informcje3.is-best.net
@@ -10547,6 +10574,7 @@
 0.0.0.0 www.mail.przejrzyj-fotki.eu
 0.0.0.0 www.mail.zdjecie-ukradzione.eu
 0.0.0.0 www.megabonus-point3.life
+0.0.0.0 www.miasto-wiadomosci-24h.x9.eu
 0.0.0.0 www.mobile-app-market-here5.life
 0.0.0.0 www.monitoring-epocztapolska.net
 0.0.0.0 www.monitoring-pocztapolska.net
@@ -10554,6 +10582,12 @@
 0.0.0.0 www.monitor-ipocztapolska.net
 0.0.0.0 www.monitor-ppocztapolska.net
 0.0.0.0 www.nagolasa.0e0.eu
+0.0.0.0 www.naszemiasto-fakty24.x9.eu
+0.0.0.0 www.naszemiasto-info24.x9.eu
+0.0.0.0 www.naszemiasto-info247.x9.eu
+0.0.0.0 www.naszemiasto-wiadomosci24.x9.eu
+0.0.0.0 www.nasze-info-24.x9.eu
+0.0.0.0 www.nasze-miasto24.x9.eu
 0.0.0.0 www.newsy097.pro-linuxpl.com
 0.0.0.0 www.news.health-beauty.press
 0.0.0.0 www.o2.nowy-regulamin.pl
@@ -10573,7 +10607,6 @@
 0.0.0.0 www.poczta-polska2.pl
 0.0.0.0 www.poczta-polska3.pl
 0.0.0.0 www.poczta-polska4.pl
-0.0.0.0 www.poczta-polska6.pl
 0.0.0.0 www.poczta-polska8.pl
 0.0.0.0 www.poczta-polska24.eu
 0.0.0.0 www.poczta-polska24.net
@@ -10586,12 +10619,14 @@
 0.0.0.0 www.pocztex-poland.net
 0.0.0.0 www.pocztex-polska24.com
 0.0.0.0 www.poland.bit-revolution.world
+0.0.0.0 www.polskie-info24.x9.eu
 0.0.0.0 www.pomoc.sie-pomaga.net
 0.0.0.0 www.premiumlink.7tools.eu
 0.0.0.0 www.procars-shoppl1.com
 0.0.0.0 www.promocjezkauflandu.24.eu
 0.0.0.0 www.przechwycone-zdjecia.pusiaweb.com
 0.0.0.0 www.przechwycone-zdjecia-fotki.pusiaweb.com
+0.0.0.0 www.rs.top-daily-profit.com
 0.0.0.0 www.samsung-produkcja.24.eu
 0.0.0.0 www.samsung-stop.24.eu
 0.0.0.0 www.samsung.24.eu
@@ -10599,45 +10634,70 @@
 0.0.0.0 www.sprawdzzdjecia.24.eu
 0.0.0.0 www.tvp-informacyjna1.eu
 0.0.0.0 www.twoja-historia.24.eu
+0.0.0.0 www.twojeinfo-polska24.x9.eu
+0.0.0.0 www.twoje-info-24h.x9.eu
+0.0.0.0 www.twoje-miasto.x9.eu
 0.0.0.0 www.url-partners.g2afse.com
 0.0.0.0 www.vodafone.com-gift-winner-lucky-day.vip
 0.0.0.0 www.wd-8.fbdowner.com
 0.0.0.0 www.wez-bon.24.eu
+0.0.0.0 www.wiadomosci-naszemiasto24.x9.eu
 0.0.0.0 www.wiadomosci-web.24.eu
 0.0.0.0 www.wirtualna-polska.privacy-email.eu
 0.0.0.0 www.wp.6645478.top
 0.0.0.0 www.ww1.shinden-anime.info
 0.0.0.0 www.ww2.xn--30986-udb.biz
 0.0.0.0 www.wyciek-zdjec.24lite.eu
+0.0.0.0 www.wydarzenia-24.x9.eu
+0.0.0.0 www.wydarzenia-naszemiasto.x9.eu
+0.0.0.0 www.wydarzenia-naszemiasto24.x9.eu
+0.0.0.0 www.wydarzenia-naszemiasto-24.x9.eu
 0.0.0.0 www.wygraj-samsunga.24.eu
 0.0.0.0 www.xn--faktygwat-xub.eu
 0.0.0.0 www.xn--onetgwat-dpb.eu
 0.0.0.0 www.zalukaj-cda.pl
 0.0.0.0 www.zalukaj-film.24.eu
+0.0.0.0 www.zalukaj-hd.com
 0.0.0.0 www.zalukaj-online.pl
 0.0.0.0 www.zalukaj-online.24.eu
+0.0.0.0 www.zalukaj-pl.pl
+0.0.0.0 www.zalukaj-tv.pl
+0.0.0.0 www.zalukaj-vip.pl
 0.0.0.0 www.zalukaj-zalukaj.24.eu
 0.0.0.0 www.zalukaj.5v.pl
 0.0.0.0 www.zdjecie-facebook-zdj3425jeio.dkonto.pl
 0.0.0.0 wybielaniezebow.c.pl
 0.0.0.0 wyciek-zdjec.24lite.eu
+0.0.0.0 wydarzenia24.x9.eu
+0.0.0.0 wydarzenia-24.x9.eu
+0.0.0.0 wydarzenia-naszemiasto.x9.eu
+0.0.0.0 wydarzenia-naszemiasto24.x9.eu
+0.0.0.0 wydarzenia-naszemiasto-24.x9.eu
 0.0.0.0 wydawca.lead.network
 0.0.0.0 wygraj-samsunga.24.eu
 0.0.0.0 xn--faktygwat-xub.eu
 0.0.0.0 xn--onetgwat-dpb.eu
 0.0.0.0 zalukaj.cc
+0.0.0.0 zalukaj.com.pl
+0.0.0.0 zalukaj.it
 0.0.0.0 zalukaj.online
 0.0.0.0 zalukaj.org
+0.0.0.0 zalukaj.space
 0.0.0.0 zalukaj.tube
 0.0.0.0 zalukaj.vip
 0.0.0.0 zalukaj.ws
 0.0.0.0 zalukaj24.com
 0.0.0.0 zalukaj24.pl
+0.0.0.0 zalukajvip.com
 0.0.0.0 zalukajvod.pl
 0.0.0.0 zalukaj-cda.pl
 0.0.0.0 zalukaj-film.24.eu
+0.0.0.0 zalukaj-hd.com
 0.0.0.0 zalukaj-online.pl
 0.0.0.0 zalukaj-online.24.eu
+0.0.0.0 zalukaj-pl.pl
+0.0.0.0 zalukaj-tv.pl
+0.0.0.0 zalukaj-vip.pl
 0.0.0.0 zalukaj-zalukaj.24.eu
 0.0.0.0 zalukaj.5v.pl
 0.0.0.0 zdjecienago2.c.pl
