@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Wed, 17 Jun 2020, 21:00 UTC+02
-# Version: 2020.6.17.0
+# Last modified: Mon, 22 Jun 2020, 13:01 UTC+02
+# Version: 2020.6.22.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -40,6 +40,7 @@
 (^|\.)e-porwanienatalki\..*$
 (^|\.)e-poszukiwananatalka\..*$
 (^|\.)e-poszukiwania\..*$
+(^|\.)e-poszukiwanie\..*$
 (^|\.)faccebook.*\.5v\.pl$
 (^|\.)facebbook.*\.5v\.pl$
 (^|\.)facebook.*\.5v\.pl$
@@ -100,7 +101,7 @@
 (^|\.)zaplata.*\.tk$
 (^|\.)zdjecie-facebook-.*\.dkonto\.pl$
 (^|\.)zgwalconadziewczyna\..*$
-(^|\.)(betheprime|buntkorper|curtainhardsh|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|listentome|rainxpose|tekerstreet|testing3srv)[0-9]+\.live$
+(^|\.)(betheprime|buntkorper|curtainhardsh|consquarters|contambeat|dsvhcc|garternal|greenelephants|headregret|jsdevelopmentq|lifefordatings|lisfirst|listentome|rainxpose|tekerstreet|testing3srv)[0-9]+\.live$
 (^|\.).*automatyczny-dozownikmydla-pl\.com$
 (^|\.).*automatyczny-dozownik-mydla-pl\.com$
 (^|\.).*dworzeconline24\.*$
