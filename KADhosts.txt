@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe.
-# Last modified: Sun, 28 Jun 2020, 13:01 UTC+02
-# Version: 2020.6.28.0
+# Last modified: Sun, 28 Jun 2020, 17:00 UTC+02
+# Version: 2020.6.28.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5789,6 +5789,7 @@
 0.0.0.0 dgroetf.com
 0.0.0.0 dhexpres.com
 0.0.0.0 dhl24-paczka.com
+0.0.0.0 dhl-kurier.pl
 0.0.0.0 dhl-paczka.eu
 0.0.0.0 dhl-payment.com
 0.0.0.0 dhl-percel.com
@@ -5919,6 +5920,7 @@
 0.0.0.0 e-filmy24.pl
 0.0.0.0 e-koronawirusnews.pl
 0.0.0.0 e-kurier24.net
+0.0.0.0 e-osobyzagionione.pl
 0.0.0.0 e-paczka24.net
 0.0.0.0 e-payu.online
 0.0.0.0 e-payu.xyz
@@ -6141,11 +6143,13 @@
 0.0.0.0 glosuj-konkursy.eu
 0.0.0.0 glosuj-pomaganie.eu
 0.0.0.0 gls-parcel.com
+0.0.0.0 gneoste.mypi.co
 0.0.0.0 gnreg.com
 0.0.0.0 goadvert.pk
 0.0.0.0 gogameportal.com
 0.0.0.0 goldcarf.com
 0.0.0.0 goleta105.com
+0.0.0.0 gologfbb.tcp4.me
 0.0.0.0 goodmovie.pl
 0.0.0.0 googieapp.com
 0.0.0.0 gov-24.com
@@ -6452,6 +6456,7 @@
 0.0.0.0 lvgrowmarkets.com
 0.0.0.0 maccleaner.space
 0.0.0.0 maceju.com
+0.0.0.0 maciekkurier.info
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 madmulla.duckdns.org
 0.0.0.0 magadownloader.com
@@ -6757,6 +6762,7 @@
 0.0.0.0 playnowunlimited.biz
 0.0.0.0 playproz.com
 0.0.0.0 plengistat.info
+0.0.0.0 pletomak.mypi.co
 0.0.0.0 plikownik2015.wordpress.com
 0.0.0.0 pliks.pl
 0.0.0.0 plikson.pl
@@ -7119,6 +7125,7 @@
 0.0.0.0 temperaturnik.com
 0.0.0.0 tempogody.com
 0.0.0.0 temporary.nsx.pl
+0.0.0.0 tepremoe.mypi.co
 0.0.0.0 terazty24.eu
 0.0.0.0 terminator3000.ct8.pl
 0.0.0.0 terminatorzy.cba.pl
@@ -7798,11 +7805,13 @@
 0.0.0.0 www.gkpge2.pl
 0.0.0.0 www.gkpge3.pl
 0.0.0.0 www.gloriakurier.org
+0.0.0.0 www.gneoste.mypi.co
 0.0.0.0 www.gnreg.com
 0.0.0.0 www.goadvert.pk
 0.0.0.0 www.gogameportal.com
 0.0.0.0 www.goldcarf.com
 0.0.0.0 www.goleta105.com
+0.0.0.0 www.gologfbb.tcp4.me
 0.0.0.0 www.goodmovie.pl
 0.0.0.0 www.googieapp.com
 0.0.0.0 www.gpmandiri.com
@@ -8034,6 +8043,7 @@
 0.0.0.0 www.lvgrowmarkets.com
 0.0.0.0 www.maccleaner.space
 0.0.0.0 www.maceju.com
+0.0.0.0 www.maciekkurier.info
 0.0.0.0 www.mackeeperapp.mackeeper.com
 0.0.0.0 www.madmulla.duckdns.org
 0.0.0.0 www.magadownloader.com
@@ -8250,6 +8260,7 @@
 0.0.0.0 www.playnowunlimited.biz
 0.0.0.0 www.playproz.com
 0.0.0.0 www.plengistat.info
+0.0.0.0 www.pletomak.mypi.co
 0.0.0.0 www.plikownik2015.wordpress.com
 0.0.0.0 www.plikson.pl
 0.0.0.0 www.pliks.pl
@@ -8495,6 +8506,7 @@
 0.0.0.0 www.temperaturnik.com
 0.0.0.0 www.tempogody.com
 0.0.0.0 www.temporary.nsx.pl
+0.0.0.0 www.tepremoe.mypi.co
 0.0.0.0 www.terazty24.eu
 0.0.0.0 www.terminator3000.ct8.pl
 0.0.0.0 www.terminatorzy.cba.pl
@@ -8759,6 +8771,7 @@
 0.0.0.0 www.debki-klara.pl
 0.0.0.0 www.del-sieradz.neostrada.pl
 0.0.0.0 www.dhl24-paczka.com
+0.0.0.0 www.dhl-kurier.pl
 0.0.0.0 www.dhl-paczka.eu
 0.0.0.0 www.dhl-payment.com
 0.0.0.0 www.dhl-percel.com
@@ -8787,6 +8800,7 @@
 0.0.0.0 www.e-filmy24.pl
 0.0.0.0 www.e-koronawirusnews.pl
 0.0.0.0 www.e-kurier24.net
+0.0.0.0 www.e-osobyzagionione.pl
 0.0.0.0 www.e-paczka24.net
 0.0.0.0 www.e-payu.online
 0.0.0.0 www.e-payu.xyz
