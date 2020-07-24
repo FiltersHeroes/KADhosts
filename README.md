@@ -2,6 +2,7 @@
 
 [![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/KADhosts.svg)](https://github.com/PolishFiltersTeam/KADhosts/issues)
 [![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/KADhosts.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KADhosts/issues)
+[![repo size](https://img.shields.io/github/repo-size/PolishFiltersTeam/KADhosts.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KADhosts)
 
 
 Odpowiednik hosts dla filtrów KAD.
