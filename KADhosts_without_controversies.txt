@@ -1,8 +1,8 @@
 # Title: KADhosts (bez kontrowersji)
 # KADHosts (without controversies)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe.
-# Last modified: Sat, 08 Aug 2020, 21:01 UTC+02
-# Version: 2020.8.8.0
+# Last modified: Sun, 09 Aug 2020, 13:01 UTC+02
+# Version: 2020.8.9.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5526,6 +5526,7 @@
 0.0.0.0 cdgame.kgb.pl
 0.0.0.0 cdsp.pl
 0.0.0.0 cengizguler.com.tr
+0.0.0.0 centralmovies.network
 0.0.0.0 centrolinguisticorobert.com
 0.0.0.0 centrumofert24.com
 0.0.0.0 centrumplay.pl
@@ -6252,11 +6253,13 @@
 0.0.0.0 kickboxing.cba.pl
 0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kikofu.com
+0.0.0.0 kinocda.pl
 0.0.0.0 kinofilm-tv.pl
 0.0.0.0 kinomaniac.pl
 0.0.0.0 kinomaniak.cc
 0.0.0.0 kinomaniak.pl
 0.0.0.0 kinoman-tv.eu
+0.0.0.0 kinonline.pl
 0.0.0.0 kinovod.tv
 0.0.0.0 kino-filmy.pl
 0.0.0.0 kirstenbijlsma.com
@@ -7010,6 +7013,7 @@
 0.0.0.0 speedfile.info
 0.0.0.0 speed-dates.pl
 0.0.0.0 spillerfanside.com
+0.0.0.0 spindlemovies.com
 0.0.0.0 spisek.freehost.pl
 0.0.0.0 spkoszewo.strefa.pl
 0.0.0.0 splac-dlug.com
@@ -7234,6 +7238,7 @@
 0.0.0.0 vod.plus
 0.0.0.0 vod24.pl
 0.0.0.0 vodfilmy.pl
+0.0.0.0 vodfilmy.tumblr.com
 0.0.0.0 vodflix.pl
 0.0.0.0 vodkino.pl
 0.0.0.0 vodlife.pl
@@ -7518,6 +7523,7 @@
 0.0.0.0 www.cdgame.kgb.pl
 0.0.0.0 www.cdsp.pl
 0.0.0.0 www.cengizguler.com.tr
+0.0.0.0 www.centralmovies.network
 0.0.0.0 www.centrolinguisticorobert.com
 0.0.0.0 www.centrumofert24.com
 0.0.0.0 www.centrumplay.pl
@@ -8043,9 +8049,11 @@
 0.0.0.0 www.kickboxing.cba.pl
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kikofu.com
+0.0.0.0 www.kinocda.pl
 0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kinomaniak.cc
 0.0.0.0 www.kinomaniak.pl
+0.0.0.0 www.kinonline.pl
 0.0.0.0 www.kinovod.tv
 0.0.0.0 www.kirstenbijlsma.com
 0.0.0.0 www.klikijuz.com
@@ -8574,6 +8582,7 @@
 0.0.0.0 www.specyfika.xn.pl
 0.0.0.0 www.speedfile.info
 0.0.0.0 www.spillerfanside.com
+0.0.0.0 www.spindlemovies.com
 0.0.0.0 www.spisek.freehost.pl
 0.0.0.0 www.spkoszewo.strefa.pl
 0.0.0.0 www.spolszczenia4you.net
@@ -8732,6 +8741,7 @@
 0.0.0.0 www.visitoronearthxrussellathletic.xyz
 0.0.0.0 www.vod24.pl
 0.0.0.0 www.vodfilmy.pl
+0.0.0.0 www.vodfilmy.tumblr.com
 0.0.0.0 www.vodflix.pl
 0.0.0.0 www.vodkino.pl
 0.0.0.0 www.vodlife.pl
@@ -9553,7 +9563,9 @@
 #
 # Blogspot
 0.0.0.0 5gb-internetu-pakiety.blogspot.com
+0.0.0.0 123musicblend.blogspot.com
 0.0.0.0 adrianzajewicz.blogspot.com
+0.0.0.0 aizuite.blogspot.com
 0.0.0.0 aktualizacjafacebooka.blogspot.com
 0.0.0.0 alissaathirah.blogspot.com
 0.0.0.0 almiranazelia.blogspot.com
@@ -9592,9 +9604,15 @@
 0.0.0.0 filmowy-hd.blogspot.com
 0.0.0.0 filmserialeonlineee.blogspot.com
 0.0.0.0 filmyonlien.blogspot.com
+0.0.0.0 filmyonline-24.blogspot.com
+0.0.0.0 freefillmonline.blogspot.com
 0.0.0.0 grenadelove.blogspot.com
 0.0.0.0 hackidomsp.blogspot.com
+0.0.0.0 hadfilmhd.blogspot.com
+0.0.0.0 hd-filmyonline.blogspot.com
 0.0.0.0 informacjeszok24.blogspot.com
+0.0.0.0 jasonwhitefamily.blogspot.com
+0.0.0.0 jeremy-rodriguez.blogspot.com
 0.0.0.0 jodybelisle.blogspot.com
 0.0.0.0 kaciekace.blogspot.com
 0.0.0.0 kolloryfejsa.blogspot.com
@@ -9604,23 +9622,30 @@
 0.0.0.0 kolorowy-f-b.blogspot.com
 0.0.0.0 koloryfejsa.blogspot.com
 0.0.0.0 lastbreath-fanfiction.blogspot.com
+0.0.0.0 lifeofmrsround.blogspot.com
 0.0.0.0 life-filipe-fernandes.blogspot.com
 0.0.0.0 lightthehedgehog.blogspot.com
 0.0.0.0 lilyclan-warriors.blogspot.com
 0.0.0.0 littlebabywinter.blogspot.com
+0.0.0.0 lots-of-feelings.blogspot.com
 0.0.0.0 lovewrittenbyheart.blogspot.com
 0.0.0.0 lynavincci.blogspot.com
 0.0.0.0 mantolpunyaselera.blogspot.com
 0.0.0.0 milena-malinka.blogspot.com
+0.0.0.0 mionessa.blogspot.com
 0.0.0.0 mocnastawka.blogspot.com
 0.0.0.0 mojahistoriashiro.blogspot.com
 0.0.0.0 mojekumpele.blogspot.com
 0.0.0.0 mona-mono.blogspot.com
+0.0.0.0 morzsikacity.blogspot.com
 0.0.0.0 motleydreams.blogspot.com
 0.0.0.0 motyw-fb.blogspot.com
 0.0.0.0 mylifetoperfection.blogspot.com
 0.0.0.0 najprzydatniejsze.blogspot.com
 0.0.0.0 narzedzia-fb.blogspot.com
+0.0.0.0 nataliafenixart.blogspot.com
+0.0.0.0 nix-komik.blogspot.com
+0.0.0.0 nodinpoh.blogspot.com
 0.0.0.0 okaleczenie15laatkii.blogspot.com
 0.0.0.0 okaleczon15-lattka.blogspot.com
 0.0.0.0 okaleczona15-llatka.blogspot.com
@@ -9633,6 +9658,8 @@
 0.0.0.0 pokemon-go-pakiety.blogspot.com
 0.0.0.0 programyfb.blogspot.com
 0.0.0.0 real-masterpiece.blogspot.com
+0.0.0.0 saidatulasmiza.blogspot.com
+0.0.0.0 shiroyui.blogspot.com
 0.0.0.0 simplyjokes4all.blogspot.com
 0.0.0.0 snapchang.blogspot.com
 0.0.0.0 snapchat-save.blogspot.com
@@ -9641,6 +9668,7 @@
 0.0.0.0 sspawdzktopodgglada.blogspot.com
 0.0.0.0 stranded-in-iowa.blogspot.com
 0.0.0.0 suczki-mlode.blogspot.com
+0.0.0.0 suicide-vintage.blogspot.com
 0.0.0.0 sunovausa.blogspot.com
 0.0.0.0 szokinfo247.blogspot.com
 0.0.0.0 szybki-przeglad.blogspot.com
@@ -9650,15 +9678,18 @@
 0.0.0.0 tengoksebelah.blogspot.com
 0.0.0.0 testowanietwojegoiq.blogspot.com
 0.0.0.0 test--na--iq.blogspot.com
+0.0.0.0 thecatsmeow-andrea.blogspot.com
 0.0.0.0 thefazlinazira.blogspot.com
 0.0.0.0 thisgeeksqueaks.blogspot.com
 0.0.0.0 tudonumsonho.blogspot.com
 0.0.0.0 twenty20experience.blogspot.com
 0.0.0.0 ustaw--tlo-fb.blogspot.com
 0.0.0.0 verneblade.blogspot.com
+0.0.0.0 vidaregina.blogspot.com
 0.0.0.0 vidaweird.blogspot.com
 0.0.0.0 wilkzwallstreet.blogspot.com
 0.0.0.0 www.adrianzajewicz.blogspot.com
+0.0.0.0 www.aizuite.blogspot.com
 0.0.0.0 www.aktualizacjafacebooka.blogspot.com
 0.0.0.0 www.alissaathirah.blogspot.com
 0.0.0.0 www.almiranazelia.blogspot.com
@@ -9689,31 +9720,41 @@
 0.0.0.0 www.fejspodglladacz.blogspot.com
 0.0.0.0 www.filmserialeonlineee.blogspot.com
 0.0.0.0 www.filmyonlien.blogspot.com
+0.0.0.0 www.freefillmonline.blogspot.com
 0.0.0.0 www.grenadelove.blogspot.com
 0.0.0.0 www.hackidomsp.blogspot.com
+0.0.0.0 www.hadfilmhd.blogspot.com
 0.0.0.0 www.informacjeszok24.blogspot.com
+0.0.0.0 www.jasonwhitefamily.blogspot.com
 0.0.0.0 www.jodybelisle.blogspot.com
 0.0.0.0 www.kaciekace.blogspot.com
 0.0.0.0 www.kolloryfejsa.blogspot.com
 0.0.0.0 www.kolorfacebooka24.blogspot.com
 0.0.0.0 www.koloryfejsa.blogspot.com
+0.0.0.0 www.lifeofmrsround.blogspot.com
 0.0.0.0 www.lightthehedgehog.blogspot.com
 0.0.0.0 www.littlebabywinter.blogspot.com
 0.0.0.0 www.lovewrittenbyheart.blogspot.com
 0.0.0.0 www.lynavincci.blogspot.com
 0.0.0.0 www.mantolpunyaselera.blogspot.com
+0.0.0.0 www.mionessa.blogspot.com
 0.0.0.0 www.mocnastawka.blogspot.com
 0.0.0.0 www.mojahistoriashiro.blogspot.com
 0.0.0.0 www.mojekumpele.blogspot.com
+0.0.0.0 www.morzsikacity.blogspot.com
 0.0.0.0 www.motleydreams.blogspot.com
 0.0.0.0 www.mylifetoperfection.blogspot.com
 0.0.0.0 www.najprzydatniejsze.blogspot.com
+0.0.0.0 www.nataliafenixart.blogspot.com
+0.0.0.0 www.nodinpoh.blogspot.com
 0.0.0.0 www.okaleczenie15laatkii.blogspot.com
 0.0.0.0 www.oneseventeensouth.blogspot.com
 0.0.0.0 www.oszukacruletke.blogspot.com
 0.0.0.0 www.podgladfacebokaa.blogspot.com
 0.0.0.0 www.pokemon2k16go.blogspot.com
 0.0.0.0 www.programyfb.blogspot.com
+0.0.0.0 www.saidatulasmiza.blogspot.com
+0.0.0.0 www.shiroyui.blogspot.com
 0.0.0.0 www.simplyjokes4all.blogspot.com
 0.0.0.0 www.snapchang.blogspot.com
 0.0.0.0 www.specialforstrangers.blogspot.com
@@ -9728,12 +9769,14 @@
 0.0.0.0 www.tudonumsonho.blogspot.com
 0.0.0.0 www.twenty20experience.blogspot.com
 0.0.0.0 www.verneblade.blogspot.com
+0.0.0.0 www.vidaregina.blogspot.com
 0.0.0.0 www.vidaweird.blogspot.com
 0.0.0.0 www.wilkzwallstreet.blogspot.com
 0.0.0.0 www.wypad3k0.blogspot.com
 0.0.0.0 www.zmienkolorfejsazafree.blogspot.com
 0.0.0.0 www.zobaczktopodgladaa.blogspot.com
 0.0.0.0 www.5gb-internetu-pakiety.blogspot.com
+0.0.0.0 www.123musicblend.blogspot.com
 0.0.0.0 www.and-4ever.blogspot.com
 0.0.0.0 www.bella-khusairi.blogspot.com
 0.0.0.0 www.colors-app.blogspot.com
@@ -9742,16 +9785,21 @@
 0.0.0.0 www.fb-kolor.blogspot.com
 0.0.0.0 www.filmoo-maniacy.blogspot.com
 0.0.0.0 www.filmowy-hd.blogspot.com
+0.0.0.0 www.filmyonline-24.blogspot.com
+0.0.0.0 www.hd-filmyonline.blogspot.com
+0.0.0.0 www.jeremy-rodriguez.blogspot.com
 0.0.0.0 www.kollory-fejsa.blogspot.com
 0.0.0.0 www.kolorowy-fejs.blogspot.com
 0.0.0.0 www.kolorowy-f-b.blogspot.com
 0.0.0.0 www.lastbreath-fanfiction.blogspot.com
 0.0.0.0 www.life-filipe-fernandes.blogspot.com
 0.0.0.0 www.lilyclan-warriors.blogspot.com
+0.0.0.0 www.lots-of-feelings.blogspot.com
 0.0.0.0 www.milena-malinka.blogspot.com
 0.0.0.0 www.mona-mono.blogspot.com
 0.0.0.0 www.motyw-fb.blogspot.com
 0.0.0.0 www.narzedzia-fb.blogspot.com
+0.0.0.0 www.nix-komik.blogspot.com
 0.0.0.0 www.okaleczon15-lattka.blogspot.com
 0.0.0.0 www.okaleczona15-llatka.blogspot.com
 0.0.0.0 www.okaleczona15--latka.blogspot.com
@@ -9761,11 +9809,13 @@
 0.0.0.0 www.snapchat-save.blogspot.com
 0.0.0.0 www.stranded-in-iowa.blogspot.com
 0.0.0.0 www.suczki-mlode.blogspot.com
+0.0.0.0 www.suicide-vintage.blogspot.com
 0.0.0.0 www.szybki-przeglad.blogspot.com
 0.0.0.0 www.takano-sekai.blogspot.com
 0.0.0.0 www.tales-of-sanfrancisco.blogspot.com
 0.0.0.0 www.tanja-christina.blogspot.com
 0.0.0.0 www.test--na--iq.blogspot.com
+0.0.0.0 www.thecatsmeow-andrea.blogspot.com
 0.0.0.0 www.ustaw--tlo-fb.blogspot.com
 0.0.0.0 www.zamiana-koloru.blogspot.com
 0.0.0.0 www.zmienienie-koloru.blogspot.com
