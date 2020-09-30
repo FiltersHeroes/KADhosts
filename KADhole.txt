@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 29 Sep 2020, 17:02 UTC+02
-# Version: 2020.9.29.1
+# Last modified: Wed, 30 Sep 2020, 16:18 UTC+02
+# Version: 2020.9.30.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -80,7 +80,15 @@
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)paczpocztex\..*$
+(^|\.)paiementhome-pl-.*\.rpm-technik\.at$
+(^|\.)paiementhome-pl-.*\.vmkfz\.at$
+(^|\.)paiementnazwa-pl-.*\.evv-auditing\.com$
+(^|\.)payhome-pl-.*\.arw-rohstoffhandel\.com$
 (^|\.)payhome-pl-.*\.vmkfz\.at$
+(^|\.)paynazwa-pl-.*\.akprojektebau\.at$
+(^|\.)paynazwa-pl-.*\.evv-auditing\.com$
+(^|\.)paynazwa-pl-.*\.motor-active\.at$
+(^|\.)paynazwa-pl-.*\.tiroler-bioyak\.at$
 (^|\.)pay-home-.*\.vmkfz\.at$
 (^|\.)platnik.*\.online$
 (^|\.)pocztexpolska\..*$
