@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 29 Oct 2020, 16:04 UTC+01
-# Version: 2020.10.29.1
+# Last modified: Thu, 29 Oct 2020, 20:04 UTC+01
+# Version: 2020.10.29.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5287,6 +5287,7 @@
 0.0.0.0 faberville.com
 0.0.0.0 faceboobko.tcp4.me
 0.0.0.0 facebook.biz.pl
+0.0.0.0 facebookcom-43632337.techsso.com
 0.0.0.0 facebookpl.eu
 0.0.0.0 facebook-pl.eu
 0.0.0.0 facebouk.site
@@ -5685,6 +5686,7 @@
 0.0.0.0 icloud.find-ip.us
 0.0.0.0 iconsumerstocksymbol.icu
 0.0.0.0 id95972.net
+0.0.0.0 idcase-99131255.gentlebrooksports.org
 0.0.0.0 ideabank-login.xyz
 0.0.0.0 ideabank-logowanie.at
 0.0.0.0 idealnafigura.com
@@ -6427,6 +6429,7 @@
 0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-payments.pl
 0.0.0.0 olx-pays.pl
+0.0.0.0 olx.pl-oferta.online
 0.0.0.0 olympusmarkets.com
 0.0.0.0 omega.best
 0.0.0.0 omrolsztyn.neostrada.pl
@@ -6746,6 +6749,7 @@
 0.0.0.0 polishwebmailupgrade.weebly.com
 0.0.0.0 polityka-bez-cenzury.you2.pl
 0.0.0.0 polska24.eu
+0.0.0.0 polska24poszukiwani.dkonto.pl
 0.0.0.0 polskadziennik.pl
 0.0.0.0 polskagazeta.co.pl
 0.0.0.0 polskanews.eu
@@ -6809,6 +6813,7 @@
 0.0.0.0 portfelgeniusza.com
 0.0.0.0 porwani.you2.pl
 0.0.0.0 posciele.za.pl
+0.0.0.0 postid-79348548.justgreece.org
 0.0.0.0 postkod.org
 0.0.0.0 post-990094.at
 0.0.0.0 poszukiwana.cyou
@@ -7473,6 +7478,7 @@
 0.0.0.0 wiadomosci24polska.pl
 0.0.0.0 wiadomosci24-live.eu
 0.0.0.0 wiadomoscionet.eu
+0.0.0.0 wiadomoscionet.pythonanywhere.com
 0.0.0.0 wiadomoscipolska99.pro-linuxpl.com
 0.0.0.0 wiadomoscizkraju.online
 0.0.0.0 wiadomoscizkraju.site
@@ -7504,6 +7510,7 @@
 0.0.0.0 winoteka-samiswoi.pl
 0.0.0.0 wiochapl.eu
 0.0.0.0 wiocha-pl.eu
+0.0.0.0 wirtualnapolska24.dkonto.pl
 0.0.0.0 wirtualnapolska24.eu
 0.0.0.0 wirtualna-polska.you2.pl
 0.0.0.0 wirtualneinformacje.eu
@@ -9061,6 +9068,7 @@
 0.0.0.0 www.polishpolar.com
 0.0.0.0 www.polishwebmailadmin.weebly.com
 0.0.0.0 www.polishwebmailupgrade.weebly.com
+0.0.0.0 www.polska24poszukiwani.dkonto.pl
 0.0.0.0 www.polska24.eu
 0.0.0.0 www.polskadziennik.pl
 0.0.0.0 www.polskagazeta.co.pl
@@ -9558,6 +9566,7 @@
 0.0.0.0 www.wiadomosci24.nq.pl
 0.0.0.0 www.wiadomosci24.warszawa.pl
 0.0.0.0 www.wiadomoscionet.eu
+0.0.0.0 www.wiadomoscionet.pythonanywhere.com
 0.0.0.0 www.wiadomoscizkraju24.com.pl
 0.0.0.0 www.wiadomoscizkraju.online
 0.0.0.0 www.wiadomoscizkraju.site
@@ -9577,6 +9586,7 @@
 0.0.0.0 www.winnertoday.site
 0.0.0.0 www.winningsidenow.com
 0.0.0.0 www.wiochapl.eu
+0.0.0.0 www.wirtualnapolska24.dkonto.pl
 0.0.0.0 www.wirtualnapolska24.eu
 0.0.0.0 www.wirtualneinformacje.eu
 0.0.0.0 www.wirutalneinformacje.eu
@@ -9632,7 +9642,6 @@
 0.0.0.0 www.yuppipuppy.com
 0.0.0.0 www.za10groszy.pl
 0.0.0.0 www.zajonc.de
-0.0.0.0 www.zaluknij.xyz
 0.0.0.0 www.zapisy.fractaltrader.pl
 0.0.0.0 www.zaplaty.net
 0.0.0.0 www.zarabativaisazartom.net
@@ -9935,6 +9944,7 @@
 0.0.0.0 www.e-zaginieni.eu
 0.0.0.0 www.e-zaginieni.pl
 0.0.0.0 www.e-zaginioneosoby.eu
+0.0.0.0 www.facebookcom-43632337.techsso.com
 0.0.0.0 www.facebook-pl.eu
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.faksowy.is-best.net
@@ -10055,6 +10065,7 @@
 0.0.0.0 www.hrhererhtng.001www.com
 0.0.0.0 www.hyut.000webhostapp.com
 0.0.0.0 www.icloud.find-ip.us
+0.0.0.0 www.idcase-99131255.gentlebrooksports.org
 0.0.0.0 www.ideabank-login.xyz
 0.0.0.0 www.ideabank-logowanie.at
 0.0.0.0 www.idea-bank.xyz
@@ -10274,6 +10285,7 @@
 0.0.0.0 www.okularypowiekszajace-pl.com
 0.0.0.0 www.olx-payments.pl
 0.0.0.0 www.olx-pays.pl
+0.0.0.0 www.olx.pl-oferta.online
 0.0.0.0 www.onet24-polska.space
 0.0.0.0 www.onet-fakt24.eu
 0.0.0.0 www.onet-news.you2.pl
@@ -10407,6 +10419,7 @@
 0.0.0.0 www.popatrz-zdjecia.eu
 0.0.0.0 www.popieraj-internetowo.eu
 0.0.0.0 www.poratuj-znajomego.eu
+0.0.0.0 www.postid-79348548.justgreece.org
 0.0.0.0 www.post-990094.at
 0.0.0.0 www.powiat24-wydarzenia.pl
 0.0.0.0 www.ppl-puls.gloryft.com
@@ -10747,7 +10760,6 @@
 0.0.0.0 zajonc.de
 0.0.0.0 zakupy-domowe.glosowanie-konkurs.eu
 0.0.0.0 zalbani.is-best.net
-0.0.0.0 zaluknij.xyz
 0.0.0.0 zap588693-1.plesk10.zap-webspace.com
 0.0.0.0 zapisy.fractaltrader.pl
 0.0.0.0 zaplaty.net
