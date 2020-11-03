@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 03 Nov 2020, 16:04 UTC+01
-# Version: 2020.11.3.1
+# Last modified: Tue, 03 Nov 2020, 20:03 UTC+01
+# Version: 2020.11.3.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5118,6 +5118,7 @@
 0.0.0.0 dpd-parcel.com
 0.0.0.0 dpd-parcelsecure.com
 0.0.0.0 dpd-przesylki.pl
+0.0.0.0 dpsdostwy.net
 0.0.0.0 dpsobryte.pl
 0.0.0.0 drabina.live
 0.0.0.0 drabiny.in
@@ -5872,6 +5873,7 @@
 0.0.0.0 kamilbadnareklivecash.blogspot.com
 0.0.0.0 kamilszymanski.com.pl
 0.0.0.0 kanapa.tv
+0.0.0.0 kandydujmy-wszyscy.eu
 0.0.0.0 karencupp.com
 0.0.0.0 karnat.cba.pl
 0.0.0.0 karolinadrzewiecka.cba.pl
@@ -6437,11 +6439,14 @@
 0.0.0.0 olx.pl.oferto.info
 0.0.0.0 olx.pl.wysylka.net
 0.0.0.0 olx24.eu
+0.0.0.0 olxpl.online
 0.0.0.0 olxpl.youroplata.online
 0.0.0.0 olxpl.3ds.website
+0.0.0.0 olxpl.3dsecurity.info
 0.0.0.0 olxpolska.ct8.pl
 0.0.0.0 olxteam.com
 0.0.0.0 olxyorki.dfirma.pl
+0.0.0.0 olx-messenger.com
 0.0.0.0 olx-payments.pl
 0.0.0.0 olx-pays.pl
 0.0.0.0 olx-pl.online
@@ -6759,6 +6764,7 @@
 0.0.0.0 poczta-pay.com
 0.0.0.0 poczta-regulamin.com
 0.0.0.0 poczta.interia-pl.site
+0.0.0.0 poczta.interia-pl.space
 0.0.0.0 poczta.ron-mil-pl.site
 0.0.0.0 poczteks.net
 0.0.0.0 poczteks24.net
@@ -6785,6 +6791,7 @@
 0.0.0.0 polishwebmailadmin.weebly.com
 0.0.0.0 polishwebmailupgrade.weebly.com
 0.0.0.0 polityka-bez-cenzury.you2.pl
+0.0.0.0 polska24.dkonto.pl
 0.0.0.0 polska24.eu
 0.0.0.0 polska24poszukiwani.dkonto.pl
 0.0.0.0 polskadziennik.pl
@@ -7603,6 +7610,7 @@
 0.0.0.0 wuus.org.cn
 0.0.0.0 ww.kowdent.pl
 0.0.0.0 ww.paczkddpd.com
+0.0.0.0 ww.paczkhdpd.com
 0.0.0.0 ww.paczkjdpd.com
 0.0.0.0 ww.paczkjups.com
 0.0.0.0 ww.paczkmdpd.com
@@ -8011,6 +8019,7 @@
 0.0.0.0 www.download.weatherblink.com
 0.0.0.0 www.downwhite.com
 0.0.0.0 www.dpdoplata.org
+0.0.0.0 www.dpsdostwy.net
 0.0.0.0 www.dpsobryte.pl
 0.0.0.0 www.drabina.live
 0.0.0.0 www.drabiny.in
@@ -8922,6 +8931,7 @@
 0.0.0.0 www.ollando.com
 0.0.0.0 www.olszewski.ehost.pl
 0.0.0.0 www.olx24.eu
+0.0.0.0 www.olxpl.online
 0.0.0.0 www.olxpl.youroplata.online
 0.0.0.0 www.olxpolska.ct8.pl
 0.0.0.0 www.olxteam.com
@@ -9142,6 +9152,7 @@
 0.0.0.0 www.polishwebmailadmin.weebly.com
 0.0.0.0 www.polishwebmailupgrade.weebly.com
 0.0.0.0 www.polska24poszukiwani.dkonto.pl
+0.0.0.0 www.polska24.dkonto.pl
 0.0.0.0 www.polska24.eu
 0.0.0.0 www.polskadziennik.pl
 0.0.0.0 www.polskagazeta.co.pl
@@ -9695,6 +9706,7 @@
 0.0.0.0 www.wuus.org.cn
 0.0.0.0 www.ww.kowdent.pl
 0.0.0.0 www.ww.paczkddpd.com
+0.0.0.0 www.ww.paczkhdpd.com
 0.0.0.0 www.ww.paczkjdpd.com
 0.0.0.0 www.ww.paczkjups.com
 0.0.0.0 www.ww.paczkmdpd.com
@@ -10215,6 +10227,7 @@
 0.0.0.0 www.i-wydarzenia24.eu
 0.0.0.0 www.jakotako.is-best.net
 0.0.0.0 www.jutrobedzie.is-best.net
+0.0.0.0 www.kandydujmy-wszyscy.eu
 0.0.0.0 www.kasa-sms.pl
 0.0.0.0 www.keks-polska.pl
 0.0.0.0 www.key-mine.fun
@@ -10374,6 +10387,8 @@
 0.0.0.0 www.okaz-wspomnienie.eu
 0.0.0.0 www.okularypowiekszajace-pl.com
 0.0.0.0 www.olxpl.3ds.website
+0.0.0.0 www.olxpl.3dsecurity.info
+0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-payments.pl
 0.0.0.0 www.olx-pays.pl
 0.0.0.0 www.olx-pl.online
@@ -10490,6 +10505,7 @@
 0.0.0.0 www.poczta-pay.com
 0.0.0.0 www.poczta-regulamin.com
 0.0.0.0 www.poczta.interia-pl.site
+0.0.0.0 www.poczta.interia-pl.space
 0.0.0.0 www.poczta.ron-mil-pl.site
 0.0.0.0 www.poczty-24.net
 0.0.0.0 www.poland-news.pl
