@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 02 Nov 2020, 20:04 UTC+01
-# Version: 2020.11.2.2
+# Last modified: Tue, 03 Nov 2020, 12:03 UTC+01
+# Version: 2020.11.3.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -49,6 +49,7 @@
 0.0.0.0 adsivo.pl
 0.0.0.0 adworkmedia.com
 0.0.0.0 ad-poland.com
+0.0.0.0 aerosneakers.pl
 0.0.0.0 affiliater.pl
 0.0.0.0 africanmango.pl
 0.0.0.0 africanmango900.pl
@@ -1919,6 +1920,7 @@
 0.0.0.0 www.adnmdpolska.com
 0.0.0.0 www.adsivo.pl
 0.0.0.0 www.adworkmedia.com
+0.0.0.0 www.aerosneakers.pl
 0.0.0.0 www.affiliater.pl
 0.0.0.0 www.africanmango900.pl
 0.0.0.0 www.africanmango.pl
@@ -5759,6 +5761,7 @@
 0.0.0.0 inpost.us
 0.0.0.0 inpost2.app
 0.0.0.0 inpost24.services
+0.0.0.0 inpost24.uno
 0.0.0.0 inpostapp.net
 0.0.0.0 inpostdoplata.net
 0.0.0.0 inpostkode.com
@@ -6433,6 +6436,7 @@
 0.0.0.0 olx.pl.obyalvenyie.shop
 0.0.0.0 olx.pl.oferta.pw
 0.0.0.0 olx.pl.oferto.info
+0.0.0.0 olx.pl.wysylka.net
 0.0.0.0 olx24.eu
 0.0.0.0 olxpl.youroplata.online
 0.0.0.0 olxpl.3ds.website
@@ -6580,6 +6584,7 @@
 0.0.0.0 paczkomaty.me
 0.0.0.0 paczkomaty.us
 0.0.0.0 paczkomaty-pl.tk
+0.0.0.0 paczkomat-platnosc.in.net
 0.0.0.0 paczkomat-pobranie.in.net
 0.0.0.0 paczkonat.net
 0.0.0.0 paczkonnat.app
@@ -6642,6 +6647,7 @@
 0.0.0.0 pay-olx.gq
 0.0.0.0 pay-u24.net
 0.0.0.0 pdsecurity.pl
+0.0.0.0 peczta24.net
 0.0.0.0 pemberitahuanfb.weebly.com
 0.0.0.0 penelopekurier.com
 0.0.0.0 penetrator-szans.com
@@ -6917,6 +6923,7 @@
 0.0.0.0 przepismix.pl
 0.0.0.0 przesiadzsie.pl
 0.0.0.0 przesydh.com
+0.0.0.0 przesylka24.xyz
 0.0.0.0 przesylki-olx.pl
 0.0.0.0 przewozinik.online
 0.0.0.0 przygarnijplakat.pl
@@ -7400,6 +7407,7 @@
 0.0.0.0 uatesnicknam.xyz
 0.0.0.0 ubranieburton.pl
 0.0.0.0 uchwalenie-zwyciezcy.eu
+0.0.0.0 udany-wynik.eu
 0.0.0.0 udokumentowanie.eu
 0.0.0.0 ughsnethe.at
 0.0.0.0 ultra-cda.pl
@@ -7504,6 +7512,7 @@
 0.0.0.0 weryfikacja-kosmetyczki.biz
 0.0.0.0 weryfikacja-kosmetyczki.com
 0.0.0.0 weryfikacja-weryfikacja.pl
+0.0.0.0 weryfikuj-wynik.eu
 0.0.0.0 weselenet.pl
 0.0.0.0 wesolabiesiada.pl
 0.0.0.0 westkyvo.com
@@ -8430,6 +8439,7 @@
 0.0.0.0 www.inposit.net
 0.0.0.0 www.inpost2.app
 0.0.0.0 www.inpost24.services
+0.0.0.0 www.inpost24.uno
 0.0.0.0 www.inpostapp.net
 0.0.0.0 www.inpostdoplata.net
 0.0.0.0 www.inpostkode.com
@@ -8920,6 +8930,7 @@
 0.0.0.0 www.olx.pl.obyalvenyie.shop
 0.0.0.0 www.olx.pl.oferta.pw
 0.0.0.0 www.olx.pl.oferto.info
+0.0.0.0 www.olx.pl.wysylka.net
 0.0.0.0 www.olympusmarkets.com
 0.0.0.0 www.omega.best
 0.0.0.0 www.omrolsztyn.neostrada.pl
@@ -9052,6 +9063,7 @@
 0.0.0.0 www.payooner.club
 0.0.0.0 www.paywu.net
 0.0.0.0 www.pdsecurity.pl
+0.0.0.0 www.peczta24.net
 0.0.0.0 www.pemberitahuanfb.weebly.com
 0.0.0.0 www.penelopekurier.com
 0.0.0.0 www.penir.org
@@ -9215,6 +9227,7 @@
 0.0.0.0 www.przepismix.pl
 0.0.0.0 www.przesiadzsie.pl
 0.0.0.0 www.przesydh.com
+0.0.0.0 www.przesylka24.xyz
 0.0.0.0 www.przewozinik.online
 0.0.0.0 www.przygarnijplakat.pl
 0.0.0.0 www.przyjmujelekiczybierze.pl
@@ -10409,6 +10422,7 @@
 0.0.0.0 www.paczka-gls.com
 0.0.0.0 www.paczka-inpost.com
 0.0.0.0 www.paczkomaty-pl.tk
+0.0.0.0 www.paczkomat-platnosc.in.net
 0.0.0.0 www.paczkomat-pobranie.in.net
 0.0.0.0 www.parcel.gjbx346t33h972c.20design.org
 0.0.0.0 www.parcel.qzyz3dzq80rzbl3.amin-sharifi.ir
@@ -10686,6 +10700,7 @@
 0.0.0.0 www.typowanie-glosuj.eu
 0.0.0.0 www.typuj-wyniki.eu
 0.0.0.0 www.uchwalenie-zwyciezcy.eu
+0.0.0.0 www.udany-wynik.eu
 0.0.0.0 www.ultra-cda.pl
 0.0.0.0 www.unlimited.movies.and.series.netflix.irsa-art.ir
 0.0.0.0 www.update-1.com
@@ -10716,6 +10731,7 @@
 0.0.0.0 www.weryfikacja-kosmetyczki.biz
 0.0.0.0 www.weryfikacja-kosmetyczki.com
 0.0.0.0 www.weryfikacja-weryfikacja.pl
+0.0.0.0 www.weryfikuj-wynik.eu
 0.0.0.0 www.wiadomosci24-live.eu
 0.0.0.0 www.wiadomoscipolska99.pro-linuxpl.com
 0.0.0.0 www.wiadomosci-24.dkonto.pl
