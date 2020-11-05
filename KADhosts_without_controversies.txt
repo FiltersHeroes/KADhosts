@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 05 Nov 2020, 16:04 UTC+01
-# Version: 2020.11.5.1
+# Last modified: Thu, 05 Nov 2020, 20:04 UTC+01
+# Version: 2020.11.5.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5004,6 +5004,7 @@
 0.0.0.0 czasnakino.pl
 0.0.0.0 czemarserwis.home.pl
 0.0.0.0 czerwinski.ciesielstwo.cba.pl
+0.0.0.0 czyn-pomocy.eu
 0.0.0.0 d3rzloh6xv2xem.cloudfront.net
 0.0.0.0 d26sio54efdz72.cloudfront.net
 0.0.0.0 dachbud.slask.pl
@@ -5031,6 +5032,7 @@
 0.0.0.0 deepikarai.com
 0.0.0.0 delibrium.pl
 0.0.0.0 deliveryexpress.today
+0.0.0.0 delivery.olx-pl.com
 0.0.0.0 deliver-post.com
 0.0.0.0 del-sieradz.neostrada.pl
 0.0.0.0 demo.website.pl
@@ -6448,6 +6450,7 @@
 0.0.0.0 ogladaj-caly-film.over-blog.com
 0.0.0.0 ogladaj-online24.pl
 0.0.0.0 oglaszamy.ct8.pl
+0.0.0.0 oglaszamy-yorki.dkonto.pl
 0.0.0.0 ogloszenia24.dfirma.pl
 0.0.0.0 ogloszenia-24.cba.pl
 0.0.0.0 ogloszenia-olx.you2.pl
@@ -6498,8 +6501,10 @@
 0.0.0.0 olx-ogloszenie.dkonto.pl
 0.0.0.0 olx-payments.pl
 0.0.0.0 olx-pays.pl
+0.0.0.0 olx-pl.oferta.pw
 0.0.0.0 olx-pl.online
 0.0.0.0 olx-poland.cf
+0.0.0.0 olx.3d-security.info
 0.0.0.0 olx.epay-trade.ru
 0.0.0.0 olx.pl-id2046801-order.ru
 0.0.0.0 olx.pl-oferta.online
@@ -6831,6 +6836,7 @@
 0.0.0.0 pocztower.pl
 0.0.0.0 poczty24.net
 0.0.0.0 poczty-24.net
+0.0.0.0 podajmy-analize.eu
 0.0.0.0 podatek2020.net
 0.0.0.0 podatkigov.net
 0.0.0.0 podologik.ca
@@ -6883,6 +6889,7 @@
 0.0.0.0 polskie-newsy.com.pl
 0.0.0.0 polskilombard.pl
 0.0.0.0 polskinews24.eu
+0.0.0.0 polskiportal.you2.pl
 0.0.0.0 polskiszpital24.dkonto.pl
 0.0.0.0 polski-lot.dfirma.pl
 0.0.0.0 polski-poranek.pl
@@ -7392,6 +7399,7 @@
 0.0.0.0 tomorrowcrypto.vip
 0.0.0.0 tomypolacy.online
 0.0.0.0 topgryusluga.5p.pl
+0.0.0.0 topparcelservices.com
 0.0.0.0 toprostezarub.xaa.pl
 0.0.0.0 toptarotist.nl
 0.0.0.0 top-daily-profit.com
@@ -9287,6 +9295,7 @@
 0.0.0.0 www.polskiemiasto.xyz
 0.0.0.0 www.polskilombard.pl
 0.0.0.0 www.polskinews24.eu
+0.0.0.0 www.polskiportal.you2.pl
 0.0.0.0 www.polskiszpital24.dkonto.pl
 0.0.0.0 www.pomoc48.you2.pl
 0.0.0.0 www.pomorskaakademia.com.pl
@@ -9623,6 +9632,7 @@
 0.0.0.0 www.tojestnewsprawdziwy.xyz
 0.0.0.0 www.tomorrowcrypto.vip
 0.0.0.0 www.tomypolacy.online
+0.0.0.0 www.topparcelservices.com
 0.0.0.0 www.toprostezarub.xaa.pl
 0.0.0.0 www.toptarotist.nl
 0.0.0.0 www.torrento.pl
@@ -10075,12 +10085,14 @@
 0.0.0.0 www.cs-czosnusie.cba.pl
 0.0.0.0 www.cyber-punk-2077.eu
 0.0.0.0 www.czarownica-online-pl.5v.pl
+0.0.0.0 www.czyn-pomocy.eu
 0.0.0.0 www.darmowe-doladowania.net.pl
 0.0.0.0 www.darmowe-doladowanie.pl
 0.0.0.0 www.darmowe-ogloszenia.you2.pl
 0.0.0.0 www.darmowe-olx.dfirma.pl
 0.0.0.0 www.debki-klara.pl
 0.0.0.0 www.decydujmy-wspolnie.eu
+0.0.0.0 www.delivery.olx-pl.com
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.del-sieradz.neostrada.pl
 0.0.0.0 www.dhl24-paczka.com
@@ -10500,6 +10512,7 @@
 0.0.0.0 www.offside2.000webhostapp.com
 0.0.0.0 www.ogladaj-caly-film.over-blog.com
 0.0.0.0 www.ogladaj-online24.pl
+0.0.0.0 www.oglaszamy-yorki.dkonto.pl
 0.0.0.0 www.ogloszenia-24.cba.pl
 0.0.0.0 www.ogloszenia-olx.you2.pl
 0.0.0.0 www.ogloszenie-elektronika.host
@@ -10523,8 +10536,10 @@
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
 0.0.0.0 www.olx-payments.pl
 0.0.0.0 www.olx-pays.pl
+0.0.0.0 www.olx-pl.oferta.pw
 0.0.0.0 www.olx-pl.online
 0.0.0.0 www.olx-poland.cf
+0.0.0.0 www.olx.3d-security.info
 0.0.0.0 www.olx.epay-trade.ru
 0.0.0.0 www.olx.pl-id2046801-order.ru
 0.0.0.0 www.olx.pl-oferta.online
@@ -10648,6 +10663,7 @@
 0.0.0.0 www.poczta.interia-pl.space
 0.0.0.0 www.poczta.ron-mil-pl.site
 0.0.0.0 www.poczty-24.net
+0.0.0.0 www.podajmy-analize.eu
 0.0.0.0 www.poland-news.pl
 0.0.0.0 www.policy-secure-account.com
 0.0.0.0 www.polityka-bez-cenzury.you2.pl
@@ -10945,8 +10961,10 @@
 0.0.0.0 www.xn--eonetgwat-xub.pl
 0.0.0.0 www.xn--gwatpolska24-fcc.eu
 0.0.0.0 www.xn--igraszkinocnezroksan-nkc.cba.pl
+0.0.0.0 www.xn--ox-xqa.pl
 0.0.0.0 www.xn--pasaer-spb.pl
 0.0.0.0 www.x-hosepl2.com
+0.0.0.0 www.york-24.dfirma.pl
 0.0.0.0 www.your-movies.pl
 0.0.0.0 www.your-sexydreams.com
 0.0.0.0 www.yrehrher.001www.com
@@ -11009,11 +11027,13 @@
 0.0.0.0 xn--eonetgwat-xub.pl
 0.0.0.0 xn--gwatpolska24-fcc.eu
 0.0.0.0 xn--igraszkinocnezroksan-nkc.cba.pl
+0.0.0.0 xn--ox-xqa.pl
 0.0.0.0 xn--pasaer-spb.pl
 0.0.0.0 x-hosepl2.com
 0.0.0.0 yellowstudio.pl
 0.0.0.0 yogasuma.care
 0.0.0.0 yorkiolx.dfirma.pl
+0.0.0.0 york-24.dfirma.pl
 0.0.0.0 yotefiles.com
 0.0.0.0 you24.eu
 0.0.0.0 yourfitway.com
