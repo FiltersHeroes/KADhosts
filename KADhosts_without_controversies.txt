@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 11 Nov 2020, 20:04 UTC+01
-# Version: 2020.11.11.3
+# Last modified: Thu, 12 Nov 2020, 12:04 UTC+01
+# Version: 2020.11.12.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6737,6 +6737,7 @@
 0.0.0.0 ogloszenia24.dfirma.pl
 0.0.0.0 ogloszenia-24.cba.pl
 0.0.0.0 ogloszenia-olx.you2.pl
+0.0.0.0 ogloszenia-online.ct8.pl
 0.0.0.0 ogloszenie.best
 0.0.0.0 ogloszenie.space
 0.0.0.0 ogloszenie24.in.net
@@ -6781,6 +6782,7 @@
 0.0.0.0 olx24.eu
 0.0.0.0 olxpl.eu
 0.0.0.0 olxpl.online
+0.0.0.0 olxpl.org
 0.0.0.0 olxpl.payment24.online
 0.0.0.0 olxpl.youroplata.online
 0.0.0.0 olxpl.zapowiedz.site
@@ -6809,6 +6811,7 @@
 0.0.0.0 olx.epay-trade.ru
 0.0.0.0 olx.informacja-pl.info
 0.0.0.0 olx.oplata-is.com
+0.0.0.0 olx.pl-id202011-order.site
 0.0.0.0 olx.pl-id2046801-order.ru
 0.0.0.0 olx.pl-oferta.online
 0.0.0.0 olx.pl.oferta-pay.cyou
@@ -7158,6 +7161,7 @@
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 pojadetam.pl
 0.0.0.0 polaczenie.xn.pl
+0.0.0.0 polands.mob-olx.pw
 0.0.0.0 poland-news.pl
 0.0.0.0 policja24.eu
 0.0.0.0 policja24info.pl.d103wh.d2.cz
@@ -7388,6 +7392,7 @@
 0.0.0.0 reloffersstart.co
 0.0.0.0 remontim.pl
 0.0.0.0 remontklub.pl
+0.0.0.0 reportaz-na-zywo.dfirma.pl
 0.0.0.0 restauracjatramontana.pl
 0.0.0.0 restricted.pl
 0.0.0.0 retinaegras.at
@@ -7420,6 +7425,7 @@
 0.0.0.0 s8powazkowska-modlinska.pl
 0.0.0.0 s88.vdl.pl
 0.0.0.0 sabiosdelamor.co
+0.0.0.0 sale-mediaexpert.pl
 0.0.0.0 salomonpl.pl
 0.0.0.0 salonfilmowy.pl
 0.0.0.0 salonflorida.pl
@@ -7574,6 +7580,7 @@
 0.0.0.0 sprawdzaj-uczestnika.eu
 0.0.0.0 sprawdzam.is-best.net
 0.0.0.0 sprawdzikk.v0r.org
+0.0.0.0 sprawdzto.ml
 0.0.0.0 sprawdzto.is-best.net
 0.0.0.0 sprzeadazonilne.xyz
 0.0.0.0 sprzedaz-aiiegro.xyz
@@ -9414,6 +9421,7 @@
 0.0.0.0 www.olx24.eu
 0.0.0.0 www.olxpl.eu
 0.0.0.0 www.olxpl.online
+0.0.0.0 www.olxpl.org
 0.0.0.0 www.olxpl.payment24.online
 0.0.0.0 www.olxpl.youroplata.online
 0.0.0.0 www.olxpl.zapowiedz.site
@@ -9916,6 +9924,7 @@
 0.0.0.0 www.sprawajestprosta21.online
 0.0.0.0 www.sprawajestprosta21.site
 0.0.0.0 www.sprawdzikk.v0r.org
+0.0.0.0 www.sprawdzto.ml
 0.0.0.0 www.sprzeadazonilne.xyz
 0.0.0.0 www.sslinfotype.pw
 0.0.0.0 www.sslpayu.com
@@ -10934,6 +10943,7 @@
 0.0.0.0 www.oglaszamy-yorki.dkonto.pl
 0.0.0.0 www.ogloszenia-24.cba.pl
 0.0.0.0 www.ogloszenia-olx.you2.pl
+0.0.0.0 www.ogloszenia-online.ct8.pl
 0.0.0.0 www.ogloszenie-elektronika.host
 0.0.0.0 www.ogloszenie-elektronika.online
 0.0.0.0 www.ogloszenie-elektronika.site
@@ -10970,6 +10980,7 @@
 0.0.0.0 www.olx.epay-trade.ru
 0.0.0.0 www.olx.informacja-pl.info
 0.0.0.0 www.olx.oplata-is.com
+0.0.0.0 www.olx.pl-id202011-order.site
 0.0.0.0 www.olx.pl-id2046801-order.ru
 0.0.0.0 www.olx.pl-oferta.online
 0.0.0.0 www.olx.pl.oferta-pay.cyou
@@ -11099,6 +11110,7 @@
 0.0.0.0 www.poczta.ron-mil-pl.site
 0.0.0.0 www.poczty-24.net
 0.0.0.0 www.podajmy-analize.eu
+0.0.0.0 www.polands.mob-olx.pw
 0.0.0.0 www.poland-news.pl
 0.0.0.0 www.policy-secure-account.com
 0.0.0.0 www.polityka-bez-cenzury.you2.pl
@@ -11183,6 +11195,7 @@
 0.0.0.0 www.reg-me.pl
 0.0.0.0 www.rejestr24.5p.pl
 0.0.0.0 www.rejestr.5p.pl
+0.0.0.0 www.reportaz-na-zywo.dfirma.pl
 0.0.0.0 www.rezervation-intens.pl
 0.0.0.0 www.rocket-it.com.au
 0.0.0.0 www.rossmann-rozdawanie.eu
@@ -11191,6 +11204,7 @@
 0.0.0.0 www.run-germany.com
 0.0.0.0 www.rywalizacja-ludzi.eu
 0.0.0.0 www.s8powazkowska-modlinska.pl
+0.0.0.0 www.sale-mediaexpert.pl
 0.0.0.0 www.samsung-akcja.e-kei.pl
 0.0.0.0 www.santander-accountpayments.com
 0.0.0.0 www.santander-bank-polska.braceletluck.com
