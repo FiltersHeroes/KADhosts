@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 17 Nov 2020, 12:04 UTC+01
-# Version: 2020.11.17.0
+# Last modified: Tue, 17 Nov 2020, 16:05 UTC+01
+# Version: 2020.11.17.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4780,6 +4780,7 @@
 0.0.0.0 aktpl.com
 0.0.0.0 aktualizacja.jst.pl
 0.0.0.0 aktualizacjaneftlix.camdvr.org
+0.0.0.0 aktualizacjanetlfix.ahlalbeit.net
 0.0.0.0 aktualizacja-poczty.online
 0.0.0.0 aktualizacja-regulamin.com
 0.0.0.0 albajifood.com
@@ -5497,6 +5498,7 @@
 0.0.0.0 e-zaginieni.pl
 0.0.0.0 e-zaginioneosoby.eu
 0.0.0.0 faberville.com
+0.0.0.0 facebbooc.com
 0.0.0.0 faceboobko.tcp4.me
 0.0.0.0 facebook.biz.pl
 0.0.0.0 facebookcom-43632337.techsso.com
@@ -6769,7 +6771,9 @@
 0.0.0.0 olx-dostawa.pl
 0.0.0.0 olx-dostawa.su
 0.0.0.0 olx-messenger.com
+0.0.0.0 olx-oferta.eu
 0.0.0.0 olx-oferta.pl
+0.0.0.0 olx-oferta.site
 0.0.0.0 olx-oferta.support
 0.0.0.0 olx-ogloszenie.dkonto.pl
 0.0.0.0 olx-online.eu
@@ -6785,6 +6789,7 @@
 0.0.0.0 olx-pl.su
 0.0.0.0 olx-pl-platnosci.info
 0.0.0.0 olx-przesylka.pl
+0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-shipping.eu
 0.0.0.0 olx--pl.online
 0.0.0.0 olx.3d-security.info
@@ -7878,6 +7883,7 @@
 0.0.0.0 varicolen.pl
 0.0.0.0 velica.com.br
 0.0.0.0 verification.libertrust.com
+0.0.0.0 verify.libertrust.com
 0.0.0.0 vgdny.com
 0.0.0.0 videoplanet.pl
 0.0.0.0 videoplex.pl
@@ -8015,6 +8021,7 @@
 0.0.0.0 worthlessness.xyz
 0.0.0.0 wosp.online
 0.0.0.0 wpadkowo.pl
+0.0.0.0 wpiata-paczkomat.host
 0.0.0.0 wpisy-wynikow.eu
 0.0.0.0 wplata-inpost.cyou
 0.0.0.0 wplata-paczkomat-24.space
@@ -8080,6 +8087,7 @@
 0.0.0.0 www.akazoo.pl
 0.0.0.0 www.aktpl.com
 0.0.0.0 www.aktualizacjaneftlix.camdvr.org
+0.0.0.0 www.aktualizacjanetlfix.ahlalbeit.net
 0.0.0.0 www.aktualizacja.jst.pl
 0.0.0.0 www.albajifood.com
 0.0.0.0 www.albertodionigi.it
@@ -8591,6 +8599,7 @@
 0.0.0.0 www.eyupp.com
 0.0.0.0 www.ezoliniawrozby.com
 0.0.0.0 www.faberville.com
+0.0.0.0 www.facebbooc.com
 0.0.0.0 www.faceboobko.tcp4.me
 0.0.0.0 www.facebookpl.eu
 0.0.0.0 www.facebook.biz.pl
@@ -10167,6 +10176,7 @@
 0.0.0.0 www.varicolen.pl
 0.0.0.0 www.velica.com.br
 0.0.0.0 www.verification.libertrust.com
+0.0.0.0 www.verify.libertrust.com
 0.0.0.0 www.vgdny.com
 0.0.0.0 www.videoplanet.pl
 0.0.0.0 www.videoplex.pl
@@ -11031,7 +11041,9 @@
 0.0.0.0 www.olx-dostawa.pl
 0.0.0.0 www.olx-dostawa.su
 0.0.0.0 www.olx-messenger.com
+0.0.0.0 www.olx-oferta.eu
 0.0.0.0 www.olx-oferta.pl
+0.0.0.0 www.olx-oferta.site
 0.0.0.0 www.olx-oferta.support
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
 0.0.0.0 www.olx-online.eu
@@ -11047,6 +11059,7 @@
 0.0.0.0 www.olx-pl.su
 0.0.0.0 www.olx-pl-platnosci.info
 0.0.0.0 www.olx-przesylka.pl
+0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-shipping.eu
 0.0.0.0 www.olx--pl.online
 0.0.0.0 www.olx.3d-security.info
@@ -11471,6 +11484,7 @@
 0.0.0.0 www.wojewodzkakronika.098.pl
 0.0.0.0 www.wojewodzkiportal.098.pl
 0.0.0.0 www.wolaklosza.is-best.net
+0.0.0.0 www.wpiata-paczkomat.host
 0.0.0.0 www.wpisy-wynikow.eu
 0.0.0.0 www.wplata-inpost.cyou
 0.0.0.0 www.wplata-paczkomat-24.space
