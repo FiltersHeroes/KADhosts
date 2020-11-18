@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 18 Nov 2020, 16:06 UTC+01
-# Version: 2020.11.18.1
+# Last modified: Wed, 18 Nov 2020, 20:05 UTC+01
+# Version: 2020.11.18.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5306,6 +5306,7 @@
 0.0.0.0 domniespodzianek.com
 0.0.0.0 domowe-kino.pl
 0.0.0.0 dont.pl
+0.0.0.0 doreczyciel24.net
 0.0.0.0 doski.by
 0.0.0.0 dostadh.com
 0.0.0.0 dostarcamy.net
@@ -6734,6 +6735,7 @@
 0.0.0.0 ollando.com
 0.0.0.0 olszewski.ehost.pl
 0.0.0.0 olx.cards2pays.online
+0.0.0.0 olx.pl.dostawa.pro
 0.0.0.0 olx.pl.dostawa.pw
 0.0.0.0 olx.pl.informacija.club
 0.0.0.0 olx.pl.informacija.digital
@@ -6810,6 +6812,7 @@
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
 0.0.0.0 olx-przesylka.pl
+0.0.0.0 olx-przesylki.net
 0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-shipping.eu
 0.0.0.0 olx--pl.online
@@ -7226,7 +7229,18 @@
 0.0.0.0 polska-teraz7.idl.pl
 0.0.0.0 polska-teraz8.idl.pl
 0.0.0.0 polska-teraz9.idl.pl
+0.0.0.0 polska-teraz10.idl.pl
+0.0.0.0 polska-teraz11.idl.pl
+0.0.0.0 polska-teraz12.idl.pl
+0.0.0.0 polska-teraz13.idl.pl
+0.0.0.0 polska-teraz14.idl.pl
+0.0.0.0 polska-teraz15.idl.pl
+0.0.0.0 polska-teraz16.idl.pl
+0.0.0.0 polska-teraz17.idl.pl
+0.0.0.0 polska-teraz18.idl.pl
+0.0.0.0 polska-teraz19.idl.pl
 0.0.0.0 polska--wiadomosci24h.x9.eu
+0.0.0.0 polskidziennik.dkonto.pl
 0.0.0.0 polskidziennik.pl
 0.0.0.0 polskieinfo24.eu
 0.0.0.0 polskieinformacje24.eu
@@ -7694,6 +7708,7 @@
 0.0.0.0 svd-warszawa.pl
 0.0.0.0 swapgg.pl
 0.0.0.0 swarovskisklep.com.pl
+0.0.0.0 swiat24.dkonto.pl
 0.0.0.0 swiatfilmikow.pl
 0.0.0.0 swiatgierlubin.pl
 0.0.0.0 swiatidei.pl
@@ -8501,6 +8516,7 @@
 0.0.0.0 www.doladujfona.org
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.dont.pl
+0.0.0.0 www.doreczyciel24.net
 0.0.0.0 www.doski.by
 0.0.0.0 www.dostadh.com
 0.0.0.0 www.dostarcamy.net
@@ -9499,6 +9515,7 @@
 0.0.0.0 www.olxteam.com
 0.0.0.0 www.olxyorki.dfirma.pl
 0.0.0.0 www.olx.cards2pays.online
+0.0.0.0 www.olx.pl.dostawa.pro
 0.0.0.0 www.olx.pl.dostawa.pw
 0.0.0.0 www.olx.pl.informacija.club
 0.0.0.0 www.olx.pl.informacija.digital
@@ -9758,6 +9775,7 @@
 0.0.0.0 www.polskawiiadomosc.club
 0.0.0.0 www.polskawiiadomosc.xyz
 0.0.0.0 www.polskayear.pl
+0.0.0.0 www.polskidziennik.dkonto.pl
 0.0.0.0 www.polskidziennik.pl
 0.0.0.0 www.polskieinfo24.eu
 0.0.0.0 www.polskieinformacje24.eu
@@ -10059,6 +10077,7 @@
 0.0.0.0 www.sustainablecities.net
 0.0.0.0 www.swapgg.pl
 0.0.0.0 www.swarovskisklep.com.pl
+0.0.0.0 www.swiat24.dkonto.pl
 0.0.0.0 www.swiatfilmikow.pl
 0.0.0.0 www.swiatgierlubin.pl
 0.0.0.0 www.swiatidei.pl
@@ -11116,6 +11135,7 @@
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
 0.0.0.0 www.olx-przesylka.pl
+0.0.0.0 www.olx-przesylki.net
 0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-shipping.eu
 0.0.0.0 www.olx--pl.online
@@ -11282,6 +11302,16 @@
 0.0.0.0 www.polska-teraz7.idl.pl
 0.0.0.0 www.polska-teraz8.idl.pl
 0.0.0.0 www.polska-teraz9.idl.pl
+0.0.0.0 www.polska-teraz10.idl.pl
+0.0.0.0 www.polska-teraz11.idl.pl
+0.0.0.0 www.polska-teraz12.idl.pl
+0.0.0.0 www.polska-teraz13.idl.pl
+0.0.0.0 www.polska-teraz14.idl.pl
+0.0.0.0 www.polska-teraz15.idl.pl
+0.0.0.0 www.polska-teraz16.idl.pl
+0.0.0.0 www.polska-teraz17.idl.pl
+0.0.0.0 www.polska-teraz18.idl.pl
+0.0.0.0 www.polska-teraz19.idl.pl
 0.0.0.0 www.polska--wiadomosci24h.x9.eu
 0.0.0.0 www.polskie-newsy.com.pl
 0.0.0.0 www.polski-lot.dfirma.pl
