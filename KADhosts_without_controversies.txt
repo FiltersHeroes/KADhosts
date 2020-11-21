@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 21 Nov 2020, 12:04 UTC+01
-# Version: 2020.11.21.0
+# Last modified: Sat, 21 Nov 2020, 16:06 UTC+01
+# Version: 2020.11.21.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6779,6 +6779,7 @@
 0.0.0.0 olx.pl.oferta.cyou
 0.0.0.0 olx.pl.oferta.icu
 0.0.0.0 olx.pl.oferta.kim
+0.0.0.0 olx.pl.oferta.network
 0.0.0.0 olx.pl.oferta.press
 0.0.0.0 olx.pl.oferta.pw
 0.0.0.0 olx.pl.oferto.info
@@ -6831,6 +6832,7 @@
 0.0.0.0 olx-dostawa.name
 0.0.0.0 olx-dostawa.pl
 0.0.0.0 olx-dostawa.su
+0.0.0.0 olx-g.pl
 0.0.0.0 olx-messenger.com
 0.0.0.0 olx-oferta.eu
 0.0.0.0 olx-oferta.pl
@@ -7325,6 +7327,7 @@
 0.0.0.0 postid-79348548.justgreece.org
 0.0.0.0 postkod.org
 0.0.0.0 post-990094.at
+0.0.0.0 post-send.host
 0.0.0.0 poszukiwana.cyou
 0.0.0.0 poszukiwani24.dkonto.pl
 0.0.0.0 poszukiwaniaonline.eu
@@ -9586,6 +9589,7 @@
 0.0.0.0 www.olx.pl.oferta.cyou
 0.0.0.0 www.olx.pl.oferta.icu
 0.0.0.0 www.olx.pl.oferta.kim
+0.0.0.0 www.olx.pl.oferta.network
 0.0.0.0 www.olx.pl.oferta.press
 0.0.0.0 www.olx.pl.oferta.pw
 0.0.0.0 www.olx.pl.oferto.info
@@ -11201,6 +11205,7 @@
 0.0.0.0 www.olx-dostawa.name
 0.0.0.0 www.olx-dostawa.pl
 0.0.0.0 www.olx-dostawa.su
+0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-oferta.eu
 0.0.0.0 www.olx-oferta.pl
@@ -11415,6 +11420,7 @@
 0.0.0.0 www.postbox-24.site
 0.0.0.0 www.postid-79348548.justgreece.org
 0.0.0.0 www.post-990094.at
+0.0.0.0 www.post-send.host
 0.0.0.0 www.potwierdzenie-zamowienie.xyz
 0.0.0.0 www.powiat24-wydarzenia.pl
 0.0.0.0 www.po-st-lu.com
