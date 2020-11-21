@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 20 Nov 2020, 20:06 UTC+01
-# Version: 2020.11.20.2
+# Last modified: Sat, 21 Nov 2020, 12:04 UTC+01
+# Version: 2020.11.21.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5252,6 +5252,7 @@
 0.0.0.0 delivery.olx-pl.com
 0.0.0.0 delivery.olx-pl.link
 0.0.0.0 delivery.olx-pl.me
+0.0.0.0 delivery.olx-pl.work
 0.0.0.0 deliver-post.com
 0.0.0.0 del-sieradz.neostrada.pl
 0.0.0.0 demo.website.pl
@@ -6542,8 +6543,10 @@
 0.0.0.0 nagroda-sms.pl
 0.0.0.0 nagrywamy-szpitale.ct8.pl
 0.0.0.0 nailrr.com
+0.0.0.0 najlepsza-pomoc.eu
 0.0.0.0 najlepszewrozby.pl
 0.0.0.0 najlepsze-oferty.com
+0.0.0.0 najlepszy-wynik.eu
 0.0.0.0 naleznoscgov.eu
 0.0.0.0 namibiasafaritours.ml
 0.0.0.0 namierz-telefon.pl
@@ -7393,6 +7396,7 @@
 0.0.0.0 przelewonline.site
 0.0.0.0 przelewonline.website
 0.0.0.0 przepismix.pl
+0.0.0.0 przeplyw-danych.eu
 0.0.0.0 przesiadzsie.pl
 0.0.0.0 przesydh.com
 0.0.0.0 przesyika24pl.fun
@@ -10437,8 +10441,10 @@
 0.0.0.0 www.wysycdhl.com
 0.0.0.0 www.wysykdhl.com
 0.0.0.0 www.wysyldhl.com
+0.0.0.0 www.wysyldhl.pl
 0.0.0.0 www.wysylka24.online
 0.0.0.0 www.wysylki.net
+0.0.0.0 www.wysysdhl.com
 0.0.0.0 www.xawqerklewq.myartsonline.com
 0.0.0.0 www.xyz.idl.pl
 0.0.0.0 www.yellowstudio.pl
@@ -10704,6 +10710,7 @@
 0.0.0.0 www.delivery.olx-pl.com
 0.0.0.0 www.delivery.olx-pl.link
 0.0.0.0 www.delivery.olx-pl.me
+0.0.0.0 www.delivery.olx-pl.work
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.del-sieradz.neostrada.pl
 0.0.0.0 www.dhl24-paczka.com
@@ -11101,7 +11108,9 @@
 0.0.0.0 www.nagranie-tvn.dfirma.pl
 0.0.0.0 www.nagroda-sms.pl
 0.0.0.0 www.nagrywamy-szpitale.ct8.pl
+0.0.0.0 www.najlepsza-pomoc.eu
 0.0.0.0 www.najlepsze-oferty.com
+0.0.0.0 www.najlepszy-wynik.eu
 0.0.0.0 www.namierz-telefon.pl
 0.0.0.0 www.nastepstwo-pomozmy.eu
 0.0.0.0 www.nasze-miasta24tv.online
@@ -11431,6 +11440,7 @@
 0.0.0.0 www.przeglosuj-strone.eu
 0.0.0.0 www.przejdzmy-razem.eu
 0.0.0.0 www.przejrzyj-fotki.eu
+0.0.0.0 www.przeplyw-danych.eu
 0.0.0.0 www.przesyika-pl.host
 0.0.0.0 www.przesylki-olx.pl
 0.0.0.0 www.przezwyciezenie-leku.eu
@@ -11677,6 +11687,7 @@
 0.0.0.0 www.wybierajmy-wygrana.eu
 0.0.0.0 www.wybierz-nagrode.pl
 0.0.0.0 www.wybierz-wyborce.eu
+0.0.0.0 www.wybor-podpunktu.eu
 0.0.0.0 www.wybor-reprezentanta.eu
 0.0.0.0 www.wydarzenia-24.dfirma.pl
 0.0.0.0 www.wydarzenia-polska24.you2.pl
@@ -11691,6 +11702,7 @@
 0.0.0.0 www.wyraz-pomoc.eu
 0.0.0.0 www.wyscig-wygranych.eu
 0.0.0.0 www.wytypuj-wynik.eu
+0.0.0.0 www.xn--c3ca7brwp8cb5a8bdr7kqe.com
 0.0.0.0 www.xn--efaktygwat-i0b.pl
 0.0.0.0 www.xn--eonetgwat-xub.pl
 0.0.0.0 www.xn--gwatpolska24-fcc.eu
@@ -11738,6 +11750,7 @@
 0.0.0.0 wybierajmy-wygrana.eu
 0.0.0.0 wybierz-nagrode.pl
 0.0.0.0 wybierz-wyborce.eu
+0.0.0.0 wybor-podpunktu.eu
 0.0.0.0 wybor-reprezentanta.eu
 0.0.0.0 wyciekizdjec24.pl
 0.0.0.0 wydarzenia.dkonto.pl
@@ -11764,10 +11777,13 @@
 0.0.0.0 wysycdhl.com
 0.0.0.0 wysykdhl.com
 0.0.0.0 wysyldhl.com
+0.0.0.0 wysyldhl.pl
 0.0.0.0 wysylka24.online
 0.0.0.0 wysylki.net
+0.0.0.0 wysysdhl.com
 0.0.0.0 wytypuj-wynik.eu
 0.0.0.0 xawqerklewq.myartsonline.com
+0.0.0.0 xn--c3ca7brwp8cb5a8bdr7kqe.com
 0.0.0.0 xn--efaktygwat-i0b.pl
 0.0.0.0 xn--eonetgwat-xub.pl
 0.0.0.0 xn--gwatpolska24-fcc.eu
