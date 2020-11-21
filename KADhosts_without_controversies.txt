@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 21 Nov 2020, 16:06 UTC+01
-# Version: 2020.11.21.1
+# Last modified: Sat, 21 Nov 2020, 20:04 UTC+01
+# Version: 2020.11.21.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6832,6 +6832,7 @@
 0.0.0.0 olx-dostawa.name
 0.0.0.0 olx-dostawa.pl
 0.0.0.0 olx-dostawa.su
+0.0.0.0 olx-dostawa.website
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-messenger.com
 0.0.0.0 olx-oferta.eu
@@ -6841,6 +6842,7 @@
 0.0.0.0 olx-ogloszenie.dkonto.pl
 0.0.0.0 olx-online.eu
 0.0.0.0 olx-order.eu
+0.0.0.0 olx-p.pl
 0.0.0.0 olx-pay.org
 0.0.0.0 olx-payments.pl
 0.0.0.0 olx-pays.pl
@@ -11205,6 +11207,7 @@
 0.0.0.0 www.olx-dostawa.name
 0.0.0.0 www.olx-dostawa.pl
 0.0.0.0 www.olx-dostawa.su
+0.0.0.0 www.olx-dostawa.website
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-oferta.eu
@@ -11214,6 +11217,7 @@
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
 0.0.0.0 www.olx-online.eu
 0.0.0.0 www.olx-order.eu
+0.0.0.0 www.olx-p.pl
 0.0.0.0 www.olx-pay.org
 0.0.0.0 www.olx-payments.pl
 0.0.0.0 www.olx-pays.pl
