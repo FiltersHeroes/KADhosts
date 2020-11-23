@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 23 Nov 2020, 16:03 UTC+01
-# Version: 2020.11.23.1
+# Last modified: Mon, 23 Nov 2020, 20:05 UTC+01
+# Version: 2020.11.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5196,6 +5196,7 @@
 0.0.0.0 delivery.olx-pl.com
 0.0.0.0 delivery.olx-pl.link
 0.0.0.0 delivery.olx-pl.me
+0.0.0.0 delivery.olx-pl.shop
 0.0.0.0 delivery.olx-pl.work
 0.0.0.0 deliver-post.com
 0.0.0.0 del-sieradz.neostrada.pl
@@ -5964,6 +5965,7 @@
 0.0.0.0 inovscope.pt
 0.0.0.0 inp0st-aplikacja.com
 0.0.0.0 inpast.net
+0.0.0.0 inpoczt.net
 0.0.0.0 inpoist.net
 0.0.0.0 inporst.net
 0.0.0.0 inposf.net
@@ -6785,6 +6787,7 @@
 0.0.0.0 olx-dostawa.website
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-k.pl
+0.0.0.0 olx-m.pl
 0.0.0.0 olx-managment.pl
 0.0.0.0 olx-messenger.com
 0.0.0.0 olx-oferta.eu
@@ -6799,11 +6802,13 @@
 0.0.0.0 olx-pay.org
 0.0.0.0 olx-payments.pl
 0.0.0.0 olx-pays.pl
+0.0.0.0 olx-pl.cc
 0.0.0.0 olx-pl.dostawa.pro
 0.0.0.0 olx-pl.eu
 0.0.0.0 olx-pl.info
 0.0.0.0 olx-pl.mirpay.info
 0.0.0.0 olx-pl.ml
+0.0.0.0 olx-pl.net
 0.0.0.0 olx-pl.oferta.pw
 0.0.0.0 olx-pl.online
 0.0.0.0 olx-pl.org
@@ -6820,6 +6825,7 @@
 0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-save.pl
 0.0.0.0 olx-shipping.eu
+0.0.0.0 olx-wyplata.pl
 0.0.0.0 olx-y.pl
 0.0.0.0 olx--pl.online
 0.0.0.0 olx.3d-security.info
@@ -7098,6 +7104,7 @@
 0.0.0.0 pl.potwierdzenie.info
 0.0.0.0 pl.tradenewsinvesting.com
 0.0.0.0 pl.tvplusnewtab.com
+0.0.0.0 pl.zaplacic.info
 0.0.0.0 placidocn.com
 0.0.0.0 planet-logowanie.at
 0.0.0.0 plansznoobki.pl
@@ -7181,6 +7188,7 @@
 0.0.0.0 poczta-mobile.pl
 0.0.0.0 poczta-o2.pl
 0.0.0.0 poczta-pay.com
+0.0.0.0 poczta-polska.eu
 0.0.0.0 poczta-regulamin.com
 0.0.0.0 poczta.interia-pl.site
 0.0.0.0 poczta.interia-pl.space
@@ -7880,6 +7888,7 @@
 0.0.0.0 twojapaka.com
 0.0.0.0 twojebony.com.pl
 0.0.0.0 twoje-foty.eu
+0.0.0.0 twoje-konto-sprawdz-szczegoly-netflix.mywire.org
 0.0.0.0 twoje-miasto.dfirma.pl
 0.0.0.0 twoje-seriale.tv
 0.0.0.0 twojkurier.com
@@ -9011,6 +9020,7 @@
 0.0.0.0 www.innsat.pl
 0.0.0.0 www.inovscope.pt
 0.0.0.0 www.inpast.net
+0.0.0.0 www.inpoczt.net
 0.0.0.0 www.inpoist.net
 0.0.0.0 www.inporst.net
 0.0.0.0 www.inposf24.com
@@ -10691,6 +10701,7 @@
 0.0.0.0 www.delivery.olx-pl.com
 0.0.0.0 www.delivery.olx-pl.link
 0.0.0.0 www.delivery.olx-pl.me
+0.0.0.0 www.delivery.olx-pl.shop
 0.0.0.0 www.delivery.olx-pl.work
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.del-sieradz.neostrada.pl
@@ -11188,6 +11199,7 @@
 0.0.0.0 www.olx-dostawa.website
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-k.pl
+0.0.0.0 www.olx-m.pl
 0.0.0.0 www.olx-managment.pl
 0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-oferta.eu
@@ -11202,11 +11214,13 @@
 0.0.0.0 www.olx-pay.org
 0.0.0.0 www.olx-payments.pl
 0.0.0.0 www.olx-pays.pl
+0.0.0.0 www.olx-pl.cc
 0.0.0.0 www.olx-pl.dostawa.pro
 0.0.0.0 www.olx-pl.eu
 0.0.0.0 www.olx-pl.info
 0.0.0.0 www.olx-pl.mirpay.info
 0.0.0.0 www.olx-pl.ml
+0.0.0.0 www.olx-pl.net
 0.0.0.0 www.olx-pl.oferta.pw
 0.0.0.0 www.olx-pl.online
 0.0.0.0 www.olx-pl.org
@@ -11223,6 +11237,7 @@
 0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-save.pl
 0.0.0.0 www.olx-shipping.eu
+0.0.0.0 www.olx-wyplata.pl
 0.0.0.0 www.olx-y.pl
 0.0.0.0 www.olx--pl.online
 0.0.0.0 www.olx.3d-security.info
@@ -11371,6 +11386,7 @@
 0.0.0.0 www.poczta-mobile.pl
 0.0.0.0 www.poczta-o2.pl
 0.0.0.0 www.poczta-pay.com
+0.0.0.0 www.poczta-polska.eu
 0.0.0.0 www.poczta-regulamin.com
 0.0.0.0 www.poczta.interia-pl.site
 0.0.0.0 www.poczta.interia-pl.space
@@ -11599,6 +11615,7 @@
 0.0.0.0 www.twenty-wishes.000webhostapp.com
 0.0.0.0 www.twojapaczka-24.com
 0.0.0.0 www.twoje-foty.eu
+0.0.0.0 www.twoje-konto-sprawdz-szczegoly-netflix.mywire.org
 0.0.0.0 www.twoje-miasto.dfirma.pl
 0.0.0.0 www.twoje-seriale.tv
 0.0.0.0 www.twoj-inipost.com
@@ -11698,6 +11715,7 @@
 0.0.0.0 www.wyliczenia-sprawdzaj.eu
 0.0.0.0 www.wypadki24.e-kei.pl
 0.0.0.0 www.wypozycz-film.pl
+0.0.0.0 www.wyprzedaz-mediaexpert.pl
 0.0.0.0 www.wyraz-pomoc.eu
 0.0.0.0 www.wyscig-wygranych.eu
 0.0.0.0 www.wytypuj-wynik.eu
@@ -11769,6 +11787,7 @@
 0.0.0.0 wyliczenia-sprawdzaj.eu
 0.0.0.0 wypadki24.e-kei.pl
 0.0.0.0 wypozycz-film.pl
+0.0.0.0 wyprzedaz-mediaexpert.pl
 0.0.0.0 wyraz-pomoc.eu
 0.0.0.0 wys24h.eu
 0.0.0.0 wyscig-wygranych.eu
