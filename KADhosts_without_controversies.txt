@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 25 Nov 2020, 12:08 UTC+01
-# Version: 2020.11.25.0
+# Last modified: Wed, 25 Nov 2020, 16:03 UTC+01
+# Version: 2020.11.25.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6736,6 +6736,7 @@
 0.0.0.0 ollando.com
 0.0.0.0 olszewski.ehost.pl
 0.0.0.0 olx.cards2pays.online
+0.0.0.0 olx.ilpay.ru
 0.0.0.0 olx.paysdeals.ru
 0.0.0.0 olx.pl.dostawa.pro
 0.0.0.0 olx.pl.dostawa.pw
@@ -6770,6 +6771,7 @@
 0.0.0.0 olxdostawa.com
 0.0.0.0 olxm.epay-trade.ru
 0.0.0.0 olxpl.co
+0.0.0.0 olxpl.deals
 0.0.0.0 olxpl.eu
 0.0.0.0 olxpl.me
 0.0.0.0 olxpl.online
@@ -6782,6 +6784,7 @@
 0.0.0.0 olxpln.fun
 0.0.0.0 olxpln.online
 0.0.0.0 olxpln.site
+0.0.0.0 olxplsafe.xyz
 0.0.0.0 olxpl-3ds.zapls.site
 0.0.0.0 olxpl-oplata.online
 0.0.0.0 olxpl-order.info
@@ -6851,6 +6854,7 @@
 0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-save.pl
 0.0.0.0 olx-shipping.eu
+0.0.0.0 olx-transfer.pl
 0.0.0.0 olx-wyplata.pl
 0.0.0.0 olx-y.pl
 0.0.0.0 olx--pl.online
@@ -6863,6 +6867,7 @@
 0.0.0.0 olx.payment-otrymac.online
 0.0.0.0 olx.pl-id202011-order.site
 0.0.0.0 olx.pl-id2046801-order.ru
+0.0.0.0 olx.pl-id73885935.info
 0.0.0.0 olx.pl-oferta.com
 0.0.0.0 olx.pl-oferta.online
 0.0.0.0 olx.pl-offerta.me
@@ -6948,6 +6953,7 @@
 0.0.0.0 oplat1y.com
 0.0.0.0 oplatapge.com
 0.0.0.0 oplata-payu.com
+0.0.0.0 oplata-pl-olx.online
 0.0.0.0 oplata-przesylki.fun
 0.0.0.0 oplata-przesylki.space
 0.0.0.0 oplaty24-kurier.com
@@ -7148,6 +7154,7 @@
 0.0.0.0 platnosc-online.website
 0.0.0.0 platnosc-paczkomat.online
 0.0.0.0 platnosc-paczkomat.space
+0.0.0.0 platnosc-payu24.com
 0.0.0.0 play18ok.info
 0.0.0.0 play24sklep.com
 0.0.0.0 playallthis.com
@@ -7244,6 +7251,7 @@
 0.0.0.0 polaczenie.xn.pl
 0.0.0.0 polands.mob-olx.pw
 0.0.0.0 poland-news.pl
+0.0.0.0 poland.my-olx.me
 0.0.0.0 policja24.eu
 0.0.0.0 policja24info.pl.d103wh.d2.cz
 0.0.0.0 policy-secure-account.com
@@ -7821,6 +7829,7 @@
 0.0.0.0 termstal.cba.pl
 0.0.0.0 terntraveller.com
 0.0.0.0 test.maciejdudek.com.pl
+0.0.0.0 test-hole-cert-pl.cf
 0.0.0.0 tewiadomosci.online
 0.0.0.0 tfks19yr6ykp3ud.likemyish.com
 0.0.0.0 thebiggestpromotiononearth.com
@@ -9593,7 +9602,9 @@
 0.0.0.0 www.olxpln.fun
 0.0.0.0 www.olxpln.online
 0.0.0.0 www.olxpln.site
+0.0.0.0 www.olxplsafe.xyz
 0.0.0.0 www.olxpl.co
+0.0.0.0 www.olxpl.deals
 0.0.0.0 www.olxpl.eu
 0.0.0.0 www.olxpl.me
 0.0.0.0 www.olxpl.online
@@ -9608,6 +9619,7 @@
 0.0.0.0 www.olxteam.com
 0.0.0.0 www.olxyorki.dfirma.pl
 0.0.0.0 www.olx.cards2pays.online
+0.0.0.0 www.olx.ilpay.ru
 0.0.0.0 www.olx.paysdeals.ru
 0.0.0.0 www.olx.pl.dostawa.pro
 0.0.0.0 www.olx.pl.dostawa.pw
@@ -11301,6 +11313,7 @@
 0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-save.pl
 0.0.0.0 www.olx-shipping.eu
+0.0.0.0 www.olx-transfer.pl
 0.0.0.0 www.olx-wyplata.pl
 0.0.0.0 www.olx-y.pl
 0.0.0.0 www.olx--pl.online
@@ -11313,6 +11326,7 @@
 0.0.0.0 www.olx.payment-otrymac.online
 0.0.0.0 www.olx.pl-id202011-order.site
 0.0.0.0 www.olx.pl-id2046801-order.ru
+0.0.0.0 www.olx.pl-id73885935.info
 0.0.0.0 www.olx.pl-oferta.com
 0.0.0.0 www.olx.pl-oferta.online
 0.0.0.0 www.olx.pl-offerta.me
@@ -11352,6 +11366,7 @@
 0.0.0.0 www.oplac-paczke.com
 0.0.0.0 www.oplac-zaleglosc.eu
 0.0.0.0 www.oplata-payu.com
+0.0.0.0 www.oplata-pl-olx.online
 0.0.0.0 www.oplata-przesylki.fun
 0.0.0.0 www.oplata-przesylki.space
 0.0.0.0 www.oplaty24-kurier.com
@@ -11419,6 +11434,7 @@
 0.0.0.0 www.platnosc-online.website
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.platnosc-paczkomat.space
+0.0.0.0 www.platnosc-payu24.com
 0.0.0.0 www.player-cda.pl
 0.0.0.0 www.play-sklep.com
 0.0.0.0 www.play-sklep.net
@@ -11462,6 +11478,7 @@
 0.0.0.0 www.podajmy-analize.eu
 0.0.0.0 www.polands.mob-olx.pw
 0.0.0.0 www.poland-news.pl
+0.0.0.0 www.poland.my-olx.me
 0.0.0.0 www.policy-secure-account.com
 0.0.0.0 www.polityka-bez-cenzury.you2.pl
 0.0.0.0 www.polska-anketierowanie.site
@@ -11659,6 +11676,7 @@
 0.0.0.0 www.tematyczne-rozmowy-pl.eu
 0.0.0.0 www.tematyczne-wywiady.pl
 0.0.0.0 www.termometr-na-podczerwien-pl.com
+0.0.0.0 www.test-hole-cert-pl.cf
 0.0.0.0 www.thecrypto-genius.net
 0.0.0.0 www.the-bitcoins-code.com
 0.0.0.0 www.the-bitcoins-evolution.net
