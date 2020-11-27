@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 27 Nov 2020, 20:13 UTC+01
-# Version: 2020.11.27.3
+# Last modified: Fri, 27 Nov 2020, 23:49 UTC+01
+# Version: 2020.11.27.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4227,6 +4227,7 @@
 0.0.0.0 medium24.fr
 0.0.0.0 meetonlyhot.com
 0.0.0.0 miresnahapsi.pro
+0.0.0.0 mobile-app-vault.life
 0.0.0.0 mobile-redirection.com
 0.0.0.0 mobstarr.com
 0.0.0.0 monetizer.info
@@ -4440,6 +4441,7 @@
 0.0.0.0 www.interia-24-pl.livejournal.com
 0.0.0.0 www.interia-info.livejournal.com
 0.0.0.0 www.iphone-za-darmo.over-blog.com
+0.0.0.0 www.mobile-app-vault.life
 0.0.0.0 www.mobile-redirection.com
 0.0.0.0 www.money-for-you-2020.ru
 0.0.0.0 www.news-paperz.com
@@ -5941,19 +5943,9 @@
 0.0.0.0 hodowlafanaberia.pl
 0.0.0.0 holylamaoffers.com
 0.0.0.0 homelake.pl
-0.0.0.0 homepaiement-pl-af71f83d.vmkfz.at
-0.0.0.0 homepaiement-pl-f3cb8436.vmkfz.at
-0.0.0.0 homepay-pl-b192e422.vmkfz.at
-0.0.0.0 homepay-pl-bb326a1e.vmkfz.at
-0.0.0.0 homepay-pl-d509e817.vmkfz.at
-0.0.0.0 homepay-pl-d9091d76.vmkfz.at
 0.0.0.0 hondamarket.pl
 0.0.0.0 horse-strenght.com
 0.0.0.0 host1.5v.pl
-0.0.0.0 hosting2019336.online.pro
-0.0.0.0 hosting2029570.online.pro
-0.0.0.0 hosting2036547.online.pro
-0.0.0.0 hosting2043614.online.pro
 0.0.0.0 hostkrd.ovh
 0.0.0.0 hostplik.pl
 0.0.0.0 hostujmy.pl
@@ -9145,10 +9137,6 @@
 0.0.0.0 www.holylamaoffers.com
 0.0.0.0 www.homelake.pl
 0.0.0.0 www.hondamarket.pl
-0.0.0.0 www.hosting2019336.online.pro
-0.0.0.0 www.hosting2029570.online.pro
-0.0.0.0 www.hosting2036547.online.pro
-0.0.0.0 www.hosting2043614.online.pro
 0.0.0.0 www.hostkrd.ovh
 0.0.0.0 www.hostplik.pl
 0.0.0.0 www.hostujmy.pl
@@ -11142,12 +11130,6 @@
 0.0.0.0 www.hd-online.skyrock.com
 0.0.0.0 www.health-beauty.press
 0.0.0.0 www.hehreerh.001www.com
-0.0.0.0 www.homepaiement-pl-af71f83d.vmkfz.at
-0.0.0.0 www.homepaiement-pl-f3cb8436.vmkfz.at
-0.0.0.0 www.homepay-pl-b192e422.vmkfz.at
-0.0.0.0 www.homepay-pl-bb326a1e.vmkfz.at
-0.0.0.0 www.homepay-pl-d509e817.vmkfz.at
-0.0.0.0 www.homepay-pl-d9091d76.vmkfz.at
 0.0.0.0 www.horse-strenght.com
 0.0.0.0 www.host1.5v.pl
 0.0.0.0 www.hotel-bristol.lu
@@ -13137,10 +13119,20 @@
 0.0.0.0 historyalwayschildren13.live
 0.0.0.0 homepaiement-pl-16f9b0fb.arw-rohstoffhandel.com
 0.0.0.0 homepaiement-pl-258fd91f.arw-rohstoffhandel.com
+0.0.0.0 homepaiement-pl-af71f83d.vmkfz.at
+0.0.0.0 homepaiement-pl-f3cb8436.vmkfz.at
 0.0.0.0 homepay-pl-48d33c44.rpm-technik.at
+0.0.0.0 homepay-pl-b192e422.vmkfz.at
+0.0.0.0 homepay-pl-bb326a1e.vmkfz.at
+0.0.0.0 homepay-pl-d509e817.vmkfz.at
+0.0.0.0 homepay-pl-d9091d76.vmkfz.at
+0.0.0.0 hosting2019336.online.pro
 0.0.0.0 hosting2021623.online.pro
 0.0.0.0 hosting2024700.online.pro
+0.0.0.0 hosting2029570.online.pro
+0.0.0.0 hosting2036547.online.pro
 0.0.0.0 hosting2042037.online.pro
+0.0.0.0 hosting2043614.online.pro
 0.0.0.0 hosting2070987.online.pro
 0.0.0.0 hosting2086464.online.pro
 0.0.0.0 hp.myway.com
@@ -14006,9 +13998,13 @@
 0.0.0.0 www.headregret19.live
 0.0.0.0 www.headregret20.live
 0.0.0.0 www.historyalwayschildren13.live
+0.0.0.0 www.hosting2019336.online.pro
 0.0.0.0 www.hosting2021623.online.pro
 0.0.0.0 www.hosting2024700.online.pro
+0.0.0.0 www.hosting2029570.online.pro
+0.0.0.0 www.hosting2036547.online.pro
 0.0.0.0 www.hosting2042037.online.pro
+0.0.0.0 www.hosting2043614.online.pro
 0.0.0.0 www.hosting2070987.online.pro
 0.0.0.0 www.hosting2086464.online.pro
 0.0.0.0 www.hp.myway.com
@@ -14561,7 +14557,13 @@
 0.0.0.0 www.grand-prise-ishere2.life
 0.0.0.0 www.homepaiement-pl-16f9b0fb.arw-rohstoffhandel.com
 0.0.0.0 www.homepaiement-pl-258fd91f.arw-rohstoffhandel.com
+0.0.0.0 www.homepaiement-pl-af71f83d.vmkfz.at
+0.0.0.0 www.homepaiement-pl-f3cb8436.vmkfz.at
 0.0.0.0 www.homepay-pl-48d33c44.rpm-technik.at
+0.0.0.0 www.homepay-pl-b192e422.vmkfz.at
+0.0.0.0 www.homepay-pl-bb326a1e.vmkfz.at
+0.0.0.0 www.homepay-pl-d509e817.vmkfz.at
+0.0.0.0 www.homepay-pl-d9091d76.vmkfz.at
 0.0.0.0 www.informacje-fakty.pusiaweb.com
 0.0.0.0 www.informacje-naszemiasto.x9.eu
 0.0.0.0 www.informcje1.is-best.net
