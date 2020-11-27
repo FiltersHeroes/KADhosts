@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 27 Nov 2020, 16:16 UTC+01
-# Version: 2020.11.27.2
+# Last modified: Fri, 27 Nov 2020, 20:13 UTC+01
+# Version: 2020.11.27.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5356,6 +5356,7 @@
 0.0.0.0 dostawa-olx.eu
 0.0.0.0 dostawa-olx.org
 0.0.0.0 dostawa-olx.pl
+0.0.0.0 dostawa-paczki.com
 0.0.0.0 dostawpack.com
 0.0.0.0 dostawy24.com
 0.0.0.0 dostawyjaros.top
@@ -6709,6 +6710,7 @@
 0.0.0.0 obslugakelnerska20.wixsite.com
 0.0.0.0 oceniaj-wygranego.eu
 0.0.0.0 odbieraj-nagrody.com.pl
+0.0.0.0 odbieram.host
 0.0.0.0 odbierznagrody.com.pl
 0.0.0.0 odblerz-przesyike.xyz
 0.0.0.0 odchudzaniewielotorowe.pl
@@ -6927,6 +6929,7 @@
 0.0.0.0 olx-pl.pro
 0.0.0.0 olx-pl.pw
 0.0.0.0 olx-pl.su
+0.0.0.0 olx-pl-delivery.su
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
 0.0.0.0 olx-poland.pl
@@ -6936,6 +6939,7 @@
 0.0.0.0 olx-przesylki.net
 0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-save.pl
+0.0.0.0 olx-secure.pl
 0.0.0.0 olx-shipping.eu
 0.0.0.0 olx-transfer.info
 0.0.0.0 olx-transfer.pl
@@ -7678,6 +7682,7 @@
 0.0.0.0 seks-telefon.com
 0.0.0.0 semsanbtccome.site
 0.0.0.0 semsanbtccome.website
+0.0.0.0 send-post.host
 0.0.0.0 sensosushi.pl
 0.0.0.0 seolandia.pl
 0.0.0.0 seriale.best
@@ -9664,6 +9669,7 @@
 0.0.0.0 www.o2news.you2.pl
 0.0.0.0 www.obkzrcclean2.az.pl
 0.0.0.0 www.obslugakelnerska20.wixsite.com
+0.0.0.0 www.odbieram.host
 0.0.0.0 www.odbierznagrody.com.pl
 0.0.0.0 www.odchudzaniewielotorowe.pl
 0.0.0.0 www.odessa.com.pl
@@ -10957,6 +10963,7 @@
 0.0.0.0 www.dostawa-olx.eu
 0.0.0.0 www.dostawa-olx.org
 0.0.0.0 www.dostawa-olx.pl
+0.0.0.0 www.dostawa-paczki.com
 0.0.0.0 www.dostawy-dhl.com
 0.0.0.0 www.downloads-mobile.com
 0.0.0.0 www.dpd-paczka.com
@@ -11472,6 +11479,7 @@
 0.0.0.0 www.olx-pl.pro
 0.0.0.0 www.olx-pl.pw
 0.0.0.0 www.olx-pl.su
+0.0.0.0 www.olx-pl-delivery.su
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
 0.0.0.0 www.olx-poland.pl
@@ -11481,6 +11489,7 @@
 0.0.0.0 www.olx-przesylki.net
 0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-save.pl
+0.0.0.0 www.olx-secure.pl
 0.0.0.0 www.olx-shipping.eu
 0.0.0.0 www.olx-transfer.info
 0.0.0.0 www.olx-transfer.pl
@@ -11777,6 +11786,7 @@
 0.0.0.0 www.secure-pge.eu
 0.0.0.0 www.security-update-required.com
 0.0.0.0 www.seks-telefon.com
+0.0.0.0 www.send-post.host
 0.0.0.0 www.server32456789098765.s3.us-east-2.amazonaws.com
 0.0.0.0 www.server-payuser1.com
 0.0.0.0 www.service-pay.company
