@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 30 Nov 2020, 20:05 UTC+01
-# Version: 2020.11.30.2
+# Last modified: Mon, 30 Nov 2020, 20:51 UTC+01
+# Version: 2020.11.30.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6786,8 +6786,6 @@
 0.0.0.0 olx.pl.obyavlenije.com
 0.0.0.0 olx.pl.paymont.pl
 0.0.0.0 olx.pl.personpay.info
-0.0.0.0 olx.pl.platnosci.info
-0.0.0.0 olx.pl.platnosc.info
 0.0.0.0 olx.pl.potwierdzenie.info
 0.0.0.0 olx.pl.zaplacic.info
 0.0.0.0 olx.rwpay.ru
@@ -6832,12 +6830,6 @@
 0.0.0.0 olx-deliverry.name
 0.0.0.0 olx-delivery.biz
 0.0.0.0 olx-dostava.pl
-0.0.0.0 olx-dostawa.eu
-0.0.0.0 olx-dostawa.me
-0.0.0.0 olx-dostawa.name
-0.0.0.0 olx-dostawa.pl
-0.0.0.0 olx-dostawa.su
-0.0.0.0 olx-dostawa.website
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-h.pl
 0.0.0.0 olx-i.pl
@@ -6848,17 +6840,6 @@
 0.0.0.0 olx-managment.pl
 0.0.0.0 olx-messenger.com
 0.0.0.0 olx-n.pl
-0.0.0.0 olx-oferta.com
-0.0.0.0 olx-oferta.eu
-0.0.0.0 olx-oferta.info
-0.0.0.0 olx-oferta.ink
-0.0.0.0 olx-oferta.link
-0.0.0.0 olx-oferta.pl
-0.0.0.0 olx-oferta.shop
-0.0.0.0 olx-oferta.site
-0.0.0.0 olx-oferta.space
-0.0.0.0 olx-oferta.support
-0.0.0.0 olx-oferta.xyz
 0.0.0.0 olx-ogloszenie.dkonto.pl
 0.0.0.0 olx-online.eu
 0.0.0.0 olx-order.eu
@@ -6887,10 +6868,6 @@
 0.0.0.0 olx-pl.3dsecure-cash.online
 0.0.0.0 olx-poland.pl
 0.0.0.0 olx-polland.com
-0.0.0.0 olx-przesylka.pl
-0.0.0.0 olx-przesylki.name
-0.0.0.0 olx-przesylki.net
-0.0.0.0 olx-przesylki.org
 0.0.0.0 olx-save.pl
 0.0.0.0 olx-secure.pl
 0.0.0.0 olx-shipping.eu
@@ -9727,8 +9704,6 @@
 0.0.0.0 www.olx.pl.obyavlenije.com
 0.0.0.0 www.olx.pl.paymont.pl
 0.0.0.0 www.olx.pl.personpay.info
-0.0.0.0 www.olx.pl.platnosci.info
-0.0.0.0 www.olx.pl.platnosc.info
 0.0.0.0 www.olx.pl.potwierdzenie.info
 0.0.0.0 www.olx.pl.zaplacic.info
 0.0.0.0 www.olx.rwpay.ru
@@ -11378,12 +11353,6 @@
 0.0.0.0 www.olx-deliverry.name
 0.0.0.0 www.olx-delivery.biz
 0.0.0.0 www.olx-dostava.pl
-0.0.0.0 www.olx-dostawa.eu
-0.0.0.0 www.olx-dostawa.me
-0.0.0.0 www.olx-dostawa.name
-0.0.0.0 www.olx-dostawa.pl
-0.0.0.0 www.olx-dostawa.su
-0.0.0.0 www.olx-dostawa.website
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-h.pl
 0.0.0.0 www.olx-i.pl
@@ -11394,17 +11363,6 @@
 0.0.0.0 www.olx-managment.pl
 0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-n.pl
-0.0.0.0 www.olx-oferta.com
-0.0.0.0 www.olx-oferta.eu
-0.0.0.0 www.olx-oferta.info
-0.0.0.0 www.olx-oferta.ink
-0.0.0.0 www.olx-oferta.link
-0.0.0.0 www.olx-oferta.pl
-0.0.0.0 www.olx-oferta.shop
-0.0.0.0 www.olx-oferta.site
-0.0.0.0 www.olx-oferta.space
-0.0.0.0 www.olx-oferta.support
-0.0.0.0 www.olx-oferta.xyz
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
 0.0.0.0 www.olx-online.eu
 0.0.0.0 www.olx-order.eu
@@ -11433,10 +11391,6 @@
 0.0.0.0 www.olx-pl.3dsecure-cash.online
 0.0.0.0 www.olx-poland.pl
 0.0.0.0 www.olx-polland.com
-0.0.0.0 www.olx-przesylka.pl
-0.0.0.0 www.olx-przesylki.name
-0.0.0.0 www.olx-przesylki.net
-0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx-save.pl
 0.0.0.0 www.olx-secure.pl
 0.0.0.0 www.olx-shipping.eu
@@ -13321,6 +13275,8 @@
 0.0.0.0 olx.pl.oferta.pw
 0.0.0.0 olx.pl.oferto.info
 0.0.0.0 olx.pl.oferto.org
+0.0.0.0 olx.pl.platnosci.info
+0.0.0.0 olx.pl.platnosc.info
 0.0.0.0 olx.pl.wysylka.cc
 0.0.0.0 olx.pl.wysylka.live
 0.0.0.0 olx.pl.wysylka.me
@@ -13332,6 +13288,27 @@
 0.0.0.0 olxpl-order.info
 0.0.0.0 olxpl-order.online
 0.0.0.0 olxpl-order.site
+0.0.0.0 olx-dostawa.eu
+0.0.0.0 olx-dostawa.me
+0.0.0.0 olx-dostawa.name
+0.0.0.0 olx-dostawa.pl
+0.0.0.0 olx-dostawa.su
+0.0.0.0 olx-dostawa.website
+0.0.0.0 olx-oferta.com
+0.0.0.0 olx-oferta.eu
+0.0.0.0 olx-oferta.info
+0.0.0.0 olx-oferta.ink
+0.0.0.0 olx-oferta.link
+0.0.0.0 olx-oferta.pl
+0.0.0.0 olx-oferta.shop
+0.0.0.0 olx-oferta.site
+0.0.0.0 olx-oferta.space
+0.0.0.0 olx-oferta.support
+0.0.0.0 olx-oferta.xyz
+0.0.0.0 olx-przesylka.pl
+0.0.0.0 olx-przesylki.name
+0.0.0.0 olx-przesylki.net
+0.0.0.0 olx-przesylki.org
 0.0.0.0 olx.payment-otrymac.info
 0.0.0.0 olx.payment-otrymac.online
 0.0.0.0 olx.pl-oferta.com
@@ -14162,6 +14139,8 @@
 0.0.0.0 www.olx.pl.oferta.pw
 0.0.0.0 www.olx.pl.oferto.info
 0.0.0.0 www.olx.pl.oferto.org
+0.0.0.0 www.olx.pl.platnosci.info
+0.0.0.0 www.olx.pl.platnosc.info
 0.0.0.0 www.olx.pl.wysylka.cc
 0.0.0.0 www.olx.pl.wysylka.live
 0.0.0.0 www.olx.pl.wysylka.me
@@ -14649,6 +14628,27 @@
 0.0.0.0 www.olxpl-order.info
 0.0.0.0 www.olxpl-order.online
 0.0.0.0 www.olxpl-order.site
+0.0.0.0 www.olx-dostawa.eu
+0.0.0.0 www.olx-dostawa.me
+0.0.0.0 www.olx-dostawa.name
+0.0.0.0 www.olx-dostawa.pl
+0.0.0.0 www.olx-dostawa.su
+0.0.0.0 www.olx-dostawa.website
+0.0.0.0 www.olx-oferta.com
+0.0.0.0 www.olx-oferta.eu
+0.0.0.0 www.olx-oferta.info
+0.0.0.0 www.olx-oferta.ink
+0.0.0.0 www.olx-oferta.link
+0.0.0.0 www.olx-oferta.pl
+0.0.0.0 www.olx-oferta.shop
+0.0.0.0 www.olx-oferta.site
+0.0.0.0 www.olx-oferta.space
+0.0.0.0 www.olx-oferta.support
+0.0.0.0 www.olx-oferta.xyz
+0.0.0.0 www.olx-przesylka.pl
+0.0.0.0 www.olx-przesylki.name
+0.0.0.0 www.olx-przesylki.net
+0.0.0.0 www.olx-przesylki.org
 0.0.0.0 www.olx.payment-otrymac.info
 0.0.0.0 www.olx.payment-otrymac.online
 0.0.0.0 www.olx.pl-oferta.com
