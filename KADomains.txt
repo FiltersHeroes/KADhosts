@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 30 Nov 2020, 20:05 UTC+01
-# Version: 2020.11.30.2
+# Last modified: Mon, 30 Nov 2020, 20:51 UTC+01
+# Version: 2020.11.30.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6801,8 +6801,6 @@ olx.pl.obyalvenyie.shop
 olx.pl.obyavlenije.com
 olx.pl.paymont.pl
 olx.pl.personpay.info
-olx.pl.platnosci.info
-olx.pl.platnosc.info
 olx.pl.potwierdzenie.info
 olx.pl.zaplacic.info
 olx.rwpay.ru
@@ -6847,12 +6845,6 @@ olx-deliverry.info
 olx-deliverry.name
 olx-delivery.biz
 olx-dostava.pl
-olx-dostawa.eu
-olx-dostawa.me
-olx-dostawa.name
-olx-dostawa.pl
-olx-dostawa.su
-olx-dostawa.website
 olx-g.pl
 olx-h.pl
 olx-i.pl
@@ -6863,17 +6855,6 @@ olx-m.pl
 olx-managment.pl
 olx-messenger.com
 olx-n.pl
-olx-oferta.com
-olx-oferta.eu
-olx-oferta.info
-olx-oferta.ink
-olx-oferta.link
-olx-oferta.pl
-olx-oferta.shop
-olx-oferta.site
-olx-oferta.space
-olx-oferta.support
-olx-oferta.xyz
 olx-ogloszenie.dkonto.pl
 olx-online.eu
 olx-order.eu
@@ -6902,10 +6883,6 @@ olx-pl-platnosci.info
 olx-pl.3dsecure-cash.online
 olx-poland.pl
 olx-polland.com
-olx-przesylka.pl
-olx-przesylki.name
-olx-przesylki.net
-olx-przesylki.org
 olx-save.pl
 olx-secure.pl
 olx-shipping.eu
@@ -9742,8 +9719,6 @@ www.olx.pl.obyalvenyie.shop
 www.olx.pl.obyavlenije.com
 www.olx.pl.paymont.pl
 www.olx.pl.personpay.info
-www.olx.pl.platnosci.info
-www.olx.pl.platnosc.info
 www.olx.pl.potwierdzenie.info
 www.olx.pl.zaplacic.info
 www.olx.rwpay.ru
@@ -11393,12 +11368,6 @@ www.olx-deliverry.info
 www.olx-deliverry.name
 www.olx-delivery.biz
 www.olx-dostava.pl
-www.olx-dostawa.eu
-www.olx-dostawa.me
-www.olx-dostawa.name
-www.olx-dostawa.pl
-www.olx-dostawa.su
-www.olx-dostawa.website
 www.olx-g.pl
 www.olx-h.pl
 www.olx-i.pl
@@ -11409,17 +11378,6 @@ www.olx-m.pl
 www.olx-managment.pl
 www.olx-messenger.com
 www.olx-n.pl
-www.olx-oferta.com
-www.olx-oferta.eu
-www.olx-oferta.info
-www.olx-oferta.ink
-www.olx-oferta.link
-www.olx-oferta.pl
-www.olx-oferta.shop
-www.olx-oferta.site
-www.olx-oferta.space
-www.olx-oferta.support
-www.olx-oferta.xyz
 www.olx-ogloszenie.dkonto.pl
 www.olx-online.eu
 www.olx-order.eu
@@ -11448,10 +11406,6 @@ www.olx-pl-platnosci.info
 www.olx-pl.3dsecure-cash.online
 www.olx-poland.pl
 www.olx-polland.com
-www.olx-przesylka.pl
-www.olx-przesylki.name
-www.olx-przesylki.net
-www.olx-przesylki.org
 www.olx-save.pl
 www.olx-secure.pl
 www.olx-shipping.eu
@@ -13336,6 +13290,8 @@ olx.pl.oferta.press
 olx.pl.oferta.pw
 olx.pl.oferto.info
 olx.pl.oferto.org
+olx.pl.platnosci.info
+olx.pl.platnosc.info
 olx.pl.wysylka.cc
 olx.pl.wysylka.live
 olx.pl.wysylka.me
@@ -13347,6 +13303,27 @@ olx.przesylki.su
 olxpl-order.info
 olxpl-order.online
 olxpl-order.site
+olx-dostawa.eu
+olx-dostawa.me
+olx-dostawa.name
+olx-dostawa.pl
+olx-dostawa.su
+olx-dostawa.website
+olx-oferta.com
+olx-oferta.eu
+olx-oferta.info
+olx-oferta.ink
+olx-oferta.link
+olx-oferta.pl
+olx-oferta.shop
+olx-oferta.site
+olx-oferta.space
+olx-oferta.support
+olx-oferta.xyz
+olx-przesylka.pl
+olx-przesylki.name
+olx-przesylki.net
+olx-przesylki.org
 olx.payment-otrymac.info
 olx.payment-otrymac.online
 olx.pl-oferta.com
@@ -14177,6 +14154,8 @@ www.olx.pl.oferta.press
 www.olx.pl.oferta.pw
 www.olx.pl.oferto.info
 www.olx.pl.oferto.org
+www.olx.pl.platnosci.info
+www.olx.pl.platnosc.info
 www.olx.pl.wysylka.cc
 www.olx.pl.wysylka.live
 www.olx.pl.wysylka.me
@@ -14664,6 +14643,27 @@ www.ogloszenie-kupteraz-805214.xyz
 www.olxpl-order.info
 www.olxpl-order.online
 www.olxpl-order.site
+www.olx-dostawa.eu
+www.olx-dostawa.me
+www.olx-dostawa.name
+www.olx-dostawa.pl
+www.olx-dostawa.su
+www.olx-dostawa.website
+www.olx-oferta.com
+www.olx-oferta.eu
+www.olx-oferta.info
+www.olx-oferta.ink
+www.olx-oferta.link
+www.olx-oferta.pl
+www.olx-oferta.shop
+www.olx-oferta.site
+www.olx-oferta.space
+www.olx-oferta.support
+www.olx-oferta.xyz
+www.olx-przesylka.pl
+www.olx-przesylki.name
+www.olx-przesylki.net
+www.olx-przesylki.org
 www.olx.payment-otrymac.info
 www.olx.payment-otrymac.online
 www.olx.pl-oferta.com
