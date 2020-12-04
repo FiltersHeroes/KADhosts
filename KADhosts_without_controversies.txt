@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 04 Dec 2020, 12:05 UTC+01
-# Version: 2020.12.4.0
+# Last modified: Fri, 04 Dec 2020, 16:05 UTC+01
+# Version: 2020.12.4.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5110,6 +5110,7 @@
 0.0.0.0 checkoutbase.com
 0.0.0.0 checkoutwins.com
 0.0.0.0 checkthatdeals.com
+0.0.0.0 check-olx.pl
 0.0.0.0 chefeladlevi.com
 0.0.0.0 chelmy.cba.pl
 0.0.0.0 chicharito14.c0.pl
@@ -6811,6 +6812,7 @@
 0.0.0.0 olszewski.ehost.pl
 0.0.0.0 olx.cards2pays.online
 0.0.0.0 olx.doreczanie.pl
+0.0.0.0 olx.dostawa.me
 0.0.0.0 olx.dostawa.name
 0.0.0.0 olx.dostawa.su
 0.0.0.0 olx.dostaw.biz
@@ -6824,6 +6826,7 @@
 0.0.0.0 olx.pl.personpay.info
 0.0.0.0 olx.pl.potwierdzenie.info
 0.0.0.0 olx.pl.zaplacic.info
+0.0.0.0 olx.przesylk.biz
 0.0.0.0 olx.przesylk.com
 0.0.0.0 olx.rwpay.ru
 0.0.0.0 olx.tcpay.ru
@@ -6864,6 +6867,7 @@
 0.0.0.0 olxservice.pl
 0.0.0.0 olxteam.com
 0.0.0.0 olxyorki.dfirma.pl
+0.0.0.0 olx-check.pl
 0.0.0.0 olx-d.pl
 0.0.0.0 olx-deliver.cc
 0.0.0.0 olx-deliver.su
@@ -6874,6 +6878,7 @@
 0.0.0.0 olx-dostava.pl
 0.0.0.0 olx-dostava.su
 0.0.0.0 olx-e.pl
+0.0.0.0 olx-epayment.com
 0.0.0.0 olx-epayment.pl
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-h.pl
@@ -6885,6 +6890,7 @@
 0.0.0.0 olx-managment.pl
 0.0.0.0 olx-me.pl
 0.0.0.0 olx-messenger.com
+0.0.0.0 olx-mi.pl
 0.0.0.0 olx-mobile.pl
 0.0.0.0 olx-n.pl
 0.0.0.0 olx-ogloszenie.dkonto.pl
@@ -6943,7 +6949,9 @@
 0.0.0.0 olx.merch-pays.ru
 0.0.0.0 olx.oplata-is.com
 0.0.0.0 olx.ortymac-pay.store
+0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
+0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-dostawa.com
 0.0.0.0 olx.pl-id202011-order.site
 0.0.0.0 olx.pl-id2046801-order.ru
@@ -6952,6 +6960,7 @@
 0.0.0.0 olx.pl-order.info
 0.0.0.0 olx.pl-otrymac.info
 0.0.0.0 olx.pl-safe.online
+0.0.0.0 olx.pl-track.online
 0.0.0.0 olx.pl-tracking.online
 0.0.0.0 olx.pl-wysylka.info
 0.0.0.0 olx.pl.delivery-pays.pw
@@ -7232,6 +7241,7 @@
 0.0.0.0 pl.olx.oferta.design
 0.0.0.0 pl.olx.oferta.network
 0.0.0.0 pl.olx.oferta.press
+0.0.0.0 pl.potwierdzenie.cc
 0.0.0.0 pl.potwierdzenie.info
 0.0.0.0 pl.tradenewsinvesting.com
 0.0.0.0 pl.tvplusnewtab.com
@@ -8114,6 +8124,7 @@
 0.0.0.0 unlimited.movies.and.series.netflix.afraplants.ir
 0.0.0.0 unlimited.movies.and.series.netflix.irsa-art.ir
 0.0.0.0 unsubscribe.vomeo8wflpty52u.neyazco.ir
+0.0.0.0 updatepolishwebmail.weebly.com
 0.0.0.0 updateservicesverification.web.app
 0.0.0.0 update-1.com
 0.0.0.0 uperpay.club
@@ -9811,6 +9822,7 @@
 0.0.0.0 www.olxyorki.dfirma.pl
 0.0.0.0 www.olx.cards2pays.online
 0.0.0.0 www.olx.doreczanie.pl
+0.0.0.0 www.olx.dostawa.me
 0.0.0.0 www.olx.dostawa.name
 0.0.0.0 www.olx.dostawa.su
 0.0.0.0 www.olx.dostaw.biz
@@ -9824,6 +9836,7 @@
 0.0.0.0 www.olx.pl.personpay.info
 0.0.0.0 www.olx.pl.potwierdzenie.info
 0.0.0.0 www.olx.pl.zaplacic.info
+0.0.0.0 www.olx.przesylk.biz
 0.0.0.0 www.olx.przesylk.com
 0.0.0.0 www.olx.rwpay.ru
 0.0.0.0 www.olx.tcpay.ru
@@ -10561,6 +10574,7 @@
 0.0.0.0 www.unixbroker.com
 0.0.0.0 www.unlimited.movies.and.series.netflix.afraplants.ir
 0.0.0.0 www.unsubscribe.vomeo8wflpty52u.neyazco.ir
+0.0.0.0 www.updatepolishwebmail.weebly.com
 0.0.0.0 www.updateservicesverification.web.app
 0.0.0.0 www.uperpay.club
 0.0.0.0 www.upocztapolska.net
@@ -10968,6 +10982,7 @@
 0.0.0.0 www.cennlk-przesylki.online
 0.0.0.0 www.cen.trum.polska.24.account.login.ssl.masterfood.mobi
 0.0.0.0 www.charge-backers.pl
+0.0.0.0 www.check-olx.pl
 0.0.0.0 www.chomik-24.pl
 0.0.0.0 www.chor-moniuszko.pl
 0.0.0.0 www.christen-online.at
@@ -11501,6 +11516,7 @@
 0.0.0.0 www.olxpl-safe.eu
 0.0.0.0 www.olxpl.3ds.website
 0.0.0.0 www.olxpl.3dsecurity.info
+0.0.0.0 www.olx-check.pl
 0.0.0.0 www.olx-d.pl
 0.0.0.0 www.olx-deliver.cc
 0.0.0.0 www.olx-deliver.su
@@ -11511,6 +11527,7 @@
 0.0.0.0 www.olx-dostava.pl
 0.0.0.0 www.olx-dostava.su
 0.0.0.0 www.olx-e.pl
+0.0.0.0 www.olx-epayment.com
 0.0.0.0 www.olx-epayment.pl
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-h.pl
@@ -11522,6 +11539,7 @@
 0.0.0.0 www.olx-managment.pl
 0.0.0.0 www.olx-me.pl
 0.0.0.0 www.olx-messenger.com
+0.0.0.0 www.olx-mi.pl
 0.0.0.0 www.olx-mobile.pl
 0.0.0.0 www.olx-n.pl
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
@@ -11580,7 +11598,9 @@
 0.0.0.0 www.olx.merch-pays.ru
 0.0.0.0 www.olx.oplata-is.com
 0.0.0.0 www.olx.ortymac-pay.store
+0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
+0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-dostawa.com
 0.0.0.0 www.olx.pl-id202011-order.site
 0.0.0.0 www.olx.pl-id2046801-order.ru
@@ -11589,6 +11609,7 @@
 0.0.0.0 www.olx.pl-order.info
 0.0.0.0 www.olx.pl-otrymac.info
 0.0.0.0 www.olx.pl-safe.online
+0.0.0.0 www.olx.pl-track.online
 0.0.0.0 www.olx.pl-tracking.online
 0.0.0.0 www.olx.pl-wysylka.info
 0.0.0.0 www.olx.pl.delivery-pays.pw
