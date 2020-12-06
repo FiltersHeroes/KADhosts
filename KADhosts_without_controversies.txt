@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 06 Dec 2020, 14:02 UTC+01
-# Version: 2020.12.6.1
+# Last modified: Sun, 06 Dec 2020, 16:03 UTC+01
+# Version: 2020.12.6.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6420,6 +6420,7 @@
 0.0.0.0 margohack.za.pl
 0.0.0.0 marialoechert.pl
 0.0.0.0 marketing-messenger.com
+0.0.0.0 marketplace-olx.pl
 0.0.0.0 marketpluse.com
 0.0.0.0 maska-oddechowa-kn95-pl.com
 0.0.0.0 mastertradeinvestments.com
@@ -6908,6 +6909,7 @@
 0.0.0.0 olx-pl.3dsecure-cash.online
 0.0.0.0 olx-pl.com-id235823.ru
 0.0.0.0 olx-pl.id-3456784.ru
+0.0.0.0 olx-pl.ru-protect.com
 0.0.0.0 olx-poland.pl
 0.0.0.0 olx-polland.com
 0.0.0.0 olx-pro.pl
@@ -11394,6 +11396,7 @@
 0.0.0.0 www.make-by-yourown.com
 0.0.0.0 www.manager-paczek.in.net
 0.0.0.0 www.marketing-messenger.com
+0.0.0.0 www.marketplace-olx.pl
 0.0.0.0 www.maska-oddechowa-kn95-pl.com
 0.0.0.0 www.max-host.pl
 0.0.0.0 www.mazowieckie-fakt24.pl
@@ -11576,6 +11579,7 @@
 0.0.0.0 www.olx-pl.3dsecure-cash.online
 0.0.0.0 www.olx-pl.com-id235823.ru
 0.0.0.0 www.olx-pl.id-3456784.ru
+0.0.0.0 www.olx-pl.ru-protect.com
 0.0.0.0 www.olx-poland.pl
 0.0.0.0 www.olx-polland.com
 0.0.0.0 www.olx-pro.pl
@@ -12874,8 +12878,6 @@
 0.0.0.0 allegro.pl.showltem.pl
 0.0.0.0 allegro.pl.showlten.pl
 0.0.0.0 allegro.pl.szoten.pl
-0.0.0.0 allegro6.pl
-0.0.0.0 allegro7.pl
 0.0.0.0 allegrolokalne.ru
 0.0.0.0 allegrolokalnie.com.ru
 0.0.0.0 allegrolokalnie.oferta.tech
@@ -12925,7 +12927,6 @@
 0.0.0.0 childalertfakt.site
 0.0.0.0 chomikuj.best
 0.0.0.0 chomikuj-new-t1.opx.pl
-0.0.0.0 cinema4k.net
 0.0.0.0 claimyourprizes16.life
 0.0.0.0 cloud.file.co.pl
 0.0.0.0 consquarters1.live
@@ -13110,7 +13111,6 @@
 0.0.0.0 e-childalert.pl
 0.0.0.0 e-childalert.site
 0.0.0.0 e-monitoring-pocztapolska.org
-0.0.0.0 e-pocztex.pl
 0.0.0.0 e-poszukiwania.eu
 0.0.0.0 e-poszukiwania.site
 0.0.0.0 e-poszukiwanie.eu
@@ -13199,7 +13199,6 @@
 0.0.0.0 flyingintheclouds1.live
 0.0.0.0 flyingintheclouds7.live
 0.0.0.0 flyingintheclouds15.live
-0.0.0.0 fork.juiceknee.xyz
 0.0.0.0 fotaonline.24.eu
 0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 free.apps.co.pl
@@ -13460,7 +13459,6 @@
 0.0.0.0 mobpocztapolska.net
 0.0.0.0 moneynew.investmarket.info
 0.0.0.0 monitoring-epocztapolska.net
-0.0.0.0 monitoring-pocztapolska.net
 0.0.0.0 monitoring-pocztapolska.org
 0.0.0.0 monitor-ipocztapolska.net
 0.0.0.0 monitor-ppocztapolska.net
@@ -13870,7 +13868,6 @@
 0.0.0.0 togethercleareducation10.live
 0.0.0.0 togethercleareducation14.live
 0.0.0.0 togethercleareducation15.live
-0.0.0.0 togetherforwine.com
 0.0.0.0 top.naturgood.icu
 0.0.0.0 tpocztapolska.com
 0.0.0.0 training.sitegiant.info
@@ -13939,8 +13936,6 @@
 0.0.0.0 www.adpro.futurenet.club
 0.0.0.0 www.adsheads.go2affise.com
 0.0.0.0 www.agxlo.instalovers.net
-0.0.0.0 www.allegro6.pl
-0.0.0.0 www.allegro7.pl
 0.0.0.0 www.allegrolokalne.ru
 0.0.0.0 www.allegrolokalnie.com.ru
 0.0.0.0 www.allegrolokalnie.oferta.tech
@@ -13981,7 +13976,6 @@
 0.0.0.0 www.childalertfakt.online
 0.0.0.0 www.childalertfakt.site
 0.0.0.0 www.chomikuj.best
-0.0.0.0 www.cinema4k.net
 0.0.0.0 www.claimyourprizes16.life
 0.0.0.0 www.cloud.file.co.pl
 0.0.0.0 www.consquarters1.live
@@ -14156,7 +14150,6 @@
 0.0.0.0 www.flyingintheclouds1.live
 0.0.0.0 www.flyingintheclouds7.live
 0.0.0.0 www.flyingintheclouds15.live
-0.0.0.0 www.fork.juiceknee.xyz
 0.0.0.0 www.freeiqtest.blogspot.com
 0.0.0.0 www.free.apps.co.pl
 0.0.0.0 www.free.file.co.pl
@@ -14615,7 +14608,6 @@
 0.0.0.0 www.togethercleareducation10.live
 0.0.0.0 www.togethercleareducation14.live
 0.0.0.0 www.togethercleareducation15.live
-0.0.0.0 www.togetherforwine.com
 0.0.0.0 www.top.naturgood.icu
 0.0.0.0 www.tpocztapolska.com
 0.0.0.0 www.training.sitegiant.info
@@ -14752,7 +14744,6 @@
 0.0.0.0 www.e-childalert.pl
 0.0.0.0 www.e-childalert.site
 0.0.0.0 www.e-monitoring-pocztapolska.org
-0.0.0.0 www.e-pocztex.pl
 0.0.0.0 www.e-poszukiwania.eu
 0.0.0.0 www.e-poszukiwania.site
 0.0.0.0 www.e-poszukiwanie.eu
@@ -14861,7 +14852,6 @@
 0.0.0.0 www.mobile-global-apps-storages.life
 0.0.0.0 www.mobile-global-apps-store.life
 0.0.0.0 www.monitoring-epocztapolska.net
-0.0.0.0 www.monitoring-pocztapolska.net
 0.0.0.0 www.monitoring-pocztapolska.org
 0.0.0.0 www.monitor-ipocztapolska.net
 0.0.0.0 www.monitor-ppocztapolska.net
