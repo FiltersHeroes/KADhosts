@@ -14,6 +14,10 @@
 ||payageround-14.live^
 ||payageround-15.live^
 
+!hrkgame.com##html > body .modals.dimmer > .gdpr.visible:upward(1):style(display: none !important;)
+!hrkgame.com##html:root > body .modals.dimmer > .gdpr.hidden:upward(1):style(display: flex !important;)
+!hrkgame.com##.modals.dimmer > .gdpr.visible:upward(1):watch-attr([class])
+
 ||2automatyczny-dozownik-mydla-pl.com^
 ||24gwaltfakt.eu^
 ||24platnosci.online^
