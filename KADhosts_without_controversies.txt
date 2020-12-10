@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 10 Dec 2020, 16:05 UTC+01
-# Version: 2020.12.10.1
+# Last modified: Thu, 10 Dec 2020, 20:05 UTC+01
+# Version: 2020.12.10.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4681,6 +4681,7 @@
 0.0.0.0 24-gazeta.co.pl
 0.0.0.0 24.daily-news-24.com
 0.0.0.0 50kzl.pl
+0.0.0.0 60dnipremium.cloud
 0.0.0.0 82-118-23-62.cprapid.com
 0.0.0.0 96b4d58e213077161.temporary.link
 0.0.0.0 100sport.tv
@@ -5390,6 +5391,7 @@
 0.0.0.0 dunaplaza.pl
 0.0.0.0 duzysklep.com
 0.0.0.0 dworzec2.webd.pro
+0.0.0.0 dworzecglowny.you2.pl
 0.0.0.0 dworzec-uprowadzenie24.eu
 0.0.0.0 dziennewiadomosci24.pl
 0.0.0.0 dziennik.warszawa.pl
@@ -6009,6 +6011,7 @@
 0.0.0.0 infomiasto24.pl
 0.0.0.0 infonet.dfirma.pl
 0.0.0.0 infopolska34.you2.pl
+0.0.0.0 infopowiatowe.cal24.pl
 0.0.0.0 informacja24.eu
 0.0.0.0 informacje24.dkonto.pl
 0.0.0.0 informacje24.eu
@@ -6861,6 +6864,7 @@
 0.0.0.0 olx.pl.personpay.info
 0.0.0.0 olx.pl.potwierdzeniewyslania.online
 0.0.0.0 olx.pl.potwierdzenie.info
+0.0.0.0 olx.pl.przesylka.uno
 0.0.0.0 olx.pl.zaplacic.info
 0.0.0.0 olx.przesylk.biz
 0.0.0.0 olx.przesylk.com
@@ -6879,6 +6883,7 @@
 0.0.0.0 olxdostawa.pl
 0.0.0.0 olxm.epay-trade.ru
 0.0.0.0 olxoferta.site
+0.0.0.0 olxpaypl.pl
 0.0.0.0 olxpl.accespay.site
 0.0.0.0 olxpl.app
 0.0.0.0 olxpl.co
@@ -6965,7 +6970,9 @@
 0.0.0.0 olx-pln.eu
 0.0.0.0 olx-pl-delivery.info
 0.0.0.0 olx-pl-delivery.su
+0.0.0.0 olx-pl-dostawa.info
 0.0.0.0 olx-pl-id-749141.ru
+0.0.0.0 olx-pl-mobile.site
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
 0.0.0.0 olx-pl.3dsecure-cash.online
@@ -7443,6 +7450,7 @@
 0.0.0.0 polands.mob-olx.pw
 0.0.0.0 poland-news.pl
 0.0.0.0 poland.my-olx.me
+0.0.0.0 polic.you2.pl
 0.0.0.0 policja24.eu
 0.0.0.0 policja24info.pl.d103wh.d2.cz
 0.0.0.0 policy-secure-account.com
@@ -7820,6 +7828,7 @@
 0.0.0.0 service-pay.company
 0.0.0.0 serwer2014564.home.pl
 0.0.0.0 serwer2059901.home.pl
+0.0.0.0 serwer2067846.home.pl
 0.0.0.0 serwer2070662.home.pl
 0.0.0.0 serwis.you2.pl
 0.0.0.0 serwis-news.dfirma.pl
@@ -8937,6 +8946,7 @@
 0.0.0.0 www.dunaplaza.pl
 0.0.0.0 www.duzysklep.com
 0.0.0.0 www.dworzec2.webd.pro
+0.0.0.0 www.dworzecglowny.you2.pl
 0.0.0.0 www.dziennewiadomosci24.pl
 0.0.0.0 www.dziennikgminny.h2g.pl
 0.0.0.0 www.dzienniknews.com.pl
@@ -9354,6 +9364,7 @@
 0.0.0.0 www.infomiasto24.pl
 0.0.0.0 www.infonet.dfirma.pl
 0.0.0.0 www.infopolska34.you2.pl
+0.0.0.0 www.infopowiatowe.cal24.pl
 0.0.0.0 www.informacja24.eu
 0.0.0.0 www.informacje24.dkonto.pl
 0.0.0.0 www.informacje24.eu
@@ -9916,6 +9927,7 @@
 0.0.0.0 www.olxdostawa.com
 0.0.0.0 www.olxdostawa.pl
 0.0.0.0 www.olxoferta.site
+0.0.0.0 www.olxpaypl.pl
 0.0.0.0 www.olxpln.fun
 0.0.0.0 www.olxpln.online
 0.0.0.0 www.olxpln.site
@@ -9961,6 +9973,7 @@
 0.0.0.0 www.olx.pl.personpay.info
 0.0.0.0 www.olx.pl.potwierdzeniewyslania.online
 0.0.0.0 www.olx.pl.potwierdzenie.info
+0.0.0.0 www.olx.pl.przesylka.uno
 0.0.0.0 www.olx.pl.zaplacic.info
 0.0.0.0 www.olx.przesylk.biz
 0.0.0.0 www.olx.przesylk.com
@@ -10207,6 +10220,7 @@
 0.0.0.0 www.polaczenie.xn.pl
 0.0.0.0 www.policja24info.pl.d103wh.d2.cz
 0.0.0.0 www.policja24.eu
+0.0.0.0 www.polic.you2.pl
 0.0.0.0 www.polishpolar.com
 0.0.0.0 www.polishwebmailadmin.weebly.com
 0.0.0.0 www.polishwebmailupgrade.weebly.com
@@ -10436,6 +10450,7 @@
 0.0.0.0 www.servicecheck5.wixsite.com
 0.0.0.0 www.serwer2014564.home.pl
 0.0.0.0 www.serwer2059901.home.pl
+0.0.0.0 www.serwer2067846.home.pl
 0.0.0.0 www.serwer2070662.home.pl
 0.0.0.0 www.serwis.you2.pl
 0.0.0.0 www.setforconfigplease.com
@@ -10979,6 +10994,7 @@
 0.0.0.0 www.24-gazeta.co.pl
 0.0.0.0 www.24.daily-news-24.com
 0.0.0.0 www.50kzl.pl
+0.0.0.0 www.60dnipremium.cloud
 0.0.0.0 www.82-118-23-62.cprapid.com
 0.0.0.0 www.96b4d58e213077161.temporary.link
 0.0.0.0 www.100sport.tv
@@ -11734,7 +11750,9 @@
 0.0.0.0 www.olx-pln.eu
 0.0.0.0 www.olx-pl-delivery.info
 0.0.0.0 www.olx-pl-delivery.su
+0.0.0.0 www.olx-pl-dostawa.info
 0.0.0.0 www.olx-pl-id-749141.ru
+0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
 0.0.0.0 www.olx-pl.3dsecure-cash.online
