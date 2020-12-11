@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 11 Dec 2020, 16:07 UTC+01
-# Version: 2020.12.11.1
+# Last modified: Fri, 11 Dec 2020, 20:05 UTC+01
+# Version: 2020.12.11.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6343,6 +6343,7 @@
 0.0.0.0 kreacjonizm.cba.pl
 0.0.0.0 krecisztosamm.online
 0.0.0.0 kredyt24.biz
+0.0.0.0 kronikapowiatu.cal24.pl
 0.0.0.0 kronikaregionalna.cal24.pl
 0.0.0.0 kronika-miasta.website
 0.0.0.0 kryptointeres.pl
@@ -6436,6 +6437,7 @@
 0.0.0.0 lnpost24-paczkomat.com
 0.0.0.0 lnpostdezynfekcje.net
 0.0.0.0 lnpost-apps.com
+0.0.0.0 lnpost-paczkomaty.com
 0.0.0.0 localinformation.site
 0.0.0.0 localnewshere.site
 0.0.0.0 locked3.com
@@ -6969,6 +6971,7 @@
 0.0.0.0 olxpl-pays.online
 0.0.0.0 olxpl-safe.com
 0.0.0.0 olxpl-safe.eu
+0.0.0.0 olxpl-safe.online
 0.0.0.0 olxpl.3ds.website
 0.0.0.0 olxpl.3dsecurity.info
 0.0.0.0 olxpoland.org
@@ -7032,7 +7035,9 @@
 0.0.0.0 olx-pl-delivery.info
 0.0.0.0 olx-pl-delivery.su
 0.0.0.0 olx-pl-dostawa.info
+0.0.0.0 olx-pl-dostawa.net
 0.0.0.0 olx-pl-id-749141.ru
+0.0.0.0 olx-pl-id-759147.ru
 0.0.0.0 olx-pl-mobile.site
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
@@ -7043,6 +7048,7 @@
 0.0.0.0 olx-pl.oferta-pay.fun
 0.0.0.0 olx-pl.oferta-pay.life
 0.0.0.0 olx-pl.oferta-pay.live
+0.0.0.0 olx-pl.oferta-pay.xyz
 0.0.0.0 olx-pl.ru-protect.com
 0.0.0.0 olx-poland.pl
 0.0.0.0 olx-polland.com
@@ -7103,6 +7109,7 @@
 0.0.0.0 olx.pl.oferta-pay.digital
 0.0.0.0 olx.pl.oferta-pay.link
 0.0.0.0 olx.pl.oferta-pay.live
+0.0.0.0 olx.pl.oferta-pay.store
 0.0.0.0 olx.product-secure.ru
 0.0.0.0 olx.safe-pay.store
 0.0.0.0 olx.security-online.info
@@ -8446,6 +8453,7 @@
 0.0.0.0 wiecejpolski.icu
 0.0.0.0 wiedzacodziennatv.info
 0.0.0.0 wieliczka-pl.tk
+0.0.0.0 wiesci-krakowskie.vot.pl
 0.0.0.0 wiktorek140.cba.pl
 0.0.0.0 willapawelpogorzelica.pl
 0.0.0.0 willa-marina.pl
@@ -9668,6 +9676,7 @@
 0.0.0.0 www.kreacjonizm.cba.pl
 0.0.0.0 www.krecisztosamm.online
 0.0.0.0 www.kredyt24.biz
+0.0.0.0 www.kronikapowiatu.cal24.pl
 0.0.0.0 www.kronikaregionalna.cal24.pl
 0.0.0.0 www.kryptointeres.pl
 0.0.0.0 www.kryptono.exchange
@@ -11655,6 +11664,7 @@
 0.0.0.0 www.lnpost24-paczka.com
 0.0.0.0 www.lnpost24-paczkomat.com
 0.0.0.0 www.lnpost-apps.com
+0.0.0.0 www.lnpost-paczkomaty.com
 0.0.0.0 www.login-allorbank.com
 0.0.0.0 www.login-bnpparibas.at
 0.0.0.0 www.login-bnpparibas-biznes.at
@@ -11819,6 +11829,7 @@
 0.0.0.0 www.olxpl-pays.online
 0.0.0.0 www.olxpl-safe.com
 0.0.0.0 www.olxpl-safe.eu
+0.0.0.0 www.olxpl-safe.online
 0.0.0.0 www.olxpl.3ds.website
 0.0.0.0 www.olxpl.3dsecurity.info
 0.0.0.0 www.olx-a.pl
@@ -11875,7 +11886,9 @@
 0.0.0.0 www.olx-pl-delivery.info
 0.0.0.0 www.olx-pl-delivery.su
 0.0.0.0 www.olx-pl-dostawa.info
+0.0.0.0 www.olx-pl-dostawa.net
 0.0.0.0 www.olx-pl-id-749141.ru
+0.0.0.0 www.olx-pl-id-759147.ru
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
@@ -11886,6 +11899,7 @@
 0.0.0.0 www.olx-pl.oferta-pay.fun
 0.0.0.0 www.olx-pl.oferta-pay.life
 0.0.0.0 www.olx-pl.oferta-pay.live
+0.0.0.0 www.olx-pl.oferta-pay.xyz
 0.0.0.0 www.olx-pl.ru-protect.com
 0.0.0.0 www.olx-poland.pl
 0.0.0.0 www.olx-polland.com
@@ -11946,6 +11960,7 @@
 0.0.0.0 www.olx.pl.oferta-pay.digital
 0.0.0.0 www.olx.pl.oferta-pay.link
 0.0.0.0 www.olx.pl.oferta-pay.live
+0.0.0.0 www.olx.pl.oferta-pay.store
 0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.olx.safe-pay.store
 0.0.0.0 www.olx.security-online.info
@@ -12421,6 +12436,7 @@
 0.0.0.0 www.wiadomosc-fakty24.eu
 0.0.0.0 www.widget-eforsa.pl
 0.0.0.0 www.wieliczka-pl.tk
+0.0.0.0 www.wiesci-krakowskie.vot.pl
 0.0.0.0 www.willa-marina.pl
 0.0.0.0 www.winoteka-samiswoi.pl
 0.0.0.0 www.wiocha-pl.eu
@@ -12496,6 +12512,7 @@
 0.0.0.0 www.zalbani.is-best.net
 0.0.0.0 www.zap588693-1.plesk10.zap-webspace.com
 0.0.0.0 www.zapiac-teraz24.tech
+0.0.0.0 www.zapisek-wiadomosc.eu
 0.0.0.0 www.zapisy-akceptuj.eu
 0.0.0.0 www.zaplac-teraz.live
 0.0.0.0 www.zaplac-teraz-24.site
@@ -12600,6 +12617,7 @@
 0.0.0.0 zap588693-1.plesk10.zap-webspace.com
 0.0.0.0 zapakowane.net
 0.0.0.0 zapiac-teraz24.tech
+0.0.0.0 zapisek-wiadomosc.eu
 0.0.0.0 zapisy.fractaltrader.pl
 0.0.0.0 zapisy-akceptuj.eu
 0.0.0.0 zaplac-teraz.live
