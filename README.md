@@ -20,8 +20,8 @@ Od niedawna dostępna jest również dodatkowa lista [KADfake Hosts Edition](htt
 
 # Używanie listy HOSTS z pomocą DNS
 
-Niektóre DNSy używają naszej listy KADhosts i można je alternatywnie używać (np. na urządzeniach mobilnych). Są to między innymi:
+Niektóre DNS-y używają naszej listy KADhosts i można je alternatywnie używać (np. na urządzeniach mobilnych). Są to między innymi:
 
-* https://nextdns.io/ (zawiera bezpośrednio listę KAD i CERT w domyślnej konfiguracji -  [StevenBlack/hosts](https://github.com/StevenBlack/hosts))
+* https://nextdns.io/ (zawiera bezpośrednio listę KAD i CERT w domyślnej konfiguracji - [StevenBlack/hosts](https://github.com/StevenBlack/hosts))
 * https://ahadns.com/ (bazuje na oisd.nl)
 * https://dnscrypt.pl/ (zawiera bezpośrednio listę KAD i CERT)
