@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 17 Dec 2020, 20:05 UTC+01
-# Version: 2020.12.17.2
+# Last modified: Fri, 18 Dec 2020, 12:04 UTC+01
+# Version: 2020.12.18.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -547,6 +547,7 @@
 0.0.0.0 fireads.pl
 0.0.0.0 firebid.pl
 0.0.0.0 firegifts.pl
+0.0.0.0 firenzepunk.pl
 0.0.0.0 firesub.pl
 0.0.0.0 firmyb2b.pl
 0.0.0.0 firstweb.pl
@@ -2396,6 +2397,7 @@
 0.0.0.0 www.firead.org
 0.0.0.0 www.firebid.pl
 0.0.0.0 www.firegifts.pl
+0.0.0.0 www.firenzepunk.pl
 0.0.0.0 www.firesub.pl
 0.0.0.0 www.firmyb2b.pl
 0.0.0.0 www.firstweb.pl
@@ -5016,7 +5018,9 @@
 0.0.0.0 brohoof.pl
 0.0.0.0 brooklynlilly.com
 0.0.0.0 browsefeatureaasn31254.buzz
+0.0.0.0 brudna.prawda.vot.pl
 0.0.0.0 brudna-prawda.vot.pl
+0.0.0.0 brzydkie-tajemnice.vot.pl
 0.0.0.0 bslcorporationltd.co
 0.0.0.0 bsonus.xyz
 0.0.0.0 btcbillionaire-app.com
@@ -5308,6 +5312,7 @@
 0.0.0.0 delivery.olx-pl.us
 0.0.0.0 delivery.olx-pl.work
 0.0.0.0 delivery.olx.pl-oferta.shop
+0.0.0.0 delivery.olx.pl-oferta.xyz
 0.0.0.0 deliver-post.com
 0.0.0.0 del-sieradz.neostrada.pl
 0.0.0.0 demo.website.pl
@@ -6456,6 +6461,7 @@
 0.0.0.0 lnpost.org
 0.0.0.0 lnpost.pl
 0.0.0.0 lnpost24.net
+0.0.0.0 lnpost24-kurier.com
 0.0.0.0 lnpost24-paczka.com
 0.0.0.0 lnpost24-paczkomat.com
 0.0.0.0 lnpostapps.com
@@ -7033,6 +7039,7 @@
 0.0.0.0 olx-dostava.su
 0.0.0.0 olx-dostawa.app
 0.0.0.0 olx-dostawa.co
+0.0.0.0 olx-dostawa.in
 0.0.0.0 olx-dostawa.pro
 0.0.0.0 olx-e.pl
 0.0.0.0 olx-epayment.com
@@ -7133,6 +7140,7 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-474693.site
 0.0.0.0 olx.pl-478693.site
 0.0.0.0 olx.pl-dostawa.com
 0.0.0.0 olx.pl-dostawa.site
@@ -7142,6 +7150,7 @@
 0.0.0.0 olx.pl-id345823.ru
 0.0.0.0 olx.pl-id2046801-order.ru
 0.0.0.0 olx.pl-id6239662.info
+0.0.0.0 olx.pl-id6379662.info
 0.0.0.0 olx.pl-id9931662.info
 0.0.0.0 olx.pl-id73885935.info
 0.0.0.0 olx.pl-m.xyz
@@ -8863,6 +8872,7 @@
 0.0.0.0 www.brohoof.pl
 0.0.0.0 www.brooklynlilly.com
 0.0.0.0 www.browsefeatureaasn31254.buzz
+0.0.0.0 www.brudna.prawda.vot.pl
 0.0.0.0 www.bslcorporationltd.co
 0.0.0.0 www.bsonus.xyz
 0.0.0.0 www.btcduke.com
@@ -11191,6 +11201,7 @@
 0.0.0.0 www.wysylka24h7dpd.pl
 0.0.0.0 www.wysylka24.online
 0.0.0.0 www.wysylki.net
+0.0.0.0 www.wysymdhl.com
 0.0.0.0 www.wysysdhl.com
 0.0.0.0 www.xawqerklewq.myartsonline.com
 0.0.0.0 www.xiaoml.ru
@@ -11417,6 +11428,7 @@
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.bri-cat.com.pl
 0.0.0.0 www.brudna-prawda.vot.pl
+0.0.0.0 www.brzydkie-tajemnice.vot.pl
 0.0.0.0 www.btcbillionaire-app.com
 0.0.0.0 www.btc-billionaire.com
 0.0.0.0 www.btc-era.com
@@ -11484,6 +11496,7 @@
 0.0.0.0 www.delivery.olx-pl.us
 0.0.0.0 www.delivery.olx-pl.work
 0.0.0.0 www.delivery.olx.pl-oferta.shop
+0.0.0.0 www.delivery.olx.pl-oferta.xyz
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.del-sieradz.neostrada.pl
 0.0.0.0 www.dhl24-paczka.com
@@ -11844,6 +11857,7 @@
 0.0.0.0 www.lngstart-business.com
 0.0.0.0 www.lng-business-start.com
 0.0.0.0 www.lng-start-business.com
+0.0.0.0 www.lnpost24-kurier.com
 0.0.0.0 www.lnpost24-paczka.com
 0.0.0.0 www.lnpost24-paczkomat.com
 0.0.0.0 www.lnpost-apps.com
@@ -12032,6 +12046,7 @@
 0.0.0.0 www.olx-dostava.su
 0.0.0.0 www.olx-dostawa.app
 0.0.0.0 www.olx-dostawa.co
+0.0.0.0 www.olx-dostawa.in
 0.0.0.0 www.olx-dostawa.pro
 0.0.0.0 www.olx-e.pl
 0.0.0.0 www.olx-epayment.com
@@ -12132,6 +12147,7 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-474693.site
 0.0.0.0 www.olx.pl-478693.site
 0.0.0.0 www.olx.pl-dostawa.com
 0.0.0.0 www.olx.pl-dostawa.site
@@ -12141,6 +12157,7 @@
 0.0.0.0 www.olx.pl-id345823.ru
 0.0.0.0 www.olx.pl-id2046801-order.ru
 0.0.0.0 www.olx.pl-id6239662.info
+0.0.0.0 www.olx.pl-id6379662.info
 0.0.0.0 www.olx.pl-id9931662.info
 0.0.0.0 www.olx.pl-id73885935.info
 0.0.0.0 www.olx.pl-m.xyz
@@ -12815,6 +12832,7 @@
 0.0.0.0 wysylka24.online
 0.0.0.0 wysylka24h7dpd.pl
 0.0.0.0 wysylki.net
+0.0.0.0 wysymdhl.com
 0.0.0.0 wysysdhl.com
 0.0.0.0 wytypuj-wynik.eu
 0.0.0.0 wzmianka-duza.eu
