@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 23 Dec 2020, 12:05 UTC+01
-# Version: 2020.12.23.0
+# Last modified: Wed, 23 Dec 2020, 16:05 UTC+01
+# Version: 2020.12.23.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4734,6 +4734,8 @@
 0.0.0.0 aoxtrade.com
 0.0.0.0 apartamentblawatek.pl
 0.0.0.0 apartamentydeluxe24.pl
+0.0.0.0 apartamentyrent.pl
+0.0.0.0 aparttrojmiasto.com
 0.0.0.0 apekola.tcp4.me
 0.0.0.0 aperytime.it
 0.0.0.0 apexbillingservices.co
@@ -5330,6 +5332,7 @@
 0.0.0.0 ekonkarserai.com
 0.0.0.0 ekopaczka.services
 0.0.0.0 eko-styk.pl
+0.0.0.0 ekskluzywneapartamenty.com
 0.0.0.0 ekspresovvo.com
 0.0.0.0 electroenchufe.com
 0.0.0.0 elektromax-serwis.pl
@@ -6038,6 +6041,7 @@
 0.0.0.0 iurzad.net
 0.0.0.0 ivenjobber.xyz
 0.0.0.0 izlogin-webmail.web.app
+0.0.0.0 i-apartamenty.pl
 0.0.0.0 i-chomik.pl
 0.0.0.0 i-faktnews24.eu
 0.0.0.0 i-fakty24.eu
@@ -6447,6 +6451,7 @@
 0.0.0.0 modeloi7nove.cf
 0.0.0.0 mojapaczka24.net
 0.0.0.0 moje69.pl
+0.0.0.0 mojeapartamenty.com
 0.0.0.0 mojekobe.is-best.net
 0.0.0.0 mojemiasto.dkonto.pl
 0.0.0.0 mojemiasto24.you2.pl
@@ -7001,6 +7006,7 @@
 0.0.0.0 olx.pl.oferta-pay.link
 0.0.0.0 olx.pl.oferta-pay.live
 0.0.0.0 olx.pl.oferta-pay.store
+0.0.0.0 olx.pl.tracking.oferta-pay.net
 0.0.0.0 olx.product-secure.ru
 0.0.0.0 olx.safe-pay.store
 0.0.0.0 olx.security-online.info
@@ -7720,6 +7726,7 @@
 0.0.0.0 reloffersstart.co
 0.0.0.0 remontim.pl
 0.0.0.0 remontklub.pl
+0.0.0.0 rentapart24.com
 0.0.0.0 reportaz-live.dfirma.pl
 0.0.0.0 reportaz-na-zywo.dfirma.pl
 0.0.0.0 reset-your-device.com
@@ -8599,6 +8606,8 @@
 0.0.0.0 www.aoxtrade.com
 0.0.0.0 www.apartamentblawatek.pl
 0.0.0.0 www.apartamentydeluxe24.pl
+0.0.0.0 www.apartamentyrent.pl
+0.0.0.0 www.aparttrojmiasto.com
 0.0.0.0 www.apekola.tcp4.me
 0.0.0.0 www.aperytime.it
 0.0.0.0 www.apexbillingservices.co
@@ -9041,6 +9050,7 @@
 0.0.0.0 www.ekofil.pl
 0.0.0.0 www.ekonkarserai.com
 0.0.0.0 www.ekopaczka.services
+0.0.0.0 www.ekskluzywneapartamenty.com
 0.0.0.0 www.ekspresovvo.com
 0.0.0.0 www.electroenchufe.com
 0.0.0.0 www.elektronika053497.xyz
@@ -9796,6 +9806,7 @@
 0.0.0.0 www.modeloi7nove.cf
 0.0.0.0 www.mojapaczka24.net
 0.0.0.0 www.moje69.pl
+0.0.0.0 www.mojeapartamenty.com
 0.0.0.0 www.mojemiasto24.you2.pl
 0.0.0.0 www.mojemiastoinfo.eu
 0.0.0.0 www.mojemiasto.dkonto.pl
@@ -10478,6 +10489,7 @@
 0.0.0.0 www.reloffersstart.co
 0.0.0.0 www.remontim.pl
 0.0.0.0 www.remontklub.pl
+0.0.0.0 www.rentapart24.com
 0.0.0.0 www.restauracjatramontana.pl
 0.0.0.0 www.restricted.pl
 0.0.0.0 www.retinaegras.at
@@ -11566,6 +11578,7 @@
 0.0.0.0 www.istotny-czyn.eu
 0.0.0.0 www.istotny-punkcik.eu
 0.0.0.0 www.izlogin-webmail.web.app
+0.0.0.0 www.i-apartamenty.pl
 0.0.0.0 www.i-chomik.pl
 0.0.0.0 www.i-faktnews24.eu
 0.0.0.0 www.i-fakty24.eu
@@ -11973,6 +11986,7 @@
 0.0.0.0 www.olx.pl.oferta-pay.link
 0.0.0.0 www.olx.pl.oferta-pay.live
 0.0.0.0 www.olx.pl.oferta-pay.store
+0.0.0.0 www.olx.pl.tracking.oferta-pay.net
 0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.olx.safe-pay.store
 0.0.0.0 www.olx.security-online.info
