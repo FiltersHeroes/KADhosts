@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 12 Dec 2020, 12:04 UTC+01
-# Version: 2020.12.12.0
+# Last modified: Fri, 25 Dec 2020, 19:36 UTC+01
+# Version: 2020.12.25.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -35,6 +35,12 @@
 (^|\.)dates-here-now.*\.com$
 (^|\.)dating-4-adults.*\.com$
 (^|\.)dating-heart.*\.com$
+(^|\.)delivery\.olx-pl\..*$
+(^|\.)delivery\.olx\.oferta\..*$
+(^|\.)delivery\.olx\.pl-oferta\..*$
+(^|\.)dobrapraca.*\.ct8\.pl$
+(^|\.)dostawa-olx-pl\..*$
+(^|\.)dostawa-olx\..*$
 (^|\.)dreamwoman-finder.*\.com$
 (^|\.)dworzecfakt\..*$
 (^|\.)dworzecporwanie\..*$
@@ -86,14 +92,38 @@
 (^|\.)nvisionpropl.*\.com$
 (^|\.)ogarnij-zdjecia\..*$
 (^|\.)ogloszenie-kupteraz-.*\.xyz$
+(^|\.)olxdostawa\..*$
+(^|\.)olxpl-dostawa\..*$
 (^|\.)olxpl-order\..*$
+(^|\.)olx-delivers\..*$
+(^|\.)olx-delivery\..*$
+(^|\.)olx-deliver\..*$
+(^|\.)olx-dostava\..*$
 (^|\.)olx-dostawa\..*$
 (^|\.)olx-oferta\..*$
+(^|\.)olx-pl-delivery\..*$
+(^|\.)olx-pl-dostawa\..*$
+(^|\.)olx-pl-id-.*\.ru$
+(^|\.)olx-pl\.com-.*\.ru$
+(^|\.)olx-pl\.id-.*\.ru$
+(^|\.)olx-pl\.oferta-pay\..*$
+(^|\.)olx-pl\.ru-.*\.*$
+(^|\.)olx-poland\..*$
 (^|\.)olx-przesylk.*\.*$
+(^|\.)olx-transfer\..*$
+(^|\.)olx-zamowienie\..*$
+(^|\.)olx\.deliverry\..*$
 (^|\.)olx\.delliverry\..*$
 (^|\.)olx\.dellivery\..*$
+(^|\.)olx\.dostawa\..*$
+(^|\.)olx\.dostaw\..*$
 (^|\.)olx\.payment-otrymac\..*$
+(^|\.)olx\.pl-dostawa\..*$
+(^|\.)olx\.pl-id.*-order\.*$
 (^|\.)olx\.pl-oferta\..*$
+(^|\.)olx\.pl-przesylka\..*$
+(^|\.)olx\.pl-.*-order\.*$
+(^|\.)olx\.pl-.*\.site$
 (^|\.)olx\.pl\.dostawa\..*$
 (^|\.)olx\.pl\.informacija\..*$
 (^|\.)olx\.pl\.oferta-pay\..*$
@@ -102,6 +132,8 @@
 (^|\.)olx\.pl\.platnosc.*\.*$
 (^|\.)olx\.pl\.wysylka\..*$
 (^|\.)olx\.przesylki\..*$
+(^|\.)olx\.przesylk\..*$
+(^|\.)olx\.zamowienie\..*$
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)paczpocztex\..*$
