@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 29 Dec 2020, 12:05 UTC+01
-# Version: 2020.12.29.0
+# Last modified: Tue, 29 Dec 2020, 16:04 UTC+01
+# Version: 2020.12.29.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -14,6 +14,7 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
+0.0.0.0 
 0.0.0.0 1bitstudio.pl
 0.0.0.0 2easy.pl
 0.0.0.0 4ksport.pl
@@ -1224,6 +1225,7 @@
 0.0.0.0 pl.gvgmall.com
 0.0.0.0 pl.lucybreeze.com
 0.0.0.0 pl.melaleuca.com
+0.0.0.0 pl.store2021.net
 0.0.0.0 plainsviewfarm.com
 0.0.0.0 plakatypropagandowe.pl
 0.0.0.0 plantsandpots.com
@@ -1857,6 +1859,7 @@
 0.0.0.0 wspolniedlaprzyszlosci.pl
 0.0.0.0 wszystkomamy.pl
 0.0.0.0 wwinvestgroup.pl
+0.0.0.0 www.
 0.0.0.0 www.a1a.pl
 0.0.0.0 www.a2multimedia.pl
 0.0.0.0 www.abc.prawo.link
@@ -6760,9 +6763,12 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-id111333.icu
+0.0.0.0 olx.pl-id222333.icu
 0.0.0.0 olx.pl-id335823.ru
 0.0.0.0 olx.pl-id345823.ru
 0.0.0.0 olx.pl-id431571.site
+0.0.0.0 olx.pl-id444333.icu
 0.0.0.0 olx.pl-id519249.icu
 0.0.0.0 olx.pl-id877654.icu
 0.0.0.0 olx.pl-id1488322.site
@@ -6803,6 +6809,7 @@
 0.0.0.0 olx.pl.id-48134138.com
 0.0.0.0 olx.pl.oferta-pay.space
 0.0.0.0 olx.pl.safe.oferta-pay.net
+0.0.0.0 olx.pl.security.oferta-pay.net
 0.0.0.0 olx.product-secure.ru
 0.0.0.0 olx.safe-pay.store
 0.0.0.0 olx.security-online.info
@@ -7117,6 +7124,7 @@
 0.0.0.0 platnosc-paczkomat.online
 0.0.0.0 platnosc-paczkomat.space
 0.0.0.0 platnosc-payu24.com
+0.0.0.0 platnosc-zowieszana.kisiel13.co.pl
 0.0.0.0 play18ok.info
 0.0.0.0 play24sklep.com
 0.0.0.0 playallthis.com
@@ -7134,6 +7142,7 @@
 0.0.0.0 plc-68630294.hgps.ie
 0.0.0.0 plc-74471327.hgps.ie
 0.0.0.0 plebiscyt-krakow.eu
+0.0.0.0 plebiscyt-lublin.vot.pl
 0.0.0.0 plebiscyt-warszawa.eu
 0.0.0.0 plengistat.info
 0.0.0.0 pletomak.mypi.co
@@ -11573,9 +11582,12 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-id111333.icu
+0.0.0.0 www.olx.pl-id222333.icu
 0.0.0.0 www.olx.pl-id335823.ru
 0.0.0.0 www.olx.pl-id345823.ru
 0.0.0.0 www.olx.pl-id431571.site
+0.0.0.0 www.olx.pl-id444333.icu
 0.0.0.0 www.olx.pl-id519249.icu
 0.0.0.0 www.olx.pl-id877654.icu
 0.0.0.0 www.olx.pl-id1488322.site
@@ -11616,6 +11628,7 @@
 0.0.0.0 www.olx.pl.id-48134138.com
 0.0.0.0 www.olx.pl.oferta-pay.space
 0.0.0.0 www.olx.pl.safe.oferta-pay.net
+0.0.0.0 www.olx.pl.security.oferta-pay.net
 0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.olx.safe-pay.store
 0.0.0.0 www.olx.security-online.info
@@ -11718,6 +11731,7 @@
 0.0.0.0 www.platnosc-paczkomat.online
 0.0.0.0 www.platnosc-paczkomat.space
 0.0.0.0 www.platnosc-payu24.com
+0.0.0.0 www.platnosc-zowieszana.kisiel13.co.pl
 0.0.0.0 www.player-cda.pl
 0.0.0.0 www.play-sklep.com
 0.0.0.0 www.play-sklep.net
@@ -11726,6 +11740,7 @@
 0.0.0.0 www.plc-68630294.hgps.ie
 0.0.0.0 www.plc-74471327.hgps.ie
 0.0.0.0 www.plebiscyt-krakow.eu
+0.0.0.0 www.plebiscyt-lublin.vot.pl
 0.0.0.0 www.plebiscyt-warszawa.eu
 0.0.0.0 www.plikgier.5p.pl
 0.0.0.0 www.pln.m-olx.us
