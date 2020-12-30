@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 30 Dec 2020, 12:04 UTC+01
-# Version: 2020.12.30.0
+# Last modified: Wed, 30 Dec 2020, 16:04 UTC+01
+# Version: 2020.12.30.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6650,6 +6650,7 @@
 0.0.0.0 olx-oferta.biz
 0.0.0.0 olx-oferta.contact
 0.0.0.0 olx-oferta.digital
+0.0.0.0 olx-offerta.zone
 0.0.0.0 olx-ogloszenie.dkonto.pl
 0.0.0.0 olx-online.pl
 0.0.0.0 olx-p.pl
@@ -6730,6 +6731,7 @@
 0.0.0.0 olx.pl-id789654.xyz
 0.0.0.0 olx.pl-id877654.icu
 0.0.0.0 olx.pl-id1488322.site
+0.0.0.0 olx.pl-id1572599.com
 0.0.0.0 olx.pl-id1635359.org
 0.0.0.0 olx.pl-id2572662.info
 0.0.0.0 olx.pl-id2636411.org
@@ -6746,6 +6748,7 @@
 0.0.0.0 olx.pl-id124660321.com
 0.0.0.0 olx.pl-id423678123.net
 0.0.0.0 olx.pl-id741566512.net
+0.0.0.0 olx.pl-konto.xyz
 0.0.0.0 olx.pl-m.xyz
 0.0.0.0 olx.pl-odbior.site
 0.0.0.0 olx.pl-offerta.me
@@ -7142,6 +7145,7 @@
 0.0.0.0 pl.medic-reporters.com
 0.0.0.0 pl.m-olx.online
 0.0.0.0 pl.oix-pay.com
+0.0.0.0 pl.olx-cash.online
 0.0.0.0 pl.olx-merchant.com
 0.0.0.0 pl.olx-my.site
 0.0.0.0 pl.olx-order.info
@@ -11465,6 +11469,7 @@
 0.0.0.0 www.olx-oferta.biz
 0.0.0.0 www.olx-oferta.contact
 0.0.0.0 www.olx-oferta.digital
+0.0.0.0 www.olx-offerta.zone
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
 0.0.0.0 www.olx-online.pl
 0.0.0.0 www.olx-p.pl
@@ -11545,6 +11550,7 @@
 0.0.0.0 www.olx.pl-id789654.xyz
 0.0.0.0 www.olx.pl-id877654.icu
 0.0.0.0 www.olx.pl-id1488322.site
+0.0.0.0 www.olx.pl-id1572599.com
 0.0.0.0 www.olx.pl-id1635359.org
 0.0.0.0 www.olx.pl-id2572662.info
 0.0.0.0 www.olx.pl-id2636411.org
@@ -11561,6 +11567,7 @@
 0.0.0.0 www.olx.pl-id124660321.com
 0.0.0.0 www.olx.pl-id423678123.net
 0.0.0.0 www.olx.pl-id741566512.net
+0.0.0.0 www.olx.pl-konto.xyz
 0.0.0.0 www.olx.pl-m.xyz
 0.0.0.0 www.olx.pl-odbior.site
 0.0.0.0 www.olx.pl-offerta.me
