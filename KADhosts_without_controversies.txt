@@ -1,8 +1,8 @@
 # Title: KADhosts (zalecana migracja do KADhosts.txt)
 # KADhosts (it is recommended that you migrate to KADhosts.txt)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 29 Dec 2020, 20:04 UTC+01
-# Version: 2020.12.29.3
+# Last modified: Wed, 30 Dec 2020, 12:04 UTC+01
+# Version: 2020.12.30.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6551,6 +6551,7 @@
 0.0.0.0 ogrodexmilicz.pl
 0.0.0.0 ogrodzik.biz
 0.0.0.0 oix-oferta.com
+0.0.0.0 oix-pl-safe.website
 0.0.0.0 oix-zaplata.com
 0.0.0.0 okaz-wspomnienie.eu
 0.0.0.0 okularypowiekszajace-pl.com
@@ -6650,6 +6651,7 @@
 0.0.0.0 olx-oferta.contact
 0.0.0.0 olx-oferta.digital
 0.0.0.0 olx-ogloszenie.dkonto.pl
+0.0.0.0 olx-online.pl
 0.0.0.0 olx-p.pl
 0.0.0.0 olx-pay.org
 0.0.0.0 olx-paygate.me
@@ -6674,6 +6676,7 @@
 0.0.0.0 olx-pl.su
 0.0.0.0 olx-pln.eu
 0.0.0.0 olx-pl-dostava.cc
+0.0.0.0 olx-pl-id.ru
 0.0.0.0 olx-pl-mobile.site
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
@@ -6701,6 +6704,7 @@
 0.0.0.0 olx-wyplata.pl
 0.0.0.0 olx-y.pl
 0.0.0.0 olx-z.pl
+0.0.0.0 olx-zamowienie.io
 0.0.0.0 olx-zaplata.com
 0.0.0.0 olx-zaplata.pl
 0.0.0.0 olx--pl.online
@@ -6754,6 +6758,7 @@
 0.0.0.0 olx.pl-safedeal.fun
 0.0.0.0 olx.pl-safedeal.link
 0.0.0.0 olx.pl-safedeal.store
+0.0.0.0 olx.pl-safety.oferta-pay.net
 0.0.0.0 olx.pl-track.online
 0.0.0.0 olx.pl-track.uno
 0.0.0.0 olx.pl-tracking.online
@@ -7575,6 +7580,7 @@
 0.0.0.0 server-payuser1.com
 0.0.0.0 servicecheck5.wixsite.com
 0.0.0.0 service-pay.company
+0.0.0.0 serwer2006168.home.pl
 0.0.0.0 serwer2014564.home.pl
 0.0.0.0 serwer2059901.home.pl
 0.0.0.0 serwer2067846.home.pl
@@ -10210,6 +10216,7 @@
 0.0.0.0 www.server439651.nazwa.pl
 0.0.0.0 www.server524267.nazwa.pl
 0.0.0.0 www.servicecheck5.wixsite.com
+0.0.0.0 www.serwer2006168.home.pl
 0.0.0.0 www.serwer2014564.home.pl
 0.0.0.0 www.serwer2059901.home.pl
 0.0.0.0 www.serwer2067846.home.pl
@@ -11416,6 +11423,7 @@
 0.0.0.0 www.oglosznie-elektroniczne.tech
 0.0.0.0 www.ogl-yorki.dfirma.pl
 0.0.0.0 www.oix-oferta.com
+0.0.0.0 www.oix-pl-safe.website
 0.0.0.0 www.oix-zaplata.com
 0.0.0.0 www.okaz-wspomnienie.eu
 0.0.0.0 www.okularypowiekszajace-pl.com
@@ -11458,6 +11466,7 @@
 0.0.0.0 www.olx-oferta.contact
 0.0.0.0 www.olx-oferta.digital
 0.0.0.0 www.olx-ogloszenie.dkonto.pl
+0.0.0.0 www.olx-online.pl
 0.0.0.0 www.olx-p.pl
 0.0.0.0 www.olx-pay.org
 0.0.0.0 www.olx-paygate.me
@@ -11482,6 +11491,7 @@
 0.0.0.0 www.olx-pl.su
 0.0.0.0 www.olx-pln.eu
 0.0.0.0 www.olx-pl-dostava.cc
+0.0.0.0 www.olx-pl-id.ru
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
@@ -11509,6 +11519,7 @@
 0.0.0.0 www.olx-wyplata.pl
 0.0.0.0 www.olx-y.pl
 0.0.0.0 www.olx-z.pl
+0.0.0.0 www.olx-zamowienie.io
 0.0.0.0 www.olx-zaplata.com
 0.0.0.0 www.olx-zaplata.pl
 0.0.0.0 www.olx--pl.online
@@ -11562,6 +11573,7 @@
 0.0.0.0 www.olx.pl-safedeal.fun
 0.0.0.0 www.olx.pl-safedeal.link
 0.0.0.0 www.olx.pl-safedeal.store
+0.0.0.0 www.olx.pl-safety.oferta-pay.net
 0.0.0.0 www.olx.pl-track.online
 0.0.0.0 www.olx.pl-track.uno
 0.0.0.0 www.olx.pl-tracking.online
