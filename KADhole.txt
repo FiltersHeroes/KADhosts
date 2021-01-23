@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 23 Jan 2021, 11:49 UTC+01
-# Version: 2021.1.23.0
+# Last modified: Sat, 23 Jan 2021, 11:58 UTC+01
+# Version: 2021.1.23.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -134,6 +134,7 @@
 (^|\.)paynazwa-pl-.*\.*\.*$
 (^|\.)pay-home-.*\.*\.*$
 (^|\.)platnik.*\.online$
+(^|\.)pl\.**bitcoin**\.tiptopko.*\.com$
 (^|\.)pocztexpolska\..*$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
 (^|\.)polskaporwania\..*$
@@ -158,6 +159,11 @@
 (^|\.)xn--onetgwat-.*\.*$
 (^|\.)xn--polskagwat24-.*\.*$
 (^|\.)xn.*gwatpolska24*\.*$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.life$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.live$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
 (^|\.)zaglosuj-teraz\..*$
 (^|\.)zaplata.*\.tk$
 (^|\.)zdjecie-facebook-.*\.dkonto\.pl$
