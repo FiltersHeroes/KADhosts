@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 23 Jan 2021, 11:58 UTC+01
-# Version: 2021.1.23.1
+# Last modified: Sat, 23 Jan 2021, 12:00 UTC+01
+# Version: 2021.1.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -134,7 +134,7 @@
 (^|\.)paynazwa-pl-.*\.*\.*$
 (^|\.)pay-home-.*\.*\.*$
 (^|\.)platnik.*\.online$
-(^|\.)pl\.**bitcoin**\.tiptopko.*\.com$
+(^|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
 (^|\.)pocztexpolska\..*$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
 (^|\.)polskaporwania\..*$
