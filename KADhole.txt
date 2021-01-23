@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sun, 17 Jan 2021, 13:23 UTC+01
-# Version: 2021.1.17.0
+# Last modified: Sat, 23 Jan 2021, 11:49 UTC+01
+# Version: 2021.1.23.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -26,12 +26,7 @@
 (^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
 (^|\.)allegro\.pl\..*\.pl$
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
-(^|\.)apple\.com-.*\.live$
-(^|\.)apple\.com-.*\.xyz$
-(^|\.)apple\..*\.top$
-(^|\.)app.*\.kromtech\.net$
 (^|\.)childalertfakt\..*$
-(^|\.)chomikuj.*\.opx\.pl$
 (^|\.)dates-here-now.*\.com$
 (^|\.)dating-4-adults.*\.com$
 (^|\.)dating-heart.*\.com$
@@ -53,9 +48,12 @@
 (^|\.)e-poszukiwania\..*$
 (^|\.)e-poszukiwanie\..*$
 (^|\.)faccebook.*\.5v\.pl$
+(^|\.)facebbooc\..*$
 (^|\.)facebbook.*\.5v\.pl$
+(^|\.)faceboobko\..*\.*$
 (^|\.)facebook.*\.5v\.pl$
 (^|\.)facebook.*\.7m\.pl$
+(^|\.)facebook\.podpisz-petycje\..*$
 (^|\.)faktury[0-9]+\.org$
 (^|\.)faktypolska.*\.b-cdn\.net$
 (^|\.)faktyzaginiecie24\..*$
@@ -63,14 +61,10 @@
 (^|\.)fakt.*\.is-best\.net$
 (^|\.)fb-service-login.*\.you2\.pl$
 (^|\.)findyourlovenow.*\.com$
-(^|\.)google-.*\.anniversarygiveawaysseries\.xyz$
-(^|\.)google-.*\.bestgadgetoffers\.icu$
-(^|\.)google-.*\.newgadgetpresents\.icu$
-(^|\.)google-.*\.smartphonesbonusoffers\.icu$
+(^|\.)google-.*\.*giveaway*\.xyz$
+(^|\.)google-.*\.*offer*\.icu$
+(^|\.)google-.*\.*present*\.icu$
 (^|\.)historieludzkie.*\.online$
-(^|\.)homepaiement-pl-.*\.*\.at$
-(^|\.)homepaiement-pl-.*\.*\.com$
-(^|\.)homepay-pl-.*\.*\.at$
 (^|\.)inform.*\.is-best\.net$
 (^|\.)instasexlocator.*\.com$
 (^|\.)ionetporwanie\..*$
@@ -82,20 +76,23 @@
 (^|\.)lokalneinformacje.*\.vot\.pl$
 (^|\.)millensbank\..*$
 (^|\.)millensbannk\..*$
+(^|\.)millensbbannk\..*$
 (^|\.)mobile-app-market-here.*\.life$
 (^|\.)mysexdating.*\.club$
-(^|\.)nazwapaiement-pl-.*\.evv-auditing\.com$
-(^|\.)nazwapaiement-pl-.*\.klostoga45\.at$
-(^|\.)nazwapay-pl-.*\.evv-auditing\.com$
-(^|\.)nazwapay-pl-.*\.klostoga45\.at$
+(^|\.)nazwapaiement-pl-.*\.*\.*$
+(^|\.)nazwapay-pl-.*\.*\.*$
 (^|\.)newsy.*\.pro-linuxpl\.com$
 (^|\.)nvisionpropl.*\.com$
 (^|\.)ogarnij-zdjecia\..*$
-(^|\.)ogloszenie-kupteraz-.*\.xyz$
+(^|\.)ogloszenie-elektronika\..*$
+(^|\.)ogloszenie-kupteraz-.*\.*$
+(^|\.)ogloszeniie-kupteraz-pl-.*\.*$
+(^|\.)oglosznie-elektroniczne\..*$
 (^|\.)olxdostawa\..*$
 (^|\.)olxpl-dostawa\..*$
 (^|\.)olxpl-order\..*$
 (^|\.)olx-delivers\..*$
+(^|\.)olx-delivery-.*\.*$
 (^|\.)olx-delivery\..*$
 (^|\.)olx-deliver\..*$
 (^|\.)olx-dostava\..*$
@@ -105,51 +102,37 @@
 (^|\.)olx-pl-delivery\..*$
 (^|\.)olx-pl-dostava\..*$
 (^|\.)olx-pl-dostawa\..*$
-(^|\.)olx-pl-id-.*\.ru$
-(^|\.)olx-pl\.com-.*\.ru$
+(^|\.)olx-pl-id-.*\.*$
+(^|\.)olx-pl-id\..*$
+(^|\.)olx-pl\.com-.*\.*$
 (^|\.)olx-pl\.id-.*\.ru$
+(^|\.)olx-pl\.oferta-payment\..*$
 (^|\.)olx-pl\.oferta-pay\..*$
 (^|\.)olx-pl\.ru-.*\.*$
+(^|\.)olx-polands\..*$
 (^|\.)olx-poland\..*$
 (^|\.)olx-przesylk.*\.*$
 (^|\.)olx-transfer\..*$
 (^|\.)olx-zamowienie\..*$
 (^|\.)olx\.deliverry\..*$
+(^|\.)olx\.deliverys\..*$
 (^|\.)olx\.delliverry\..*$
+(^|\.)olx\.dellivers\..*$
 (^|\.)olx\.dellivery\..*$
 (^|\.)olx\.dostawa\..*$
 (^|\.)olx\.dostaw\..*$
 (^|\.)olx\.payment-otrymac\..*$
-(^|\.)olx\.pl-dostawa\..*$
-(^|\.)olx\.pl-id.*-order\.*$
-(^|\.)olx\.pl-id.*\.*$
-(^|\.)olx\.pl-oferta\..*$
-(^|\.)olx\.pl-przesylka\..*$
-(^|\.)olx\.pl-.*-order\.*$
-(^|\.)olx\.pl-.*\.site$
-(^|\.)olx\.pl\.dostawa\..*$
-(^|\.)olx\.pl\.informacija\..*$
-(^|\.)olx\.pl\.oferta-pay\..*$
-(^|\.)olx\.pl\.oferta\..*$
-(^|\.)olx\.pl\.oferto\..*$
-(^|\.)olx\.pl\.platnosc.*\.*$
-(^|\.)olx\.pl\.wysylka\..*$
 (^|\.)olx\.przesylki\..*$
 (^|\.)olx\.przesylk\..*$
 (^|\.)olx\.zamowienie\..*$
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)paczpocztex\..*$
-(^|\.)paiementhome-pl-.*\.rpm-technik\.at$
-(^|\.)paiementhome-pl-.*\.vmkfz\.at$
-(^|\.)paiementnazwa-pl-.*\.evv-auditing\.com$
-(^|\.)payhome-pl-.*\.arw-rohstoffhandel\.com$
-(^|\.)payhome-pl-.*\.vmkfz\.at$
-(^|\.)paynazwa-pl-.*\.akprojektebau\.at$
-(^|\.)paynazwa-pl-.*\.evv-auditing\.com$
-(^|\.)paynazwa-pl-.*\.motor-active\.at$
-(^|\.)paynazwa-pl-.*\.tiroler-bioyak\.at$
-(^|\.)pay-home-.*\.vmkfz\.at$
+(^|\.)paiementhome-pl-.*\.*\.*$
+(^|\.)paiementnazwa-pl-.*\.*\.*$
+(^|\.)payhome-pl-.*\.*\.*$
+(^|\.)paynazwa-pl-.*\.*\.*$
+(^|\.)pay-home-.*\.*\.*$
 (^|\.)platnik.*\.online$
 (^|\.)pocztexpolska\..*$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
@@ -161,9 +144,10 @@
 (^|\.)porwanienatalki\..*$
 (^|\.)poszukiwania.*\.com\.pl$
 (^|\.)procars-shoppl.*\.com$
-(^|\.)pulsoksymetr.*-pl\.com$
+(^|\.)pulsoksymetr.*pl\.com$
 (^|\.)riddexpl.*\.com$
 (^|\.)sharefoto-.*\.idl\.pl$
+(^|\.)sharefoto-.*\.vot\.pl$
 (^|\.)sprnr.*\.net$
 (^|\.)superchance-forwin.*\.life$
 (^|\.)tvp-informacyjna.*\.eu$
@@ -174,11 +158,6 @@
 (^|\.)xn--onetgwat-.*\.*$
 (^|\.)xn--polskagwat24-.*\.*$
 (^|\.)xn.*gwatpolska24*\.*$
-(^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
-(^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
-(^|\.)your-mac-security-analysis\.net\..*\.*\.life$
-(^|\.)your-mac-security-analysis\.net\..*\.*\.live$
-(^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
 (^|\.)zaglosuj-teraz\..*$
 (^|\.)zaplata.*\.tk$
 (^|\.)zdjecie-facebook-.*\.dkonto\.pl$
@@ -186,7 +165,6 @@
 (^|\.)(copysubstancepattern|decimalprovehour|discusssheetenemy|educationbedring|effectstorestream|fightyoungdream|fingermilkorgan|flyingintheclouds|goedekans|historyalwayschildren|ideaanstudy|insectrunfollow|jsdevelopmentq|mindspellnothing|noseangerspend|occurthousandlast|payageround-|randalieren|roundsolutionbrought|sciencewhategg|shoutmostface|thinkwhilemelody|thoughcopyforest|togethercleareducation|waterdiepattern|whateyeweight|wildgrelns)[0-9]+\.live$
 (^|\.).*automatyczny-dozownikmydla-pl\.com$
 (^|\.).*automatyczny-dozownik-mydla-pl\.com$
-(^|\.).*bitcoin*\.tiptopko*\.com$
 (^|\.).*dworzeconline24\.*$
 (^|\.).*dworzecporwaniepl*\.*$
 (^|\.).*dworzecporwaniepl\.*$
