@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 23 Jan 2021, 12:00 UTC+01
-# Version: 2021.1.23.2
+# Last modified: Sun, 24 Jan 2021, 13:01 UTC+01
+# Version: 2021.1.24.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -105,7 +105,7 @@
 (^|\.)olx-pl-id-.*\.*$
 (^|\.)olx-pl-id\..*$
 (^|\.)olx-pl\.com-.*\.*$
-(^|\.)olx-pl\.id-.*\.ru$
+(^|\.)olx-pl\.id.*\.ru$
 (^|\.)olx-pl\.oferta-payment\..*$
 (^|\.)olx-pl\.oferta-pay\..*$
 (^|\.)olx-pl\.ru-.*\.*$
