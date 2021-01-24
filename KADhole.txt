@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sun, 24 Jan 2021, 13:01 UTC+01
-# Version: 2021.1.24.0
+# Last modified: Sun, 24 Jan 2021, 15:46 UTC+01
+# Version: 2021.1.24.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -44,7 +44,6 @@
 (^|\.)e-childalert\..*$
 (^|\.)e-polskaporwania\..*$
 (^|\.)e-porwanienatalki\..*$
-(^|\.)e-poszukiwananatalka\..*$
 (^|\.)e-poszukiwania\..*$
 (^|\.)e-poszukiwanie\..*$
 (^|\.)faccebook.*\.5v\.pl$
@@ -69,7 +68,6 @@
 (^|\.)instasexlocator.*\.com$
 (^|\.)ionetporwanie\..*$
 (^|\.)iporwaniedziecka24\..*$
-(^|\.)iposzukiwananatalka\..*$
 (^|\.)komornik.*-gov\.tk$
 (^|\.)lnpost\.kody-odbioru\..*$
 (^|\.)localdates.*\.com$
@@ -171,28 +169,6 @@
 (^|\.)(copysubstancepattern|decimalprovehour|discusssheetenemy|educationbedring|effectstorestream|fightyoungdream|fingermilkorgan|flyingintheclouds|goedekans|historyalwayschildren|ideaanstudy|insectrunfollow|jsdevelopmentq|mindspellnothing|noseangerspend|occurthousandlast|payageround-|randalieren|roundsolutionbrought|sciencewhategg|shoutmostface|thinkwhilemelody|thoughcopyforest|togethercleareducation|waterdiepattern|whateyeweight|wildgrelns)[0-9]+\.live$
 (^|\.).*automatyczny-dozownikmydla-pl\.com$
 (^|\.).*automatyczny-dozownik-mydla-pl\.com$
-(^|\.).*dworzeconline24\.*$
-(^|\.).*dworzecporwaniepl*\.*$
-(^|\.).*dworzecporwaniepl\.*$
-(^|\.).*dziewczynkaporwana\.*$
-(^|\.).*iporwania24\.*$
-(^|\.).*iporwania-24\.pl$
-(^|\.).*iporwania\.*$
-(^|\.).*iporwanie24\.*$
-(^|\.).*iporwanie\.*$
-(^|\.).*polskaporwanie\.*$
-(^|\.).*porwaniapolska24*\.*$
-(^|\.).*porwaniapolska48*\.*$
-(^|\.).*porwaniapolska\.*$
-(^|\.).*porwaniedziecka\.*$
-(^|\.).*porwaniepolska24*\.*$
-(^|\.).*porwaniepolska48*\.*$
-(^|\.).*porwaniepolska\.*$
-(^|\.).*poszukiwanadziewczynka\.*$
-(^|\.).*poszukiwananatalka\.*$
-(^|\.).*poszukiwanialaury\.*$
-(^|\.).*uprowadzeniedworzec\.*$
-(^|\.).*uprowadzniezdworca\.*$
 (^|\.).*-?emonitoring-?e?poczta.*$
 (^|\.).*-?(fakty?|news|wiadomosci?)gwalt[0-9]+?\..*$
 (^|\.).*\.*\.mirsolar\.com\.tr$
