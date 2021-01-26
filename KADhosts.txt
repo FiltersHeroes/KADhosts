@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 25 Jan 2021, 20:05 UTC+01
-# Version: 2021.1.25.2
+# Last modified: Tue, 26 Jan 2021, 12:05 UTC+01
+# Version: 2021.1.26.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5230,11 +5230,13 @@
 0.0.0.0 dostawapost24.pl
 0.0.0.0 dostawa-dhl.net
 0.0.0.0 dostawa-olx.cloud
+0.0.0.0 dostawa-olx.group
 0.0.0.0 dostawa-olx-poland.info
 0.0.0.0 dostawa-paczki.com
 0.0.0.0 dostawa-poland.com
 0.0.0.0 dostawa-poland.pl
 0.0.0.0 dostawa-polska.com
+0.0.0.0 dostawa-save.com
 0.0.0.0 dostawa-security.com
 0.0.0.0 dostawa-szybka.com
 0.0.0.0 dostawa-w.pl
@@ -5377,6 +5379,7 @@
 0.0.0.0 every-onebritish.club
 0.0.0.0 ewciakurier.com
 0.0.0.0 ewiadomosc.online
+0.0.0.0 ewiadomosci.eu
 0.0.0.0 ewills.access.ly
 0.0.0.0 excelfile.server4glite.com
 0.0.0.0 excentral.com
@@ -6565,6 +6568,7 @@
 0.0.0.0 naszepanstwo.xyz
 0.0.0.0 naszewiadomosci.site
 0.0.0.0 naszewiadomosci.xyz
+0.0.0.0 naszezabrze.online
 0.0.0.0 nasze-miasta24tv.online
 0.0.0.0 naszpolskiswiat.icu
 0.0.0.0 naszpolskiswiat.site
@@ -6894,6 +6898,7 @@
 0.0.0.0 olx-pl.pxd-pay.online
 0.0.0.0 olx-polland.com
 0.0.0.0 olx-polska.com
+0.0.0.0 olx-polska.live
 0.0.0.0 olx-potwierdzenie.xyz
 0.0.0.0 olx-pro.pl
 0.0.0.0 olx-protection.pl
@@ -6931,6 +6936,9 @@
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-getdelivery.link
 0.0.0.0 olx.pl-getdelivery.shop
+0.0.0.0 olx.pl-getorder.cash
+0.0.0.0 olx.pl-getpay.cash
+0.0.0.0 olx.pl-id594023.site
 0.0.0.0 olx.product-secure.ru
 0.0.0.0 olx.secure-dostawa.com
 0.0.0.0 olympusholding.co
@@ -7443,6 +7451,7 @@
 0.0.0.0 polska-raport.ml
 0.0.0.0 polska-raport.tk
 0.0.0.0 polska--wiadomosci24h.x9.eu
+0.0.0.0 polskiagazeta24.serwerplus.pl
 0.0.0.0 polskidziennik.dkonto.pl
 0.0.0.0 polskidziennik.pl
 0.0.0.0 polskieczasy0.online
@@ -8443,6 +8452,7 @@
 0.0.0.0 wszystkowpolsce.website
 0.0.0.0 wszystkowpolsce.xyz
 0.0.0.0 wuus.org.cn
+0.0.0.0 wvw-oix.pl
 0.0.0.0 wvw-olx.pl
 0.0.0.0 ww.kowdent.pl
 0.0.0.0 ww.paczkjups.com
@@ -9047,6 +9057,7 @@
 0.0.0.0 www.evaave12.nazwa.pl
 0.0.0.0 www.evekurier.org
 0.0.0.0 www.ewciakurier.com
+0.0.0.0 www.ewiadomosci.eu
 0.0.0.0 www.ewiadomosc.online
 0.0.0.0 www.ewills.access.ly
 0.0.0.0 www.excelfile.server4glite.com
@@ -9823,6 +9834,7 @@
 0.0.0.0 www.naszepanstwo.xyz
 0.0.0.0 www.naszewiadomosci.site
 0.0.0.0 www.naszewiadomosci.xyz
+0.0.0.0 www.naszezabrze.online
 0.0.0.0 www.naszpolskiswiat.icu
 0.0.0.0 www.naszpolskiswiat.site
 0.0.0.0 www.naszpolskiswiat.xyz
@@ -10295,6 +10307,7 @@
 0.0.0.0 www.polskawiiadomosc.club
 0.0.0.0 www.polskawiiadomosc.xyz
 0.0.0.0 www.polskayear.pl
+0.0.0.0 www.polskiagazeta24.serwerplus.pl
 0.0.0.0 www.polskidziennik.dkonto.pl
 0.0.0.0 www.polskidziennik.pl
 0.0.0.0 www.polskieczasy0.online
@@ -11267,11 +11280,13 @@
 0.0.0.0 www.dostawa24-olx.pl
 0.0.0.0 www.dostawa-dhl.net
 0.0.0.0 www.dostawa-olx.cloud
+0.0.0.0 www.dostawa-olx.group
 0.0.0.0 www.dostawa-olx-poland.info
 0.0.0.0 www.dostawa-paczki.com
 0.0.0.0 www.dostawa-poland.com
 0.0.0.0 www.dostawa-poland.pl
 0.0.0.0 www.dostawa-polska.com
+0.0.0.0 www.dostawa-save.com
 0.0.0.0 www.dostawa-security.com
 0.0.0.0 www.dostawa-szybka.com
 0.0.0.0 www.dostawa-w.pl
@@ -11869,6 +11884,7 @@
 0.0.0.0 www.olx-pl.pxd-pay.online
 0.0.0.0 www.olx-polland.com
 0.0.0.0 www.olx-polska.com
+0.0.0.0 www.olx-polska.live
 0.0.0.0 www.olx-potwierdzenie.xyz
 0.0.0.0 www.olx-pro.pl
 0.0.0.0 www.olx-protection.pl
@@ -11906,6 +11922,9 @@
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-getdelivery.link
 0.0.0.0 www.olx.pl-getdelivery.shop
+0.0.0.0 www.olx.pl-getorder.cash
+0.0.0.0 www.olx.pl-getpay.cash
+0.0.0.0 www.olx.pl-id594023.site
 0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.olx.secure-dostawa.com
 0.0.0.0 www.onet24-polska.space
@@ -12459,6 +12478,7 @@
 0.0.0.0 www.wstrzymana-paczka.xyz
 0.0.0.0 www.wstrzymana-paczka-paczkomat.xyz
 0.0.0.0 www.wszyscy-dopingujmy.eu
+0.0.0.0 www.wvw-oix.pl
 0.0.0.0 www.wvw-olx.pl
 0.0.0.0 www.wwa-24.dkonto.pl
 0.0.0.0 www.wwa-informacje.co.pl
