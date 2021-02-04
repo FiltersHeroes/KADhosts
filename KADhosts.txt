@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 04 Feb 2021, 12:05 UTC+01
-# Version: 2021.2.4.0
+# Last modified: Thu, 04 Feb 2021, 16:05 UTC+01
+# Version: 2021.2.4.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6052,6 +6052,7 @@
 0.0.0.0 inpost.pl-dostawa.live
 0.0.0.0 inpost.pl-dostawa.shop
 0.0.0.0 inpost.pl-get.cash
+0.0.0.0 inpost.pl-get.money
 0.0.0.0 inpost.pl-getdelivery.shop
 0.0.0.0 inpost.pl-getmoney.life
 0.0.0.0 inpost.pl-getpay.life
@@ -6550,6 +6551,7 @@
 0.0.0.0 mobjmp.com
 0.0.0.0 mobsfun.com
 0.0.0.0 mobstarter.com
+0.0.0.0 mob-olx.site
 0.0.0.0 mob.olx-pl.club
 0.0.0.0 moda2020.pl
 0.0.0.0 modello.co.il
@@ -6973,6 +6975,7 @@
 0.0.0.0 olx-paysera.shop
 0.0.0.0 olx-paysera.site
 0.0.0.0 olx-pay-pl.su
+0.0.0.0 olx-pay-system.tk
 0.0.0.0 olx-pl.cc
 0.0.0.0 olx-pl.eu
 0.0.0.0 olx-pl.eupay.website
@@ -7047,6 +7050,8 @@
 0.0.0.0 olx.pl-cash.live
 0.0.0.0 olx.pl-delivery.life
 0.0.0.0 olx.pl-get.money
+0.0.0.0 olx.pl-id88322.site
+0.0.0.0 olx.pl-id942382.site
 0.0.0.0 olx.pl-id8592340.site
 0.0.0.0 olx.pl-konto.website
 0.0.0.0 olx.pl-money.live
@@ -7479,6 +7484,7 @@
 0.0.0.0 pl-olxsafedeal.xyz
 0.0.0.0 pl-olx.bank-payment.cf
 0.0.0.0 pl-olx.oferta-payment.org
+0.0.0.0 pl-olx.oferta-payment.shop
 0.0.0.0 pl-olx.payment-bank.tk
 0.0.0.0 pl-olx.safe.oferta-payment.org
 0.0.0.0 pl-platnosci.online
@@ -7518,6 +7524,7 @@
 0.0.0.0 poczta24.me
 0.0.0.0 poczta24.uno
 0.0.0.0 pocztaadminhelpdeskcenter.moonfruit.com
+0.0.0.0 pocztaadminunit.moonfruit.com
 0.0.0.0 pocztabox24.xyz
 0.0.0.0 pocztain.moonfruit.com
 0.0.0.0 pocztainteria-regulamin.net
@@ -10514,6 +10521,7 @@
 0.0.0.0 www.poczta24.me
 0.0.0.0 www.poczta24.uno
 0.0.0.0 www.pocztaadminhelpdeskcenter.moonfruit.com
+0.0.0.0 www.pocztaadminunit.moonfruit.com
 0.0.0.0 www.pocztabox24.xyz
 0.0.0.0 www.pocztain.moonfruit.com
 0.0.0.0 www.pocztapomoc.com.pl
@@ -11842,6 +11850,7 @@
 0.0.0.0 www.inpost.pl-dostawa.live
 0.0.0.0 www.inpost.pl-dostawa.shop
 0.0.0.0 www.inpost.pl-get.cash
+0.0.0.0 www.inpost.pl-get.money
 0.0.0.0 www.inpost.pl-getdelivery.shop
 0.0.0.0 www.inpost.pl-getmoney.life
 0.0.0.0 www.inpost.pl-getpay.life
@@ -12021,6 +12030,7 @@
 0.0.0.0 www.mobile-olx.pl
 0.0.0.0 www.mobile-olx.site
 0.0.0.0 www.mobilny-olx.pl
+0.0.0.0 www.mob-olx.site
 0.0.0.0 www.mob.olx-pl.club
 0.0.0.0 www.mojekobe.is-best.net
 0.0.0.0 www.mojekonto-otomoto.com
@@ -12192,6 +12202,7 @@
 0.0.0.0 www.olx-paysera.shop
 0.0.0.0 www.olx-paysera.site
 0.0.0.0 www.olx-pay-pl.su
+0.0.0.0 www.olx-pay-system.tk
 0.0.0.0 www.olx-pl.cc
 0.0.0.0 www.olx-pl.eu
 0.0.0.0 www.olx-pl.eupay.website
@@ -12266,6 +12277,8 @@
 0.0.0.0 www.olx.pl-cash.live
 0.0.0.0 www.olx.pl-delivery.life
 0.0.0.0 www.olx.pl-get.money
+0.0.0.0 www.olx.pl-id88322.site
+0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id8592340.site
 0.0.0.0 www.olx.pl-konto.website
 0.0.0.0 www.olx.pl-money.live
@@ -12431,6 +12444,7 @@
 0.0.0.0 www.pl-olxsafedeal.xyz
 0.0.0.0 www.pl-olx.bank-payment.cf
 0.0.0.0 www.pl-olx.oferta-payment.org
+0.0.0.0 www.pl-olx.oferta-payment.shop
 0.0.0.0 www.pl-olx.payment-bank.tk
 0.0.0.0 www.pl-olx.safe.oferta-payment.org
 0.0.0.0 www.pl-platnosci.online
