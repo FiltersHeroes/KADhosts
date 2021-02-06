@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 05 Feb 2021, 20:04 UTC+01
-# Version: 2021.2.5.2
+# Last modified: Sat, 06 Feb 2021, 12:05 UTC+01
+# Version: 2021.2.6.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6046,6 +6046,7 @@
 0.0.0.0 inpost-kod.com
 0.0.0.0 inpost-kody.net
 0.0.0.0 inpost-kurier24.com
+0.0.0.0 inpost-mobile.pl
 0.0.0.0 inpost-oplata.site
 0.0.0.0 inpost-paczka.services
 0.0.0.0 inpost-paczkomat.net
@@ -6056,6 +6057,7 @@
 0.0.0.0 inpost.pl-dostawa.shop
 0.0.0.0 inpost.pl-get.cash
 0.0.0.0 inpost.pl-get.money
+0.0.0.0 inpost.pl-getcash.link
 0.0.0.0 inpost.pl-getdelivery.shop
 0.0.0.0 inpost.pl-getmoney.life
 0.0.0.0 inpost.pl-getpay.life
@@ -6744,6 +6746,7 @@
 0.0.0.0 nosnore-pl.com
 0.0.0.0 notatka-sluzbowa.eu
 0.0.0.0 notatka-wygranych.eu
+0.0.0.0 nota-przyjaciela.eu
 0.0.0.0 notowanie-szczescie.eu
 0.0.0.0 nowapolskaa.cyou
 0.0.0.0 nowapolskaa.xyz
@@ -6787,6 +6790,7 @@
 0.0.0.0 odessa.com.pl
 0.0.0.0 odj4s702.web.app
 0.0.0.0 odkazinpost.net
+0.0.0.0 odlbieraj-paczke.in.net
 0.0.0.0 oferta.support
 0.0.0.0 oferta.tech
 0.0.0.0 oferta000123.xyz
@@ -7048,6 +7052,7 @@
 0.0.0.0 olx-zaplata.pl
 0.0.0.0 olx--pl.online
 0.0.0.0 olx.com-id381949.xyz
+0.0.0.0 olx.dostawa-pl.club
 0.0.0.0 olx.dostawa-secure.com
 0.0.0.0 olx.livrare-ro.info
 0.0.0.0 olx.merchant-b.me
@@ -7065,6 +7070,7 @@
 0.0.0.0 olx.pl-delivery.life
 0.0.0.0 olx.pl-get.money
 0.0.0.0 olx.pl-id88322.site
+0.0.0.0 olx.pl-id823942.site
 0.0.0.0 olx.pl-id924385.site
 0.0.0.0 olx.pl-id942382.site
 0.0.0.0 olx.pl-id8592340.site
@@ -7073,6 +7079,8 @@
 0.0.0.0 olx.pl-payment.life
 0.0.0.0 olx.pl-payment.store
 0.0.0.0 olx.pl-safecash.live
+0.0.0.0 olx.pl-safeoferta.life
+0.0.0.0 olx.pl-safeoferta.live
 0.0.0.0 olx.pl-safeway.life
 0.0.0.0 olx.pl-savemoney.life
 0.0.0.0 olx.pl-saveorder.shop
@@ -11876,6 +11884,7 @@
 0.0.0.0 www.inpost-kod.com
 0.0.0.0 www.inpost-kody.net
 0.0.0.0 www.inpost-kurier24.com
+0.0.0.0 www.inpost-mobile.pl
 0.0.0.0 www.inpost-oplata.site
 0.0.0.0 www.inpost-paczka.services
 0.0.0.0 www.inpost-paczkomat.net
@@ -11886,6 +11895,7 @@
 0.0.0.0 www.inpost.pl-dostawa.shop
 0.0.0.0 www.inpost.pl-get.cash
 0.0.0.0 www.inpost.pl-get.money
+0.0.0.0 www.inpost.pl-getcash.link
 0.0.0.0 www.inpost.pl-getdelivery.shop
 0.0.0.0 www.inpost.pl-getmoney.life
 0.0.0.0 www.inpost.pl-getpay.life
@@ -12130,6 +12140,7 @@
 0.0.0.0 www.nosnore-pl.com
 0.0.0.0 www.notatka-sluzbowa.eu
 0.0.0.0 www.notatka-wygranych.eu
+0.0.0.0 www.nota-przyjaciela.eu
 0.0.0.0 www.notowanie-szczescie.eu
 0.0.0.0 www.nowinki.blog-online.eu
 0.0.0.0 www.nowosci-sprawdz.eu
@@ -12153,6 +12164,7 @@
 0.0.0.0 www.oddaj-kampania.eu
 0.0.0.0 www.oddam-kotki17.microhost.com.pl
 0.0.0.0 www.oddam-yorki.dfirma.pl
+0.0.0.0 www.odlbieraj-paczke.in.net
 0.0.0.0 www.oferta-olx.eu
 0.0.0.0 www.oferta-pay.net
 0.0.0.0 www.oferty-dnia.com
@@ -12303,6 +12315,7 @@
 0.0.0.0 www.olx-zaplata.pl
 0.0.0.0 www.olx--pl.online
 0.0.0.0 www.olx.com-id381949.xyz
+0.0.0.0 www.olx.dostawa-pl.club
 0.0.0.0 www.olx.dostawa-secure.com
 0.0.0.0 www.olx.livrare-ro.info
 0.0.0.0 www.olx.merchant-b.me
@@ -12320,6 +12333,7 @@
 0.0.0.0 www.olx.pl-delivery.life
 0.0.0.0 www.olx.pl-get.money
 0.0.0.0 www.olx.pl-id88322.site
+0.0.0.0 www.olx.pl-id823942.site
 0.0.0.0 www.olx.pl-id924385.site
 0.0.0.0 www.olx.pl-id942382.site
 0.0.0.0 www.olx.pl-id8592340.site
@@ -12328,6 +12342,8 @@
 0.0.0.0 www.olx.pl-payment.life
 0.0.0.0 www.olx.pl-payment.store
 0.0.0.0 www.olx.pl-safecash.live
+0.0.0.0 www.olx.pl-safeoferta.life
+0.0.0.0 www.olx.pl-safeoferta.live
 0.0.0.0 www.olx.pl-safeway.life
 0.0.0.0 www.olx.pl-savemoney.life
 0.0.0.0 www.olx.pl-saveorder.shop
