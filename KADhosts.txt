@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 07 Feb 2021, 12:06 UTC+01
-# Version: 2021.2.7.0
+# Last modified: Sun, 07 Feb 2021, 16:04 UTC+01
+# Version: 2021.2.7.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6063,6 +6063,7 @@
 0.0.0.0 inpost.pl-getdelivery.shop
 0.0.0.0 inpost.pl-getmoney.life
 0.0.0.0 inpost.pl-getpay.life
+0.0.0.0 inpost.pl-getpayment.online
 0.0.0.0 inpost.pl-getsafe.money
 0.0.0.0 inpost.pl-money.life
 0.0.0.0 inpost.pl-payment.link
@@ -6941,6 +6942,7 @@
 0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-b.com
 0.0.0.0 olx-b.pl
+0.0.0.0 olx-bezpieczny.pl
 0.0.0.0 olx-c.pl
 0.0.0.0 olx-cash.site
 0.0.0.0 olx-center.com
@@ -7059,6 +7061,8 @@
 0.0.0.0 olx.com-id381949.xyz
 0.0.0.0 olx.dostawa-pl.art
 0.0.0.0 olx.dostawa-pl.club
+0.0.0.0 olx.dostawa-pl.fun
+0.0.0.0 olx.dostawa-pl.link
 0.0.0.0 olx.dostawa-pl.pro
 0.0.0.0 olx.dostawa-pl.shop
 0.0.0.0 olx.dostawa-pl.store
@@ -7079,6 +7083,7 @@
 0.0.0.0 olx.pl-delivery.life
 0.0.0.0 olx.pl-get.money
 0.0.0.0 olx.pl-getcash.online
+0.0.0.0 olx.pl-getpayment.online
 0.0.0.0 olx.pl-id88322.site
 0.0.0.0 olx.pl-id823942.site
 0.0.0.0 olx.pl-id924385.site
@@ -8112,6 +8117,7 @@
 0.0.0.0 smsiak.pl
 0.0.0.0 smsiaki.eu
 0.0.0.0 smsy24.pl
+0.0.0.0 sms-info.su
 0.0.0.0 sms-za-darmo.pl
 0.0.0.0 sne.bydgoszcz.pl
 0.0.0.0 sniadaniowaklasa.pl
@@ -11917,6 +11923,7 @@
 0.0.0.0 www.inpost.pl-getdelivery.shop
 0.0.0.0 www.inpost.pl-getmoney.life
 0.0.0.0 www.inpost.pl-getpay.life
+0.0.0.0 www.inpost.pl-getpayment.online
 0.0.0.0 www.inpost.pl-getsafe.money
 0.0.0.0 www.inpost.pl-money.life
 0.0.0.0 www.inpost.pl-payment.link
@@ -12219,6 +12226,7 @@
 0.0.0.0 www.olxpl.one-merchant.ru
 0.0.0.0 www.olx-b.com
 0.0.0.0 www.olx-b.pl
+0.0.0.0 www.olx-bezpieczny.pl
 0.0.0.0 www.olx-c.pl
 0.0.0.0 www.olx-cash.site
 0.0.0.0 www.olx-center.com
@@ -12337,6 +12345,8 @@
 0.0.0.0 www.olx.com-id381949.xyz
 0.0.0.0 www.olx.dostawa-pl.art
 0.0.0.0 www.olx.dostawa-pl.club
+0.0.0.0 www.olx.dostawa-pl.fun
+0.0.0.0 www.olx.dostawa-pl.link
 0.0.0.0 www.olx.dostawa-pl.pro
 0.0.0.0 www.olx.dostawa-pl.shop
 0.0.0.0 www.olx.dostawa-pl.store
@@ -12357,6 +12367,7 @@
 0.0.0.0 www.olx.pl-delivery.life
 0.0.0.0 www.olx.pl-get.money
 0.0.0.0 www.olx.pl-getcash.online
+0.0.0.0 www.olx.pl-getpayment.online
 0.0.0.0 www.olx.pl-id88322.site
 0.0.0.0 www.olx.pl-id823942.site
 0.0.0.0 www.olx.pl-id924385.site
@@ -12775,6 +12786,7 @@
 0.0.0.0 www.smiertelne-szczepionki.eu
 0.0.0.0 www.smieszne-pl.eu
 0.0.0.0 www.smieszne-zdjecia.eu
+0.0.0.0 www.sms-info.su
 0.0.0.0 www.sms-za-darmo.pl
 0.0.0.0 www.solarna-lampa-pl.com
 0.0.0.0 www.sopot-fakt24.pl
