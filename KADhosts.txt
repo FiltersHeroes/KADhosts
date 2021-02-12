@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 12 Feb 2021, 12:05 UTC+01
-# Version: 2021.2.12.0
+# Last modified: Fri, 12 Feb 2021, 16:04 UTC+01
+# Version: 2021.2.12.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5070,6 +5070,7 @@
 0.0.0.0 creazionesitointernet.xyz
 0.0.0.0 credito.com.pl
 0.0.0.0 credit-agricole-fr.de.cool
+0.0.0.0 credit-agricolle.pl
 0.0.0.0 cristal2017.argo.host
 0.0.0.0 crowd1.com
 0.0.0.0 crptengine.cyou
@@ -5173,6 +5174,7 @@
 0.0.0.0 delivery-olx.ml
 0.0.0.0 delivery-olx-polska.000webhostapp.com
 0.0.0.0 delivery-pl-olx.site
+0.0.0.0 delivery-safe.name
 0.0.0.0 delivery.olx.pl-safecash.us
 0.0.0.0 deliver-post.com
 0.0.0.0 deliwery-olx-pl.info
@@ -5862,6 +5864,7 @@
 0.0.0.0 granolamogleys.com
 0.0.0.0 graotron.biz
 0.0.0.0 grazefoot.com
+0.0.0.0 greenoil.top
 0.0.0.0 grille.biz
 0.0.0.0 grille.live
 0.0.0.0 grupoeq.com
@@ -6964,6 +6967,7 @@
 0.0.0.0 olxpl.delivery-pay.pw
 0.0.0.0 olxpl.deli-very.su
 0.0.0.0 olxpl.e-tracking.net
+0.0.0.0 olxpl.oferta-payed.pw
 0.0.0.0 olxpl.one-merchant.ru
 0.0.0.0 olxpol.info
 0.0.0.0 olxpoland.org
@@ -7130,13 +7134,17 @@
 0.0.0.0 olx.pl-id406028.site
 0.0.0.0 olx.pl-id923482.site
 0.0.0.0 olx.pl-id5230358.site
+0.0.0.0 olx.pl-log.club
 0.0.0.0 olx.pl-logowanie.me
+0.0.0.0 olx.pl-odbierz.life
 0.0.0.0 olx.pl-odbierz.live
 0.0.0.0 olx.pl-odbierz.store
 0.0.0.0 olx.pl-odbierz.surf
 0.0.0.0 olx.pl-oferta.cash
 0.0.0.0 olx.pl-oferta.news
 0.0.0.0 olx.pl-oferta.vip
+0.0.0.0 olx.pl-pieniadze.life
+0.0.0.0 olx.pl-pieniadze.store
 0.0.0.0 olx.pl-receive.surf
 0.0.0.0 olx.pl-safecash.icu
 0.0.0.0 olx.pl-safecash.site
@@ -7472,6 +7480,7 @@
 0.0.0.0 pijawkileczyca.pl
 0.0.0.0 pilpey.net
 0.0.0.0 pinkstar.pl
+0.0.0.0 pinkypants.top
 0.0.0.0 pinpey.net
 0.0.0.0 pinspey.net
 0.0.0.0 pin-odbioru.com
@@ -9680,6 +9689,7 @@
 0.0.0.0 www.granolamogleys.com
 0.0.0.0 www.graotron.biz
 0.0.0.0 www.grazefoot.com
+0.0.0.0 www.greenoil.top
 0.0.0.0 www.grille.biz
 0.0.0.0 www.grille.live
 0.0.0.0 www.grupoeq.com
@@ -10619,6 +10629,7 @@
 0.0.0.0 www.pijawkileczyca.pl
 0.0.0.0 www.pilpey.net
 0.0.0.0 www.pinkstar.pl
+0.0.0.0 www.pinkypants.top
 0.0.0.0 www.pinpey.net
 0.0.0.0 www.pinspey.net
 0.0.0.0 www.piotrdzieciolowski.pl
@@ -11694,6 +11705,7 @@
 0.0.0.0 www.contact-tracing-app.site
 0.0.0.0 www.covid-polska.dfirma.pl
 0.0.0.0 www.credit-agricole-fr.de.cool
+0.0.0.0 www.credit-agricolle.pl
 0.0.0.0 www.crypto-engine.pl
 0.0.0.0 www.crypto-genius.privatecatalog.pro
 0.0.0.0 www.crypto-worldinvestments.com
@@ -11717,6 +11729,7 @@
 0.0.0.0 www.delivery-olx.ml
 0.0.0.0 www.delivery-olx-polska.000webhostapp.com
 0.0.0.0 www.delivery-pl-olx.site
+0.0.0.0 www.delivery-safe.name
 0.0.0.0 www.delivery.olx.pl-safecash.us
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.deliwery-olx-pl.info
@@ -12342,6 +12355,7 @@
 0.0.0.0 www.olxpl.delivery-pay.pw
 0.0.0.0 www.olxpl.deli-very.su
 0.0.0.0 www.olxpl.e-tracking.net
+0.0.0.0 www.olxpl.oferta-payed.pw
 0.0.0.0 www.olxpl.one-merchant.ru
 0.0.0.0 www.olx-b.com
 0.0.0.0 www.olx-b.pl
@@ -12501,13 +12515,17 @@
 0.0.0.0 www.olx.pl-id406028.site
 0.0.0.0 www.olx.pl-id923482.site
 0.0.0.0 www.olx.pl-id5230358.site
+0.0.0.0 www.olx.pl-log.club
 0.0.0.0 www.olx.pl-logowanie.me
+0.0.0.0 www.olx.pl-odbierz.life
 0.0.0.0 www.olx.pl-odbierz.live
 0.0.0.0 www.olx.pl-odbierz.store
 0.0.0.0 www.olx.pl-odbierz.surf
 0.0.0.0 www.olx.pl-oferta.cash
 0.0.0.0 www.olx.pl-oferta.news
 0.0.0.0 www.olx.pl-oferta.vip
+0.0.0.0 www.olx.pl-pieniadze.life
+0.0.0.0 www.olx.pl-pieniadze.store
 0.0.0.0 www.olx.pl-receive.surf
 0.0.0.0 www.olx.pl-safecash.icu
 0.0.0.0 www.olx.pl-safecash.site
