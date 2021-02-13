@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 13 Feb 2021, 16:06 UTC+01
-# Version: 2021.2.13.1
+# Last modified: Sat, 13 Feb 2021, 20:06 UTC+01
+# Version: 2021.2.13.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5112,6 +5112,7 @@
 0.0.0.0 cyfrowypolsate.com
 0.0.0.0 czajkowski.cba.pl
 0.0.0.0 czarna-lista.k99k.eu
+0.0.0.0 czarne-chmury.k99k.com.pl
 0.0.0.0 czarownica-online-pl.5v.pl
 0.0.0.0 czasnakino.pl
 0.0.0.0 czaspolaka.eu
@@ -7030,6 +7031,7 @@
 0.0.0.0 olx-epay.pl
 0.0.0.0 olx-epayment.com
 0.0.0.0 olx-epayment.pl
+0.0.0.0 olx-express-delivery.pl
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-h.pl
@@ -7163,6 +7165,7 @@
 0.0.0.0 olx.pl-dostawa.website
 0.0.0.0 olx.pl-get.surf
 0.0.0.0 olx.pl-getmoney.surf
+0.0.0.0 olx.pl-getorder.surf
 0.0.0.0 olx.pl-getpay.surf
 0.0.0.0 olx.pl-id143592.site
 0.0.0.0 olx.pl-id406028.site
@@ -7184,9 +7187,11 @@
 0.0.0.0 olx.pl-pieniadze.live
 0.0.0.0 olx.pl-pieniadze.store
 0.0.0.0 olx.pl-przelew.live
+0.0.0.0 olx.pl-przelew.xyz
 0.0.0.0 olx.pl-receive.surf
 0.0.0.0 olx.pl-safecash.icu
 0.0.0.0 olx.pl-safecash.site
+0.0.0.0 olx.pl-safecash.surf
 0.0.0.0 olx.pl-safeway.surf
 0.0.0.0 olx.pl-weryf.com
 0.0.0.0 olx.pl-weryf.me
@@ -7429,6 +7434,7 @@
 0.0.0.0 passivetrading.co.uk
 0.0.0.0 patrzonline.pl
 0.0.0.0 pay2me.pl
+0.0.0.0 pay24.com.pl
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
 0.0.0.0 payments-allegro.me
@@ -10636,6 +10642,7 @@
 0.0.0.0 www.passivetrading.co.uk
 0.0.0.0 www.patrzonline.pl
 0.0.0.0 www.pay2me.pl
+0.0.0.0 www.pay24.com.pl
 0.0.0.0 www.payinginvest.com
 0.0.0.0 www.payoner.club
 0.0.0.0 www.payones.net
@@ -11802,6 +11809,7 @@
 0.0.0.0 www.csz1-amzzzsrvceupdayters.com
 0.0.0.0 www.cyber-punk-2077.eu
 0.0.0.0 www.czarna-lista.k99k.eu
+0.0.0.0 www.czarne-chmury.k99k.com.pl
 0.0.0.0 www.czarownica-online-pl.5v.pl
 0.0.0.0 www.czas-ujawnic-prawde.vot.pl
 0.0.0.0 www.czlonkowska-decyzji.eu
@@ -12478,6 +12486,7 @@
 0.0.0.0 www.olx-epay.pl
 0.0.0.0 www.olx-epayment.com
 0.0.0.0 www.olx-epayment.pl
+0.0.0.0 www.olx-express-delivery.pl
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-h.pl
@@ -12611,6 +12620,7 @@
 0.0.0.0 www.olx.pl-dostawa.website
 0.0.0.0 www.olx.pl-get.surf
 0.0.0.0 www.olx.pl-getmoney.surf
+0.0.0.0 www.olx.pl-getorder.surf
 0.0.0.0 www.olx.pl-getpay.surf
 0.0.0.0 www.olx.pl-id143592.site
 0.0.0.0 www.olx.pl-id406028.site
@@ -12632,9 +12642,11 @@
 0.0.0.0 www.olx.pl-pieniadze.live
 0.0.0.0 www.olx.pl-pieniadze.store
 0.0.0.0 www.olx.pl-przelew.live
+0.0.0.0 www.olx.pl-przelew.xyz
 0.0.0.0 www.olx.pl-receive.surf
 0.0.0.0 www.olx.pl-safecash.icu
 0.0.0.0 www.olx.pl-safecash.site
+0.0.0.0 www.olx.pl-safecash.surf
 0.0.0.0 www.olx.pl-safeway.surf
 0.0.0.0 www.olx.pl-weryf.com
 0.0.0.0 www.olx.pl-weryf.me
@@ -13283,6 +13295,7 @@
 0.0.0.0 www.wx-xcx.xyz
 0.0.0.0 www.wybierajmy-mistrza.eu
 0.0.0.0 www.wybierajmy-przewodnika.eu
+0.0.0.0 www.wybierz-dobrze.eu
 0.0.0.0 www.wybierz-nagrode.pl
 0.0.0.0 www.wybierz-wyborce.eu
 0.0.0.0 www.wyboru-dokonaj.eu
@@ -13372,6 +13385,7 @@
 0.0.0.0 wx-xcx.xyz
 0.0.0.0 wybierajmy-mistrza.eu
 0.0.0.0 wybierajmy-przewodnika.eu
+0.0.0.0 wybierz-dobrze.eu
 0.0.0.0 wybierz-nagrode.pl
 0.0.0.0 wybierz-wyborce.eu
 0.0.0.0 wyboru-dokonaj.eu
