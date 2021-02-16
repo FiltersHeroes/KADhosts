@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 15 Feb 2021, 20:04 UTC+01
-# Version: 2021.2.15.4
+# Last modified: Tue, 16 Feb 2021, 12:05 UTC+01
+# Version: 2021.2.16.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -15,6 +15,7 @@
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 0.0.0.0 1bitstudio.pl
+0.0.0.0 1slo.pl
 0.0.0.0 2easy.pl
 0.0.0.0 4ksport.pl
 0.0.0.0 4life.com
@@ -534,6 +535,7 @@
 0.0.0.0 ferrosoft.com.pl
 0.0.0.0 fforum.pisz.pl
 0.0.0.0 fhgfffdsf9.appspot.com
+0.0.0.0 fightfly.pl
 0.0.0.0 filapl.pl
 0.0.0.0 filapolska.com
 0.0.0.0 file.co.pl
@@ -2311,6 +2313,7 @@
 0.0.0.0 www.ferrosoft.com.pl
 0.0.0.0 www.fforum.pisz.pl
 0.0.0.0 www.fhgfffdsf9.appspot.com
+0.0.0.0 www.fightfly.pl
 0.0.0.0 www.filapl.pl
 0.0.0.0 www.filapolska.com
 0.0.0.0 www.fileice.net
@@ -3541,6 +3544,7 @@
 0.0.0.0 www.zwiekszycsprzedaz.pl
 0.0.0.0 www.zwierzynieckrakowski.pl
 0.0.0.0 www.1bitstudio.pl
+0.0.0.0 www.1slo.pl
 0.0.0.0 www.2easy.pl
 0.0.0.0 www.4ksport.pl
 0.0.0.0 www.4life.com
@@ -4610,6 +4614,7 @@
 0.0.0.0 allegroapk.net
 0.0.0.0 allegrok.pl
 0.0.0.0 allegrolokalnie.casa
+0.0.0.0 allegrolokalnie.cloud
 0.0.0.0 allegrolokalnie.info
 0.0.0.0 allegrolokalnie.surf
 0.0.0.0 allegrolokalnie.tk
@@ -5995,6 +6000,7 @@
 0.0.0.0 informacjezkraju.eu
 0.0.0.0 informacje-24.you2.pl
 0.0.0.0 informacje-24-waw-pl.000webhostapp.com
+0.0.0.0 informacje-alert24.eu
 0.0.0.0 informacje-energylandia.dfirma.pl
 0.0.0.0 informacje-live24.eu
 0.0.0.0 informacje-news.eu
@@ -6074,6 +6080,7 @@
 0.0.0.0 inpost.pl-dostawa.life
 0.0.0.0 inpost.pl-dostawa.live
 0.0.0.0 inpost.pl-dostawa.shop
+0.0.0.0 inpost.pl-dostawa.work
 0.0.0.0 inpost.pl-get.cash
 0.0.0.0 inpost.pl-get.money
 0.0.0.0 inpost.pl-getcash.link
@@ -6115,6 +6122,7 @@
 0.0.0.0 interianewsy24.medianewsonline.com
 0.0.0.0 interia-poczta.email
 0.0.0.0 interneip.org
+0.0.0.0 internetowe-wybory.eu
 0.0.0.0 internetshoppy.com
 0.0.0.0 interpathlaboratories.com
 0.0.0.0 intersujaceopolskie.online
@@ -6815,6 +6823,7 @@
 0.0.0.0 odchudzaniewielotorowe.pl
 0.0.0.0 odchudzanie-ranking2020.com
 0.0.0.0 oddajmy-glosujmy.eu
+0.0.0.0 oddaj-glosiki.eu
 0.0.0.0 oddaj-glosow.eu
 0.0.0.0 oddaj-glosy.eu
 0.0.0.0 oddaj-kampania.eu
@@ -7121,9 +7130,15 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-delivery.work
 0.0.0.0 olx.pl-get.work
+0.0.0.0 olx.pl-getdelivery.work
 0.0.0.0 olx.pl-konto.ltd
+0.0.0.0 olx.pl-order.work
 0.0.0.0 olx.pl-pay.work
+0.0.0.0 olx.pl-paycash.surf
+0.0.0.0 olx.pl-przelewy.live
+0.0.0.0 olx.pl-przesylka.online
 0.0.0.0 olx.pl.delivery-transit.xyz
 0.0.0.0 olx.pl.oferta-payment.shop
 0.0.0.0 olx.pl.oferta-payment.today
@@ -7374,6 +7389,7 @@
 0.0.0.0 payples.net
 0.0.0.0 payplticket619054.info
 0.0.0.0 pays-olx.gq
+0.0.0.0 payu.id27394942.xyz
 0.0.0.0 payu.id49692215.xyz
 0.0.0.0 payulink.click
 0.0.0.0 payu-bank.com
@@ -7747,6 +7763,7 @@
 0.0.0.0 pomoc-rodzinom.website
 0.0.0.0 pomoc-windykacja.pl
 0.0.0.0 pomorskaakademia.com.pl
+0.0.0.0 pomoz-glosujac.eu
 0.0.0.0 pomoz-reprezentantowi.eu
 0.0.0.0 ponizajace-zdjecia.v07.pl
 0.0.0.0 poolup.io
@@ -8854,6 +8871,7 @@
 0.0.0.0 www.allegroapk.net
 0.0.0.0 www.allegrok.pl
 0.0.0.0 www.allegrolokalnie.casa
+0.0.0.0 www.allegrolokalnie.cloud
 0.0.0.0 www.allegrolokalnie.info
 0.0.0.0 www.allegrolokalnie.surf
 0.0.0.0 www.allegrolokalnie.tk
@@ -10580,6 +10598,7 @@
 0.0.0.0 www.payples.net
 0.0.0.0 www.payplticket619054.info
 0.0.0.0 www.payulink.click
+0.0.0.0 www.payu.id27394942.xyz
 0.0.0.0 www.payu.id49692215.xyz
 0.0.0.0 www.pdsecurity.pl
 0.0.0.0 www.peczta24.net
@@ -11501,6 +11520,7 @@
 0.0.0.0 www-inpostapl.xyz
 0.0.0.0 www-olx.pl
 0.0.0.0 www-olxpl.online
+0.0.0.0 www-olxpll-safe.xyz
 0.0.0.0 www-olxpl-safe.website
 0.0.0.0 www-olxpoland.site
 0.0.0.0 www-olx-dostawa.pl
@@ -12043,6 +12063,7 @@
 0.0.0.0 www.informacje24-alert.eu
 0.0.0.0 www.informacje-24.you2.pl
 0.0.0.0 www.informacje-24-waw-pl.000webhostapp.com
+0.0.0.0 www.informacje-alert24.eu
 0.0.0.0 www.informacje-energylandia.dfirma.pl
 0.0.0.0 www.informacje-live24.eu
 0.0.0.0 www.informacje-news.eu
@@ -12081,6 +12102,7 @@
 0.0.0.0 www.inpost.pl-dostawa.life
 0.0.0.0 www.inpost.pl-dostawa.live
 0.0.0.0 www.inpost.pl-dostawa.shop
+0.0.0.0 www.inpost.pl-dostawa.work
 0.0.0.0 www.inpost.pl-get.cash
 0.0.0.0 www.inpost.pl-get.money
 0.0.0.0 www.inpost.pl-getcash.link
@@ -12111,6 +12133,7 @@
 0.0.0.0 www.instytut-doszkalajacy.com
 0.0.0.0 www.instytut-medyczny24.com
 0.0.0.0 www.interia-poczta.email
+0.0.0.0 www.internetowe-wybory.eu
 0.0.0.0 www.invest-fd.io
 0.0.0.0 www.in-post.me
 0.0.0.0 www.in-post.net
@@ -12357,6 +12380,7 @@
 0.0.0.0 www.odblerz-przesyike.xyz
 0.0.0.0 www.odchudzanie-ranking2020.com
 0.0.0.0 www.oddajmy-glosujmy.eu
+0.0.0.0 www.oddaj-glosiki.eu
 0.0.0.0 www.oddaj-glosow.eu
 0.0.0.0 www.oddaj-glosy.eu
 0.0.0.0 www.oddaj-kampania.eu
@@ -12546,9 +12570,15 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-delivery.work
 0.0.0.0 www.olx.pl-get.work
+0.0.0.0 www.olx.pl-getdelivery.work
 0.0.0.0 www.olx.pl-konto.ltd
+0.0.0.0 www.olx.pl-order.work
 0.0.0.0 www.olx.pl-pay.work
+0.0.0.0 www.olx.pl-paycash.surf
+0.0.0.0 www.olx.pl-przelewy.live
+0.0.0.0 www.olx.pl-przesylka.online
 0.0.0.0 www.olx.pl.delivery-transit.xyz
 0.0.0.0 www.olx.pl.oferta-payment.shop
 0.0.0.0 www.olx.pl.oferta-payment.today
@@ -12791,6 +12821,7 @@
 0.0.0.0 www.pomoc-regulamin.online
 0.0.0.0 www.pomoc-rodzinom.website
 0.0.0.0 www.pomoc-windykacja.pl
+0.0.0.0 www.pomoz-glosujac.eu
 0.0.0.0 www.pomoz-reprezentantowi.eu
 0.0.0.0 www.ponizajace-zdjecia.v07.pl
 0.0.0.0 www.popatrz-zdjecia.eu
@@ -13237,6 +13268,7 @@
 0.0.0.0 www.your-datingspot-here.com
 0.0.0.0 www.your-movies.pl
 0.0.0.0 www.yrehrher.001www.com
+0.0.0.0 www.zaginiony-24.eu
 0.0.0.0 www.zaglosujemy-teraz.eu
 0.0.0.0 www.zaglosuje-pomoc.eu
 0.0.0.0 www.zaglosuje-wybieraj.eu
@@ -13368,6 +13400,7 @@
 0.0.0.0 yuppipuppy.com
 0.0.0.0 za10groszy.pl
 0.0.0.0 zaginieni24.pl
+0.0.0.0 zaginiony-24.eu
 0.0.0.0 zaglosujemy-teraz.eu
 0.0.0.0 zaglosuje-pomoc.eu
 0.0.0.0 zaglosuje-wybieraj.eu
