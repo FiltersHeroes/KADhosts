@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 17 Feb 2021, 12:06 UTC+01
-# Version: 2021.2.17.0
+# Last modified: Wed, 17 Feb 2021, 16:06 UTC+01
+# Version: 2021.2.17.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4630,6 +4630,7 @@
 0.0.0.0 allegro-credit.info
 0.0.0.0 allegro-lokalnie.me
 0.0.0.0 allegro-lokalnie.shop
+0.0.0.0 allegro-lokalnie.surf
 0.0.0.0 allegro-lokalnie-095716.xyz
 0.0.0.0 allegro-lokalnie-581927.xyz
 0.0.0.0 allegro-m.pl
@@ -6106,6 +6107,7 @@
 0.0.0.0 inpost.pl-odbierz.store
 0.0.0.0 inpost.pl-payment.link
 0.0.0.0 inpost.pl-receive.life
+0.0.0.0 inpost.pl-safe.casa
 0.0.0.0 inpost.pl-safe.shop
 0.0.0.0 inpost.pl-safecash.link
 0.0.0.0 inpost.pl-safecash.surf
@@ -6766,6 +6768,7 @@
 0.0.0.0 newsinteria.you2.pl
 0.0.0.0 newsleter.you2.pl
 0.0.0.0 newspolska.online
+0.0.0.0 newsweeks.xyz
 0.0.0.0 newsyintera24.medianewsonline.com
 0.0.0.0 newsy-krajowe.vdl.pl
 0.0.0.0 newszone.pro
@@ -6969,6 +6972,7 @@
 0.0.0.0 olxpl.org
 0.0.0.0 olxpl.page
 0.0.0.0 olxpl.qr3ds.online
+0.0.0.0 olxpl.securepays.pw
 0.0.0.0 olxpl.site
 0.0.0.0 olxpl.zapowiedz.site
 0.0.0.0 olxpln.fun
@@ -7165,9 +7169,12 @@
 0.0.0.0 olx.pl-pay.work
 0.0.0.0 olx.pl-paycash.surf
 0.0.0.0 olx.pl-przelewy.live
+0.0.0.0 olx.pl-przesylka.life
 0.0.0.0 olx.pl-przesylka.online
+0.0.0.0 olx.pl-receive.casa
 0.0.0.0 olx.pl-shop.club
 0.0.0.0 olx.pl-shop.cyou
+0.0.0.0 olx.pl-shop.ltd
 0.0.0.0 olx.pl-zakupy.work
 0.0.0.0 olx.pl.delivery-transit.xyz
 0.0.0.0 olx.pl.oferta-payment.shop
@@ -7479,6 +7486,7 @@
 0.0.0.0 peytel24.net
 0.0.0.0 peytels.net
 0.0.0.0 peytemsl.net
+0.0.0.0 peytents.net
 0.0.0.0 peytes.net
 0.0.0.0 peytip.net
 0.0.0.0 peytipey.net
@@ -8154,7 +8162,9 @@
 0.0.0.0 seriale.best
 0.0.0.0 serialosy.pl
 0.0.0.0 serialowo.pl
+0.0.0.0 server031290.nazwa.pl
 0.0.0.0 server167147.nazwa.pl
+0.0.0.0 server621416.nazwa.pl
 0.0.0.0 server-payuser1.com
 0.0.0.0 servicecheck5.wixsite.com
 0.0.0.0 service-pay.company
@@ -8297,6 +8307,9 @@
 0.0.0.0 srv36293.seohost.com.pl
 0.0.0.0 srv36294.seohost.com.pl
 0.0.0.0 srv36295.seohost.com.pl
+0.0.0.0 srv36319.seohost.com.pl
+0.0.0.0 srv36320.seohost.com.pl
+0.0.0.0 srv36321.seohost.com.pl
 0.0.0.0 ssl.dfirma.pl
 0.0.0.0 sslinfotype.pw
 0.0.0.0 ssll-payu.com
@@ -10339,6 +10352,7 @@
 0.0.0.0 www.newsinteria.you2.pl
 0.0.0.0 www.newsleter.you2.pl
 0.0.0.0 www.newspolska.online
+0.0.0.0 www.newsweeks.xyz
 0.0.0.0 www.newsyintera24.medianewsonline.com
 0.0.0.0 www.newszone.pro
 0.0.0.0 www.news.you2.pl
@@ -10468,6 +10482,7 @@
 0.0.0.0 www.olxpl.org
 0.0.0.0 www.olxpl.page
 0.0.0.0 www.olxpl.qr3ds.online
+0.0.0.0 www.olxpl.securepays.pw
 0.0.0.0 www.olxpl.site
 0.0.0.0 www.olxpl.zapowiedz.site
 0.0.0.0 www.olxpoland.org
@@ -10694,6 +10709,7 @@
 0.0.0.0 www.peytel24.net
 0.0.0.0 www.peytels.net
 0.0.0.0 www.peytemsl.net
+0.0.0.0 www.peytents.net
 0.0.0.0 www.peytes.net
 0.0.0.0 www.peytipey.net
 0.0.0.0 www.peytip.net
@@ -11053,7 +11069,9 @@
 0.0.0.0 www.seriale.best
 0.0.0.0 www.serialosy.pl
 0.0.0.0 www.serialowo.pl
+0.0.0.0 www.server031290.nazwa.pl
 0.0.0.0 www.server167147.nazwa.pl
+0.0.0.0 www.server621416.nazwa.pl
 0.0.0.0 www.servicecheck5.wixsite.com
 0.0.0.0 www.servieckartepayau.com
 0.0.0.0 www.serwis.you2.pl
@@ -11141,6 +11159,9 @@
 0.0.0.0 www.srv36293.seohost.com.pl
 0.0.0.0 www.srv36294.seohost.com.pl
 0.0.0.0 www.srv36295.seohost.com.pl
+0.0.0.0 www.srv36319.seohost.com.pl
+0.0.0.0 www.srv36320.seohost.com.pl
+0.0.0.0 www.srv36321.seohost.com.pl
 0.0.0.0 www.sslinfotype.pw
 0.0.0.0 www.sslpayu.com
 0.0.0.0 www.sslplatnosc.online
@@ -11686,6 +11707,7 @@
 0.0.0.0 www.allegro-credit.info
 0.0.0.0 www.allegro-lokalnie.me
 0.0.0.0 www.allegro-lokalnie.shop
+0.0.0.0 www.allegro-lokalnie.surf
 0.0.0.0 www.allegro-lokalnie-095716.xyz
 0.0.0.0 www.allegro-lokalnie-581927.xyz
 0.0.0.0 www.allegro-m.pl
@@ -12179,6 +12201,7 @@
 0.0.0.0 www.inpost.pl-odbierz.store
 0.0.0.0 www.inpost.pl-payment.link
 0.0.0.0 www.inpost.pl-receive.life
+0.0.0.0 www.inpost.pl-safe.casa
 0.0.0.0 www.inpost.pl-safe.shop
 0.0.0.0 www.inpost.pl-safecash.link
 0.0.0.0 www.inpost.pl-safecash.surf
@@ -12655,9 +12678,12 @@
 0.0.0.0 www.olx.pl-pay.work
 0.0.0.0 www.olx.pl-paycash.surf
 0.0.0.0 www.olx.pl-przelewy.live
+0.0.0.0 www.olx.pl-przesylka.life
 0.0.0.0 www.olx.pl-przesylka.online
+0.0.0.0 www.olx.pl-receive.casa
 0.0.0.0 www.olx.pl-shop.club
 0.0.0.0 www.olx.pl-shop.cyou
+0.0.0.0 www.olx.pl-shop.ltd
 0.0.0.0 www.olx.pl-zakupy.work
 0.0.0.0 www.olx.pl.delivery-transit.xyz
 0.0.0.0 www.olx.pl.oferta-payment.shop
