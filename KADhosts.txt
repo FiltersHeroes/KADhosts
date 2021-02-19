@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 19 Feb 2021, 12:06 UTC+01
-# Version: 2021.2.19.0
+# Last modified: Fri, 19 Feb 2021, 16:04 UTC+01
+# Version: 2021.2.19.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5111,6 +5111,7 @@
 0.0.0.0 czarna-lista.k99k.com.pl
 0.0.0.0 czarna-lista.k99k.eu
 0.0.0.0 czarna-lista.k99k.pl
+0.0.0.0 czarna-lista.m44m.eu
 0.0.0.0 czarna-lista.m44m.pl
 0.0.0.0 czarne-chmury.k99k.com.pl
 0.0.0.0 czarownica-online-pl.5v.pl
@@ -5177,6 +5178,7 @@
 0.0.0.0 decydujmy-wspolnie.eu
 0.0.0.0 decyzie-podejmj.eu
 0.0.0.0 decyzja-wlasciwa.eu
+0.0.0.0 decyzja-wspolna.eu
 0.0.0.0 deducingsi.xyz
 0.0.0.0 dedykowac-wygrana.eu
 0.0.0.0 deepikarai.com
@@ -5184,6 +5186,7 @@
 0.0.0.0 deliverry-safe.biz
 0.0.0.0 deliverry-safe.com
 0.0.0.0 deliverry-safe.info
+0.0.0.0 deliverry-safe.org
 0.0.0.0 delivery.olx.checkid.store
 0.0.0.0 delivery.olx.pl.oferta.accountant
 0.0.0.0 delivery.olx.pl.receivement.me
@@ -5705,6 +5708,7 @@
 0.0.0.0 fkr7ce4c20lqkyr.lianides.com
 0.0.0.0 flirthits.com
 0.0.0.0 fm-device.eu
+0.0.0.0 focus24.gpe.pl
 0.0.0.0 folia-hydrofobowa-pl.com
 0.0.0.0 followergods.com
 0.0.0.0 follow-service-your-account-pages.my.id
@@ -5870,6 +5874,7 @@
 0.0.0.0 glosowanko-szybko.eu
 0.0.0.0 glosujemy-celujemy.eu
 0.0.0.0 glosujemy-konkursy.eu
+0.0.0.0 glosujemy-wyniki.eu
 0.0.0.0 glosuj-konkursy.eu
 0.0.0.0 glosuj-pomaganie.eu
 0.0.0.0 glosy-oddawaj.eu
@@ -6130,6 +6135,8 @@
 0.0.0.0 inpost-platnosc.in.net
 0.0.0.0 inpost.getorder-pl.store
 0.0.0.0 inpost.order-pl.store
+0.0.0.0 inpost.pl-cash.icu
+0.0.0.0 inpost.pl-delivery.icu
 0.0.0.0 inpost.pl-dostawa.life
 0.0.0.0 inpost.pl-dostawa.live
 0.0.0.0 inpost.pl-dostawa.shop
@@ -6148,6 +6155,7 @@
 0.0.0.0 inpost.pl-odbierz.life
 0.0.0.0 inpost.pl-odbierz.shop
 0.0.0.0 inpost.pl-odbierz.store
+0.0.0.0 inpost.pl-order.icu
 0.0.0.0 inpost.pl-payment.link
 0.0.0.0 inpost.pl-receive.life
 0.0.0.0 inpost.pl-safe.casa
@@ -7219,6 +7227,7 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-cash.icu
 0.0.0.0 olx.pl-delivery.work
 0.0.0.0 olx.pl-get.casa
 0.0.0.0 olx.pl-get.work
@@ -7227,6 +7236,7 @@
 0.0.0.0 olx.pl-getdelivery.work
 0.0.0.0 olx.pl-getmoney.casa
 0.0.0.0 olx.pl-getorder.casa
+0.0.0.0 olx.pl-id652925.site
 0.0.0.0 olx.pl-id907290.site
 0.0.0.0 olx.pl-konto.biz
 0.0.0.0 olx.pl-konto.casa
@@ -7236,6 +7246,7 @@
 0.0.0.0 olx.pl-konto.ltd
 0.0.0.0 olx.pl-konto.shop
 0.0.0.0 olx.pl-konto.website
+0.0.0.0 olx.pl-order.icu
 0.0.0.0 olx.pl-order.work
 0.0.0.0 olx.pl-pay.work
 0.0.0.0 olx.pl-paycash.surf
@@ -7243,6 +7254,8 @@
 0.0.0.0 olx.pl-przelewy.live
 0.0.0.0 olx.pl-przesylka.life
 0.0.0.0 olx.pl-przesylka.online
+0.0.0.0 olx.pl-przesylka.pl
+0.0.0.0 olx.pl-przesylka.today
 0.0.0.0 olx.pl-receive.casa
 0.0.0.0 olx.pl-safecash.casa
 0.0.0.0 olx.pl-safe.oferta-payment.me
@@ -7353,6 +7366,7 @@
 0.0.0.0 oplac-paczka24.com
 0.0.0.0 oplac-paczke.com
 0.0.0.0 oplat1y.com
+0.0.0.0 oplataolx.pl
 0.0.0.0 oplatapge.com
 0.0.0.0 oplata-payu.com
 0.0.0.0 oplata-pl-olx.online
@@ -7566,6 +7580,7 @@
 0.0.0.0 peypets.net
 0.0.0.0 peypis24.net
 0.0.0.0 peyplug.net
+0.0.0.0 peypos.net
 0.0.0.0 peypote.net
 0.0.0.0 peyrents.net
 0.0.0.0 peysem.net
@@ -7717,9 +7732,11 @@
 0.0.0.0 pl-platnosci.online
 0.0.0.0 pl-pl-fb.com
 0.0.0.0 pl-postkod.com
+0.0.0.0 pl-przelew.pl
 0.0.0.0 pl-przelew.shop
 0.0.0.0 pl-przelew.world
 0.0.0.0 pl-przelewy.info
+0.0.0.0 pl-przesylka.pl
 0.0.0.0 pl-univest.life
 0.0.0.0 pl-wyslij.best
 0.0.0.0 pl-wyslij.club
@@ -7959,6 +7976,7 @@
 0.0.0.0 powiat24wiadomosci.pl
 0.0.0.0 powiat24-wydarzenia.pl
 0.0.0.0 powiklania.you2.pl
+0.0.0.0 powodzenie-wynikow.eu
 0.0.0.0 poypeo.net
 0.0.0.0 poypin24.net
 0.0.0.0 poyspey.net
@@ -8715,6 +8733,7 @@
 0.0.0.0 typuj-wyniki.eu
 0.0.0.0 tzr.grejt.pl
 0.0.0.0 u12.space
+0.0.0.0 u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 0.0.0.0 u19432194.ct.sendgrid.net
 0.0.0.0 uatesnicknam.xyz
 0.0.0.0 ubgroupbk.com
@@ -9771,6 +9790,7 @@
 0.0.0.0 www.fitpasterz.pl
 0.0.0.0 www.fkr7ce4c20lqkyr.lianides.com
 0.0.0.0 www.flirthits.com
+0.0.0.0 www.focus24.gpe.pl
 0.0.0.0 www.followergods.com
 0.0.0.0 www.fooledbeer.xyz
 0.0.0.0 www.forcetowerinvestors.com
@@ -10700,6 +10720,7 @@
 0.0.0.0 www.opineo.pw
 0.0.0.0 www.oplackuriera.com
 0.0.0.0 www.oplat1y.com
+0.0.0.0 www.oplataolx.pl
 0.0.0.0 www.oplatapge.com
 0.0.0.0 www.opliaty.com
 0.0.0.0 www.optimalpoland.pl
@@ -10846,6 +10867,7 @@
 0.0.0.0 www.peypets.net
 0.0.0.0 www.peypis24.net
 0.0.0.0 www.peyplug.net
+0.0.0.0 www.peypos.net
 0.0.0.0 www.peypote.net
 0.0.0.0 www.peyrents.net
 0.0.0.0 www.peysem.net
@@ -12005,6 +12027,7 @@
 0.0.0.0 www.czarna-lista.k99k.com.pl
 0.0.0.0 www.czarna-lista.k99k.eu
 0.0.0.0 www.czarna-lista.k99k.pl
+0.0.0.0 www.czarna-lista.m44m.eu
 0.0.0.0 www.czarna-lista.m44m.pl
 0.0.0.0 www.czarne-chmury.k99k.com.pl
 0.0.0.0 www.czarownica-online-pl.5v.pl
@@ -12022,10 +12045,12 @@
 0.0.0.0 www.decydujmy-wspolnie.eu
 0.0.0.0 www.decyzie-podejmj.eu
 0.0.0.0 www.decyzja-wlasciwa.eu
+0.0.0.0 www.decyzja-wspolna.eu
 0.0.0.0 www.dedykowac-wygrana.eu
 0.0.0.0 www.deliverry-safe.biz
 0.0.0.0 www.deliverry-safe.com
 0.0.0.0 www.deliverry-safe.info
+0.0.0.0 www.deliverry-safe.org
 0.0.0.0 www.delivery-olx.ml
 0.0.0.0 www.delivery-olx-polska.000webhostapp.com
 0.0.0.0 www.delivery-pl-olx.site
@@ -12275,6 +12300,7 @@
 0.0.0.0 www.glosowanko-szybko.eu
 0.0.0.0 www.glosujemy-celujemy.eu
 0.0.0.0 www.glosujemy-konkursy.eu
+0.0.0.0 www.glosujemy-wyniki.eu
 0.0.0.0 www.glosuj-konkursy.eu
 0.0.0.0 www.glosuj-pomaganie.eu
 0.0.0.0 www.glosy-oddawaj.eu
@@ -12358,6 +12384,8 @@
 0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.inpost.getorder-pl.store
 0.0.0.0 www.inpost.order-pl.store
+0.0.0.0 www.inpost.pl-cash.icu
+0.0.0.0 www.inpost.pl-delivery.icu
 0.0.0.0 www.inpost.pl-dostawa.life
 0.0.0.0 www.inpost.pl-dostawa.live
 0.0.0.0 www.inpost.pl-dostawa.shop
@@ -12376,6 +12404,7 @@
 0.0.0.0 www.inpost.pl-odbierz.life
 0.0.0.0 www.inpost.pl-odbierz.shop
 0.0.0.0 www.inpost.pl-odbierz.store
+0.0.0.0 www.inpost.pl-order.icu
 0.0.0.0 www.inpost.pl-payment.link
 0.0.0.0 www.inpost.pl-receive.life
 0.0.0.0 www.inpost.pl-safe.casa
@@ -12856,6 +12885,7 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-cash.icu
 0.0.0.0 www.olx.pl-delivery.work
 0.0.0.0 www.olx.pl-get.casa
 0.0.0.0 www.olx.pl-get.work
@@ -12864,6 +12894,7 @@
 0.0.0.0 www.olx.pl-getdelivery.work
 0.0.0.0 www.olx.pl-getmoney.casa
 0.0.0.0 www.olx.pl-getorder.casa
+0.0.0.0 www.olx.pl-id652925.site
 0.0.0.0 www.olx.pl-id907290.site
 0.0.0.0 www.olx.pl-konto.biz
 0.0.0.0 www.olx.pl-konto.casa
@@ -12873,6 +12904,7 @@
 0.0.0.0 www.olx.pl-konto.ltd
 0.0.0.0 www.olx.pl-konto.shop
 0.0.0.0 www.olx.pl-konto.website
+0.0.0.0 www.olx.pl-order.icu
 0.0.0.0 www.olx.pl-order.work
 0.0.0.0 www.olx.pl-pay.work
 0.0.0.0 www.olx.pl-paycash.surf
@@ -12880,6 +12912,8 @@
 0.0.0.0 www.olx.pl-przelewy.live
 0.0.0.0 www.olx.pl-przesylka.life
 0.0.0.0 www.olx.pl-przesylka.online
+0.0.0.0 www.olx.pl-przesylka.pl
+0.0.0.0 www.olx.pl-przesylka.today
 0.0.0.0 www.olx.pl-receive.casa
 0.0.0.0 www.olx.pl-safecash.casa
 0.0.0.0 www.olx.pl-safe.oferta-payment.me
@@ -13077,9 +13111,11 @@
 0.0.0.0 www.pl-platnosci.online
 0.0.0.0 www.pl-pl-fb.com
 0.0.0.0 www.pl-postkod.com
+0.0.0.0 www.pl-przelew.pl
 0.0.0.0 www.pl-przelew.shop
 0.0.0.0 www.pl-przelew.world
 0.0.0.0 www.pl-przelewy.info
+0.0.0.0 www.pl-przesylka.pl
 0.0.0.0 www.pl-univest.life
 0.0.0.0 www.pl-wyslij.best
 0.0.0.0 www.pl-wyslij.club
@@ -13185,6 +13221,7 @@
 0.0.0.0 www.potwierdzenie.wp-pl.eu
 0.0.0.0 www.potwierdz-wiek.ml
 0.0.0.0 www.powiat24-wydarzenia.pl
+0.0.0.0 www.powodzenie-wynikow.eu
 0.0.0.0 www.pozwalajmy-glosowac.eu
 0.0.0.0 www.pozytywne-wybieranie.eu
 0.0.0.0 www.ppl-puls.gloryft.com
@@ -13472,6 +13509,7 @@
 0.0.0.0 www.tylko-prawda.vot.pl
 0.0.0.0 www.typowanie-glosuj.eu
 0.0.0.0 www.typuj-wyniki.eu
+0.0.0.0 www.u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 0.0.0.0 www.uchwalenie-zwyciezcy.eu
 0.0.0.0 www.udany-wynik.eu
 0.0.0.0 www.udostpnij-antos24.dkonto.pl
@@ -13587,6 +13625,7 @@
 0.0.0.0 www.wybor-reprezentanta.eu
 0.0.0.0 www.wybor-wspanialy.eu
 0.0.0.0 www.wybrany-ten.eu
+0.0.0.0 www.wyczyn-pobijamy.eu
 0.0.0.0 www.wydarzenia-24.dfirma.pl
 0.0.0.0 www.wydarzenia-polska24.you2.pl
 0.0.0.0 www.wydarzenia-regionalne.co.pl
@@ -13671,6 +13710,7 @@
 0.0.0.0 www.zobacz-film.pl
 0.0.0.0 www.zone-telechargement-albums.com
 0.0.0.0 www.zorganizowanie-sie.eu
+0.0.0.0 www.zrzadzenie-losu.eu
 0.0.0.0 www.zwieksz-rozmiar.com
 0.0.0.0 www.z-kraju.co.pl
 0.0.0.0 wx-xcx.xyz
@@ -13686,6 +13726,7 @@
 0.0.0.0 wybor-wspanialy.eu
 0.0.0.0 wybrany-ten.eu
 0.0.0.0 wyciekizdjec24.pl
+0.0.0.0 wyczyn-pobijamy.eu
 0.0.0.0 wydarzenia.dkonto.pl
 0.0.0.0 wydarzenia.net.pl
 0.0.0.0 wydarzenia.you2.pl
@@ -13843,6 +13884,7 @@
 0.0.0.0 zone-telechargement-albums.com
 0.0.0.0 zorajka.pl
 0.0.0.0 zorganizowanie-sie.eu
+0.0.0.0 zrzadzenie-losu.eu
 0.0.0.0 zumodi.com
 0.0.0.0 zw578376khsds.com.ng
 0.0.0.0 zweryfikujmojekontoowa.moonfruit.com
