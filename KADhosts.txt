@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 20 Feb 2021, 16:06 UTC+01
-# Version: 2021.2.20.1
+# Last modified: Sat, 20 Feb 2021, 20:04 UTC+01
+# Version: 2021.2.20.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4500,6 +4500,7 @@
 0.0.0.0 acceuil-serviceclient.com
 0.0.0.0 account.login.appid.customer.online.curriculumvitae.live
 0.0.0.0 account-mail.quarantine.kitabdigital.com
+0.0.0.0 activation-netflix.com
 0.0.0.0 activesports.com.pl
 0.0.0.0 actualizarelect.890m.com
 0.0.0.0 adament.c0.pl
@@ -5301,6 +5302,7 @@
 0.0.0.0 dostawapost24.pl
 0.0.0.0 dostawa-bezpieczny.pl
 0.0.0.0 dostawa-dhl.net
+0.0.0.0 dostawa-do-domu.pl
 0.0.0.0 dostawa-olx.app
 0.0.0.0 dostawa-olx.art
 0.0.0.0 dostawa-olx.cloud
@@ -6031,6 +6033,7 @@
 0.0.0.0 ilink.cx
 0.0.0.0 ilink.fun
 0.0.0.0 ilink.icu
+0.0.0.0 ilink.monster
 0.0.0.0 ilink.services
 0.0.0.0 ilink.surf
 0.0.0.0 ilovemobi.com
@@ -7252,6 +7255,8 @@
 0.0.0.0 olx.new-payment.space
 0.0.0.0 olx.new-payment.store
 0.0.0.0 olx.oplata-is.com
+0.0.0.0 olx.order-pl.contact
+0.0.0.0 olx.order-pl.io
 0.0.0.0 olx.order-pl.life
 0.0.0.0 olx.order-pl.shop
 0.0.0.0 olx.order-pl.store
@@ -7280,6 +7285,7 @@
 0.0.0.0 olx.pl-konto.ltd
 0.0.0.0 olx.pl-konto.shop
 0.0.0.0 olx.pl-konto.website
+0.0.0.0 olx.pl-logowanie.group
 0.0.0.0 olx.pl-order.icu
 0.0.0.0 olx.pl-order.work
 0.0.0.0 olx.pl-orders.link
@@ -7306,6 +7312,7 @@
 0.0.0.0 olx.pl-shop.club
 0.0.0.0 olx.pl-shop.cyou
 0.0.0.0 olx.pl-shop.ltd
+0.0.0.0 olx.pl-zakupy.icu
 0.0.0.0 olx.pl-zakupy.work
 0.0.0.0 olx.pl.delivery-transit.xyz
 0.0.0.0 olx.pl.oferta-payment.shop
@@ -7559,6 +7566,7 @@
 0.0.0.0 payments-allegro.me
 0.0.0.0 payment-olx.pl
 0.0.0.0 payment-olx.000webhostapp.com
+0.0.0.0 payolx.pl
 0.0.0.0 payoner.club
 0.0.0.0 payones.net
 0.0.0.0 payonklik.online
@@ -8321,6 +8329,7 @@
 0.0.0.0 secure.mwwi.pl
 0.0.0.0 secure167.servconfig.com
 0.0.0.0 secureclick20.com
+0.0.0.0 securescout.de
 0.0.0.0 securetradeapp.com
 0.0.0.0 secure-bank-getin.xyz
 0.0.0.0 secure-getin.pl
@@ -8843,6 +8852,7 @@
 0.0.0.0 urleddrug.at
 0.0.0.0 urywek-glosu.eu
 0.0.0.0 urzad-gov.net
+0.0.0.0 users-netflix.com
 0.0.0.0 user-paypal.com
 0.0.0.0 useslithogra.xyz
 0.0.0.0 uslugatel.net
@@ -10113,6 +10123,7 @@
 0.0.0.0 www.ilink.cx
 0.0.0.0 www.ilink.fun
 0.0.0.0 www.ilink.icu
+0.0.0.0 www.ilink.monster
 0.0.0.0 www.ilink.services
 0.0.0.0 www.ilink.surf
 0.0.0.0 www.ilovemobi.com
@@ -10937,6 +10948,7 @@
 0.0.0.0 www.pay2me.pl
 0.0.0.0 www.pay24.com.pl
 0.0.0.0 www.payinginvest.com
+0.0.0.0 www.payolx.pl
 0.0.0.0 www.payoner.club
 0.0.0.0 www.payones.net
 0.0.0.0 www.payonklik.online
@@ -11353,6 +11365,7 @@
 0.0.0.0 www.searchwinner.site
 0.0.0.0 www.secure167.servconfig.com
 0.0.0.0 www.secureclick20.com
+0.0.0.0 www.securescout.de
 0.0.0.0 www.securetradeapp.com
 0.0.0.0 www.secure.mwwi.pl
 0.0.0.0 www.securityadminhelpunit.moonfruit.com
@@ -11983,6 +11996,7 @@
 0.0.0.0 www.about-preferences.host
 0.0.0.0 www.acceuil-serviceclient.com
 0.0.0.0 www.account-mail.quarantine.kitabdigital.com
+0.0.0.0 www.activation-netflix.com
 0.0.0.0 www.actualizarelect.890m.com
 0.0.0.0 www.add-fix.com
 0.0.0.0 www.add-ssl.com
@@ -12238,6 +12252,7 @@
 0.0.0.0 www.dostawapl.safe-security.website
 0.0.0.0 www.dostawa-bezpieczny.pl
 0.0.0.0 www.dostawa-dhl.net
+0.0.0.0 www.dostawa-do-domu.pl
 0.0.0.0 www.dostawa-olx.app
 0.0.0.0 www.dostawa-olx.art
 0.0.0.0 www.dostawa-olx.cloud
@@ -13034,6 +13049,8 @@
 0.0.0.0 www.olx.new-payment.space
 0.0.0.0 www.olx.new-payment.store
 0.0.0.0 www.olx.oplata-is.com
+0.0.0.0 www.olx.order-pl.contact
+0.0.0.0 www.olx.order-pl.io
 0.0.0.0 www.olx.order-pl.life
 0.0.0.0 www.olx.order-pl.shop
 0.0.0.0 www.olx.order-pl.store
@@ -13062,6 +13079,7 @@
 0.0.0.0 www.olx.pl-konto.ltd
 0.0.0.0 www.olx.pl-konto.shop
 0.0.0.0 www.olx.pl-konto.website
+0.0.0.0 www.olx.pl-logowanie.group
 0.0.0.0 www.olx.pl-order.icu
 0.0.0.0 www.olx.pl-order.work
 0.0.0.0 www.olx.pl-orders.link
@@ -13088,6 +13106,7 @@
 0.0.0.0 www.olx.pl-shop.club
 0.0.0.0 www.olx.pl-shop.cyou
 0.0.0.0 www.olx.pl-shop.ltd
+0.0.0.0 www.olx.pl-zakupy.icu
 0.0.0.0 www.olx.pl-zakupy.work
 0.0.0.0 www.olx.pl.delivery-transit.xyz
 0.0.0.0 www.olx.pl.oferta-payment.shop
@@ -13700,6 +13719,7 @@
 0.0.0.0 www.uprowadzenie.7m.pl
 0.0.0.0 www.urywek-glosu.eu
 0.0.0.0 www.urzad-gov.net
+0.0.0.0 www.users-netflix.com
 0.0.0.0 www.user-paypal.com
 0.0.0.0 www.uslugatopgry.5p.pl
 0.0.0.0 www.uslugitopgry.5p.pl
