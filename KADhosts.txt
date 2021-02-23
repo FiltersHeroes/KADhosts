@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 23 Feb 2021, 16:06 UTC+01
-# Version: 2021.2.23.1
+# Last modified: Tue, 23 Feb 2021, 20:05 UTC+01
+# Version: 2021.2.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4787,6 +4787,7 @@
 0.0.0.0 bezpieczenstwo.wp-pl.eu
 0.0.0.0 bezpieczna-dostawa.biz
 0.0.0.0 bezpieczna-dostawa.org
+0.0.0.0 bezpieczna-okazja.pl
 0.0.0.0 bezpieczne-zakupy.name
 0.0.0.0 bezpieczny-zakup.info
 0.0.0.0 bezpieczny-zakup.name
@@ -5310,6 +5311,7 @@
 0.0.0.0 dostawa-poland.pl
 0.0.0.0 dostawa-polska.com
 0.0.0.0 dostawa-safe.info
+0.0.0.0 dostawa-safe.org
 0.0.0.0 dostawa-save.com
 0.0.0.0 dostawa-security.com
 0.0.0.0 dostawa-szybka.com
@@ -6191,6 +6193,7 @@
 0.0.0.0 inpost.pl-saveorder.casa
 0.0.0.0 inpost.pl-saveorder.life
 0.0.0.0 inpost.pl-savepay.casa
+0.0.0.0 inpost.pl-savepay.shop
 0.0.0.0 inpost.pl-zakupy.icu
 0.0.0.0 inpost.pl-zakupy.work
 0.0.0.0 inpost.poland-orders.life
@@ -7308,6 +7311,7 @@
 0.0.0.0 olx.pl-payouts.shop
 0.0.0.0 olx.pl-payouts.surf
 0.0.0.0 olx.pl-payouts.work
+0.0.0.0 olx.pl-portal.cam
 0.0.0.0 olx.pl-przelew.pl
 0.0.0.0 olx.pl-przelewy.live
 0.0.0.0 olx.pl-przelewy.today
@@ -7611,6 +7615,7 @@
 0.0.0.0 payu-platnosc943412.pl
 0.0.0.0 payu-secure.services
 0.0.0.0 payu-zamowienie103234.pl
+0.0.0.0 payu-zamowienie901941.pl
 0.0.0.0 pay-olx.cf
 0.0.0.0 pay-olx.gq
 0.0.0.0 pay-olxdostawa.pl
@@ -8675,6 +8680,7 @@
 0.0.0.0 szybkie-wysylki.online
 0.0.0.0 szybkie-zakupy.co.pl
 0.0.0.0 szybkikurier.org
+0.0.0.0 szybki-konkurs.eu
 0.0.0.0 t20group.com
 0.0.0.0 t72.dkonto.pl
 0.0.0.0 t500track29.com
@@ -12120,6 +12126,7 @@
 0.0.0.0 www.bezpieczenstwo.wp-pl.eu
 0.0.0.0 www.bezpieczna-dostawa.biz
 0.0.0.0 www.bezpieczna-dostawa.org
+0.0.0.0 www.bezpieczna-okazja.pl
 0.0.0.0 www.bezpieczne-zakupy.name
 0.0.0.0 www.bezpieczny-zakup.info
 0.0.0.0 www.bezpieczny-zakup.name
@@ -12301,6 +12308,7 @@
 0.0.0.0 www.dostawa-poland.pl
 0.0.0.0 www.dostawa-polska.com
 0.0.0.0 www.dostawa-safe.info
+0.0.0.0 www.dostawa-safe.org
 0.0.0.0 www.dostawa-save.com
 0.0.0.0 www.dostawa-security.com
 0.0.0.0 www.dostawa-szybka.com
@@ -12633,6 +12641,7 @@
 0.0.0.0 www.inpost.pl-saveorder.casa
 0.0.0.0 www.inpost.pl-saveorder.life
 0.0.0.0 www.inpost.pl-savepay.casa
+0.0.0.0 www.inpost.pl-savepay.shop
 0.0.0.0 www.inpost.pl-zakupy.icu
 0.0.0.0 www.inpost.pl-zakupy.work
 0.0.0.0 www.inpost.poland-orders.life
@@ -13137,6 +13146,7 @@
 0.0.0.0 www.olx.pl-payouts.shop
 0.0.0.0 www.olx.pl-payouts.surf
 0.0.0.0 www.olx.pl-payouts.work
+0.0.0.0 www.olx.pl-portal.cam
 0.0.0.0 www.olx.pl-przelew.pl
 0.0.0.0 www.olx.pl-przelewy.live
 0.0.0.0 www.olx.pl-przelewy.today
@@ -13280,6 +13290,7 @@
 0.0.0.0 www.payu-platnosc943412.pl
 0.0.0.0 www.payu-secure.services
 0.0.0.0 www.payu-zamowienie103234.pl
+0.0.0.0 www.payu-zamowienie901941.pl
 0.0.0.0 www.pay-olx.cf
 0.0.0.0 www.pay-olx.gq
 0.0.0.0 www.pay-olxdostawa.pl
@@ -13708,6 +13719,7 @@
 0.0.0.0 www.szybkie-punktowanie.eu
 0.0.0.0 www.szybkie-wysylki.online
 0.0.0.0 www.szybkie-zakupy.co.pl
+0.0.0.0 www.szybki-konkurs.eu
 0.0.0.0 www.tegoroczne-glosowanko.eu
 0.0.0.0 www.teleskopmonokularowy-pl.com
 0.0.0.0 www.telewizja-internetowa24.pl
