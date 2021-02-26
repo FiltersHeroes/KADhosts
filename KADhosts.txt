@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 26 Feb 2021, 16:05 UTC+01
-# Version: 2021.2.26.1
+# Last modified: Fri, 26 Feb 2021, 20:05 UTC+01
+# Version: 2021.2.26.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6210,6 +6210,7 @@
 0.0.0.0 inpost.pl-safepays.casa
 0.0.0.0 inpost.pl-safepays.cyou
 0.0.0.0 inpost.pl-safepays.icu
+0.0.0.0 inpost.pl-safepays.shop
 0.0.0.0 inpost.pl-safepays.surf
 0.0.0.0 inpost.pl-safepays.work
 0.0.0.0 inpost.pl-safeway.cash
@@ -7105,6 +7106,7 @@
 0.0.0.0 olx.so
 0.0.0.0 olx.transakcja.pw
 0.0.0.0 olx.wysyllka.pl
+0.0.0.0 olxbank.bid
 0.0.0.0 olxbank.casa
 0.0.0.0 olxbank.cc
 0.0.0.0 olxbank.me
@@ -7274,6 +7276,7 @@
 0.0.0.0 olx-polland.com
 0.0.0.0 olx-polska.com
 0.0.0.0 olx-polska.live
+0.0.0.0 olx-polska.pl
 0.0.0.0 olx-potwierdzenie.xyz
 0.0.0.0 olx-pro.pl
 0.0.0.0 olx-protection.pl
@@ -7325,6 +7328,7 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-getpays.store
 0.0.0.0 olx.pl-mobile.biz
 0.0.0.0 olx.pl-mobile.org
 0.0.0.0 olx.pl-przekierowanie.shop
@@ -7345,7 +7349,9 @@
 0.0.0.0 olx.pl.oferta-payment.today
 0.0.0.0 olx.pl.safe.oferta-payment.me
 0.0.0.0 olx.poland-orders.shop
+0.0.0.0 olx.polska-oferta.cyou
 0.0.0.0 olx.polska-oferta.fun
+0.0.0.0 olx.polska-oferta.site
 0.0.0.0 olx.polska-oferta.surf
 0.0.0.0 olx.product-secure.ru
 0.0.0.0 olx.przesylki-secure.com
@@ -10826,6 +10832,7 @@
 0.0.0.0 www.olflowdesign.at
 0.0.0.0 www.ollando.com
 0.0.0.0 www.olszewski.ehost.pl
+0.0.0.0 www.olxbank.bid
 0.0.0.0 www.olxbank.casa
 0.0.0.0 www.olxbank.cc
 0.0.0.0 www.olxbank.me
@@ -12699,6 +12706,7 @@
 0.0.0.0 www.inpost.pl-safepays.casa
 0.0.0.0 www.inpost.pl-safepays.cyou
 0.0.0.0 www.inpost.pl-safepays.icu
+0.0.0.0 www.inpost.pl-safepays.shop
 0.0.0.0 www.inpost.pl-safepays.surf
 0.0.0.0 www.inpost.pl-safepays.work
 0.0.0.0 www.inpost.pl-safeway.cash
@@ -13139,6 +13147,7 @@
 0.0.0.0 www.olx-polland.com
 0.0.0.0 www.olx-polska.com
 0.0.0.0 www.olx-polska.live
+0.0.0.0 www.olx-polska.pl
 0.0.0.0 www.olx-potwierdzenie.xyz
 0.0.0.0 www.olx-pro.pl
 0.0.0.0 www.olx-protection.pl
@@ -13190,6 +13199,7 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-getpays.store
 0.0.0.0 www.olx.pl-mobile.biz
 0.0.0.0 www.olx.pl-mobile.org
 0.0.0.0 www.olx.pl-przekierowanie.shop
@@ -13210,7 +13220,9 @@
 0.0.0.0 www.olx.pl.oferta-payment.today
 0.0.0.0 www.olx.pl.safe.oferta-payment.me
 0.0.0.0 www.olx.poland-orders.shop
+0.0.0.0 www.olx.polska-oferta.cyou
 0.0.0.0 www.olx.polska-oferta.fun
+0.0.0.0 www.olx.polska-oferta.site
 0.0.0.0 www.olx.polska-oferta.surf
 0.0.0.0 www.olx.product-secure.ru
 0.0.0.0 www.olx.przesylki-secure.com
