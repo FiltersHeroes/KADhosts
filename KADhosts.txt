@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 27 Feb 2021, 16:05 UTC+01
-# Version: 2021.2.27.1
+# Last modified: Sat, 27 Feb 2021, 20:05 UTC+01
+# Version: 2021.2.27.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4606,6 +4606,7 @@
 0.0.0.0 allegrolokalnie.cyou
 0.0.0.0 allegrolokalnie.euweb.cz
 0.0.0.0 allegrolokalnie.info
+0.0.0.0 allegrolokalnie.loan
 0.0.0.0 allegrolokalnie.news
 0.0.0.0 allegrolokalnie.pw
 0.0.0.0 allegrolokalnie.services
@@ -6202,6 +6203,7 @@
 0.0.0.0 inpost.pl-getmoney.icu
 0.0.0.0 inpost.pl-getmoney.life
 0.0.0.0 inpost.pl-getorders.surf
+0.0.0.0 inpost.pl-getorders.work
 0.0.0.0 inpost.pl-getpay.life
 0.0.0.0 inpost.pl-getpay.work
 0.0.0.0 inpost.pl-getpayment.online
@@ -7197,6 +7199,7 @@
 0.0.0.0 olxprzesylka.express
 0.0.0.0 olxservice.pl
 0.0.0.0 olxteam.com
+0.0.0.0 olxwysylka.info
 0.0.0.0 olxwysylka.pl
 0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-b.com
@@ -7325,6 +7328,7 @@
 0.0.0.0 olx-shop.pl
 0.0.0.0 olx-si.pl
 0.0.0.0 olx-spedycja.pl
+0.0.0.0 olx-statuspay.com
 0.0.0.0 olx-u.pl
 0.0.0.0 olx-vip.com
 0.0.0.0 olx-w.pl
@@ -7360,11 +7364,13 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-getorders.cyou
 0.0.0.0 olx.pl-getpays.store
 0.0.0.0 olx.pl-mobile.biz
 0.0.0.0 olx.pl-mobile.org
 0.0.0.0 olx.pl-przekierowanie.shop
 0.0.0.0 olx.pl-safepayments.casa
+0.0.0.0 olx.pl-safepayments.cyou
 0.0.0.0 olx.pl-safepays.cyou
 0.0.0.0 olx.pl-safepays.icu
 0.0.0.0 olx.pl-safepays.live
@@ -9283,6 +9289,7 @@
 0.0.0.0 www.allegrolokalnie.cyou
 0.0.0.0 www.allegrolokalnie.euweb.cz
 0.0.0.0 www.allegrolokalnie.info
+0.0.0.0 www.allegrolokalnie.loan
 0.0.0.0 www.allegrolokalnie.news
 0.0.0.0 www.allegrolokalnie.pw
 0.0.0.0 www.allegrolokalnie.services
@@ -10944,6 +10951,7 @@
 0.0.0.0 www.olxprzesylka.express
 0.0.0.0 www.olxservice.pl
 0.0.0.0 www.olxteam.com
+0.0.0.0 www.olxwysylka.info
 0.0.0.0 www.olxwysylka.pl
 0.0.0.0 www.olxyorki.dfirma.pl
 0.0.0.0 www.olx.blue
@@ -12773,6 +12781,7 @@
 0.0.0.0 www.inpost.pl-getmoney.icu
 0.0.0.0 www.inpost.pl-getmoney.life
 0.0.0.0 www.inpost.pl-getorders.surf
+0.0.0.0 www.inpost.pl-getorders.work
 0.0.0.0 www.inpost.pl-getpay.life
 0.0.0.0 www.inpost.pl-getpay.work
 0.0.0.0 www.inpost.pl-getpayment.online
@@ -13260,6 +13269,7 @@
 0.0.0.0 www.olx-shop.pl
 0.0.0.0 www.olx-si.pl
 0.0.0.0 www.olx-spedycja.pl
+0.0.0.0 www.olx-statuspay.com
 0.0.0.0 www.olx-u.pl
 0.0.0.0 www.olx-vip.com
 0.0.0.0 www.olx-w.pl
@@ -13295,11 +13305,13 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-getorders.cyou
 0.0.0.0 www.olx.pl-getpays.store
 0.0.0.0 www.olx.pl-mobile.biz
 0.0.0.0 www.olx.pl-mobile.org
 0.0.0.0 www.olx.pl-przekierowanie.shop
 0.0.0.0 www.olx.pl-safepayments.casa
+0.0.0.0 www.olx.pl-safepayments.cyou
 0.0.0.0 www.olx.pl-safepays.cyou
 0.0.0.0 www.olx.pl-safepays.icu
 0.0.0.0 www.olx.pl-safepays.live
