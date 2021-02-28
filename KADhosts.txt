@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 28 Feb 2021, 19:57 UTC+01
-# Version: 2021.2.28.2
+# Last modified: Sun, 28 Feb 2021, 20:05 UTC+01
+# Version: 2021.2.28.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5197,6 +5197,7 @@
 0.0.0.0 delivery-pl-olx.site
 0.0.0.0 delivery-safe.name
 0.0.0.0 delivery-safe.org
+0.0.0.0 delivery.olx.pl-confirmation.digital
 0.0.0.0 deliver-post.com
 0.0.0.0 deliwery-olx-pl.info
 0.0.0.0 delliverry-safe.biz
@@ -7113,6 +7114,7 @@
 0.0.0.0 olxpl.payment-online.online
 0.0.0.0 olxpol.info
 0.0.0.0 olxpoland.org
+0.0.0.0 olxpoland.delivery-z.me
 0.0.0.0 olxpotwierdzenie.pl
 0.0.0.0 olxprzesylka.express
 0.0.0.0 olxservice.pl
@@ -7307,6 +7309,8 @@
 0.0.0.0 olx.pl.oferta-payment.today
 0.0.0.0 olx.pl.safe.oferta-payment.me
 0.0.0.0 olx.poland-orders.shop
+0.0.0.0 olx.polska-dostawa.biz
+0.0.0.0 olx.polska-dostawa.ink
 0.0.0.0 olx.polska-oferta.cyou
 0.0.0.0 olx.polska-oferta.fun
 0.0.0.0 olx.polska-oferta.icu
@@ -12319,6 +12323,7 @@
 0.0.0.0 www.delivery-pl-olx.site
 0.0.0.0 www.delivery-safe.name
 0.0.0.0 www.delivery-safe.org
+0.0.0.0 www.delivery.olx.pl-confirmation.digital
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.deliwery-olx-pl.info
 0.0.0.0 www.delliverry-safe.biz
@@ -12980,6 +12985,7 @@
 0.0.0.0 www.olxpl.oferta-payed.pw
 0.0.0.0 www.olxpl.one-merchant.ru
 0.0.0.0 www.olxpl.payment-online.online
+0.0.0.0 www.olxpoland.delivery-z.me
 0.0.0.0 www.olx-b.com
 0.0.0.0 www.olx-b.pl
 0.0.0.0 www.olx-bezpieczny.pl
@@ -13167,6 +13173,8 @@
 0.0.0.0 www.olx.pl.oferta-payment.today
 0.0.0.0 www.olx.pl.safe.oferta-payment.me
 0.0.0.0 www.olx.poland-orders.shop
+0.0.0.0 www.olx.polska-dostawa.biz
+0.0.0.0 www.olx.polska-dostawa.ink
 0.0.0.0 www.olx.polska-oferta.cyou
 0.0.0.0 www.olx.polska-oferta.fun
 0.0.0.0 www.olx.polska-oferta.icu
