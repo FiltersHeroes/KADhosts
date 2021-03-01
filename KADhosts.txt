@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 01 Mar 2021, 12:06 UTC+01
-# Version: 2021.3.1.0
+# Last modified: Mon, 01 Mar 2021, 16:05 UTC+01
+# Version: 2021.3.1.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5535,6 +5535,7 @@
 0.0.0.0 facebook.biz.pl
 0.0.0.0 facebook.m918kiss.my
 0.0.0.0 facebookcom-43632337.techsso.com
+0.0.0.0 facebookcom-49851167.techsso.com
 0.0.0.0 facebook-pl.eu
 0.0.0.0 facebouk.site
 0.0.0.0 facemode.pl
@@ -7291,12 +7292,14 @@
 0.0.0.0 olx.pl-safepays.surf
 0.0.0.0 olx.pl-safepays.work
 0.0.0.0 olx.pl-safety.oferta-payment.link
+0.0.0.0 olx.pl-savepayouts.surf
 0.0.0.0 olx.pl-savepays.icu
 0.0.0.0 olx.pl-savepays.surf
 0.0.0.0 olx.pl-weryfikacja.capital
 0.0.0.0 olx.pl-weryfikacja.co
 0.0.0.0 olx.pl-weryfikacja.digital
 0.0.0.0 olx.pl-weryfikacja.tel
+0.0.0.0 olx.pl-wyjazd.club
 0.0.0.0 olx.pl.delivery-transit.xyz
 0.0.0.0 olx.pl.oferta-payment.link
 0.0.0.0 olx.pl.oferta-payment.shop
@@ -7840,6 +7843,7 @@
 0.0.0.0 pocztabox24.xyz
 0.0.0.0 pocztain.moonfruit.com
 0.0.0.0 pocztainteria-regulamin.net
+0.0.0.0 pocztapolski.com
 0.0.0.0 pocztapomoc.com.pl
 0.0.0.0 pocztaregulamin.link
 0.0.0.0 pocztasecurityunit.moonfruit.com
@@ -8355,6 +8359,8 @@
 0.0.0.0 secure-getinbank.com
 0.0.0.0 secure-getinbank.xyz
 0.0.0.0 secure-getin-bank.at
+0.0.0.0 secure-order.biz
+0.0.0.0 secure-order.info
 0.0.0.0 secure-payuser01.serveirc.com
 0.0.0.0 securityadminhelpunit.moonfruit.com
 0.0.0.0 security-update-required.com
@@ -8379,6 +8385,7 @@
 0.0.0.0 server167147.nazwa.pl
 0.0.0.0 server260792.nazwa.pl
 0.0.0.0 server314517.nazwa.pl
+0.0.0.0 server410209.nazwa.pl
 0.0.0.0 server522523.nazwa.pl
 0.0.0.0 server621416.nazwa.pl
 0.0.0.0 server634288.nazwa.pl
@@ -9056,6 +9063,7 @@
 0.0.0.0 winoteka-samiswoi.pl
 0.0.0.0 wiochapl.eu
 0.0.0.0 wiocha-pl.eu
+0.0.0.0 wiochowo.eu
 0.0.0.0 wirtualnapolska24.dkonto.pl
 0.0.0.0 wirtualnapolska24.eu
 0.0.0.0 wirtualna-polska.you2.pl
@@ -11162,6 +11170,7 @@
 0.0.0.0 www.pocztaadminunit.moonfruit.com
 0.0.0.0 www.pocztabox24.xyz
 0.0.0.0 www.pocztain.moonfruit.com
+0.0.0.0 www.pocztapolski.com
 0.0.0.0 www.pocztapomoc.com.pl
 0.0.0.0 www.pocztaregulamin.link
 0.0.0.0 www.pocztasecurityunit.moonfruit.com
@@ -11468,6 +11477,7 @@
 0.0.0.0 www.server167147.nazwa.pl
 0.0.0.0 www.server260792.nazwa.pl
 0.0.0.0 www.server314517.nazwa.pl
+0.0.0.0 www.server410209.nazwa.pl
 0.0.0.0 www.server522523.nazwa.pl
 0.0.0.0 www.server621416.nazwa.pl
 0.0.0.0 www.server634288.nazwa.pl
@@ -11897,6 +11907,7 @@
 0.0.0.0 www.winnertoday.site
 0.0.0.0 www.winningsidenow.com
 0.0.0.0 www.wiochapl.eu
+0.0.0.0 www.wiochowo.eu
 0.0.0.0 www.wirtualnapolska24.dkonto.pl
 0.0.0.0 www.wirtualnapolska24.eu
 0.0.0.0 www.wirtualneinformacje.eu
@@ -12456,6 +12467,7 @@
 0.0.0.0 www.e-zaginieni.pl
 0.0.0.0 www.e-zaginioneosoby.eu
 0.0.0.0 www.facebookcom-43632337.techsso.com
+0.0.0.0 www.facebookcom-49851167.techsso.com
 0.0.0.0 www.facebook-pl.eu
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fajny-epizod.eu
@@ -13155,12 +13167,14 @@
 0.0.0.0 www.olx.pl-safepays.surf
 0.0.0.0 www.olx.pl-safepays.work
 0.0.0.0 www.olx.pl-safety.oferta-payment.link
+0.0.0.0 www.olx.pl-savepayouts.surf
 0.0.0.0 www.olx.pl-savepays.icu
 0.0.0.0 www.olx.pl-savepays.surf
 0.0.0.0 www.olx.pl-weryfikacja.capital
 0.0.0.0 www.olx.pl-weryfikacja.co
 0.0.0.0 www.olx.pl-weryfikacja.digital
 0.0.0.0 www.olx.pl-weryfikacja.tel
+0.0.0.0 www.olx.pl-wyjazd.club
 0.0.0.0 www.olx.pl.delivery-transit.xyz
 0.0.0.0 www.olx.pl.oferta-payment.link
 0.0.0.0 www.olx.pl.oferta-payment.shop
@@ -13602,6 +13616,8 @@
 0.0.0.0 www.secure-getinbank.com
 0.0.0.0 www.secure-getinbank.xyz
 0.0.0.0 www.secure-getin-bank.at
+0.0.0.0 www.secure-order.biz
+0.0.0.0 www.secure-order.info
 0.0.0.0 www.secure-payuser01.serveirc.com
 0.0.0.0 www.security-update-required.com
 0.0.0.0 www.security.weblogin-contact-form-instagram.com
