@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 04 Mar 2021, 16:06 UTC+01
-# Version: 2021.3.4.1
+# Last modified: Thu, 04 Mar 2021, 20:05 UTC+01
+# Version: 2021.3.4.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5216,6 +5216,7 @@ delivery-pl-olx.site
 delivery-safe.name
 delivery-safe.org
 delivery.olx.pl-confirmation.digital
+delivery.olx.pl-confirmation.link
 delivery.olx.pl-confirmation.services
 deliver-post.com
 deliwery-olx-pl.info
@@ -7263,6 +7264,7 @@ olx-pay-pl.su
 olx-pay-system.tk
 olx-pl.bezpieczenstwo24.com
 olx-pl.cc
+olx-pl.depget.com
 olx-pl.eu
 olx-pl.eupay.website
 olx-pl.getc.icu
@@ -7358,6 +7360,8 @@ olx.pay-euro.eu
 olx.pay-otrymac.store
 olx.pay-safe.store
 olx.pl-1514632861.site
+olx.pl-cash.cyou
+olx.pl-cash.work
 olx.pl-cash.xyz
 olx.pl-getdeliveries.icu
 olx.pl-getdeliveries.work
@@ -7370,6 +7374,7 @@ olx.pl-mobile.org
 olx.pl-przekierowanie.shop
 olx.pl-safe.cyou
 olx.pl-safe.xyz
+olx.pl-safecash.cyou
 olx.pl-safepayments.casa
 olx.pl-safepayments.cyou
 olx.pl-safepayments.icu
@@ -7409,6 +7414,7 @@ olx.poland-orders.shop
 olx.polska-dostawa.biz
 olx.polska-dostawa.ink
 olx.polska-dostawa.wiki
+olx.polska-oferda.xyz
 olx.polska-oferta.cyou
 olx.polska-oferta.fun
 olx.polska-oferta.icu
@@ -7667,6 +7673,7 @@ patrzonline.pl
 pay01-olx.pl
 pay2me.pl
 pay04-olx.pl
+pay05-olx.pl
 pay24.com.pl
 payinginvest.com
 payment24-online.org
@@ -8015,6 +8022,7 @@ pogodasub.com
 pogotowie.pcserwis.c0.pl
 pojadetam.pl
 pojmujmy-wszystko.eu
+pokaz-lojalnosc.eu
 polaczenie.xn.pl
 poland-dostawa.com
 poland-oferta.live
@@ -8840,6 +8848,7 @@ telewizja-internetowa24.pl
 temperaturnik.com
 tempogody.com
 temporary.nsx.pl
+teologianaweb.com.br
 tepey.net
 tepremoe.mypi.co
 termin-odbioru.fun
@@ -11877,6 +11886,7 @@ www.teenagerchimney.com
 www.temperaturnik.com
 www.tempogody.com
 www.temporary.nsx.pl
+www.teologianaweb.com.br
 www.tepey.net
 www.tepremoe.mypi.co
 www.terntraveller.com
@@ -12524,6 +12534,7 @@ www.delivery-pl-olx.site
 www.delivery-safe.name
 www.delivery-safe.org
 www.delivery.olx.pl-confirmation.digital
+www.delivery.olx.pl-confirmation.link
 www.delivery.olx.pl-confirmation.services
 www.deliver-post.com
 www.deliwery-olx-pl.info
@@ -13273,6 +13284,7 @@ www.olx-pay-pl.su
 www.olx-pay-system.tk
 www.olx-pl.bezpieczenstwo24.com
 www.olx-pl.cc
+www.olx-pl.depget.com
 www.olx-pl.eu
 www.olx-pl.eupay.website
 www.olx-pl.getc.icu
@@ -13368,6 +13380,8 @@ www.olx.pay-euro.eu
 www.olx.pay-otrymac.store
 www.olx.pay-safe.store
 www.olx.pl-1514632861.site
+www.olx.pl-cash.cyou
+www.olx.pl-cash.work
 www.olx.pl-cash.xyz
 www.olx.pl-getdeliveries.icu
 www.olx.pl-getdeliveries.work
@@ -13380,6 +13394,7 @@ www.olx.pl-mobile.org
 www.olx.pl-przekierowanie.shop
 www.olx.pl-safe.cyou
 www.olx.pl-safe.xyz
+www.olx.pl-safecash.cyou
 www.olx.pl-safepayments.casa
 www.olx.pl-safepayments.cyou
 www.olx.pl-safepayments.icu
@@ -13419,6 +13434,7 @@ www.olx.poland-orders.shop
 www.olx.polska-dostawa.biz
 www.olx.polska-dostawa.ink
 www.olx.polska-dostawa.wiki
+www.olx.polska-oferda.xyz
 www.olx.polska-oferta.cyou
 www.olx.polska-oferta.fun
 www.olx.polska-oferta.icu
@@ -13527,6 +13543,7 @@ www.paribas-logowanie.xyz
 www.paribas-online.xyz
 www.pay01-olx.pl
 www.pay04-olx.pl
+www.pay05-olx.pl
 www.payment24-online.org
 www.payments-allegro.me
 www.payment-olx.pl
@@ -13670,6 +13687,7 @@ www.podsumujmy-razem.eu
 www.poduszkaortopedyczna-pl.com
 www.poglad-wybierz.eu
 www.pojmujmy-wszystko.eu
+www.pokaz-lojalnosc.eu
 www.poland-dostawa.com
 www.poland-oferta.live
 www.poland-oferta.shop
