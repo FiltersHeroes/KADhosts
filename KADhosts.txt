@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 04 Mar 2021, 16:06 UTC+01
-# Version: 2021.3.4.1
+# Last modified: Thu, 04 Mar 2021, 20:05 UTC+01
+# Version: 2021.3.4.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5201,6 +5201,7 @@
 0.0.0.0 delivery-safe.name
 0.0.0.0 delivery-safe.org
 0.0.0.0 delivery.olx.pl-confirmation.digital
+0.0.0.0 delivery.olx.pl-confirmation.link
 0.0.0.0 delivery.olx.pl-confirmation.services
 0.0.0.0 deliver-post.com
 0.0.0.0 deliwery-olx-pl.info
@@ -7248,6 +7249,7 @@
 0.0.0.0 olx-pay-system.tk
 0.0.0.0 olx-pl.bezpieczenstwo24.com
 0.0.0.0 olx-pl.cc
+0.0.0.0 olx-pl.depget.com
 0.0.0.0 olx-pl.eu
 0.0.0.0 olx-pl.eupay.website
 0.0.0.0 olx-pl.getc.icu
@@ -7343,6 +7345,8 @@
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-1514632861.site
+0.0.0.0 olx.pl-cash.cyou
+0.0.0.0 olx.pl-cash.work
 0.0.0.0 olx.pl-cash.xyz
 0.0.0.0 olx.pl-getdeliveries.icu
 0.0.0.0 olx.pl-getdeliveries.work
@@ -7355,6 +7359,7 @@
 0.0.0.0 olx.pl-przekierowanie.shop
 0.0.0.0 olx.pl-safe.cyou
 0.0.0.0 olx.pl-safe.xyz
+0.0.0.0 olx.pl-safecash.cyou
 0.0.0.0 olx.pl-safepayments.casa
 0.0.0.0 olx.pl-safepayments.cyou
 0.0.0.0 olx.pl-safepayments.icu
@@ -7394,6 +7399,7 @@
 0.0.0.0 olx.polska-dostawa.biz
 0.0.0.0 olx.polska-dostawa.ink
 0.0.0.0 olx.polska-dostawa.wiki
+0.0.0.0 olx.polska-oferda.xyz
 0.0.0.0 olx.polska-oferta.cyou
 0.0.0.0 olx.polska-oferta.fun
 0.0.0.0 olx.polska-oferta.icu
@@ -7652,6 +7658,7 @@
 0.0.0.0 pay01-olx.pl
 0.0.0.0 pay2me.pl
 0.0.0.0 pay04-olx.pl
+0.0.0.0 pay05-olx.pl
 0.0.0.0 pay24.com.pl
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
@@ -8000,6 +8007,7 @@
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 pojadetam.pl
 0.0.0.0 pojmujmy-wszystko.eu
+0.0.0.0 pokaz-lojalnosc.eu
 0.0.0.0 polaczenie.xn.pl
 0.0.0.0 poland-dostawa.com
 0.0.0.0 poland-oferta.live
@@ -8825,6 +8833,7 @@
 0.0.0.0 temperaturnik.com
 0.0.0.0 tempogody.com
 0.0.0.0 temporary.nsx.pl
+0.0.0.0 teologianaweb.com.br
 0.0.0.0 tepey.net
 0.0.0.0 tepremoe.mypi.co
 0.0.0.0 termin-odbioru.fun
@@ -11862,6 +11871,7 @@
 0.0.0.0 www.temperaturnik.com
 0.0.0.0 www.tempogody.com
 0.0.0.0 www.temporary.nsx.pl
+0.0.0.0 www.teologianaweb.com.br
 0.0.0.0 www.tepey.net
 0.0.0.0 www.tepremoe.mypi.co
 0.0.0.0 www.terntraveller.com
@@ -12509,6 +12519,7 @@
 0.0.0.0 www.delivery-safe.name
 0.0.0.0 www.delivery-safe.org
 0.0.0.0 www.delivery.olx.pl-confirmation.digital
+0.0.0.0 www.delivery.olx.pl-confirmation.link
 0.0.0.0 www.delivery.olx.pl-confirmation.services
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.deliwery-olx-pl.info
@@ -13258,6 +13269,7 @@
 0.0.0.0 www.olx-pay-system.tk
 0.0.0.0 www.olx-pl.bezpieczenstwo24.com
 0.0.0.0 www.olx-pl.cc
+0.0.0.0 www.olx-pl.depget.com
 0.0.0.0 www.olx-pl.eu
 0.0.0.0 www.olx-pl.eupay.website
 0.0.0.0 www.olx-pl.getc.icu
@@ -13353,6 +13365,8 @@
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-1514632861.site
+0.0.0.0 www.olx.pl-cash.cyou
+0.0.0.0 www.olx.pl-cash.work
 0.0.0.0 www.olx.pl-cash.xyz
 0.0.0.0 www.olx.pl-getdeliveries.icu
 0.0.0.0 www.olx.pl-getdeliveries.work
@@ -13365,6 +13379,7 @@
 0.0.0.0 www.olx.pl-przekierowanie.shop
 0.0.0.0 www.olx.pl-safe.cyou
 0.0.0.0 www.olx.pl-safe.xyz
+0.0.0.0 www.olx.pl-safecash.cyou
 0.0.0.0 www.olx.pl-safepayments.casa
 0.0.0.0 www.olx.pl-safepayments.cyou
 0.0.0.0 www.olx.pl-safepayments.icu
@@ -13404,6 +13419,7 @@
 0.0.0.0 www.olx.polska-dostawa.biz
 0.0.0.0 www.olx.polska-dostawa.ink
 0.0.0.0 www.olx.polska-dostawa.wiki
+0.0.0.0 www.olx.polska-oferda.xyz
 0.0.0.0 www.olx.polska-oferta.cyou
 0.0.0.0 www.olx.polska-oferta.fun
 0.0.0.0 www.olx.polska-oferta.icu
@@ -13512,6 +13528,7 @@
 0.0.0.0 www.paribas-online.xyz
 0.0.0.0 www.pay01-olx.pl
 0.0.0.0 www.pay04-olx.pl
+0.0.0.0 www.pay05-olx.pl
 0.0.0.0 www.payment24-online.org
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.payment-olx.pl
@@ -13655,6 +13672,7 @@
 0.0.0.0 www.poduszkaortopedyczna-pl.com
 0.0.0.0 www.poglad-wybierz.eu
 0.0.0.0 www.pojmujmy-wszystko.eu
+0.0.0.0 www.pokaz-lojalnosc.eu
 0.0.0.0 www.poland-dostawa.com
 0.0.0.0 www.poland-oferta.live
 0.0.0.0 www.poland-oferta.shop
