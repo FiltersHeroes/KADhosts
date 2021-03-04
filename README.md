@@ -16,8 +16,6 @@ Lista hosts jest udostępniana na tej samej licencji co filtry - https://kadanti
 
 Jeżeli korzystasz z **Pi-hole**, to polecamy również zainstalować dodatkową listę [KADhole](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhole.txt), blokującą więcej stron. Jednakże, aby działała ono prawidłowo, nie ściągaj listy samodzielnie, tylko pobierz [Instalator Regex Hosts do Pi-hole](https://raw.githubusercontent.com/PolishFiltersTeam/ScriptsPlayground/master/scripts/RLI_for_Pi-hole.py), a następnie uruchom go z wpisanym adresem do listy jako jego parametrem, czyli `sciezka_do_instalatora/RLI_for_Pi-hole.py https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhole.txt`. Aktualizacje również należy przeprowadzać podobnie. Oczywiście można dodać ten skrypt do crona, by były automatycznie pobierane i instalowane co jakiś czas.
 
-Od niedawna dostępna jest również dodatkowa lista [KADfake Hosts Edition](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADfakeHosts.txt), która blokuje pseudonaukę, dezinformację, nieprawdziwe informacje i kontrowersyjne strony. Jednakże satyra i kwestie polityczne nie stanowią jej głównego celu.
-
 # Używanie listy HOSTS z pomocą DNS
 
 Niektóre DNS-y używają naszej listy **KADhosts** i można je alternatywnie używać (np. na urządzeniach mobilnych). Są to między innymi:
