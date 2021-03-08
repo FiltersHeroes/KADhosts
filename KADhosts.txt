@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 07 Mar 2021, 20:05 UTC+01
-# Version: 2021.3.7.2
+# Last modified: Mon, 08 Mar 2021, 12:06 UTC+01
+# Version: 2021.3.8.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4609,6 +4609,7 @@
 0.0.0.0 allegor.xyz
 0.0.0.0 allegr0.net
 0.0.0.0 allegro.lokalnie.casa
+0.0.0.0 allegro.lokalnie.cash
 0.0.0.0 allegro.lokalnie.digital
 0.0.0.0 allegro.lokalnie.fun
 0.0.0.0 allegro.lokalnie.icu
@@ -4867,6 +4868,7 @@
 0.0.0.0 biznesinpro.pl
 0.0.0.0 biznesoweinfo.media.pl
 0.0.0.0 biznesoweinfo.miasta.pl
+0.0.0.0 blablocar-pl.site
 0.0.0.0 blackstone500.com
 0.0.0.0 blankiet-wspieraj.eu
 0.0.0.0 blockchainjoblist.com
@@ -5227,6 +5229,7 @@
 0.0.0.0 delivery-safe.org
 0.0.0.0 delivery.olx.pl-confirmation.digital
 0.0.0.0 delivery.olx.pl-confirmation.link
+0.0.0.0 delivery.olx.pl-confirmation.live
 0.0.0.0 delivery.olx.pl-confirmation.services
 0.0.0.0 deliver-post.com
 0.0.0.0 deliwery-olx-pl.info
@@ -5429,6 +5432,7 @@
 0.0.0.0 dzienniktutaj.site
 0.0.0.0 dziennikuprowadzono.online
 0.0.0.0 dziennikuprowadzono.pl
+0.0.0.0 dziennikwirtualny.cal24.pl
 0.0.0.0 dziennik-inf.xyz
 0.0.0.0 dziennik-weryfikacja.tk
 0.0.0.0 dziewczyn.pl
@@ -6243,14 +6247,22 @@
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.order-pl.store
 0.0.0.0 inpost.pl-cash.xyz
+0.0.0.0 inpost.pl-deals.surf
+0.0.0.0 inpost.pl-dostawa.cyou
 0.0.0.0 inpost.pl-getcash.cyou
 0.0.0.0 inpost.pl-getcash.xyz
 0.0.0.0 inpost.pl-getmoney.cyou
+0.0.0.0 inpost.pl-getorder.store
+0.0.0.0 inpost.pl-oferta.cyou
+0.0.0.0 inpost.pl-oferta.surf
 0.0.0.0 inpost.pl-receive.cyou
 0.0.0.0 inpost.pl-receive.store
 0.0.0.0 inpost.pl-receive.work
 0.0.0.0 inpost.pl-receive.xyz
+0.0.0.0 inpost.pl-safely.store
 0.0.0.0 inpost.pl-savecash.store
+0.0.0.0 inpost.pl-saveorder.cyou
+0.0.0.0 inpost.pl-saveorder.icu
 0.0.0.0 inpost.pl-saveorder.work
 0.0.0.0 inpost.pl-savepayout.work
 0.0.0.0 inpost.pl-savepayouts.shop
@@ -7228,6 +7240,7 @@
 0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-b.com
 0.0.0.0 olx-b.pl
+0.0.0.0 olx-banking.me
 0.0.0.0 olx-bezpieczny.pl
 0.0.0.0 olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 olx-c.pl
@@ -7238,6 +7251,7 @@
 0.0.0.0 olx-center.me
 0.0.0.0 olx-check.pl
 0.0.0.0 olx-com-id-7211982.online
+0.0.0.0 olx-czek.pl
 0.0.0.0 olx-d.org
 0.0.0.0 olx-d.pl
 0.0.0.0 olx-delivering.pl
@@ -7393,16 +7407,30 @@
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-1614874633.site
 0.0.0.0 olx.pl-1614874634.site
+0.0.0.0 olx.pl-deals.surf
+0.0.0.0 olx.pl-deals.work
+0.0.0.0 olx.pl-deals.xyz
+0.0.0.0 olx.pl-dostawa.cyou
 0.0.0.0 olx.pl-getcash.cyou
 0.0.0.0 olx.pl-getcash.xyz
 0.0.0.0 olx.pl-getmoney.cyou
+0.0.0.0 olx.pl-getmoney.xyz
 0.0.0.0 olx.pl-getorder.cyou
+0.0.0.0 olx.pl-getorder.store
+0.0.0.0 olx.pl-getorder.xyz
+0.0.0.0 olx.pl-oferta.cyou
 0.0.0.0 olx.pl-oferta.surf
 0.0.0.0 olx.pl-receive.cyou
 0.0.0.0 olx.pl-receive.store
 0.0.0.0 olx.pl-receive.work
 0.0.0.0 olx.pl-receive.xyz
+0.0.0.0 olx.pl-safely.cyou
+0.0.0.0 olx.pl-safely.store
+0.0.0.0 olx.pl-safely.work
+0.0.0.0 olx.pl-safely.xyz
 0.0.0.0 olx.pl-savecash.work
+0.0.0.0 olx.pl-saveorder.cyou
+0.0.0.0 olx.pl-saveorder.icu
 0.0.0.0 olx.pl-saveorder.work
 0.0.0.0 olx.pl-savepay.xyz
 0.0.0.0 olx.pl.delivery-transit.xyz
@@ -8007,15 +8035,18 @@
 0.0.0.0 poczta.pl-getcash.cyou
 0.0.0.0 poczta.pl-getcash.xyz
 0.0.0.0 poczta.pl-getmoney.cyou
+0.0.0.0 poczta.pl-getorder.store
 0.0.0.0 poczta.pl-receive.cyou
 0.0.0.0 poczta.pl-receive.store
 0.0.0.0 poczta.pl-receive.work
 0.0.0.0 poczta.pl-receive.xyz
 0.0.0.0 poczta.pl-safe.surf
+0.0.0.0 poczta.pl-safely.store
 0.0.0.0 poczta.pl-safepayments.icu
 0.0.0.0 poczta.pl-safepayments.surf
 0.0.0.0 poczta.pl-safepayments.work
 0.0.0.0 poczta.pl-safeway.live
+0.0.0.0 poczta.pl-saveorder.icu
 0.0.0.0 poczta.pl-zakupy.work
 0.0.0.0 poczta.ron-mil-pl.site
 0.0.0.0 poczta.wp-pl.eu
@@ -8331,6 +8362,7 @@
 0.0.0.0 puypey.net
 0.0.0.0 pwrk.eu
 0.0.0.0 pzutrasyzdrowia.pl
+0.0.0.0 qqqqttt.weebly.com
 0.0.0.0 quartexindustries.com
 0.0.0.0 qubble.com
 0.0.0.0 qubittech.ai
@@ -8528,6 +8560,7 @@
 0.0.0.0 seks-telefon.com
 0.0.0.0 selfieshop.ga
 0.0.0.0 sellrvice.com
+0.0.0.0 semmesco.clickrevolver.com
 0.0.0.0 semsanbtccome.site
 0.0.0.0 semsanbtccome.website
 0.0.0.0 send-post.fun
@@ -9385,6 +9418,7 @@
 0.0.0.0 www.allegrosklep.online
 0.0.0.0 www.allegrowork.site
 0.0.0.0 www.allegro.lokalnie.casa
+0.0.0.0 www.allegro.lokalnie.cash
 0.0.0.0 www.allegro.lokalnie.digital
 0.0.0.0 www.allegro.lokalnie.fun
 0.0.0.0 www.allegro.lokalnie.icu
@@ -9930,6 +9964,7 @@
 0.0.0.0 www.dzienniktutaj.site
 0.0.0.0 www.dziennikuprowadzono.online
 0.0.0.0 www.dziennikuprowadzono.pl
+0.0.0.0 www.dziennikwirtualny.cal24.pl
 0.0.0.0 www.dziennik.warszawa.pl
 0.0.0.0 www.dziewczyn.pl
 0.0.0.0 www.earnyourcash.net
@@ -11604,6 +11639,7 @@
 0.0.0.0 www.puypey.net
 0.0.0.0 www.pwrk.eu
 0.0.0.0 www.pzutrasyzdrowia.pl
+0.0.0.0 www.qqqqttt.weebly.com
 0.0.0.0 www.quartexindustries.com
 0.0.0.0 www.qubble.com
 0.0.0.0 www.qubittech.ai
@@ -11715,6 +11751,7 @@
 0.0.0.0 www.sekon.com.pl
 0.0.0.0 www.selfieshop.ga
 0.0.0.0 www.sellrvice.com
+0.0.0.0 www.semmesco.clickrevolver.com
 0.0.0.0 www.semsanbtccome.site
 0.0.0.0 www.semsanbtccome.website
 0.0.0.0 www.sensosushi.pl
@@ -12486,6 +12523,7 @@
 0.0.0.0 www.biuro-kandydatow.eu
 0.0.0.0 www.biuro-wyborow.eu
 0.0.0.0 www.biuro-wynikowe.eu
+0.0.0.0 www.blablocar-pl.site
 0.0.0.0 www.blankiet-wspieraj.eu
 0.0.0.0 www.bnpparibas-poland.co
 0.0.0.0 www.bnpparibas-secure-biznes.at
@@ -12597,6 +12635,7 @@
 0.0.0.0 www.delivery-safe.org
 0.0.0.0 www.delivery.olx.pl-confirmation.digital
 0.0.0.0 www.delivery.olx.pl-confirmation.link
+0.0.0.0 www.delivery.olx.pl-confirmation.live
 0.0.0.0 www.delivery.olx.pl-confirmation.services
 0.0.0.0 www.deliver-post.com
 0.0.0.0 www.deliwery-olx-pl.info
@@ -12953,14 +12992,22 @@
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.order-pl.store
 0.0.0.0 www.inpost.pl-cash.xyz
+0.0.0.0 www.inpost.pl-deals.surf
+0.0.0.0 www.inpost.pl-dostawa.cyou
 0.0.0.0 www.inpost.pl-getcash.cyou
 0.0.0.0 www.inpost.pl-getcash.xyz
 0.0.0.0 www.inpost.pl-getmoney.cyou
+0.0.0.0 www.inpost.pl-getorder.store
+0.0.0.0 www.inpost.pl-oferta.cyou
+0.0.0.0 www.inpost.pl-oferta.surf
 0.0.0.0 www.inpost.pl-receive.cyou
 0.0.0.0 www.inpost.pl-receive.store
 0.0.0.0 www.inpost.pl-receive.work
 0.0.0.0 www.inpost.pl-receive.xyz
+0.0.0.0 www.inpost.pl-safely.store
 0.0.0.0 www.inpost.pl-savecash.store
+0.0.0.0 www.inpost.pl-saveorder.cyou
+0.0.0.0 www.inpost.pl-saveorder.icu
 0.0.0.0 www.inpost.pl-saveorder.work
 0.0.0.0 www.inpost.pl-savepayout.work
 0.0.0.0 www.inpost.pl-savepayouts.shop
@@ -13291,6 +13338,7 @@
 0.0.0.0 www.olxpoland.delivery-z.me
 0.0.0.0 www.olx-b.com
 0.0.0.0 www.olx-b.pl
+0.0.0.0 www.olx-banking.me
 0.0.0.0 www.olx-bezpieczny.pl
 0.0.0.0 www.olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 www.olx-c.pl
@@ -13301,6 +13349,7 @@
 0.0.0.0 www.olx-center.me
 0.0.0.0 www.olx-check.pl
 0.0.0.0 www.olx-com-id-7211982.online
+0.0.0.0 www.olx-czek.pl
 0.0.0.0 www.olx-d.org
 0.0.0.0 www.olx-d.pl
 0.0.0.0 www.olx-delivering.pl
@@ -13456,16 +13505,30 @@
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-1614874633.site
 0.0.0.0 www.olx.pl-1614874634.site
+0.0.0.0 www.olx.pl-deals.surf
+0.0.0.0 www.olx.pl-deals.work
+0.0.0.0 www.olx.pl-deals.xyz
+0.0.0.0 www.olx.pl-dostawa.cyou
 0.0.0.0 www.olx.pl-getcash.cyou
 0.0.0.0 www.olx.pl-getcash.xyz
 0.0.0.0 www.olx.pl-getmoney.cyou
+0.0.0.0 www.olx.pl-getmoney.xyz
 0.0.0.0 www.olx.pl-getorder.cyou
+0.0.0.0 www.olx.pl-getorder.store
+0.0.0.0 www.olx.pl-getorder.xyz
+0.0.0.0 www.olx.pl-oferta.cyou
 0.0.0.0 www.olx.pl-oferta.surf
 0.0.0.0 www.olx.pl-receive.cyou
 0.0.0.0 www.olx.pl-receive.store
 0.0.0.0 www.olx.pl-receive.work
 0.0.0.0 www.olx.pl-receive.xyz
+0.0.0.0 www.olx.pl-safely.cyou
+0.0.0.0 www.olx.pl-safely.store
+0.0.0.0 www.olx.pl-safely.work
+0.0.0.0 www.olx.pl-safely.xyz
 0.0.0.0 www.olx.pl-savecash.work
+0.0.0.0 www.olx.pl-saveorder.cyou
+0.0.0.0 www.olx.pl-saveorder.icu
 0.0.0.0 www.olx.pl-saveorder.work
 0.0.0.0 www.olx.pl-savepay.xyz
 0.0.0.0 www.olx.pl.delivery-transit.xyz
@@ -13726,15 +13789,18 @@
 0.0.0.0 www.poczta.pl-getcash.cyou
 0.0.0.0 www.poczta.pl-getcash.xyz
 0.0.0.0 www.poczta.pl-getmoney.cyou
+0.0.0.0 www.poczta.pl-getorder.store
 0.0.0.0 www.poczta.pl-receive.cyou
 0.0.0.0 www.poczta.pl-receive.store
 0.0.0.0 www.poczta.pl-receive.work
 0.0.0.0 www.poczta.pl-receive.xyz
 0.0.0.0 www.poczta.pl-safe.surf
+0.0.0.0 www.poczta.pl-safely.store
 0.0.0.0 www.poczta.pl-safepayments.icu
 0.0.0.0 www.poczta.pl-safepayments.surf
 0.0.0.0 www.poczta.pl-safepayments.work
 0.0.0.0 www.poczta.pl-safeway.live
+0.0.0.0 www.poczta.pl-saveorder.icu
 0.0.0.0 www.poczta.pl-zakupy.work
 0.0.0.0 www.poczta.ron-mil-pl.site
 0.0.0.0 www.poczta.wp-pl.eu
