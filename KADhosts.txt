@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 09 Mar 2021, 12:05 UTC+01
-# Version: 2021.3.9.0
+# Last modified: Tue, 09 Mar 2021, 16:05 UTC+01
+# Version: 2021.3.9.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5343,6 +5343,7 @@
 0.0.0.0 dostava-olx-poland.info
 0.0.0.0 dostavka-olx.xyz
 0.0.0.0 dostawa.id5271441.biz
+0.0.0.0 dostawa.id16337889.com
 0.0.0.0 dostawa.id17356006.info
 0.0.0.0 dostawa.id63418494.info
 0.0.0.0 dostawa.tech
@@ -6271,7 +6272,22 @@
 0.0.0.0 inpost.pl-receive.store
 0.0.0.0 inpost.pl-receive.work
 0.0.0.0 inpost.pl-receive.xyz
+0.0.0.0 inpost.pl-safedeal.casa
+0.0.0.0 inpost.pl-safedeal.club
+0.0.0.0 inpost.pl-safedeal.cyou
+0.0.0.0 inpost.pl-safedeal.icu
+0.0.0.0 inpost.pl-safedeal.shop
+0.0.0.0 inpost.pl-safedeal.surf
+0.0.0.0 inpost.pl-safedeal.xyz
+0.0.0.0 inpost.pl-safedeals.casa
+0.0.0.0 inpost.pl-safedeals.cyou
+0.0.0.0 inpost.pl-safedeals.icu
+0.0.0.0 inpost.pl-safedeals.store
+0.0.0.0 inpost.pl-safedeals.surf
+0.0.0.0 inpost.pl-safedeals.work
+0.0.0.0 inpost.pl-safedeals.xyz
 0.0.0.0 inpost.pl-safely.store
+0.0.0.0 inpost.pl-safely.work
 0.0.0.0 inpost.pl-savecash.store
 0.0.0.0 inpost.pl-saveorder.cyou
 0.0.0.0 inpost.pl-saveorder.icu
@@ -7286,6 +7302,7 @@
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-h.pl
 0.0.0.0 olx-i.pl
+0.0.0.0 olx-informacja.pl
 0.0.0.0 olx-j.pl
 0.0.0.0 olx-k.pl
 0.0.0.0 olx-ko.pl
@@ -7441,7 +7458,16 @@
 0.0.0.0 olx.pl-receive.store
 0.0.0.0 olx.pl-receive.work
 0.0.0.0 olx.pl-receive.xyz
+0.0.0.0 olx.pl-safedeal.club
+0.0.0.0 olx.pl-safedeal.cyou
+0.0.0.0 olx.pl-safedeal.xyz
+0.0.0.0 olx.pl-safedeals.casa
+0.0.0.0 olx.pl-safedeals.cyou
+0.0.0.0 olx.pl-safedeals.icu
+0.0.0.0 olx.pl-safedeals.store
+0.0.0.0 olx.pl-safedeals.surf
 0.0.0.0 olx.pl-safedeals.work
+0.0.0.0 olx.pl-safedeals.xyz
 0.0.0.0 olx.pl-safely.cyou
 0.0.0.0 olx.pl-safely.store
 0.0.0.0 olx.pl-safely.work
@@ -7468,6 +7494,7 @@
 0.0.0.0 olx.polska-dostawa.biz
 0.0.0.0 olx.polska-dostawa.ink
 0.0.0.0 olx.polska-dostawa.wiki
+0.0.0.0 olx.polska-oferd.casa
 0.0.0.0 olx.polska-oferda.site
 0.0.0.0 olx.polska-oferda.store
 0.0.0.0 olx.polska-oferda.xyz
@@ -7737,6 +7764,7 @@
 0.0.0.0 pay06-olx.pl
 0.0.0.0 pay07-olx.pl
 0.0.0.0 pay08-olx.pl
+0.0.0.0 pay09-olx.pl
 0.0.0.0 pay24.com.pl
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
@@ -8696,6 +8724,7 @@
 0.0.0.0 smsiak.pl
 0.0.0.0 smsiaki.eu
 0.0.0.0 smsy24.pl
+0.0.0.0 sms-info.net
 0.0.0.0 sms-info.su
 0.0.0.0 sms-za-darmo.pl
 0.0.0.0 smushgame.com
@@ -9944,6 +9973,7 @@
 0.0.0.0 www.dostawaolx.site
 0.0.0.0 www.dostawapost24.pl
 0.0.0.0 www.dostawa.id5271441.biz
+0.0.0.0 www.dostawa.id16337889.com
 0.0.0.0 www.dostawa.id17356006.info
 0.0.0.0 www.dostawa.id63418494.info
 0.0.0.0 www.dostawa.tech
@@ -13045,7 +13075,22 @@
 0.0.0.0 www.inpost.pl-receive.store
 0.0.0.0 www.inpost.pl-receive.work
 0.0.0.0 www.inpost.pl-receive.xyz
+0.0.0.0 www.inpost.pl-safedeal.casa
+0.0.0.0 www.inpost.pl-safedeal.club
+0.0.0.0 www.inpost.pl-safedeal.cyou
+0.0.0.0 www.inpost.pl-safedeal.icu
+0.0.0.0 www.inpost.pl-safedeal.shop
+0.0.0.0 www.inpost.pl-safedeal.surf
+0.0.0.0 www.inpost.pl-safedeal.xyz
+0.0.0.0 www.inpost.pl-safedeals.casa
+0.0.0.0 www.inpost.pl-safedeals.cyou
+0.0.0.0 www.inpost.pl-safedeals.icu
+0.0.0.0 www.inpost.pl-safedeals.store
+0.0.0.0 www.inpost.pl-safedeals.surf
+0.0.0.0 www.inpost.pl-safedeals.work
+0.0.0.0 www.inpost.pl-safedeals.xyz
 0.0.0.0 www.inpost.pl-safely.store
+0.0.0.0 www.inpost.pl-safely.work
 0.0.0.0 www.inpost.pl-savecash.store
 0.0.0.0 www.inpost.pl-saveorder.cyou
 0.0.0.0 www.inpost.pl-saveorder.icu
@@ -13410,6 +13455,7 @@
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-h.pl
 0.0.0.0 www.olx-i.pl
+0.0.0.0 www.olx-informacja.pl
 0.0.0.0 www.olx-j.pl
 0.0.0.0 www.olx-k.pl
 0.0.0.0 www.olx-ko.pl
@@ -13565,7 +13611,16 @@
 0.0.0.0 www.olx.pl-receive.store
 0.0.0.0 www.olx.pl-receive.work
 0.0.0.0 www.olx.pl-receive.xyz
+0.0.0.0 www.olx.pl-safedeal.club
+0.0.0.0 www.olx.pl-safedeal.cyou
+0.0.0.0 www.olx.pl-safedeal.xyz
+0.0.0.0 www.olx.pl-safedeals.casa
+0.0.0.0 www.olx.pl-safedeals.cyou
+0.0.0.0 www.olx.pl-safedeals.icu
+0.0.0.0 www.olx.pl-safedeals.store
+0.0.0.0 www.olx.pl-safedeals.surf
 0.0.0.0 www.olx.pl-safedeals.work
+0.0.0.0 www.olx.pl-safedeals.xyz
 0.0.0.0 www.olx.pl-safely.cyou
 0.0.0.0 www.olx.pl-safely.store
 0.0.0.0 www.olx.pl-safely.work
@@ -13592,6 +13647,7 @@
 0.0.0.0 www.olx.polska-dostawa.biz
 0.0.0.0 www.olx.polska-dostawa.ink
 0.0.0.0 www.olx.polska-dostawa.wiki
+0.0.0.0 www.olx.polska-oferd.casa
 0.0.0.0 www.olx.polska-oferda.site
 0.0.0.0 www.olx.polska-oferda.store
 0.0.0.0 www.olx.polska-oferda.xyz
@@ -13708,6 +13764,7 @@
 0.0.0.0 www.pay06-olx.pl
 0.0.0.0 www.pay07-olx.pl
 0.0.0.0 www.pay08-olx.pl
+0.0.0.0 www.pay09-olx.pl
 0.0.0.0 www.payment24-online.org
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.payment-olx.pl
@@ -14102,6 +14159,7 @@
 0.0.0.0 www.smiertelne-szczepionki.eu
 0.0.0.0 www.smieszne-pl.eu
 0.0.0.0 www.smieszne-zdjecia.eu
+0.0.0.0 www.sms-info.net
 0.0.0.0 www.sms-info.su
 0.0.0.0 www.sms-za-darmo.pl
 0.0.0.0 www.solarna-lampa-pl.com
