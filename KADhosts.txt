@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 10 Mar 2021, 20:06 UTC+01
-# Version: 2021.3.10.2
+# Last modified: Thu, 11 Mar 2021, 12:05 UTC+01
+# Version: 2021.3.11.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1014,6 +1014,7 @@
 0.0.0.0 mezczyzna-trendy.pl
 0.0.0.0 mgid.com
 0.0.0.0 mgrallygroup.pl
+0.0.0.0 mialamaborcje.pl
 0.0.0.0 michalfigura.pl
 0.0.0.0 michalkansy.pl
 0.0.0.0 micromix.pl
@@ -2714,6 +2715,7 @@
 0.0.0.0 www.metalroofinggiants.com
 0.0.0.0 www.mgid.com
 0.0.0.0 www.mgrallygroup.pl
+0.0.0.0 www.mialamaborcje.pl
 0.0.0.0 www.michalfigura.pl
 0.0.0.0 www.michalkansy.pl
 0.0.0.0 www.micromix.pl
@@ -5231,6 +5233,7 @@
 0.0.0.0 delivery.olx.pl.safereceivement.me
 0.0.0.0 delivery.olx.pl.safereceive.bid
 0.0.0.0 delivery.olx.safedeal.casa
+0.0.0.0 delivery.olx.shipment.casa
 0.0.0.0 delivery.olx.umowa.live
 0.0.0.0 delivery2you.page.link
 0.0.0.0 deliverysecure.club
@@ -5261,6 +5264,7 @@
 0.0.0.0 dephantomz.duckdns.org
 0.0.0.0 depozyt24.net
 0.0.0.0 deqqvg74uu6kk.cloudfront.net
+0.0.0.0 despas.net
 0.0.0.0 destgrena.at
 0.0.0.0 detoxic.net
 0.0.0.0 developer.team1global.com.au
@@ -5890,12 +5894,14 @@
 0.0.0.0 gazetamazowska.pl
 0.0.0.0 gazetamazowsze.eu
 0.0.0.0 gazetaopolska.xyz
+0.0.0.0 gazetapolska.cal24.pl
 0.0.0.0 gazetapolska.hoste.pl
 0.0.0.0 gazetapolska.org.pl
 0.0.0.0 gazetapucka.pl
 0.0.0.0 gazetaradomska.xyz
 0.0.0.0 gazetasasiedzka.eu
 0.0.0.0 gazetaslaska.xyz
+0.0.0.0 gazetaslupska.xyz
 0.0.0.0 gazetaswidnicka.xyz
 0.0.0.0 gazetaswietokrzyska.xyz
 0.0.0.0 gazetaszczecinska.xyz
@@ -6239,6 +6245,7 @@
 0.0.0.0 inpost.ltd
 0.0.0.0 inpost.page
 0.0.0.0 inpost.pw
+0.0.0.0 inpost.services
 0.0.0.0 inpost.tech
 0.0.0.0 inpost.us
 0.0.0.0 inpost2.app
@@ -6287,6 +6294,10 @@
 0.0.0.0 inpost.pl-getdeal.surf
 0.0.0.0 inpost.pl-getdeal.work
 0.0.0.0 inpost.pl-getdeal.xyz
+0.0.0.0 inpost.pl-getdeals.store
+0.0.0.0 inpost.pl-getdeals.surf
+0.0.0.0 inpost.pl-getdeals.work
+0.0.0.0 inpost.pl-getdeals.xyz
 0.0.0.0 inpost.pl-getmoney.cyou
 0.0.0.0 inpost.pl-getorder.store
 0.0.0.0 inpost.pl-oferta.cyou
@@ -7408,6 +7419,7 @@
 0.0.0.0 olx-pl.payment-bank.ga
 0.0.0.0 olx-pl.payment-banka.online
 0.0.0.0 olx-pl.payment-banks.ga
+0.0.0.0 olx-pl.pay-id57438.me
 0.0.0.0 olx-pl.pay-id74553.me
 0.0.0.0 olx-pl.pay-secure.com.ru
 0.0.0.0 olx-pl.pxd-pay.online
@@ -7472,6 +7484,7 @@
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-1614874633.site
 0.0.0.0 olx.pl-1614874634.site
+0.0.0.0 olx.pl-1615317504.online
 0.0.0.0 olx.pl-deals.casa
 0.0.0.0 olx.pl-deals.club
 0.0.0.0 olx.pl-deals.cyou
@@ -7482,11 +7495,20 @@
 0.0.0.0 olx.pl-dostawa.cyou
 0.0.0.0 olx.pl-getcash.cyou
 0.0.0.0 olx.pl-getcash.xyz
+0.0.0.0 olx.pl-getdeal.casa
+0.0.0.0 olx.pl-getdeal.cyou
+0.0.0.0 olx.pl-getdeals.store
+0.0.0.0 olx.pl-getdeals.surf
+0.0.0.0 olx.pl-getdeals.work
+0.0.0.0 olx.pl-getdeals.xyz
 0.0.0.0 olx.pl-getmoney.cyou
 0.0.0.0 olx.pl-getmoney.xyz
 0.0.0.0 olx.pl-getorder.cyou
 0.0.0.0 olx.pl-getorder.store
 0.0.0.0 olx.pl-getorder.xyz
+0.0.0.0 olx.pl-id1615399102.online
+0.0.0.0 olx.pl-id1615399104.online
+0.0.0.0 olx.pl-id1615399105.online
 0.0.0.0 olx.pl-oferta.cyou
 0.0.0.0 olx.pl-oferta.surf
 0.0.0.0 olx.pl-receive.cyou
@@ -7807,6 +7829,15 @@
 0.0.0.0 pay07-olx.pl
 0.0.0.0 pay08-olx.pl
 0.0.0.0 pay09-olx.pl
+0.0.0.0 pay10-olx.pl
+0.0.0.0 pay11-olx.pl
+0.0.0.0 pay12-olx.pl
+0.0.0.0 pay13-olx.pl
+0.0.0.0 pay14-olx.pl
+0.0.0.0 pay15-olx.pl
+0.0.0.0 pay16-olx.pl
+0.0.0.0 pay17-olx.pl
+0.0.0.0 pay18-olx.pl
 0.0.0.0 pay24.com.pl
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
@@ -8131,6 +8162,9 @@
 0.0.0.0 poczta.pl-dostawa.shop
 0.0.0.0 poczta.pl-getcash.cyou
 0.0.0.0 poczta.pl-getcash.xyz
+0.0.0.0 poczta.pl-getdeals.store
+0.0.0.0 poczta.pl-getdeals.work
+0.0.0.0 poczta.pl-getdeals.xyz
 0.0.0.0 poczta.pl-getmoney.cyou
 0.0.0.0 poczta.pl-getorder.store
 0.0.0.0 poczta.pl-receive.cyou
@@ -8324,6 +8358,7 @@
 0.0.0.0 poszukuiwania24.dkonto.pl
 0.0.0.0 potezny-wynik.eu
 0.0.0.0 potwierdzeniawiekowe.xyz
+0.0.0.0 potwierdzenie-dodania.lskdp.co.pl
 0.0.0.0 potwierdzenie-dostawy.biz
 0.0.0.0 potwierdzenie-dostawy.com
 0.0.0.0 potwierdzenie-dostawy.net
@@ -8354,10 +8389,13 @@
 0.0.0.0 ppay.site
 0.0.0.0 ppl-puls.gloryft.com
 0.0.0.0 pracaonline.co.pl
+0.0.0.0 praca-dla-ciebie.co.pl
+0.0.0.0 praca-info.co.pl
 0.0.0.0 praca-logowanie-4.ct8.pl
 0.0.0.0 praca-zaloguj.ct8.pl
 0.0.0.0 praca-zaloguj-2.ct8.pl
 0.0.0.0 praca-zaloguj-3.ct8.pl
+0.0.0.0 pracuj-w-domu.co.pl
 0.0.0.0 praize19791.duckdns.org
 0.0.0.0 pramodkumarsingh.000webhostapp.com
 0.0.0.0 pranksduck.xyz
@@ -9961,6 +9999,7 @@
 0.0.0.0 www.delivery.olx.pl.safereceivement.me
 0.0.0.0 www.delivery.olx.pl.safereceive.bid
 0.0.0.0 www.delivery.olx.safedeal.casa
+0.0.0.0 www.delivery.olx.shipment.casa
 0.0.0.0 www.delivery.olx.umowa.live
 0.0.0.0 www.demo.website.pl
 0.0.0.0 www.dentalsearchsolutions.com
@@ -9968,6 +10007,7 @@
 0.0.0.0 www.dephantomz.duckdns.org
 0.0.0.0 www.depozyt24.net
 0.0.0.0 www.deqqvg74uu6kk.cloudfront.net
+0.0.0.0 www.despas.net
 0.0.0.0 www.destgrena.at
 0.0.0.0 www.detoxic.net
 0.0.0.0 www.developer.team1global.com.au
@@ -10375,12 +10415,14 @@
 0.0.0.0 www.gazetamazowska.pl
 0.0.0.0 www.gazetamazowsze.eu
 0.0.0.0 www.gazetaopolska.xyz
+0.0.0.0 www.gazetapolska.cal24.pl
 0.0.0.0 www.gazetapolska.hoste.pl
 0.0.0.0 www.gazetapolska.org.pl
 0.0.0.0 www.gazetapucka.pl
 0.0.0.0 www.gazetaradomska.xyz
 0.0.0.0 www.gazetasasiedzka.eu
 0.0.0.0 www.gazetaslaska.xyz
+0.0.0.0 www.gazetaslupska.xyz
 0.0.0.0 www.gazetaswidnicka.xyz
 0.0.0.0 www.gazetaswietokrzyska.xyz
 0.0.0.0 www.gazetaszczecinska.xyz
@@ -10630,6 +10672,7 @@
 0.0.0.0 www.inpost.ltd
 0.0.0.0 www.inpost.page
 0.0.0.0 www.inpost.pw
+0.0.0.0 www.inpost.services
 0.0.0.0 www.inpost.tech
 0.0.0.0 www.inpost.us
 0.0.0.0 www.inprost24.net
@@ -13151,6 +13194,10 @@
 0.0.0.0 www.inpost.pl-getdeal.surf
 0.0.0.0 www.inpost.pl-getdeal.work
 0.0.0.0 www.inpost.pl-getdeal.xyz
+0.0.0.0 www.inpost.pl-getdeals.store
+0.0.0.0 www.inpost.pl-getdeals.surf
+0.0.0.0 www.inpost.pl-getdeals.work
+0.0.0.0 www.inpost.pl-getdeals.xyz
 0.0.0.0 www.inpost.pl-getmoney.cyou
 0.0.0.0 www.inpost.pl-getorder.store
 0.0.0.0 www.inpost.pl-oferta.cyou
@@ -13620,6 +13667,7 @@
 0.0.0.0 www.olx-pl.payment-bank.ga
 0.0.0.0 www.olx-pl.payment-banka.online
 0.0.0.0 www.olx-pl.payment-banks.ga
+0.0.0.0 www.olx-pl.pay-id57438.me
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.olx-pl.pay-secure.com.ru
 0.0.0.0 www.olx-pl.pxd-pay.online
@@ -13684,6 +13732,7 @@
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-1614874633.site
 0.0.0.0 www.olx.pl-1614874634.site
+0.0.0.0 www.olx.pl-1615317504.online
 0.0.0.0 www.olx.pl-deals.casa
 0.0.0.0 www.olx.pl-deals.club
 0.0.0.0 www.olx.pl-deals.cyou
@@ -13694,11 +13743,20 @@
 0.0.0.0 www.olx.pl-dostawa.cyou
 0.0.0.0 www.olx.pl-getcash.cyou
 0.0.0.0 www.olx.pl-getcash.xyz
+0.0.0.0 www.olx.pl-getdeal.casa
+0.0.0.0 www.olx.pl-getdeal.cyou
+0.0.0.0 www.olx.pl-getdeals.store
+0.0.0.0 www.olx.pl-getdeals.surf
+0.0.0.0 www.olx.pl-getdeals.work
+0.0.0.0 www.olx.pl-getdeals.xyz
 0.0.0.0 www.olx.pl-getmoney.cyou
 0.0.0.0 www.olx.pl-getmoney.xyz
 0.0.0.0 www.olx.pl-getorder.cyou
 0.0.0.0 www.olx.pl-getorder.store
 0.0.0.0 www.olx.pl-getorder.xyz
+0.0.0.0 www.olx.pl-id1615399102.online
+0.0.0.0 www.olx.pl-id1615399104.online
+0.0.0.0 www.olx.pl-id1615399105.online
 0.0.0.0 www.olx.pl-oferta.cyou
 0.0.0.0 www.olx.pl-oferta.surf
 0.0.0.0 www.olx.pl-receive.cyou
@@ -13866,6 +13924,15 @@
 0.0.0.0 www.pay07-olx.pl
 0.0.0.0 www.pay08-olx.pl
 0.0.0.0 www.pay09-olx.pl
+0.0.0.0 www.pay10-olx.pl
+0.0.0.0 www.pay11-olx.pl
+0.0.0.0 www.pay12-olx.pl
+0.0.0.0 www.pay13-olx.pl
+0.0.0.0 www.pay14-olx.pl
+0.0.0.0 www.pay15-olx.pl
+0.0.0.0 www.pay16-olx.pl
+0.0.0.0 www.pay17-olx.pl
+0.0.0.0 www.pay18-olx.pl
 0.0.0.0 www.payment24-online.org
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.payment-olx.pl
@@ -13997,6 +14064,9 @@
 0.0.0.0 www.poczta.pl-dostawa.shop
 0.0.0.0 www.poczta.pl-getcash.cyou
 0.0.0.0 www.poczta.pl-getcash.xyz
+0.0.0.0 www.poczta.pl-getdeals.store
+0.0.0.0 www.poczta.pl-getdeals.work
+0.0.0.0 www.poczta.pl-getdeals.xyz
 0.0.0.0 www.poczta.pl-getmoney.cyou
 0.0.0.0 www.poczta.pl-getorder.store
 0.0.0.0 www.poczta.pl-receive.cyou
@@ -14089,6 +14159,7 @@
 0.0.0.0 www.post-track.al-awa2el.com
 0.0.0.0 www.post-track.poczta-polska.al-awa2el.com
 0.0.0.0 www.potezny-wynik.eu
+0.0.0.0 www.potwierdzenie-dodania.lskdp.co.pl
 0.0.0.0 www.potwierdzenie-dostawy.biz
 0.0.0.0 www.potwierdzenie-dostawy.com
 0.0.0.0 www.potwierdzenie-dostawy.net
@@ -14105,10 +14176,13 @@
 0.0.0.0 www.pozwalajmy-glosowac.eu
 0.0.0.0 www.pozytywne-wybieranie.eu
 0.0.0.0 www.ppl-puls.gloryft.com
+0.0.0.0 www.praca-dla-ciebie.co.pl
+0.0.0.0 www.praca-info.co.pl
 0.0.0.0 www.praca-logowanie-4.ct8.pl
 0.0.0.0 www.praca-zaloguj.ct8.pl
 0.0.0.0 www.praca-zaloguj-2.ct8.pl
 0.0.0.0 www.praca-zaloguj-3.ct8.pl
+0.0.0.0 www.pracuj-w-domu.co.pl
 0.0.0.0 www.pramodkumarsingh.000webhostapp.com
 0.0.0.0 www.prawojazdy-poznan.com.pl
 0.0.0.0 www.prezent-kumplowi.eu
