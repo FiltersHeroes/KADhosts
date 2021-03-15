@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 15 Mar 2021, 16:05 UTC+01
-# Version: 2021.3.15.1
+# Last modified: Mon, 15 Mar 2021, 20:05 UTC+01
+# Version: 2021.3.15.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5886,6 +5886,7 @@
 0.0.0.0 gazeta.pl.com.bz
 0.0.0.0 gazetabracka.eu
 0.0.0.0 gazetagdynia.xyz
+0.0.0.0 gazetakrakow.xyz
 0.0.0.0 gazetalegnicka.xyz
 0.0.0.0 gazetalodzka.xyz
 0.0.0.0 gazetalubelska.xyz
@@ -7472,6 +7473,7 @@
 0.0.0.0 olx-spedycja.pl
 0.0.0.0 olx-statuspay.com
 0.0.0.0 olx-u.pl
+0.0.0.0 olx-uzyskiwaniie.pl
 0.0.0.0 olx-vip.com
 0.0.0.0 olx-w.pl
 0.0.0.0 olx-weryfikacja.pl
@@ -7519,7 +7521,9 @@
 0.0.0.0 olx.pl-safeorders.icu
 0.0.0.0 olx.pl-safeorders.surf
 0.0.0.0 olx.pl-safeorders.work
+0.0.0.0 olx.pl-savedealing.store
 0.0.0.0 olx.pl-saveorders.surf
+0.0.0.0 olx.pl-saveorders.xyz
 0.0.0.0 olx.poland-ofer.cc
 0.0.0.0 olx.poland-ofer.me
 0.0.0.0 olx.poland-ofer.online
@@ -8706,6 +8710,7 @@
 0.0.0.0 server522523.nazwa.pl
 0.0.0.0 server621416.nazwa.pl
 0.0.0.0 server634288.nazwa.pl
+0.0.0.0 server655635.nazwa.pl
 0.0.0.0 server742538.nazwa.pl
 0.0.0.0 server805487.nazwa.pl
 0.0.0.0 server954031.nazwa.pl
@@ -10403,6 +10408,7 @@
 0.0.0.0 www.gastrohurt.neostrada.pl
 0.0.0.0 www.gazetabracka.eu
 0.0.0.0 www.gazetagdynia.xyz
+0.0.0.0 www.gazetakrakow.xyz
 0.0.0.0 www.gazetalegnicka.xyz
 0.0.0.0 www.gazetalodzka.xyz
 0.0.0.0 www.gazetalubelska.xyz
@@ -11963,6 +11969,7 @@
 0.0.0.0 www.server522523.nazwa.pl
 0.0.0.0 www.server621416.nazwa.pl
 0.0.0.0 www.server634288.nazwa.pl
+0.0.0.0 www.server655635.nazwa.pl
 0.0.0.0 www.server742538.nazwa.pl
 0.0.0.0 www.server805487.nazwa.pl
 0.0.0.0 www.server954031.nazwa.pl
@@ -12538,10 +12545,12 @@
 0.0.0.0 www-inpostapl.xyz
 0.0.0.0 www-olx.pl
 0.0.0.0 www-olxpl.online
+0.0.0.0 www-olxpldilivery.club
 0.0.0.0 www-olxpll-safe.xyz
 0.0.0.0 www-olxpl-safe.website
 0.0.0.0 www-olxpoland.site
 0.0.0.0 www-olx-dostawa.pl
+0.0.0.0 www-plnsafedeal.link
 0.0.0.0 www.0b8cc331813049912.temporary.link
 0.0.0.0 www.0lx.group
 0.0.0.0 www.0pen.page
@@ -13738,6 +13747,7 @@
 0.0.0.0 www.olx-spedycja.pl
 0.0.0.0 www.olx-statuspay.com
 0.0.0.0 www.olx-u.pl
+0.0.0.0 www.olx-uzyskiwaniie.pl
 0.0.0.0 www.olx-vip.com
 0.0.0.0 www.olx-w.pl
 0.0.0.0 www.olx-weryfikacja.pl
@@ -13785,7 +13795,9 @@
 0.0.0.0 www.olx.pl-safeorders.icu
 0.0.0.0 www.olx.pl-safeorders.surf
 0.0.0.0 www.olx.pl-safeorders.work
+0.0.0.0 www.olx.pl-savedealing.store
 0.0.0.0 www.olx.pl-saveorders.surf
+0.0.0.0 www.olx.pl-saveorders.xyz
 0.0.0.0 www.olx.poland-ofer.cc
 0.0.0.0 www.olx.poland-ofer.me
 0.0.0.0 www.olx.poland-ofer.online
