@@ -1,0 +1,19 @@
+name: Aktualizacja listy
+
+on:
+    workflow_dispatch:
+
+jobs:
+    Aktualizacja:
+        runs-on: ubuntu-latest
+        container: polishfiltersteam/kad_image:latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Aktualizacja całej listy
+              env:
+                  GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+              run: |
+                  NO_PUSH="true" ./scripts/VICHS_auto.sh
+            - uses: actions/upload-artifact@v2
+              with:
+                  path: KADhosts.txt
