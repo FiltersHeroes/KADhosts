@@ -12,5 +12,5 @@ if [[ "$CI" = "true" ]] && [[ "$CIRCLECI" = "true" ]] ; then
     git clone git@github.com:PolishFiltersTeam/KAD.git
 fi
 
-cd $SCRIPT_PATH/..
+cd ./KADhosts
 ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
