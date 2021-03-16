@@ -14,12 +14,12 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-@PHinclude podejrzane_inne_oszustwa
+@PHinclude ../../KAD/sections/podejrzane_inne_oszustwa
 #
 #
 # Przekrety
-@PHCOMBINEinclude ../../KADhosts/sections/hole_przekrety https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
+@PHCOMBINEinclude hole_przekrety https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt
 #
 #
 # Blogspot
-@PHinclude blogspot
+@PHinclude ../../KAD/sections/blogspot

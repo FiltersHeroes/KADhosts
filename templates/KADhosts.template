@@ -14,24 +14,24 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-@HOSTSinclude podejrzane_inne_oszustwa
+@HOSTSinclude ../../KAD/sections/podejrzane_inne_oszustwa
 #
 #
 # Przekierowuja do innych stron z przekretami
-@HOSTSinclude przekierowujace_do_przekretow
+@HOSTSinclude ../../KAD/sections/przekierowujace_do_przekretow
 #
 #
 # Szybko wygaszajace
-@HOSTSinclude szybko_wygaszajace
+@HOSTSinclude ../../KAD/sections/szybko_wygaszajace
 #
 #
 # Przekrety
-@HOSTSinclude przekrety
+@HOSTSinclude ../../KAD/sections/przekrety
 #
 #
 # Blogspot
-@HOSTSinclude blogspot
+@HOSTSinclude ../../KAD/sections/blogspot
 #
 #
 # Dodatki hosts
-@HOSTSinclude ../../KADhosts/sections/hostsplus
+@HOSTSinclude hostsplus
