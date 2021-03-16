@@ -6,9 +6,7 @@ jobs:
     working_directory: ~/git/KADhosts
     steps:
     - checkout
-    - run: NO_PUSH="true" ./scripts/VICHS_auto.sh
-    - store_artifacts:
-        path: KADhosts.txt
+    - run: ./scripts/VICHS_auto.sh
 workflows:
   version: 2
   workflow:
