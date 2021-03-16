@@ -13,7 +13,4 @@ jobs:
               env:
                   GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
               run: |
-                  NO_PUSH="true" ./scripts/VICHS_auto.sh
-            - uses: actions/upload-artifact@v2
-              with:
-                  path: KADhosts.txt
+                  ./scripts/VICHS_auto.sh
