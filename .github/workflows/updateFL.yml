@@ -6,7 +6,7 @@ on:
 jobs:
     Aktualizacja:
         runs-on: ubuntu-latest
-        container: polishfiltersteam/kad_image:latest
+        container: polishfiltersteam/vichs_image:latest
         steps:
             - uses: actions/checkout@v2
             - name: Aktualizacja całej listy
