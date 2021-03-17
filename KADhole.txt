@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sun, 14 Mar 2021, 10:04 UTC+01
-# Version: 2021.3.14.0
+# Last modified: Wed, 17 Mar 2021, 22:47 UTC+01
+# Version: 2021.3.17.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -14,10 +14,13 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
 (^|\.)pokolorujfb.*\.glt\.pl$
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
 #
 #
 # Przekrety
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 (^|\.)allegrolokalkie\..*$
 (^|\.)allegrolokalne\..*$
 (^|\.)allegrolokalnie-pl\..*$
@@ -208,9 +211,11 @@
 (^|\.)[a-z]+?\.?poczta-?polska[0-9]+\..*$
 \.bestshopping-voucher\.com$
 \.findprofile\.net\.pl$
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 #
 #
 # Blogspot
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => Pi-hole RegEx
 (^|\.)barsy.*\.blogspot\.com$
 (^|\.)czas-na-fb.*\.blogspot\.com$
 (^|\.)fabryka-chinczykow.*\.blogspot\.com$
@@ -241,3 +246,4 @@
 (^|\.).*internet-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-pokemon-go\.blogspot\.com$
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => Pi-hole RegEx
