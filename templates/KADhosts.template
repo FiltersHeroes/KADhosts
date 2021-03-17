@@ -14,24 +14,24 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-@HOSTSinclude podejrzane_inne_oszustwa
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt KAD/sections/podejrzane_inne_oszustwa
 #
 #
 # Przekierowuja do innych stron z przekretami
-@HOSTSinclude przekierowujace_do_przekretow
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt KAD/sections/przekierowujace_do_przekretow
 #
 #
 # Szybko wygaszajace
-@HOSTSinclude szybko_wygaszajace
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt KAD/sections/szybko_wygaszajace
 #
 #
 # Przekrety
-@HOSTSinclude przekrety
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt KAD/sections/przekrety
 #
 #
 # Blogspot
-@HOSTSinclude blogspot
+@HOSTSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt KAD/sections/blogspot
 #
 #
 # Dodatki hosts
-@HOSTSinclude ../../KADhosts/sections/hostsplus
+@HOSTSinclude hostsplus
