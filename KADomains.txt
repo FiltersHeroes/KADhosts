@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 17 Mar 2021, 20:04 UTC+01
-# Version: 2021.3.17.2
+# Last modified: Wed, 17 Mar 2021, 22:47 UTC+01
+# Version: 2021.3.17.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -15,6 +15,7 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
 1bitstudio.pl
 1slo.pl
 2easy.pl
@@ -3926,9 +3927,11 @@ zupaskarbow.pl
 zurtchojnice.pl
 zwiekszycsprzedaz.pl
 zwierzynieckrakowski.pl
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
 #
 #
 # Przekierowuja do innych stron z przekretami
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
 0n.click
 abihpopihigh.tk
 abrakasba.space
@@ -4253,9 +4256,11 @@ xtroglobal.com
 yarlnk.com
 your-online-profits.life
 yyn.us
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
 #
 #
 # Szybko wygaszajace
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => domains
 4ur.click
 15b37.skroc.pl
 37.1.209.213
@@ -4462,9 +4467,11 @@ zbierajnagrody.bo.pl
 zcontentlocker7gpa8a.xyz
 zejrzyj-zdjecia.bo.pl
 zgarniij_vouchher.skroc.pl
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => domains
 #
 #
 # Przekrety
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => domains
 0b8cc331813049912.temporary.link
 0lx.group
 0pen.page
@@ -15064,9 +15071,11 @@ zwierzoszop.com
 zwrocsluch.site
 zyzlk.com
 z-kraju.co.pl
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => domains
 #
 #
 # Blogspot
+#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => domains
 5gb-internetu-pakiety.blogspot.com
 123musicblend.blogspot.com
 accelerationlife.blogspot.com
@@ -15609,6 +15618,7 @@ zmienkolorfejsazafree.blogspot.com
 zmien-motyw.blogspot.com
 zobaczktopodgladaa.blogspot.com
 zuzu-criss.blogspot.com
+#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => domains
 #
 #
 # Dodatki specjalne domenowe
