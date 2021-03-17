@@ -13,4 +13,4 @@ jobs:
               env:
                   GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
               run: |
-                  ./scripts/VICHS_auto.sh
+                  ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt

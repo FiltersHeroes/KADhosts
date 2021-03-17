@@ -6,7 +6,7 @@ jobs:
     working_directory: ~/git/KADhosts
     steps:
     - checkout
-    - run: ./scripts/VICHS_auto.sh
+    - run: ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
 workflows:
   version: 2
   workflow:
