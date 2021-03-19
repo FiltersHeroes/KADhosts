@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 18 Mar 2021, 20:04 UTC+01
-# Version: 2021.3.18.2
+# Last modified: Fri, 19 Mar 2021, 12:04 UTC+01
+# Version: 2021.3.19.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6004,6 +6004,8 @@
 0.0.0.0 gazeta-polska24.vdl.pl
 0.0.0.0 gazeta-polska24.99e.pl
 0.0.0.0 gazeta-potwierdz.co.pl
+0.0.0.0 gazeta-radom.xyz
+0.0.0.0 gazeta-sosnowiec.xyz
 0.0.0.0 gazetka24.laohost.net
 0.0.0.0 gazetkamazowsze.pl
 0.0.0.0 gazetkawarszawa.eu
@@ -6343,6 +6345,7 @@
 0.0.0.0 inpost.page
 0.0.0.0 inpost.pw
 0.0.0.0 inpost.services
+0.0.0.0 inpost.su
 0.0.0.0 inpost.surf
 0.0.0.0 inpost.tech
 0.0.0.0 inpost.us
@@ -6384,6 +6387,7 @@
 0.0.0.0 inpost.pl-deals.icu
 0.0.0.0 inpost.pl-deals.surf
 0.0.0.0 inpost.pl-dostawa.cyou
+0.0.0.0 inpost.pl-getcash.club
 0.0.0.0 inpost.pl-getcash.cyou
 0.0.0.0 inpost.pl-getcash.xyz
 0.0.0.0 inpost.pl-getdeal.casa
@@ -6434,10 +6438,13 @@
 0.0.0.0 inpost.pl-safedeals.xyz
 0.0.0.0 inpost.pl-safely.store
 0.0.0.0 inpost.pl-safely.work
+0.0.0.0 inpost.pl-safelypay.cyou
+0.0.0.0 inpost.pl-safelypay.xyz
 0.0.0.0 inpost.pl-safeorders.casa
 0.0.0.0 inpost.pl-safeorders.cyou
 0.0.0.0 inpost.pl-safeorders.store
 0.0.0.0 inpost.pl-safeorders.xyz
+0.0.0.0 inpost.pl-safepay.xyz
 0.0.0.0 inpost.pl-savecash.store
 0.0.0.0 inpost.pl-savedeal.work
 0.0.0.0 inpost.pl-savedealing.casa
@@ -6445,6 +6452,7 @@
 0.0.0.0 inpost.pl-savedeals.store
 0.0.0.0 inpost.pl-savedeals.work
 0.0.0.0 inpost.pl-savedeals.xyz
+0.0.0.0 inpost.pl-savemoney.xyz
 0.0.0.0 inpost.pl-saveorder.cyou
 0.0.0.0 inpost.pl-saveorder.icu
 0.0.0.0 inpost.pl-saveorder.work
@@ -6458,6 +6466,7 @@
 0.0.0.0 inpost.polska-dostawa.digital
 0.0.0.0 inpost.polska-dostawa.life
 0.0.0.0 inpost.polska-oferda.store
+0.0.0.0 inpost.polska-oferla.live
 0.0.0.0 inpost.polska-oferla.shop
 0.0.0.0 inpost.polsko-oferta.life
 0.0.0.0 inprost24.net
@@ -7620,6 +7629,7 @@
 0.0.0.0 olx.pay-id65473.me
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-getcash.club
 0.0.0.0 olx.pl-getordered.casa
 0.0.0.0 olx.pl-getordered.club
 0.0.0.0 olx.pl-getordered.cyou
@@ -7641,18 +7651,25 @@
 0.0.0.0 olx.pl-safedealing.cyou
 0.0.0.0 olx.pl-safedealing.work
 0.0.0.0 olx.pl-safedealing.xyz
+0.0.0.0 olx.pl-safelypay.cyou
+0.0.0.0 olx.pl-safelypay.xyz
 0.0.0.0 olx.pl-safeorders.casa
 0.0.0.0 olx.pl-safeorders.club
 0.0.0.0 olx.pl-safeorders.icu
 0.0.0.0 olx.pl-safeorders.surf
 0.0.0.0 olx.pl-safeorders.work
+0.0.0.0 olx.pl-safepay.xyz
+0.0.0.0 olx.pl-savecash.club
 0.0.0.0 olx.pl-savedealing.casa
 0.0.0.0 olx.pl-savedealing.store
 0.0.0.0 olx.pl-savedealing.surf
+0.0.0.0 olx.pl-savemoney.xyz
 0.0.0.0 olx.pl-saveorders.surf
 0.0.0.0 olx.pl-saveorders.xyz
 0.0.0.0 olx.pl-sms.surf
 0.0.0.0 olx.pl-smsinfo.surf
+0.0.0.0 olx.pl-sprzedaz.club
+0.0.0.0 olx.pl-sprzedaz.shop
 0.0.0.0 olx.pl-sprzedaz.xyz
 0.0.0.0 olx.pl.oferta-payment.biz
 0.0.0.0 olx.pl.oferta-payment.live
@@ -7662,6 +7679,7 @@
 0.0.0.0 olx.poland-ofer.online
 0.0.0.0 olx.poland-ofer.services
 0.0.0.0 olx.poland-orders.shop
+0.0.0.0 olx.polska-oferla.club
 0.0.0.0 olx.polska-oferla.shop
 0.0.0.0 olx.polsko-oferta.link
 0.0.0.0 olx.polsko-oferta.live
@@ -8276,6 +8294,7 @@
 0.0.0.0 poczta.pl-dostawa.life
 0.0.0.0 poczta.pl-dostawa.live
 0.0.0.0 poczta.pl-dostawa.shop
+0.0.0.0 poczta.pl-getcash.club
 0.0.0.0 poczta.pl-getcash.cyou
 0.0.0.0 poczta.pl-getcash.xyz
 0.0.0.0 poczta.pl-getdeals.store
@@ -8303,13 +8322,18 @@
 0.0.0.0 poczta.pl-safedeals.surf
 0.0.0.0 poczta.pl-safedeals.work
 0.0.0.0 poczta.pl-safely.store
+0.0.0.0 poczta.pl-safelypay.cyou
+0.0.0.0 poczta.pl-safelypay.xyz
+0.0.0.0 poczta.pl-safepay.xyz
 0.0.0.0 poczta.pl-safepayments.icu
 0.0.0.0 poczta.pl-safepayments.surf
 0.0.0.0 poczta.pl-safepayments.work
 0.0.0.0 poczta.pl-safeway.live
+0.0.0.0 poczta.pl-savecash.club
 0.0.0.0 poczta.pl-savedeals.store
 0.0.0.0 poczta.pl-savedeals.work
 0.0.0.0 poczta.pl-savedeals.xyz
+0.0.0.0 poczta.pl-savemoney.xyz
 0.0.0.0 poczta.pl-saveorder.icu
 0.0.0.0 poczta.pl-sms.surf
 0.0.0.0 poczta.pl-smsinfo.surf
@@ -9050,6 +9074,7 @@
 0.0.0.0 ssll-payu.com
 0.0.0.0 sslpayu.com
 0.0.0.0 sslplatnosc.online
+0.0.0.0 ssl-allegrro.net
 0.0.0.0 ssl-cert.pl
 0.0.0.0 sso-cloud-idea.at
 0.0.0.0 sso-cloud-idea.com
@@ -10866,6 +10891,7 @@
 0.0.0.0 www.inpost.page
 0.0.0.0 www.inpost.pw
 0.0.0.0 www.inpost.services
+0.0.0.0 www.inpost.su
 0.0.0.0 www.inpost.surf
 0.0.0.0 www.inpost.tech
 0.0.0.0 www.inpost.us
@@ -13305,6 +13331,8 @@
 0.0.0.0 www.gazeta-polska24.vdl.pl
 0.0.0.0 www.gazeta-polska24.99e.pl
 0.0.0.0 www.gazeta-potwierdz.co.pl
+0.0.0.0 www.gazeta-radom.xyz
+0.0.0.0 www.gazeta-sosnowiec.xyz
 0.0.0.0 www.gdynia-fakt24.pl
 0.0.0.0 www.generuj-kod.me
 0.0.0.0 www.getin-secure.com.pl
@@ -13435,6 +13463,7 @@
 0.0.0.0 www.inpost.pl-deals.icu
 0.0.0.0 www.inpost.pl-deals.surf
 0.0.0.0 www.inpost.pl-dostawa.cyou
+0.0.0.0 www.inpost.pl-getcash.club
 0.0.0.0 www.inpost.pl-getcash.cyou
 0.0.0.0 www.inpost.pl-getcash.xyz
 0.0.0.0 www.inpost.pl-getdeal.casa
@@ -13485,10 +13514,13 @@
 0.0.0.0 www.inpost.pl-safedeals.xyz
 0.0.0.0 www.inpost.pl-safely.store
 0.0.0.0 www.inpost.pl-safely.work
+0.0.0.0 www.inpost.pl-safelypay.cyou
+0.0.0.0 www.inpost.pl-safelypay.xyz
 0.0.0.0 www.inpost.pl-safeorders.casa
 0.0.0.0 www.inpost.pl-safeorders.cyou
 0.0.0.0 www.inpost.pl-safeorders.store
 0.0.0.0 www.inpost.pl-safeorders.xyz
+0.0.0.0 www.inpost.pl-safepay.xyz
 0.0.0.0 www.inpost.pl-savecash.store
 0.0.0.0 www.inpost.pl-savedeal.work
 0.0.0.0 www.inpost.pl-savedealing.casa
@@ -13496,6 +13528,7 @@
 0.0.0.0 www.inpost.pl-savedeals.store
 0.0.0.0 www.inpost.pl-savedeals.work
 0.0.0.0 www.inpost.pl-savedeals.xyz
+0.0.0.0 www.inpost.pl-savemoney.xyz
 0.0.0.0 www.inpost.pl-saveorder.cyou
 0.0.0.0 www.inpost.pl-saveorder.icu
 0.0.0.0 www.inpost.pl-saveorder.work
@@ -13509,6 +13542,7 @@
 0.0.0.0 www.inpost.polska-dostawa.digital
 0.0.0.0 www.inpost.polska-dostawa.life
 0.0.0.0 www.inpost.polska-oferda.store
+0.0.0.0 www.inpost.polska-oferla.live
 0.0.0.0 www.inpost.polska-oferla.shop
 0.0.0.0 www.inpost.polsko-oferta.life
 0.0.0.0 www.instagramverification-center.com
@@ -14015,6 +14049,7 @@
 0.0.0.0 www.olx.pay-id65473.me
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-getcash.club
 0.0.0.0 www.olx.pl-getordered.casa
 0.0.0.0 www.olx.pl-getordered.club
 0.0.0.0 www.olx.pl-getordered.cyou
@@ -14036,18 +14071,25 @@
 0.0.0.0 www.olx.pl-safedealing.cyou
 0.0.0.0 www.olx.pl-safedealing.work
 0.0.0.0 www.olx.pl-safedealing.xyz
+0.0.0.0 www.olx.pl-safelypay.cyou
+0.0.0.0 www.olx.pl-safelypay.xyz
 0.0.0.0 www.olx.pl-safeorders.casa
 0.0.0.0 www.olx.pl-safeorders.club
 0.0.0.0 www.olx.pl-safeorders.icu
 0.0.0.0 www.olx.pl-safeorders.surf
 0.0.0.0 www.olx.pl-safeorders.work
+0.0.0.0 www.olx.pl-safepay.xyz
+0.0.0.0 www.olx.pl-savecash.club
 0.0.0.0 www.olx.pl-savedealing.casa
 0.0.0.0 www.olx.pl-savedealing.store
 0.0.0.0 www.olx.pl-savedealing.surf
+0.0.0.0 www.olx.pl-savemoney.xyz
 0.0.0.0 www.olx.pl-saveorders.surf
 0.0.0.0 www.olx.pl-saveorders.xyz
 0.0.0.0 www.olx.pl-sms.surf
 0.0.0.0 www.olx.pl-smsinfo.surf
+0.0.0.0 www.olx.pl-sprzedaz.club
+0.0.0.0 www.olx.pl-sprzedaz.shop
 0.0.0.0 www.olx.pl-sprzedaz.xyz
 0.0.0.0 www.olx.pl.oferta-payment.biz
 0.0.0.0 www.olx.pl.oferta-payment.live
@@ -14057,6 +14099,7 @@
 0.0.0.0 www.olx.poland-ofer.online
 0.0.0.0 www.olx.poland-ofer.services
 0.0.0.0 www.olx.poland-orders.shop
+0.0.0.0 www.olx.polska-oferla.club
 0.0.0.0 www.olx.polska-oferla.shop
 0.0.0.0 www.olx.polsko-oferta.link
 0.0.0.0 www.olx.polsko-oferta.live
@@ -14320,6 +14363,7 @@
 0.0.0.0 www.poczta.pl-dostawa.life
 0.0.0.0 www.poczta.pl-dostawa.live
 0.0.0.0 www.poczta.pl-dostawa.shop
+0.0.0.0 www.poczta.pl-getcash.club
 0.0.0.0 www.poczta.pl-getcash.cyou
 0.0.0.0 www.poczta.pl-getcash.xyz
 0.0.0.0 www.poczta.pl-getdeals.store
@@ -14347,13 +14391,18 @@
 0.0.0.0 www.poczta.pl-safedeals.surf
 0.0.0.0 www.poczta.pl-safedeals.work
 0.0.0.0 www.poczta.pl-safely.store
+0.0.0.0 www.poczta.pl-safelypay.cyou
+0.0.0.0 www.poczta.pl-safelypay.xyz
+0.0.0.0 www.poczta.pl-safepay.xyz
 0.0.0.0 www.poczta.pl-safepayments.icu
 0.0.0.0 www.poczta.pl-safepayments.surf
 0.0.0.0 www.poczta.pl-safepayments.work
 0.0.0.0 www.poczta.pl-safeway.live
+0.0.0.0 www.poczta.pl-savecash.club
 0.0.0.0 www.poczta.pl-savedeals.store
 0.0.0.0 www.poczta.pl-savedeals.work
 0.0.0.0 www.poczta.pl-savedeals.xyz
+0.0.0.0 www.poczta.pl-savemoney.xyz
 0.0.0.0 www.poczta.pl-saveorder.icu
 0.0.0.0 www.poczta.pl-sms.surf
 0.0.0.0 www.poczta.pl-smsinfo.surf
@@ -14658,6 +14707,7 @@
 0.0.0.0 www.sprzedaz-nr-497417.in.net
 0.0.0.0 www.sprzedaz-nr-940031.in.net
 0.0.0.0 www.ssll-payu.com
+0.0.0.0 www.ssl-allegrro.net
 0.0.0.0 www.ssl-cert.pl
 0.0.0.0 www.sso-cloud-idea.at
 0.0.0.0 www.sso-cloud-idea.com
