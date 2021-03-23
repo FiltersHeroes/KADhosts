@@ -1,16 +1,16 @@
 name: Aktualizacja listy
 
 on:
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-    Aktualizacja:
-        runs-on: ubuntu-latest
-        container: polishfiltersteam/vichs_image:latest
-        steps:
-            - uses: actions/checkout@v2
-            - name: Aktualizacja całej listy
-              env:
-                  GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-              run: |
-                  ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+  Aktualizacja:
+    runs-on: ubuntu-latest
+    container: polishfiltersteam/vichs_image:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Aktualizacja całej listy
+        env:
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: |
+          ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
