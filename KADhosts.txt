@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 27 Mar 2021, 16:04 UTC+01
-# Version: 2021.3.27.1
+# Last modified: Sun, 28 Mar 2021, 13:04 UTC+02
+# Version: 2021.3.28.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6249,6 +6249,7 @@
 0.0.0.0 inpost.pl-ordered.work
 0.0.0.0 inpost.pl-ordered.xyz
 0.0.0.0 inpost.pl-post.club
+0.0.0.0 inpost.pl-posta.casa
 0.0.0.0 inpost.pl-receive.cyou
 0.0.0.0 inpost.pl-receive.store
 0.0.0.0 inpost.pl-receive.work
@@ -6298,6 +6299,7 @@
 0.0.0.0 inpost.pl-savepost.surf
 0.0.0.0 inpost.pl-savepost.work
 0.0.0.0 inpost.pl-savepost.xyz
+0.0.0.0 inpost.pl-saveposta.icu
 0.0.0.0 inpost.pl-saveposta.store
 0.0.0.0 inpost.pl-saveposta.surf
 0.0.0.0 inpost.pl-saveposta.work
@@ -6464,6 +6466,7 @@
 0.0.0.0 kaszubskidomek.pl
 0.0.0.0 katallog.pl
 0.0.0.0 katastrofa.eu
+0.0.0.0 kazdyjakoszaczyna.online
 0.0.0.0 kazdymozepomocitv.club
 0.0.0.0 kebhbn.com
 0.0.0.0 kedzierzyn-kozle.tonasze-miasto.co.pl
@@ -7564,6 +7567,7 @@
 0.0.0.0 olx.pl-posta.work
 0.0.0.0 olx.pl-posta.xyz
 0.0.0.0 olx.pl-produkty.shop
+0.0.0.0 olx.pl-safelypost.casa
 0.0.0.0 olx.pl-safepost.icu
 0.0.0.0 olx.pl-safepost.surf
 0.0.0.0 olx.pl-safeposta.club
@@ -7897,6 +7901,7 @@
 0.0.0.0 pay29-olx.pl
 0.0.0.0 pay30-olx.pl
 0.0.0.0 pay31-olx.pl
+0.0.0.0 pay32-olx.pl
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
 0.0.0.0 payments-allegro.me
@@ -9543,6 +9548,7 @@
 0.0.0.0 weryfikacja-kosmetyczki.biz
 0.0.0.0 weryfikacja-kosmetyczki.com
 0.0.0.0 weryfikacja-paczki.in.net
+0.0.0.0 weryfikacja-paczki-24.xyz
 0.0.0.0 weryfikacja-weryfikacja.pl
 0.0.0.0 weryfikujemy.tk
 0.0.0.0 weryfikuj-wynik.eu
@@ -11038,6 +11044,7 @@
 0.0.0.0 www.kaszubskidomek.pl
 0.0.0.0 www.katallog.pl
 0.0.0.0 www.katastrofa.eu
+0.0.0.0 www.kazdyjakoszaczyna.online
 0.0.0.0 www.kazdymozepomocitv.club
 0.0.0.0 www.kebhbn.com
 0.0.0.0 www.kekuko.com
@@ -13689,6 +13696,7 @@
 0.0.0.0 www.inpost.pl-ordered.work
 0.0.0.0 www.inpost.pl-ordered.xyz
 0.0.0.0 www.inpost.pl-post.club
+0.0.0.0 www.inpost.pl-posta.casa
 0.0.0.0 www.inpost.pl-receive.cyou
 0.0.0.0 www.inpost.pl-receive.store
 0.0.0.0 www.inpost.pl-receive.work
@@ -13738,6 +13746,7 @@
 0.0.0.0 www.inpost.pl-savepost.surf
 0.0.0.0 www.inpost.pl-savepost.work
 0.0.0.0 www.inpost.pl-savepost.xyz
+0.0.0.0 www.inpost.pl-saveposta.icu
 0.0.0.0 www.inpost.pl-saveposta.store
 0.0.0.0 www.inpost.pl-saveposta.surf
 0.0.0.0 www.inpost.pl-saveposta.work
@@ -14304,6 +14313,7 @@
 0.0.0.0 www.olx.pl-posta.work
 0.0.0.0 www.olx.pl-posta.xyz
 0.0.0.0 www.olx.pl-produkty.shop
+0.0.0.0 www.olx.pl-safelypost.casa
 0.0.0.0 www.olx.pl-safepost.icu
 0.0.0.0 www.olx.pl-safepost.surf
 0.0.0.0 www.olx.pl-safeposta.club
@@ -14481,6 +14491,7 @@
 0.0.0.0 www.pay29-olx.pl
 0.0.0.0 www.pay30-olx.pl
 0.0.0.0 www.pay31-olx.pl
+0.0.0.0 www.pay32-olx.pl
 0.0.0.0 www.payment24-online.org
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.payment-olx.pl
@@ -15151,6 +15162,7 @@
 0.0.0.0 www.weryfikacja-kosmetyczki.biz
 0.0.0.0 www.weryfikacja-kosmetyczki.com
 0.0.0.0 www.weryfikacja-paczki.in.net
+0.0.0.0 www.weryfikacja-paczki-24.xyz
 0.0.0.0 www.weryfikacja-weryfikacja.pl
 0.0.0.0 www.weryfikuj-wynik.eu
 0.0.0.0 www.wiadomosci24-live.eu
@@ -15309,6 +15321,7 @@
 0.0.0.0 www.zrzadzenie-losu.eu
 0.0.0.0 www.zweryfikuj-paczke.xyz
 0.0.0.0 www.zweryfikuj-platnosc.in.net
+0.0.0.0 www.zweryflkuj-platnosc24.xyz
 0.0.0.0 www.zwieksz-rozmiar.com
 0.0.0.0 www.z-kraju.co.pl
 0.0.0.0 wx-xcx.xyz
@@ -15521,6 +15534,7 @@
 0.0.0.0 zweryfikujmojekontoowa.moonfruit.com
 0.0.0.0 zweryfikuj-paczke.xyz
 0.0.0.0 zweryfikuj-platnosc.in.net
+0.0.0.0 zweryflkuj-platnosc24.xyz
 0.0.0.0 zwieksz-rozmiar.com
 0.0.0.0 zwierzoszop.com
 0.0.0.0 zwrocsluch.site
