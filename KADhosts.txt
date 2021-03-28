@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 28 Mar 2021, 13:04 UTC+02
-# Version: 2021.3.28.0
+# Last modified: Sun, 28 Mar 2021, 17:04 UTC+02
+# Version: 2021.3.28.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6588,6 +6588,7 @@
 0.0.0.0 kurier-naieznosc.host
 0.0.0.0 kurier-naleznosc.in.net
 0.0.0.0 kurier-naleznosc.life
+0.0.0.0 kurier-oczekuiacy.in.net
 0.0.0.0 kurier-platnosci.services
 0.0.0.0 kurier-pocztex24.com
 0.0.0.0 kurjerzy-pl.cyou
@@ -7568,6 +7569,7 @@
 0.0.0.0 olx.pl-posta.xyz
 0.0.0.0 olx.pl-produkty.shop
 0.0.0.0 olx.pl-safelypost.casa
+0.0.0.0 olx.pl-safelypost.store
 0.0.0.0 olx.pl-safepost.icu
 0.0.0.0 olx.pl-safepost.surf
 0.0.0.0 olx.pl-safeposta.club
@@ -8269,6 +8271,7 @@
 0.0.0.0 poczta.pl-safely.store
 0.0.0.0 poczta.pl-safelypay.cyou
 0.0.0.0 poczta.pl-safelypay.xyz
+0.0.0.0 poczta.pl-safelypost.surf
 0.0.0.0 poczta.pl-safepay.xyz
 0.0.0.0 poczta.pl-safepayments.icu
 0.0.0.0 poczta.pl-safepayments.surf
@@ -13845,6 +13848,7 @@
 0.0.0.0 www.kurier-naieznosc.host
 0.0.0.0 www.kurier-naleznosc.in.net
 0.0.0.0 www.kurier-naleznosc.life
+0.0.0.0 www.kurier-oczekuiacy.in.net
 0.0.0.0 www.kurier-platnosci.services
 0.0.0.0 www.kurier-pocztex24.com
 0.0.0.0 www.kurjerzy-pl.cyou
@@ -14314,6 +14318,7 @@
 0.0.0.0 www.olx.pl-posta.xyz
 0.0.0.0 www.olx.pl-produkty.shop
 0.0.0.0 www.olx.pl-safelypost.casa
+0.0.0.0 www.olx.pl-safelypost.store
 0.0.0.0 www.olx.pl-safepost.icu
 0.0.0.0 www.olx.pl-safepost.surf
 0.0.0.0 www.olx.pl-safeposta.club
@@ -14656,6 +14661,7 @@
 0.0.0.0 www.poczta.pl-safely.store
 0.0.0.0 www.poczta.pl-safelypay.cyou
 0.0.0.0 www.poczta.pl-safelypay.xyz
+0.0.0.0 www.poczta.pl-safelypost.surf
 0.0.0.0 www.poczta.pl-safepay.xyz
 0.0.0.0 www.poczta.pl-safepayments.icu
 0.0.0.0 www.poczta.pl-safepayments.surf
@@ -15292,6 +15298,7 @@
 0.0.0.0 www.zapiski-petycji.eu
 0.0.0.0 www.zapisy-akceptuj.eu
 0.0.0.0 www.zapisz-kompendium.eu
+0.0.0.0 www.zaplac-paczkomat24.xyz
 0.0.0.0 www.zaplac-teraz.live
 0.0.0.0 www.zaplac-teraz-24.site
 0.0.0.0 www.zaplac-za-paczke.space
@@ -15467,6 +15474,7 @@
 0.0.0.0 zapisy.fractaltrader.pl
 0.0.0.0 zapisy-akceptuj.eu
 0.0.0.0 zapisz-kompendium.eu
+0.0.0.0 zaplac-paczkomat24.xyz
 0.0.0.0 zaplac-teraz.live
 0.0.0.0 zaplac-teraz-24.site
 0.0.0.0 zaplac-za-paczke.space
