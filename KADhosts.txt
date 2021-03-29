@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 29 Mar 2021, 13:04 UTC+02
-# Version: 2021.3.29.0
+# Last modified: Mon, 29 Mar 2021, 17:04 UTC+02
+# Version: 2021.3.29.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6103,6 +6103,7 @@
 0.0.0.0 informacjeczestochowa.xyz
 0.0.0.0 informacjegdansk.xyz
 0.0.0.0 informacjekielce.xyz
+0.0.0.0 informacjeopole.xyz
 0.0.0.0 informacjepolakow.online
 0.0.0.0 informacjepolska.you2.pl
 0.0.0.0 informacjezkraju.eu
@@ -6254,6 +6255,8 @@
 0.0.0.0 inpost.pl-getpayed.icu
 0.0.0.0 inpost.pl-getpost.casa
 0.0.0.0 inpost.pl-getpost.xyz
+0.0.0.0 inpost.pl-getposts.club
+0.0.0.0 inpost.pl-getposts.icu
 0.0.0.0 inpost.pl-oferta.cyou
 0.0.0.0 inpost.pl-oferta.surf
 0.0.0.0 inpost.pl-ordered.casa
@@ -6263,6 +6266,10 @@
 0.0.0.0 inpost.pl-ordered.xyz
 0.0.0.0 inpost.pl-post.club
 0.0.0.0 inpost.pl-posta.casa
+0.0.0.0 inpost.pl-posts.casa
+0.0.0.0 inpost.pl-posts.club
+0.0.0.0 inpost.pl-posts.cyou
+0.0.0.0 inpost.pl-posts.store
 0.0.0.0 inpost.pl-receive.cyou
 0.0.0.0 inpost.pl-receive.store
 0.0.0.0 inpost.pl-receive.work
@@ -7483,6 +7490,7 @@
 0.0.0.0 olx-pl.pay-id74553.me
 0.0.0.0 olx-pl.pay-secure.com.ru
 0.0.0.0 olx-pl.pxd-pay.online
+0.0.0.0 olx-pl.rich-pay.online
 0.0.0.0 olx-pl.secure-code.site
 0.0.0.0 olx-pl.track-pay.info
 0.0.0.0 olx-poland.site
@@ -7568,6 +7576,8 @@
 0.0.0.0 olx.pl-getpost.club
 0.0.0.0 olx.pl-getpost.cyou
 0.0.0.0 olx.pl-getpost.work
+0.0.0.0 olx.pl-getposts.club
+0.0.0.0 olx.pl-getposts.icu
 0.0.0.0 olx.pl-id295982.me
 0.0.0.0 olx.pl-id1616242901.site
 0.0.0.0 olx.pl-id1616242902.site
@@ -7614,6 +7624,7 @@
 0.0.0.0 olx.pl-sklep.live
 0.0.0.0 olx.pl-sklep.xyz
 0.0.0.0 olx.pl-sprzedaz.shop
+0.0.0.0 olx.pl-weryfikacja.life
 0.0.0.0 olx.pl.oferta-payment.art
 0.0.0.0 olx.pl.oferta-payment.biz
 0.0.0.0 olx.pl.oferta-payment.design
@@ -7628,10 +7639,14 @@
 0.0.0.0 olx.poland-ofer.online
 0.0.0.0 olx.poland-ofer.services
 0.0.0.0 olx.poland-orders.shop
+0.0.0.0 olx.polka-oferta.work
 0.0.0.0 olx.polska-dastawka.casa
 0.0.0.0 olx.polska-dastawka.pro
 0.0.0.0 olx.polska-dastawka.store
 0.0.0.0 olx.polska-dastawka.work
+0.0.0.0 olx.polska-dostawka.club
+0.0.0.0 olx.polska-dostawka.live
+0.0.0.0 olx.polska-dostawka.xyz
 0.0.0.0 olx.polska-oferla.club
 0.0.0.0 olx.polska-oferla.link
 0.0.0.0 olx.polska-oferla.shop
@@ -8179,6 +8194,7 @@
 0.0.0.0 pl-przelewy.info
 0.0.0.0 pl-univest.life
 0.0.0.0 pl-wejscie.shop
+0.0.0.0 pl-weryfikacja.world
 0.0.0.0 pl-wyslij.best
 0.0.0.0 pl-wyslij.club
 0.0.0.0 pl-znajdziemy53.online
@@ -8282,10 +8298,18 @@
 0.0.0.0 poczta.pl-getordered.cyou
 0.0.0.0 poczta.pl-getordered.xyz
 0.0.0.0 poczta.pl-getorders.casa
+0.0.0.0 poczta.pl-getposts.club
+0.0.0.0 poczta.pl-getposts.icu
 0.0.0.0 poczta.pl-ordered.casa
 0.0.0.0 poczta.pl-ordered.icu
 0.0.0.0 poczta.pl-ordered.work
 0.0.0.0 poczta.pl-ordered.xyz
+0.0.0.0 poczta.pl-posts.casa
+0.0.0.0 poczta.pl-posts.club
+0.0.0.0 poczta.pl-posts.cyou
+0.0.0.0 poczta.pl-posts.store
+0.0.0.0 poczta.pl-posts.work
+0.0.0.0 poczta.pl-posts.xyz
 0.0.0.0 poczta.pl-receive.cyou
 0.0.0.0 poczta.pl-receive.store
 0.0.0.0 poczta.pl-receive.work
@@ -8810,6 +8834,7 @@
 0.0.0.0 safe-dellivery.info
 0.0.0.0 safe-dellivery.name
 0.0.0.0 safe-dellivery.org
+0.0.0.0 safe-dellivery.store
 0.0.0.0 safe-olxpln.xyz
 0.0.0.0 safe-pay.info
 0.0.0.0 salomonpl.pl
@@ -10925,6 +10950,7 @@
 0.0.0.0 www.informacjeczestochowa.xyz
 0.0.0.0 www.informacjegdansk.xyz
 0.0.0.0 www.informacjekielce.xyz
+0.0.0.0 www.informacjeopole.xyz
 0.0.0.0 www.informacjepolakow.online
 0.0.0.0 www.informacjepolska.you2.pl
 0.0.0.0 www.informacjezkraju.eu
@@ -13738,6 +13764,8 @@
 0.0.0.0 www.inpost.pl-getpayed.icu
 0.0.0.0 www.inpost.pl-getpost.casa
 0.0.0.0 www.inpost.pl-getpost.xyz
+0.0.0.0 www.inpost.pl-getposts.club
+0.0.0.0 www.inpost.pl-getposts.icu
 0.0.0.0 www.inpost.pl-oferta.cyou
 0.0.0.0 www.inpost.pl-oferta.surf
 0.0.0.0 www.inpost.pl-ordered.casa
@@ -13747,6 +13775,10 @@
 0.0.0.0 www.inpost.pl-ordered.xyz
 0.0.0.0 www.inpost.pl-post.club
 0.0.0.0 www.inpost.pl-posta.casa
+0.0.0.0 www.inpost.pl-posts.casa
+0.0.0.0 www.inpost.pl-posts.club
+0.0.0.0 www.inpost.pl-posts.cyou
+0.0.0.0 www.inpost.pl-posts.store
 0.0.0.0 www.inpost.pl-receive.cyou
 0.0.0.0 www.inpost.pl-receive.store
 0.0.0.0 www.inpost.pl-receive.work
@@ -14264,6 +14296,7 @@
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.olx-pl.pay-secure.com.ru
 0.0.0.0 www.olx-pl.pxd-pay.online
+0.0.0.0 www.olx-pl.rich-pay.online
 0.0.0.0 www.olx-pl.secure-code.site
 0.0.0.0 www.olx-pl.track-pay.info
 0.0.0.0 www.olx-poland.site
@@ -14349,6 +14382,8 @@
 0.0.0.0 www.olx.pl-getpost.club
 0.0.0.0 www.olx.pl-getpost.cyou
 0.0.0.0 www.olx.pl-getpost.work
+0.0.0.0 www.olx.pl-getposts.club
+0.0.0.0 www.olx.pl-getposts.icu
 0.0.0.0 www.olx.pl-id295982.me
 0.0.0.0 www.olx.pl-id1616242901.site
 0.0.0.0 www.olx.pl-id1616242902.site
@@ -14395,6 +14430,7 @@
 0.0.0.0 www.olx.pl-sklep.live
 0.0.0.0 www.olx.pl-sklep.xyz
 0.0.0.0 www.olx.pl-sprzedaz.shop
+0.0.0.0 www.olx.pl-weryfikacja.life
 0.0.0.0 www.olx.pl.oferta-payment.art
 0.0.0.0 www.olx.pl.oferta-payment.biz
 0.0.0.0 www.olx.pl.oferta-payment.design
@@ -14409,10 +14445,14 @@
 0.0.0.0 www.olx.poland-ofer.online
 0.0.0.0 www.olx.poland-ofer.services
 0.0.0.0 www.olx.poland-orders.shop
+0.0.0.0 www.olx.polka-oferta.work
 0.0.0.0 www.olx.polska-dastawka.casa
 0.0.0.0 www.olx.polska-dastawka.pro
 0.0.0.0 www.olx.polska-dastawka.store
 0.0.0.0 www.olx.polska-dastawka.work
+0.0.0.0 www.olx.polska-dostawka.club
+0.0.0.0 www.olx.polska-dostawka.live
+0.0.0.0 www.olx.polska-dostawka.xyz
 0.0.0.0 www.olx.polska-oferla.club
 0.0.0.0 www.olx.polska-oferla.link
 0.0.0.0 www.olx.polska-oferla.shop
@@ -14655,6 +14695,7 @@
 0.0.0.0 www.pl-przelewy.info
 0.0.0.0 www.pl-univest.life
 0.0.0.0 www.pl-wejscie.shop
+0.0.0.0 www.pl-weryfikacja.world
 0.0.0.0 www.pl-wyslij.best
 0.0.0.0 www.pl-wyslij.club
 0.0.0.0 www.pl-znajdziemy53.online
@@ -14704,10 +14745,18 @@
 0.0.0.0 www.poczta.pl-getordered.cyou
 0.0.0.0 www.poczta.pl-getordered.xyz
 0.0.0.0 www.poczta.pl-getorders.casa
+0.0.0.0 www.poczta.pl-getposts.club
+0.0.0.0 www.poczta.pl-getposts.icu
 0.0.0.0 www.poczta.pl-ordered.casa
 0.0.0.0 www.poczta.pl-ordered.icu
 0.0.0.0 www.poczta.pl-ordered.work
 0.0.0.0 www.poczta.pl-ordered.xyz
+0.0.0.0 www.poczta.pl-posts.casa
+0.0.0.0 www.poczta.pl-posts.club
+0.0.0.0 www.poczta.pl-posts.cyou
+0.0.0.0 www.poczta.pl-posts.store
+0.0.0.0 www.poczta.pl-posts.work
+0.0.0.0 www.poczta.pl-posts.xyz
 0.0.0.0 www.poczta.pl-receive.cyou
 0.0.0.0 www.poczta.pl-receive.store
 0.0.0.0 www.poczta.pl-receive.work
@@ -14945,6 +14994,7 @@
 0.0.0.0 www.safe-dellivery.info
 0.0.0.0 www.safe-dellivery.name
 0.0.0.0 www.safe-dellivery.org
+0.0.0.0 www.safe-dellivery.store
 0.0.0.0 www.safe-olxpln.xyz
 0.0.0.0 www.safe-pay.info
 0.0.0.0 www.sami-oceniamy.eu
