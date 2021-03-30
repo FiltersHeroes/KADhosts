@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 30 Mar 2021, 13:04 UTC+02
-# Version: 2021.3.30.0
+# Last modified: Tue, 30 Mar 2021, 17:04 UTC+02
+# Version: 2021.3.30.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1681,6 +1681,7 @@
 0.0.0.0 veclaim.com
 0.0.0.0 vegatestsklep.pl
 0.0.0.0 vegeella.pl
+0.0.0.0 vejapolska.pl
 0.0.0.0 veltocars.com.pl
 0.0.0.0 verifycaptcha.com
 0.0.0.0 versalka.pl
@@ -3186,6 +3187,7 @@
 0.0.0.0 www.veclaim.com
 0.0.0.0 www.vegatestsklep.pl
 0.0.0.0 www.vegeella.pl
+0.0.0.0 www.vejapolska.pl
 0.0.0.0 www.veltocars.com.pl
 0.0.0.0 www.verifycaptcha.com
 0.0.0.0 www.versalka.pl
@@ -4450,6 +4452,7 @@
 0.0.0.0 allegro-pl.online
 0.0.0.0 allegro-pl-7e2a33.ingress-daribow.easywp.com
 0.0.0.0 allegro-raty.net
+0.0.0.0 allegro.3dspayments.com
 0.0.0.0 allekurier.miami
 0.0.0.0 allianzmarket.com
 0.0.0.0 alliegro.pl
@@ -7260,6 +7263,7 @@
 0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-b.com
 0.0.0.0 olx-b.pl
+0.0.0.0 olx-banking.ac
 0.0.0.0 olx-banking.app
 0.0.0.0 olx-banking.me
 0.0.0.0 olx-banking.page
@@ -7451,9 +7455,13 @@
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-getposts.xyz
 0.0.0.0 olx.pl-id1616950803.site
+0.0.0.0 olx.pl-info.site
 0.0.0.0 olx.pl-ofert0.casa
+0.0.0.0 olx.pl-ofert0.icu
 0.0.0.0 olx.pl-potwierdzenie.club
 0.0.0.0 olx.pl-potwierdzenie.live
+0.0.0.0 olx.pl-safeway.work
+0.0.0.0 olx.pl.oferta-payment.surf
 0.0.0.0 olx.poland-ofer.cc
 0.0.0.0 olx.poland-ofer.me
 0.0.0.0 olx.poland-ofer.online
@@ -8233,6 +8241,7 @@
 0.0.0.0 polityka-bez-cenzury.you2.pl
 0.0.0.0 polonia-pl.com
 0.0.0.0 poloralphlaurenpoland.pl
+0.0.0.0 polsh.in
 0.0.0.0 polska.wiwi.dev
 0.0.0.0 polska24.com.pl
 0.0.0.0 polska24.dkonto.pl
@@ -8654,7 +8663,9 @@
 0.0.0.0 s88.vdl.pl
 0.0.0.0 sabiosdelamor.co
 0.0.0.0 safedealpln.link
+0.0.0.0 safedeliveryypl.shop
 0.0.0.0 safetrade365.com
+0.0.0.0 safety-dellivery.com
 0.0.0.0 safety-dellivery.online
 0.0.0.0 safety-dellivery.site
 0.0.0.0 safety-dostaw.com
@@ -11898,6 +11909,7 @@
 0.0.0.0 www.politykaprywatnosci.live
 0.0.0.0 www.politykaprywatnosci.org
 0.0.0.0 www.poloralphlaurenpoland.pl
+0.0.0.0 www.polsh.in
 0.0.0.0 www.polska24info.dkonto.pl
 0.0.0.0 www.polska24poszukiwani.dkonto.pl
 0.0.0.0 www.polska24.com.pl
@@ -12153,6 +12165,7 @@
 0.0.0.0 www.s88.vdl.pl
 0.0.0.0 www.sabiosdelamor.co
 0.0.0.0 www.safedealpln.link
+0.0.0.0 www.safedeliveryypl.shop
 0.0.0.0 www.safetrade365.com
 0.0.0.0 www.salomonpl.pl
 0.0.0.0 www.salonfilmowy.pl
@@ -12986,6 +12999,7 @@
 0.0.0.0 www.allegro-pl.online
 0.0.0.0 www.allegro-pl-7e2a33.ingress-daribow.easywp.com
 0.0.0.0 www.allegro-raty.net
+0.0.0.0 www.allegro.3dspayments.com
 0.0.0.0 www.all-player.pl
 0.0.0.0 www.amazone-protectionrl8up8e6tcdfaiwzrvgp.com
 0.0.0.0 www.amex-financials.com
@@ -13907,6 +13921,7 @@
 0.0.0.0 www.olxpoland.delivery-z.me
 0.0.0.0 www.olx-b.com
 0.0.0.0 www.olx-b.pl
+0.0.0.0 www.olx-banking.ac
 0.0.0.0 www.olx-banking.app
 0.0.0.0 www.olx-banking.me
 0.0.0.0 www.olx-banking.page
@@ -14098,9 +14113,13 @@
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-getposts.xyz
 0.0.0.0 www.olx.pl-id1616950803.site
+0.0.0.0 www.olx.pl-info.site
 0.0.0.0 www.olx.pl-ofert0.casa
+0.0.0.0 www.olx.pl-ofert0.icu
 0.0.0.0 www.olx.pl-potwierdzenie.club
 0.0.0.0 www.olx.pl-potwierdzenie.live
+0.0.0.0 www.olx.pl-safeway.work
+0.0.0.0 www.olx.pl.oferta-payment.surf
 0.0.0.0 www.olx.poland-ofer.cc
 0.0.0.0 www.olx.poland-ofer.me
 0.0.0.0 www.olx.poland-ofer.online
@@ -14651,6 +14670,7 @@
 0.0.0.0 www.run-germany.com
 0.0.0.0 www.rywalizacja-ludzi.eu
 0.0.0.0 www.s8powazkowska-modlinska.pl
+0.0.0.0 www.safety-dellivery.com
 0.0.0.0 www.safety-dellivery.online
 0.0.0.0 www.safety-dellivery.site
 0.0.0.0 www.safety-dostaw.com
@@ -15055,6 +15075,7 @@
 0.0.0.0 www.your-datingspot-here.com
 0.0.0.0 www.your-movies.pl
 0.0.0.0 www.yrehrher.001www.com
+0.0.0.0 www.yuan-online.com
 0.0.0.0 www.zacznij-prace.co.pl
 0.0.0.0 www.zadecyduj-ustalaj.eu
 0.0.0.0 www.zaginiony-24.eu
@@ -15217,6 +15238,7 @@
 0.0.0.0 your-datingspot-here.com
 0.0.0.0 your-movies.pl
 0.0.0.0 yrehrher.001www.com
+0.0.0.0 yuan-online.com
 0.0.0.0 yuppipuppy.com
 0.0.0.0 z0o.cc
 0.0.0.0 za10groszy.pl
