@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 01 Apr 2021, 13:04 UTC+02
-# Version: 2021.4.1.0
+# Last modified: Thu, 01 Apr 2021, 17:04 UTC+02
+# Version: 2021.4.1.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4714,6 +4714,7 @@
 0.0.0.0 biznesoweinfo.miasta.pl
 0.0.0.0 blablacar.media
 0.0.0.0 blablacar-pay.cc
+0.0.0.0 blablacar-pay.pl
 0.0.0.0 blablocar-pl.site
 0.0.0.0 blackstone500.com
 0.0.0.0 blankiet-wspieraj.eu
@@ -5758,6 +5759,7 @@
 0.0.0.0 fxtime.io
 0.0.0.0 g0o.cc
 0.0.0.0 g0o.me
+0.0.0.0 g0o.org
 0.0.0.0 g0oo.me
 0.0.0.0 gackokurier.com
 0.0.0.0 gaczynski.pl
@@ -6224,6 +6226,7 @@
 0.0.0.0 inpost.orders-pls.live
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.order-pl.store
+0.0.0.0 inpost.pay-pl.site
 0.0.0.0 inpost.pl-getpayment.casa
 0.0.0.0 inpost.pl-getpayment.club
 0.0.0.0 inpost.pl-getpayment.cyou
@@ -7495,14 +7498,19 @@
 0.0.0.0 olx.pl-getpayment.icu
 0.0.0.0 olx.pl-getpayment.xyz
 0.0.0.0 olx.pl-getpayments.casa
+0.0.0.0 olx.pl-getpayments.club
+0.0.0.0 olx.pl-getpayments.cyou
 0.0.0.0 olx.pl-getpayments.icu
 0.0.0.0 olx.pl-getpayments.surf
+0.0.0.0 olx.pl-getpayments.work
 0.0.0.0 olx.pl-getpayments.xyz
 0.0.0.0 olx.pl-getposts.xyz
+0.0.0.0 olx.pl-id831733.me
 0.0.0.0 olx.pl-id1616950803.site
 0.0.0.0 olx.pl-info.site
 0.0.0.0 olx.pl-makepay.casa
 0.0.0.0 olx.pl-makepay.club
+0.0.0.0 olx.pl-makepay.icu
 0.0.0.0 olx.pl-newdeal.casa
 0.0.0.0 olx.pl-newdeal.club
 0.0.0.0 olx.pl-newdeal.icu
@@ -9066,6 +9074,7 @@
 0.0.0.0 steamcammunity.com
 0.0.0.0 steamcammunnity.ru.com
 0.0.0.0 steamco.de
+0.0.0.0 steamcommunjty.com
 0.0.0.0 steamcomnenity.ru.com
 0.0.0.0 steamconmumity.ru
 0.0.0.0 steampoweredtrade.com
@@ -10625,6 +10634,7 @@
 0.0.0.0 www.g0oo.me
 0.0.0.0 www.g0o.cc
 0.0.0.0 www.g0o.me
+0.0.0.0 www.g0o.org
 0.0.0.0 www.gackokurier.com
 0.0.0.0 www.gaczynski.pl
 0.0.0.0 www.gaduczat.pl
@@ -12449,6 +12459,7 @@
 0.0.0.0 www.status.xn.pl
 0.0.0.0 www.steamcammunity.com
 0.0.0.0 www.steamcammunnity.ru.com
+0.0.0.0 www.steamcommunjty.com
 0.0.0.0 www.steamcomnenity.ru.com
 0.0.0.0 www.steamconmumity.ru
 0.0.0.0 www.steamco.de
@@ -13158,6 +13169,7 @@
 0.0.0.0 www.biuro-wyborow.eu
 0.0.0.0 www.biuro-wynikowe.eu
 0.0.0.0 www.blablacar-pay.cc
+0.0.0.0 www.blablacar-pay.pl
 0.0.0.0 www.blablocar-pl.site
 0.0.0.0 www.blankiet-wspieraj.eu
 0.0.0.0 www.bnpparibas-poland.co
@@ -13667,6 +13679,7 @@
 0.0.0.0 www.inpost.orders-pls.live
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.order-pl.store
+0.0.0.0 www.inpost.pay-pl.site
 0.0.0.0 www.inpost.pl-getpayment.casa
 0.0.0.0 www.inpost.pl-getpayment.club
 0.0.0.0 www.inpost.pl-getpayment.cyou
@@ -14229,14 +14242,19 @@
 0.0.0.0 www.olx.pl-getpayment.icu
 0.0.0.0 www.olx.pl-getpayment.xyz
 0.0.0.0 www.olx.pl-getpayments.casa
+0.0.0.0 www.olx.pl-getpayments.club
+0.0.0.0 www.olx.pl-getpayments.cyou
 0.0.0.0 www.olx.pl-getpayments.icu
 0.0.0.0 www.olx.pl-getpayments.surf
+0.0.0.0 www.olx.pl-getpayments.work
 0.0.0.0 www.olx.pl-getpayments.xyz
 0.0.0.0 www.olx.pl-getposts.xyz
+0.0.0.0 www.olx.pl-id831733.me
 0.0.0.0 www.olx.pl-id1616950803.site
 0.0.0.0 www.olx.pl-info.site
 0.0.0.0 www.olx.pl-makepay.casa
 0.0.0.0 www.olx.pl-makepay.club
+0.0.0.0 www.olx.pl-makepay.icu
 0.0.0.0 www.olx.pl-newdeal.casa
 0.0.0.0 www.olx.pl-newdeal.club
 0.0.0.0 www.olx.pl-newdeal.icu
@@ -15254,6 +15272,7 @@
 0.0.0.0 www.zawazaj-glosowanko.eu
 0.0.0.0 www.zawieszone.5p.pl
 0.0.0.0 www.zawody-geniuszy.eu
+0.0.0.0 www.zbiorka-joanna.com.pl
 0.0.0.0 www.zdjecia-fotki.pl
 0.0.0.0 www.zdjecie-fotka.pl
 0.0.0.0 www.zdjecie-ukradzione.eu
@@ -15439,6 +15458,7 @@
 0.0.0.0 zawieszone.5p.pl
 0.0.0.0 zawody-geniuszy.eu
 0.0.0.0 zbigniewbiernat.pl
+0.0.0.0 zbiorka-joanna.com.pl
 0.0.0.0 zbyk.drl.pl
 0.0.0.0 zdjecia-fotki.pl
 0.0.0.0 zdjecieciownia.net
