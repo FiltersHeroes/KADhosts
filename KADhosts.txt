@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 02 Apr 2021, 13:05 UTC+02
-# Version: 2021.4.2.0
+# Last modified: Fri, 02 Apr 2021, 17:04 UTC+02
+# Version: 2021.4.2.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6243,8 +6243,13 @@
 0.0.0.0 inpost.pl-getpayments.store
 0.0.0.0 inpost.pl-getpayments.surf
 0.0.0.0 inpost.pl-getpayments.xyz
+0.0.0.0 inpost.pl-makedeal.casa
 0.0.0.0 inpost.pl-makedeal.club
 0.0.0.0 inpost.pl-makedeal.cyou
+0.0.0.0 inpost.pl-makedeal.store
+0.0.0.0 inpost.pl-makedeal.work
+0.0.0.0 inpost.pl-makedeals.work
+0.0.0.0 inpost.pl-makedeals.xyz
 0.0.0.0 inpost.pl-makepay.casa
 0.0.0.0 inpost.pl-makepay.club
 0.0.0.0 inpost.pl-makepay.cyou
@@ -6933,8 +6938,10 @@
 0.0.0.0 nadania-onlline.in.net
 0.0.0.0 nadanie.com
 0.0.0.0 nadziejjaniegasnie.seohost.com.pl
+0.0.0.0 nagrani24.99e.pl
 0.0.0.0 nagrania-absurdalne.dfirma.pl
 0.0.0.0 nagrania-informacje24.eu
+0.0.0.0 nagranie24.ehost.pl
 0.0.0.0 nagranie-tv.dfirma.pl
 0.0.0.0 nagranie-tvn.dfirma.pl
 0.0.0.0 nagroda.myartsonline.com
@@ -7305,6 +7312,7 @@
 0.0.0.0 olxpl.delivery-z.me
 0.0.0.0 olxpl.deli-very.su
 0.0.0.0 olxpl.e-tracking.net
+0.0.0.0 olxpl.id-173056.com
 0.0.0.0 olxpl.oferta-payed.pw
 0.0.0.0 olxpl.one-merchant.ru
 0.0.0.0 olxpl.payment-online.online
@@ -7535,6 +7543,13 @@
 0.0.0.0 olx.pl-info.site
 0.0.0.0 olx.pl-makedeal.club
 0.0.0.0 olx.pl-makedeal.cyou
+0.0.0.0 olx.pl-makedeal.store
+0.0.0.0 olx.pl-makedeal.work
+0.0.0.0 olx.pl-makedeal.xyz
+0.0.0.0 olx.pl-makedeals.casa
+0.0.0.0 olx.pl-makedeals.icu
+0.0.0.0 olx.pl-makedeals.work
+0.0.0.0 olx.pl-makedeals.xyz
 0.0.0.0 olx.pl-makepay.casa
 0.0.0.0 olx.pl-makepay.club
 0.0.0.0 olx.pl-makepay.cyou
@@ -7554,6 +7569,10 @@
 0.0.0.0 olx.pl-newdeal.surf
 0.0.0.0 olx.pl-newdeal.work
 0.0.0.0 olx.pl-newdeal.xyz
+0.0.0.0 olx.pl-oferfa.club
+0.0.0.0 olx.pl-oferfa.cyou
+0.0.0.0 olx.pl-oferfa.icu
+0.0.0.0 olx.pl-oferfa.xyz
 0.0.0.0 olx.pl-ofert0.casa
 0.0.0.0 olx.pl-ofert0.icu
 0.0.0.0 olx.pl-potwierdzenie.club
@@ -8115,6 +8134,7 @@
 0.0.0.0 pl-konto.mobi
 0.0.0.0 pl-m.xyz
 0.0.0.0 pl-nadaj.online
+0.0.0.0 pl-obecny.info
 0.0.0.0 pl-obecny.shop
 0.0.0.0 pl-oferta.info
 0.0.0.0 pl-offerta.pro
@@ -8862,6 +8882,7 @@
 0.0.0.0 seansikowo.pl
 0.0.0.0 searchwinner.site
 0.0.0.0 sebastea.pl
+0.0.0.0 secdelivery.org
 0.0.0.0 secure.mwwi.pl
 0.0.0.0 secure.onewestbk.com
 0.0.0.0 secure167.servconfig.com
@@ -8926,6 +8947,7 @@
 0.0.0.0 server805487.nazwa.pl
 0.0.0.0 server838343.nazwa.pl
 0.0.0.0 server937428.nazwa.pl
+0.0.0.0 server945465.nazwa.pl
 0.0.0.0 server946404.nazwa.pl
 0.0.0.0 server954031.nazwa.pl
 0.0.0.0 server963613.nazwa.pl
@@ -11445,6 +11467,7 @@
 0.0.0.0 www.nachrichten24de.dfirma.pl
 0.0.0.0 www.nadanie.com
 0.0.0.0 www.nadziejjaniegasnie.seohost.com.pl
+0.0.0.0 www.nagranie24.ehost.pl
 0.0.0.0 www.nagroda.myartsonline.com
 0.0.0.0 www.nailrr.com
 0.0.0.0 www.najlepszewrozby.pl
@@ -12351,6 +12374,7 @@
 0.0.0.0 www.seansikowo.pl
 0.0.0.0 www.searchwinner.site
 0.0.0.0 www.sebastea.pl
+0.0.0.0 www.secdelivery.org
 0.0.0.0 www.secure167.servconfig.com
 0.0.0.0 www.secureclick20.com
 0.0.0.0 www.securescout.de
@@ -12395,6 +12419,7 @@
 0.0.0.0 www.server805487.nazwa.pl
 0.0.0.0 www.server838343.nazwa.pl
 0.0.0.0 www.server937428.nazwa.pl
+0.0.0.0 www.server945465.nazwa.pl
 0.0.0.0 www.server946404.nazwa.pl
 0.0.0.0 www.server954031.nazwa.pl
 0.0.0.0 www.server963613.nazwa.pl
@@ -13759,8 +13784,13 @@
 0.0.0.0 www.inpost.pl-getpayments.store
 0.0.0.0 www.inpost.pl-getpayments.surf
 0.0.0.0 www.inpost.pl-getpayments.xyz
+0.0.0.0 www.inpost.pl-makedeal.casa
 0.0.0.0 www.inpost.pl-makedeal.club
 0.0.0.0 www.inpost.pl-makedeal.cyou
+0.0.0.0 www.inpost.pl-makedeal.store
+0.0.0.0 www.inpost.pl-makedeal.work
+0.0.0.0 www.inpost.pl-makedeals.work
+0.0.0.0 www.inpost.pl-makedeals.xyz
 0.0.0.0 www.inpost.pl-makepay.casa
 0.0.0.0 www.inpost.pl-makepay.club
 0.0.0.0 www.inpost.pl-makepay.cyou
@@ -14006,6 +14036,7 @@
 0.0.0.0 www.nadania-onliine.xyz
 0.0.0.0 www.nadania-online.in.net
 0.0.0.0 www.nadania-onlline.in.net
+0.0.0.0 www.nagrani24.99e.pl
 0.0.0.0 www.nagrania-absurdalne.dfirma.pl
 0.0.0.0 www.nagrania-informacje24.eu
 0.0.0.0 www.nagranie-tv.dfirma.pl
@@ -14120,6 +14151,7 @@
 0.0.0.0 www.olxpl.delivery-z.me
 0.0.0.0 www.olxpl.deli-very.su
 0.0.0.0 www.olxpl.e-tracking.net
+0.0.0.0 www.olxpl.id-173056.com
 0.0.0.0 www.olxpl.oferta-payed.pw
 0.0.0.0 www.olxpl.one-merchant.ru
 0.0.0.0 www.olxpl.payment-online.online
@@ -14340,6 +14372,13 @@
 0.0.0.0 www.olx.pl-info.site
 0.0.0.0 www.olx.pl-makedeal.club
 0.0.0.0 www.olx.pl-makedeal.cyou
+0.0.0.0 www.olx.pl-makedeal.store
+0.0.0.0 www.olx.pl-makedeal.work
+0.0.0.0 www.olx.pl-makedeal.xyz
+0.0.0.0 www.olx.pl-makedeals.casa
+0.0.0.0 www.olx.pl-makedeals.icu
+0.0.0.0 www.olx.pl-makedeals.work
+0.0.0.0 www.olx.pl-makedeals.xyz
 0.0.0.0 www.olx.pl-makepay.casa
 0.0.0.0 www.olx.pl-makepay.club
 0.0.0.0 www.olx.pl-makepay.cyou
@@ -14359,6 +14398,10 @@
 0.0.0.0 www.olx.pl-newdeal.surf
 0.0.0.0 www.olx.pl-newdeal.work
 0.0.0.0 www.olx.pl-newdeal.xyz
+0.0.0.0 www.olx.pl-oferfa.club
+0.0.0.0 www.olx.pl-oferfa.cyou
+0.0.0.0 www.olx.pl-oferfa.icu
+0.0.0.0 www.olx.pl-oferfa.xyz
 0.0.0.0 www.olx.pl-ofert0.casa
 0.0.0.0 www.olx.pl-ofert0.icu
 0.0.0.0 www.olx.pl-potwierdzenie.club
@@ -14608,6 +14651,7 @@
 0.0.0.0 www.pl-konto.mobi
 0.0.0.0 www.pl-m.xyz
 0.0.0.0 www.pl-nadaj.online
+0.0.0.0 www.pl-obecny.info
 0.0.0.0 www.pl-obecny.shop
 0.0.0.0 www.pl-oferta.info
 0.0.0.0 www.pl-offerta.pro
