@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 17 Apr 2021, 13:04 UTC+02
-# Version: 2021.4.17.0
+# Last modified: Sat, 17 Apr 2021, 17:04 UTC+02
+# Version: 2021.4.17.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4392,6 +4392,7 @@ art-fashion.pl
 art-invest.com.pl
 asdream.pl
 aseanlegaltech.com
+asimov.academy
 askzkoflds.web.app
 aspenholding.co
 aspenholding.com
@@ -6212,6 +6213,7 @@ inpost.pl-paydelivery.casa
 inpost.pl-paydelivery.cyou
 inpost.pl-paydelivery.work
 inpost.pl-paydelivery.xyz
+inpost.pl-savesell.cyou
 inpost.pl-sellorder.casa
 inpost.pl-sellorder.club
 inpost.pl-sellorder.cyou
@@ -6221,6 +6223,8 @@ inpost.pl-sellorders.casa
 inpost.pl-soldorder.casa
 inpost.pl-soldorder.club
 inpost.pl-soldorder.icu
+inpost.pl-soldorders.work
+inpost.pl-soldorders.xyz
 inpost.poland-orders.life
 inpost.polka-oferta.cyou
 inpost.polska-dastawka.casa
@@ -6297,6 +6301,7 @@ iq1.eu
 iqko.xyz
 irbf.com
 irelandl.com
+irelso.ir
 irismal.com
 irotradex.com
 irpost.net
@@ -7579,6 +7584,8 @@ olx.pl-buyordered.surf
 olx.pl-buyordered.work
 olx.pl-buyordered.xyz
 olx.pl-deliverybuy.casa
+olx.pl-id.site
+olx.pl-official-dostawa.cyou
 olx.pl-orderbuy.cyou
 olx.pl-paydeals.casa
 olx.pl-paydeals.cyou
@@ -7594,6 +7601,8 @@ olx.pl-paydelivery.work
 olx.pl-paydelivery.xyz
 olx.pl-payorder.casa
 olx.pl-reklamy.space
+olx.pl-savesell.cyou
+olx.pl-savesell.me
 olx.pl-sellorder.casa
 olx.pl-sellorder.club
 olx.pl-sellorder.cyou
@@ -7612,6 +7621,7 @@ olx.pl-soldorder.me
 olx.pl-soldorder.shop
 olx.pl-soldorder.work
 olx.pl-soldorder.xyz
+olx.pl-soldorders.life
 olx.pl.dostawa.oferta-payment.bid
 olx.pl.merchants-pay.pw
 olx.pl.oferta-payment.life
@@ -7973,6 +7983,7 @@ pay48-olx.pl
 pay49-olx.pl
 pay50-olx.pl
 pay51-olx.pl
+pay52-olx.pl
 payersend.info
 payinginvest.com
 payment24-online.org
@@ -10088,6 +10099,7 @@ www.artistidelpane.it
 www.artx.strefa.pl
 www.asdream.pl
 www.aseanlegaltech.com
+www.asimov.academy
 www.askzkoflds.web.app
 www.aspenholding.co
 www.aspenholding.com
@@ -11312,6 +11324,7 @@ www.iq1.eu
 www.iqko.xyz
 www.irbf.com
 www.irelandl.com
+www.irelso.ir
 www.irismal.com
 www.irotradex.com
 www.irpost.net
@@ -14313,6 +14326,7 @@ www.inpost.pl-paydelivery.casa
 www.inpost.pl-paydelivery.cyou
 www.inpost.pl-paydelivery.work
 www.inpost.pl-paydelivery.xyz
+www.inpost.pl-savesell.cyou
 www.inpost.pl-sellorder.casa
 www.inpost.pl-sellorder.club
 www.inpost.pl-sellorder.cyou
@@ -14322,6 +14336,8 @@ www.inpost.pl-sellorders.casa
 www.inpost.pl-soldorder.casa
 www.inpost.pl-soldorder.club
 www.inpost.pl-soldorder.icu
+www.inpost.pl-soldorders.work
+www.inpost.pl-soldorders.xyz
 www.inpost.poland-orders.life
 www.inpost.polka-oferta.cyou
 www.inpost.polska-dastawka.casa
@@ -14889,6 +14905,8 @@ www.olx.pl-buyordered.surf
 www.olx.pl-buyordered.work
 www.olx.pl-buyordered.xyz
 www.olx.pl-deliverybuy.casa
+www.olx.pl-id.site
+www.olx.pl-official-dostawa.cyou
 www.olx.pl-orderbuy.cyou
 www.olx.pl-paydeals.casa
 www.olx.pl-paydeals.cyou
@@ -14904,6 +14922,8 @@ www.olx.pl-paydelivery.work
 www.olx.pl-paydelivery.xyz
 www.olx.pl-payorder.casa
 www.olx.pl-reklamy.space
+www.olx.pl-savesell.cyou
+www.olx.pl-savesell.me
 www.olx.pl-sellorder.casa
 www.olx.pl-sellorder.club
 www.olx.pl-sellorder.cyou
@@ -14922,6 +14942,7 @@ www.olx.pl-soldorder.me
 www.olx.pl-soldorder.shop
 www.olx.pl-soldorder.work
 www.olx.pl-soldorder.xyz
+www.olx.pl-soldorders.life
 www.olx.pl.dostawa.oferta-payment.bid
 www.olx.pl.merchants-pay.pw
 www.olx.pl.oferta-payment.life
@@ -15121,6 +15142,7 @@ www.pay48-olx.pl
 www.pay49-olx.pl
 www.pay50-olx.pl
 www.pay51-olx.pl
+www.pay52-olx.pl
 www.payment24-online.org
 www.payments-allegro.me
 www.payment-banka.online
