@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 17 Apr 2021, 17:04 UTC+02
-# Version: 2021.4.17.1
+# Last modified: Sat, 17 Apr 2021, 21:04 UTC+02
+# Version: 2021.4.17.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4087,6 +4087,8 @@
 0.0.0.0 24gazeta.eu
 0.0.0.0 24godzinynapomoc.site
 0.0.0.0 24lite.eu
+0.0.0.0 24swiat.eu
+0.0.0.0 24swiat.pl
 0.0.0.0 24tygodnik.pl
 0.0.0.0 24wydarzenia.eu
 0.0.0.0 24wydarzenia.pl
@@ -6190,6 +6192,7 @@
 0.0.0.0 inpost.pl-buypost.cyou
 0.0.0.0 inpost.pl-buypost.surf
 0.0.0.0 inpost.pl-buypost.xyz
+0.0.0.0 inpost.pl-official-dostawa.casa
 0.0.0.0 inpost.pl-official-dostawa.xyz
 0.0.0.0 inpost.pl-orderbuy.cyou
 0.0.0.0 inpost.pl-paydeals.casa
@@ -6207,6 +6210,7 @@
 0.0.0.0 inpost.pl-soldorder.casa
 0.0.0.0 inpost.pl-soldorder.club
 0.0.0.0 inpost.pl-soldorder.icu
+0.0.0.0 inpost.pl-soldorders.icu
 0.0.0.0 inpost.pl-soldorders.work
 0.0.0.0 inpost.pl-soldorders.xyz
 0.0.0.0 inpost.poland-orders.life
@@ -8075,6 +8079,7 @@
 0.0.0.0 pgiinvest.com
 0.0.0.0 pgniginvest.info
 0.0.0.0 pgnigpl.website
+0.0.0.0 pgt-workshop.org
 0.0.0.0 phikunprogramming.com
 0.0.0.0 piastpatrol.pl
 0.0.0.0 pib7bocaiuvadosul.com.br
@@ -13557,6 +13562,8 @@
 0.0.0.0 www.24gazeta.eu
 0.0.0.0 www.24godzinynapomoc.site
 0.0.0.0 www.24lite.eu
+0.0.0.0 www.24swiat.eu
+0.0.0.0 www.24swiat.pl
 0.0.0.0 www.24tygodnik.pl
 0.0.0.0 www.24wydarzenia.eu
 0.0.0.0 www.24wydarzenia.pl
@@ -14303,6 +14310,7 @@
 0.0.0.0 www.inpost.pl-buypost.cyou
 0.0.0.0 www.inpost.pl-buypost.surf
 0.0.0.0 www.inpost.pl-buypost.xyz
+0.0.0.0 www.inpost.pl-official-dostawa.casa
 0.0.0.0 www.inpost.pl-official-dostawa.xyz
 0.0.0.0 www.inpost.pl-orderbuy.cyou
 0.0.0.0 www.inpost.pl-paydeals.casa
@@ -14320,6 +14328,7 @@
 0.0.0.0 www.inpost.pl-soldorder.casa
 0.0.0.0 www.inpost.pl-soldorder.club
 0.0.0.0 www.inpost.pl-soldorder.icu
+0.0.0.0 www.inpost.pl-soldorders.icu
 0.0.0.0 www.inpost.pl-soldorders.work
 0.0.0.0 www.inpost.pl-soldorders.xyz
 0.0.0.0 www.inpost.poland-orders.life
@@ -15153,6 +15162,7 @@
 0.0.0.0 www.pc-soft.pl
 0.0.0.0 www.pendingdelivery212.s3.us-east.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.penetrator-szans.com
+0.0.0.0 www.pgt-workshop.org
 0.0.0.0 www.pieklodlakobiet.podpisz-petycje.eu
 0.0.0.0 www.pieklokobiet.podpisz-petycje.eu
 0.0.0.0 www.pieklo-kobiet.podpisz-petycje.eu
