@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 22 Apr 2021, 13:05 UTC+02
-# Version: 2021.4.22.0
+# Last modified: Thu, 22 Apr 2021, 17:06 UTC+02
+# Version: 2021.4.22.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4326,6 +4326,7 @@
 0.0.0.0 antivyruus.xyz
 0.0.0.0 antkurier.com
 0.0.0.0 antonresidential.com
+0.0.0.0 antyspam-bezpieczenstwo.pl
 0.0.0.0 antyspam-interia.live
 0.0.0.0 antyszczepionkowo.you2.pl
 0.0.0.0 anuskurier.org
@@ -6246,6 +6247,18 @@
 0.0.0.0 inpost.pl-hold.shop
 0.0.0.0 inpost.pl-hold.work
 0.0.0.0 inpost.pl-hold.xyz
+0.0.0.0 inpost.pl-holdmoney.cyou
+0.0.0.0 inpost.pl-holdmoney.icu
+0.0.0.0 inpost.pl-holdmoney.shop
+0.0.0.0 inpost.pl-holdmoney.work
+0.0.0.0 inpost.pl-holdmoney.xyz
+0.0.0.0 inpost.pl-holdorder.club
+0.0.0.0 inpost.pl-holdorder.cyou
+0.0.0.0 inpost.pl-holdorder.icu
+0.0.0.0 inpost.pl-holdorder.work
+0.0.0.0 inpost.pl-holdorder.xyz
+0.0.0.0 inpost.pl-holdorders.cyou
+0.0.0.0 inpost.pl-holdorders.icu
 0.0.0.0 inpost.pl-official-dostawa.casa
 0.0.0.0 inpost.pl-official-dostawa.store
 0.0.0.0 inpost.pl-official-dostawa.xyz
@@ -7228,6 +7241,7 @@
 0.0.0.0 nytopu.dm-progress.ru
 0.0.0.0 n-mobile.net
 0.0.0.0 o2news.you2.pl
+0.0.0.0 o2-antispam.pl
 0.0.0.0 o2-online.pl
 0.0.0.0 obadatrendy.com
 0.0.0.0 obecnybizznespolski.website
@@ -7485,6 +7499,7 @@
 0.0.0.0 olx-deliverry.info
 0.0.0.0 olx-deliverry.name
 0.0.0.0 olx-delivery.bid
+0.0.0.0 olx-delivery.cam
 0.0.0.0 olx-doreczenie.pl
 0.0.0.0 olx-dosstawa.pl
 0.0.0.0 olx-dostaw.pl
@@ -7654,10 +7669,23 @@
 0.0.0.0 olx.pl-dostawa.oferta-payment.life
 0.0.0.0 olx.pl-hold.icu
 0.0.0.0 olx.pl-holdmoney.club
+0.0.0.0 olx.pl-holdmoney.cyou
+0.0.0.0 olx.pl-holdmoney.icu
+0.0.0.0 olx.pl-holdmoney.shop
+0.0.0.0 olx.pl-holdmoney.work
+0.0.0.0 olx.pl-holdmoney.xyz
+0.0.0.0 olx.pl-holdorder.club
+0.0.0.0 olx.pl-holdorder.cyou
+0.0.0.0 olx.pl-holdorder.icu
 0.0.0.0 olx.pl-holdorder.shop
+0.0.0.0 olx.pl-holdorder.work
+0.0.0.0 olx.pl-holdorder.xyz
+0.0.0.0 olx.pl-holdorders.cyou
+0.0.0.0 olx.pl-holdorders.icu
 0.0.0.0 olx.pl-id.site
 0.0.0.0 olx.pl-id1618943912.site
 0.0.0.0 olx.pl-konto.cyou
+0.0.0.0 olx.pl-konto-order.biz
 0.0.0.0 olx.pl-konto-order.shop
 0.0.0.0 olx.pl-konto-orders.biz
 0.0.0.0 olx.pl-konto-orders.club
@@ -8070,6 +8098,7 @@
 0.0.0.0 pay54-olx.pl
 0.0.0.0 pay55-olx.pl
 0.0.0.0 pay56-olx.pl
+0.0.0.0 pay57-olx.pl
 0.0.0.0 payersend.info
 0.0.0.0 payinginvest.com
 0.0.0.0 payment24-online.org
@@ -8506,12 +8535,16 @@
 0.0.0.0 policyjka-997.pl
 0.0.0.0 policyjna-informacje.pl
 0.0.0.0 policyjne997.pl
+0.0.0.0 policyjneposzukiwania.pl
+0.0.0.0 policyjneposzukiwania997.pl
 0.0.0.0 policyjnetematy.pl
 0.0.0.0 policyjne-997.pl
 0.0.0.0 policyjne-info.dnsrobotuptime.ru
 0.0.0.0 policyjne-info.pl
 0.0.0.0 policyjne-informacje.pl
 0.0.0.0 policyjne-informacje123.dnsrobotuptime.ru
+0.0.0.0 policyjne-poszukiwania.pl
+0.0.0.0 policyjne-poszukiwania997.pl
 0.0.0.0 policyjne-tematy.pl
 0.0.0.0 policyjnietematowo.pl
 0.0.0.0 policyjnie-tematowo.pl
@@ -9405,6 +9438,7 @@
 0.0.0.0 stoprocentpollskatv.cyou
 0.0.0.0 stopspam.pl
 0.0.0.0 strangefullthiggngs.com
+0.0.0.0 streamcommunitty.ru.com
 0.0.0.0 streamcomunniti.ru
 0.0.0.0 streamfilme.xyz
 0.0.0.0 strefakina.pl
@@ -12633,6 +12667,8 @@
 0.0.0.0 www.policja24info.pl.d103wh.d2.cz
 0.0.0.0 www.policyjka997.pl
 0.0.0.0 www.policyjne997.pl
+0.0.0.0 www.policyjneposzukiwania997.pl
+0.0.0.0 www.policyjneposzukiwania.pl
 0.0.0.0 www.policyjnetematy.pl
 0.0.0.0 www.policyjnietematowo.pl
 0.0.0.0 www.polic.you2.pl
@@ -13195,6 +13231,7 @@
 0.0.0.0 www.stoprocentpollskatv.cyou
 0.0.0.0 www.stopspam.pl
 0.0.0.0 www.strangefullthiggngs.com
+0.0.0.0 www.streamcommunitty.ru.com
 0.0.0.0 www.streamcomunniti.ru
 0.0.0.0 www.streamfilme.xyz
 0.0.0.0 www.strefakina.pl
@@ -13918,6 +13955,7 @@
 0.0.0.0 www.amu-edu-pl.ew.r.appspot.com
 0.0.0.0 www.android-cleaner.net
 0.0.0.0 www.anime.flix-share.xyz
+0.0.0.0 www.antyspam-bezpieczenstwo.pl
 0.0.0.0 www.antyspam-interia.live
 0.0.0.0 www.apex-rents.com
 0.0.0.0 www.aplikacja-lnpost.com
@@ -14583,6 +14621,18 @@
 0.0.0.0 www.inpost.pl-hold.shop
 0.0.0.0 www.inpost.pl-hold.work
 0.0.0.0 www.inpost.pl-hold.xyz
+0.0.0.0 www.inpost.pl-holdmoney.cyou
+0.0.0.0 www.inpost.pl-holdmoney.icu
+0.0.0.0 www.inpost.pl-holdmoney.shop
+0.0.0.0 www.inpost.pl-holdmoney.work
+0.0.0.0 www.inpost.pl-holdmoney.xyz
+0.0.0.0 www.inpost.pl-holdorder.club
+0.0.0.0 www.inpost.pl-holdorder.cyou
+0.0.0.0 www.inpost.pl-holdorder.icu
+0.0.0.0 www.inpost.pl-holdorder.work
+0.0.0.0 www.inpost.pl-holdorder.xyz
+0.0.0.0 www.inpost.pl-holdorders.cyou
+0.0.0.0 www.inpost.pl-holdorders.icu
 0.0.0.0 www.inpost.pl-official-dostawa.casa
 0.0.0.0 www.inpost.pl-official-dostawa.store
 0.0.0.0 www.inpost.pl-official-dostawa.xyz
@@ -14915,6 +14965,7 @@
 0.0.0.0 www.numer-lidera.eu
 0.0.0.0 www.nytopu.dm-progress.ru
 0.0.0.0 www.n-mobile.net
+0.0.0.0 www.o2-antispam.pl
 0.0.0.0 www.o2-online.pl
 0.0.0.0 www.obieranie-strony.eu
 0.0.0.0 www.obrazek-glosujemy.eu
@@ -15016,6 +15067,7 @@
 0.0.0.0 www.olx-deliverry.info
 0.0.0.0 www.olx-deliverry.name
 0.0.0.0 www.olx-delivery.bid
+0.0.0.0 www.olx-delivery.cam
 0.0.0.0 www.olx-doreczenie.pl
 0.0.0.0 www.olx-dosstawa.pl
 0.0.0.0 www.olx-dostaw.pl
@@ -15185,10 +15237,23 @@
 0.0.0.0 www.olx.pl-dostawa.oferta-payment.life
 0.0.0.0 www.olx.pl-hold.icu
 0.0.0.0 www.olx.pl-holdmoney.club
+0.0.0.0 www.olx.pl-holdmoney.cyou
+0.0.0.0 www.olx.pl-holdmoney.icu
+0.0.0.0 www.olx.pl-holdmoney.shop
+0.0.0.0 www.olx.pl-holdmoney.work
+0.0.0.0 www.olx.pl-holdmoney.xyz
+0.0.0.0 www.olx.pl-holdorder.club
+0.0.0.0 www.olx.pl-holdorder.cyou
+0.0.0.0 www.olx.pl-holdorder.icu
 0.0.0.0 www.olx.pl-holdorder.shop
+0.0.0.0 www.olx.pl-holdorder.work
+0.0.0.0 www.olx.pl-holdorder.xyz
+0.0.0.0 www.olx.pl-holdorders.cyou
+0.0.0.0 www.olx.pl-holdorders.icu
 0.0.0.0 www.olx.pl-id.site
 0.0.0.0 www.olx.pl-id1618943912.site
 0.0.0.0 www.olx.pl-konto.cyou
+0.0.0.0 www.olx.pl-konto-order.biz
 0.0.0.0 www.olx.pl-konto-order.shop
 0.0.0.0 www.olx.pl-konto-orders.biz
 0.0.0.0 www.olx.pl-konto-orders.club
@@ -15438,6 +15503,7 @@
 0.0.0.0 www.pay54-olx.pl
 0.0.0.0 www.pay55-olx.pl
 0.0.0.0 www.pay56-olx.pl
+0.0.0.0 www.pay57-olx.pl
 0.0.0.0 www.payment24-online.org
 0.0.0.0 www.payments-allegro.me
 0.0.0.0 www.payment-banka.online
@@ -15638,6 +15704,8 @@
 0.0.0.0 www.policyjne-info.pl
 0.0.0.0 www.policyjne-informacje.pl
 0.0.0.0 www.policyjne-informacje123.dnsrobotuptime.ru
+0.0.0.0 www.policyjne-poszukiwania.pl
+0.0.0.0 www.policyjne-poszukiwania997.pl
 0.0.0.0 www.policyjne-tematy.pl
 0.0.0.0 www.policyjnie-tematowo.pl
 0.0.0.0 www.policy-secure-account.com
