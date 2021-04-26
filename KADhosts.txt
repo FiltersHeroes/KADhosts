@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 26 Apr 2021, 13:04 UTC+02
-# Version: 2021.4.26.0
+# Last modified: Mon, 26 Apr 2021, 17:06 UTC+02
+# Version: 2021.4.26.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6370,6 +6370,9 @@
 0.0.0.0 inpost.pl-holdorders.xyz
 0.0.0.0 inpost.pl-holds.shop
 0.0.0.0 inpost.pl-holdsorder.cyou
+0.0.0.0 inpost.pl-holdsorder.icu
+0.0.0.0 inpost.pl-holdsorder.shop
+0.0.0.0 inpost.pl-holdsorder.work
 0.0.0.0 inpost.pl-kontos-oferta.casa
 0.0.0.0 inpost.pl-kontos-oferta.club
 0.0.0.0 inpost.pl-kontos-oferta.cyou
@@ -6389,6 +6392,10 @@
 0.0.0.0 inpost.pl-paydelivery.cyou
 0.0.0.0 inpost.pl-paydelivery.work
 0.0.0.0 inpost.pl-paydelivery.xyz
+0.0.0.0 inpost.pl-safeordering.club
+0.0.0.0 inpost.pl-safeordering.cyou
+0.0.0.0 inpost.pl-safeordering.icu
+0.0.0.0 inpost.pl-safeordering.xyz
 0.0.0.0 inpost.pl-savedorder.cyou
 0.0.0.0 inpost.pl-savedorder.icu
 0.0.0.0 inpost.pl-savedorder.shop
@@ -6426,6 +6433,12 @@
 0.0.0.0 inpost.polska-oferdo.zone
 0.0.0.0 inpost.polska-oterfa.live
 0.0.0.0 inpost.polska-oterfa.store
+0.0.0.0 inpost.wyprzedaz-polska.casa
+0.0.0.0 inpost.wyprzedaz-polska.cyou
+0.0.0.0 inpost.wyprzedaz-polska.life
+0.0.0.0 inpost.wyprzedaz-polska.live
+0.0.0.0 inpost.wyprzedaz-polska.shop
+0.0.0.0 inpost.wyprzedaz-polska.xyz
 0.0.0.0 inprost24.net
 0.0.0.0 inqost.net
 0.0.0.0 instagarm.pl
@@ -7824,6 +7837,8 @@
 0.0.0.0 olx.pl-hold.icu
 0.0.0.0 olx.pl-holded.shop
 0.0.0.0 olx.pl-holded.work
+0.0.0.0 olx.pl-holdedorder.cyou
+0.0.0.0 olx.pl-holdedorder.icu
 0.0.0.0 olx.pl-holdedorder.shop
 0.0.0.0 olx.pl-holdedorder.work
 0.0.0.0 olx.pl-holding.club
@@ -7893,6 +7908,10 @@
 0.0.0.0 olx.pl-reklamy.space
 0.0.0.0 olx.pl-reklamy-id.space
 0.0.0.0 olx.pl-rek-id.pw
+0.0.0.0 olx.pl-safeordering.club
+0.0.0.0 olx.pl-safeordering.cyou
+0.0.0.0 olx.pl-safeordering.icu
+0.0.0.0 olx.pl-safeordering.xyz
 0.0.0.0 olx.pl-safety.oferta-payment.life
 0.0.0.0 olx.pl-safe.oferta-payment.digital
 0.0.0.0 olx.pl-savedorder.icu
@@ -7961,6 +7980,12 @@
 0.0.0.0 olx.polska-oterfa.store
 0.0.0.0 olx.przesylki-secure.com
 0.0.0.0 olx.secure-dostawa.com
+0.0.0.0 olx.wyprzedaz-polska.casa
+0.0.0.0 olx.wyprzedaz-polska.cyou
+0.0.0.0 olx.wyprzedaz-polska.life
+0.0.0.0 olx.wyprzedaz-polska.live
+0.0.0.0 olx.wyprzedaz-polska.shop
+0.0.0.0 olx.wyprzedaz-polska.xyz
 0.0.0.0 olympusholding.co
 0.0.0.0 olympusmarkets.com
 0.0.0.0 omawiac-zwyciezce.eu
@@ -8447,6 +8472,7 @@
 0.0.0.0 pl.oferto.cc
 0.0.0.0 pl.oferto.org
 0.0.0.0 pl.olxdelivery.com
+0.0.0.0 pl.paymenton.space
 0.0.0.0 pl.paysouts.com
 0.0.0.0 pl.pcviruscare.com
 0.0.0.0 pl.tradenewsinvesting.com
@@ -8458,6 +8484,7 @@
 0.0.0.0 placowka-pocztowa.xyz
 0.0.0.0 planujswojezycieibiznes.space
 0.0.0.0 plast-chem.com.pl
+0.0.0.0 plata-za-towary-pl.com
 0.0.0.0 platinumtradeinvestment.com
 0.0.0.0 platnosci.live
 0.0.0.0 platnosci.netflix.kutuasetat.com
@@ -10254,6 +10281,7 @@
 0.0.0.0 windpl.org
 0.0.0.0 windykacjajagoda.org
 0.0.0.0 winfreetoday.com
+0.0.0.0 winin-spect.xyz
 0.0.0.0 winnertoday.site
 0.0.0.0 winningsidenow.com
 0.0.0.0 winoteka-samiswoi.pl
@@ -15008,6 +15036,9 @@
 0.0.0.0 www.inpost.pl-holdorders.xyz
 0.0.0.0 www.inpost.pl-holds.shop
 0.0.0.0 www.inpost.pl-holdsorder.cyou
+0.0.0.0 www.inpost.pl-holdsorder.icu
+0.0.0.0 www.inpost.pl-holdsorder.shop
+0.0.0.0 www.inpost.pl-holdsorder.work
 0.0.0.0 www.inpost.pl-kontos-oferta.casa
 0.0.0.0 www.inpost.pl-kontos-oferta.club
 0.0.0.0 www.inpost.pl-kontos-oferta.cyou
@@ -15027,6 +15058,10 @@
 0.0.0.0 www.inpost.pl-paydelivery.cyou
 0.0.0.0 www.inpost.pl-paydelivery.work
 0.0.0.0 www.inpost.pl-paydelivery.xyz
+0.0.0.0 www.inpost.pl-safeordering.club
+0.0.0.0 www.inpost.pl-safeordering.cyou
+0.0.0.0 www.inpost.pl-safeordering.icu
+0.0.0.0 www.inpost.pl-safeordering.xyz
 0.0.0.0 www.inpost.pl-savedorder.cyou
 0.0.0.0 www.inpost.pl-savedorder.icu
 0.0.0.0 www.inpost.pl-savedorder.shop
@@ -15064,6 +15099,12 @@
 0.0.0.0 www.inpost.polska-oferdo.zone
 0.0.0.0 www.inpost.polska-oterfa.live
 0.0.0.0 www.inpost.polska-oterfa.store
+0.0.0.0 www.inpost.wyprzedaz-polska.casa
+0.0.0.0 www.inpost.wyprzedaz-polska.cyou
+0.0.0.0 www.inpost.wyprzedaz-polska.life
+0.0.0.0 www.inpost.wyprzedaz-polska.live
+0.0.0.0 www.inpost.wyprzedaz-polska.shop
+0.0.0.0 www.inpost.wyprzedaz-polska.xyz
 0.0.0.0 www.instagramverification-center.com
 0.0.0.0 www.insta-support.org
 0.0.0.0 www.instytut-medyczny24.com
@@ -15629,6 +15670,8 @@
 0.0.0.0 www.olx.pl-hold.icu
 0.0.0.0 www.olx.pl-holded.shop
 0.0.0.0 www.olx.pl-holded.work
+0.0.0.0 www.olx.pl-holdedorder.cyou
+0.0.0.0 www.olx.pl-holdedorder.icu
 0.0.0.0 www.olx.pl-holdedorder.shop
 0.0.0.0 www.olx.pl-holdedorder.work
 0.0.0.0 www.olx.pl-holding.club
@@ -15698,6 +15741,10 @@
 0.0.0.0 www.olx.pl-reklamy.space
 0.0.0.0 www.olx.pl-reklamy-id.space
 0.0.0.0 www.olx.pl-rek-id.pw
+0.0.0.0 www.olx.pl-safeordering.club
+0.0.0.0 www.olx.pl-safeordering.cyou
+0.0.0.0 www.olx.pl-safeordering.icu
+0.0.0.0 www.olx.pl-safeordering.xyz
 0.0.0.0 www.olx.pl-safety.oferta-payment.life
 0.0.0.0 www.olx.pl-safe.oferta-payment.digital
 0.0.0.0 www.olx.pl-savedorder.icu
@@ -15766,6 +15813,12 @@
 0.0.0.0 www.olx.polska-oterfa.store
 0.0.0.0 www.olx.przesylki-secure.com
 0.0.0.0 www.olx.secure-dostawa.com
+0.0.0.0 www.olx.wyprzedaz-polska.casa
+0.0.0.0 www.olx.wyprzedaz-polska.cyou
+0.0.0.0 www.olx.wyprzedaz-polska.life
+0.0.0.0 www.olx.wyprzedaz-polska.live
+0.0.0.0 www.olx.wyprzedaz-polska.shop
+0.0.0.0 www.olx.wyprzedaz-polska.xyz
 0.0.0.0 www.omawiac-zwyciezce.eu
 0.0.0.0 www.onet-24.space
 0.0.0.0 www.onet-biznes.online
@@ -15974,6 +16027,7 @@
 0.0.0.0 www.placowka-pocztowa.site
 0.0.0.0 www.placowka-pocztowa.xyz
 0.0.0.0 www.plast-chem.com.pl
+0.0.0.0 www.plata-za-towary-pl.com
 0.0.0.0 www.platnosci-online.services
 0.0.0.0 www.platnosc-kurier.com
 0.0.0.0 www.platnosc-online.in.net
@@ -16683,6 +16737,7 @@
 0.0.0.0 www.wieliczka-pl.tk
 0.0.0.0 www.wielka-prosba.eu
 0.0.0.0 www.willa-marina.pl
+0.0.0.0 www.winin-spect.xyz
 0.0.0.0 www.winoteka-samiswoi.pl
 0.0.0.0 www.wiocha-pl.eu
 0.0.0.0 www.wirtualna-polska.you2.pl
