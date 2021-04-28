@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 27 Apr 2021, 22:26 UTC+02
-# Version: 2021.4.27.3
+# Last modified: Wed, 28 Apr 2021, 13:05 UTC+02
+# Version: 2021.4.28.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -213,6 +213,7 @@
 0.0.0.0 butyconversesklep.com
 0.0.0.0 butycrocspolska.com
 0.0.0.0 butydroutlet.com
+0.0.0.0 butyeccopolska.com
 0.0.0.0 butyeccosale.com
 0.0.0.0 butygellyte.com
 0.0.0.0 butyinov-8.com
@@ -1604,6 +1605,7 @@
 0.0.0.0 vejapolska.pl
 0.0.0.0 veltocars.com.pl
 0.0.0.0 verifycaptcha.com
+0.0.0.0 versacesklep.com
 0.0.0.0 versalka.pl
 0.0.0.0 veryvoga.pl
 0.0.0.0 vewvwm.myshopify.com
@@ -1830,6 +1832,7 @@
 0.0.0.0 www.butyconversesklep.com
 0.0.0.0 www.butycrocspolska.com
 0.0.0.0 www.butydroutlet.com
+0.0.0.0 www.butyeccopolska.com
 0.0.0.0 www.butyeccosale.com
 0.0.0.0 www.butygellyte.com
 0.0.0.0 www.butyjordansklep.pl
@@ -3031,6 +3034,7 @@
 0.0.0.0 www.vejapolska.pl
 0.0.0.0 www.veltocars.com.pl
 0.0.0.0 www.verifycaptcha.com
+0.0.0.0 www.versacesklep.com
 0.0.0.0 www.versalka.pl
 0.0.0.0 www.veryvoga.pl
 0.0.0.0 www.vewvwm.myshopify.com
@@ -4113,6 +4117,7 @@
 0.0.0.0 109222.zalogujkonto-weryfikacja.xyz
 0.0.0.0 120210.ostanikrok.xyz
 0.0.0.0 123403.zaloguj.xyz
+0.0.0.0 126898.iogowanie.xyz
 0.0.0.0 131815.zaloguj.xyz
 0.0.0.0 1809175.na397463.web.hosting-test.net
 0.0.0.0 1809176.kb397464.web.hosting-test.net
@@ -6310,7 +6315,11 @@
 0.0.0.0 inpost.pl-savedorder.icu
 0.0.0.0 inpost.pl-savedorder.shop
 0.0.0.0 inpost.pl-savedorder.work
+0.0.0.0 inpost.pl-savedsells.shop
 0.0.0.0 inpost.pl-savesell.cyou
+0.0.0.0 inpost.pl-savesells.cyou
+0.0.0.0 inpost.pl-savesells.icu
+0.0.0.0 inpost.pl-savesells.work
 0.0.0.0 inpost.pl-sellorder.casa
 0.0.0.0 inpost.pl-sellorder.club
 0.0.0.0 inpost.pl-sellorder.cyou
@@ -7772,7 +7781,11 @@
 0.0.0.0 olx.pl-savedorder.icu
 0.0.0.0 olx.pl-savedorder.shop
 0.0.0.0 olx.pl-savedorder.work
+0.0.0.0 olx.pl-savedsells.shop
+0.0.0.0 olx.pl-savesells.cyou
+0.0.0.0 olx.pl-savesells.icu
 0.0.0.0 olx.pl-savesells.shop
+0.0.0.0 olx.pl-savesells.work
 0.0.0.0 olx.pl.merchants-pay.pw
 0.0.0.0 olx.pl.oferta-payment.date
 0.0.0.0 olx.pl.oferta-payment.life
@@ -8318,6 +8331,7 @@
 0.0.0.0 pl.paymenton.space
 0.0.0.0 pl.paysouts.com
 0.0.0.0 pl.pcviruscare.com
+0.0.0.0 pl.polskikoncernnaftowy.com
 0.0.0.0 pl.tradenewsinvesting.com
 0.0.0.0 pl.tvplusnewtab.com
 0.0.0.0 pl2021.online
@@ -13893,6 +13907,7 @@
 0.0.0.0 www.109222.zalogujkonto-weryfikacja.xyz
 0.0.0.0 www.120210.ostanikrok.xyz
 0.0.0.0 www.123403.zaloguj.xyz
+0.0.0.0 www.126898.iogowanie.xyz
 0.0.0.0 www.131815.zaloguj.xyz
 0.0.0.0 www.1809175.na397463.web.hosting-test.net
 0.0.0.0 www.1809176.kb397464.web.hosting-test.net
@@ -14681,7 +14696,11 @@
 0.0.0.0 www.inpost.pl-savedorder.icu
 0.0.0.0 www.inpost.pl-savedorder.shop
 0.0.0.0 www.inpost.pl-savedorder.work
+0.0.0.0 www.inpost.pl-savedsells.shop
 0.0.0.0 www.inpost.pl-savesell.cyou
+0.0.0.0 www.inpost.pl-savesells.cyou
+0.0.0.0 www.inpost.pl-savesells.icu
+0.0.0.0 www.inpost.pl-savesells.work
 0.0.0.0 www.inpost.pl-sellorder.casa
 0.0.0.0 www.inpost.pl-sellorder.club
 0.0.0.0 www.inpost.pl-sellorder.cyou
@@ -15319,7 +15338,11 @@
 0.0.0.0 www.olx.pl-savedorder.icu
 0.0.0.0 www.olx.pl-savedorder.shop
 0.0.0.0 www.olx.pl-savedorder.work
+0.0.0.0 www.olx.pl-savedsells.shop
+0.0.0.0 www.olx.pl-savesells.cyou
+0.0.0.0 www.olx.pl-savesells.icu
 0.0.0.0 www.olx.pl-savesells.shop
+0.0.0.0 www.olx.pl-savesells.work
 0.0.0.0 www.olx.pl.merchants-pay.pw
 0.0.0.0 www.olx.pl.oferta-payment.date
 0.0.0.0 www.olx.pl.oferta-payment.life
