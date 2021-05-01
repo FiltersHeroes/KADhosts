@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 01 May 2021, 16:53 UTC+02
-# Version: 2021.5.1.1
+# Last modified: Sat, 01 May 2021, 17:06 UTC+02
+# Version: 2021.5.1.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6291,6 +6291,8 @@
 0.0.0.0 inpost.orders-pls.live
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-web.site
+0.0.0.0 inpost.pl-savedcashes.club
+0.0.0.0 inpost.pl-savedmoney.work
 0.0.0.0 inpost.poland-orders.life
 0.0.0.0 inpost.polka-oferta.cyou
 0.0.0.0 inpost.polska-dastawka.casa
@@ -7690,6 +7692,14 @@
 0.0.0.0 olx.pay-euro.eu
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-savedmoney.work
+0.0.0.0 olx.pl.get.oferta-payment.technology
+0.0.0.0 olx.pl.merchants-pay.pw
+0.0.0.0 olx.pl.oferta-payment.date
+0.0.0.0 olx.pl.oferta-payment.life
+0.0.0.0 olx.pl.pay-mercnant.pw
+0.0.0.0 olx.pl.transfers-id.space
+0.0.0.0 olx.pl.transport-pr.pw
 0.0.0.0 olx.poland-ofer.cc
 0.0.0.0 olx.poland-orders.shop
 0.0.0.0 olx.polka-oferta.club
@@ -8001,6 +8011,7 @@
 0.0.0.0 pay.pocztapolska24.com
 0.0.0.0 pay.pocztapolska24.org
 0.0.0.0 pay01-olx.pl
+0.0.0.0 pay01-olx.pw
 0.0.0.0 pay2me.pl
 0.0.0.0 pay02-olx.pl
 0.0.0.0 pay04-olx.pl
@@ -14609,6 +14620,8 @@
 0.0.0.0 www.inpost.orders-pls.live
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-web.site
+0.0.0.0 www.inpost.pl-savedcashes.club
+0.0.0.0 www.inpost.pl-savedmoney.work
 0.0.0.0 www.inpost.poland-orders.life
 0.0.0.0 www.inpost.polka-oferta.cyou
 0.0.0.0 www.inpost.polska-dastawka.casa
@@ -15170,6 +15183,14 @@
 0.0.0.0 www.olx.pay-euro.eu
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-savedmoney.work
+0.0.0.0 www.olx.pl.get.oferta-payment.technology
+0.0.0.0 www.olx.pl.merchants-pay.pw
+0.0.0.0 www.olx.pl.oferta-payment.date
+0.0.0.0 www.olx.pl.oferta-payment.life
+0.0.0.0 www.olx.pl.pay-mercnant.pw
+0.0.0.0 www.olx.pl.transfers-id.space
+0.0.0.0 www.olx.pl.transport-pr.pw
 0.0.0.0 www.olx.poland-ofer.cc
 0.0.0.0 www.olx.poland-orders.shop
 0.0.0.0 www.olx.polka-oferta.club
@@ -15317,6 +15338,7 @@
 0.0.0.0 www.paribas-logowanie.xyz
 0.0.0.0 www.paribas-online.xyz
 0.0.0.0 www.pay01-olx.pl
+0.0.0.0 www.pay01-olx.pw
 0.0.0.0 www.pay02-olx.pl
 0.0.0.0 www.pay04-olx.pl
 0.0.0.0 www.pay05-olx.pl
