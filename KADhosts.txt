@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 03 May 2021, 21:05 UTC+02
-# Version: 2021.5.3.3
+# Last modified: Tue, 04 May 2021, 13:05 UTC+02
+# Version: 2021.5.4.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -220,6 +220,7 @@
 0.0.0.0 butykeenpolska.com
 0.0.0.0 butymartensy.com
 0.0.0.0 butymizunopolska.com
+0.0.0.0 butyplsklep.com
 0.0.0.0 butypremium.pl
 0.0.0.0 butyreebokonline.pl
 0.0.0.0 butyreebokpolska.com
@@ -1203,6 +1204,7 @@
 0.0.0.0 pumaprzeceny.pl
 0.0.0.0 pumatanio.com
 0.0.0.0 puna.pl
+0.0.0.0 pupolskama.pl
 0.0.0.0 purething.pl
 0.0.0.0 px1alsry.com
 0.0.0.0 pynio.pl
@@ -1802,6 +1804,7 @@
 0.0.0.0 www.butykeenpolska.com
 0.0.0.0 www.butymartensy.com
 0.0.0.0 www.butymizunopolska.com
+0.0.0.0 www.butyplsklep.com
 0.0.0.0 www.butypremium.pl
 0.0.0.0 www.butyreebokonline.pl
 0.0.0.0 www.butyreebokpolska.com
@@ -2651,6 +2654,7 @@
 0.0.0.0 www.pumaprzeceny.pl
 0.0.0.0 www.pumatanio.com
 0.0.0.0 www.puna.pl
+0.0.0.0 www.pupolskama.pl
 0.0.0.0 www.purething.pl
 0.0.0.0 www.px1alsry.com
 0.0.0.0 www.pynio.pl
@@ -4607,6 +4611,7 @@
 0.0.0.0 catsplit.pl
 0.0.0.0 cbdnewsdirect.com
 0.0.0.0 cbd-and-seizures.com
+0.0.0.0 cc73817.tmweb.ru
 0.0.0.0 cco0.cc
 0.0.0.0 ccpgotofuture.ru
 0.0.0.0 ccredits-agricole.com
@@ -5092,6 +5097,7 @@
 0.0.0.0 doswiadczbiznzesu24.site
 0.0.0.0 dotarlibysmydoniego.cyou
 0.0.0.0 dotpay.pocztapolska48.com
+0.0.0.0 dotpay.pocztexpolska48.net
 0.0.0.0 dotpay.pocztexpolska.org
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.pocztex-poland.net
@@ -5311,6 +5317,7 @@
 0.0.0.0 e-przesylki.com
 0.0.0.0 e-przysietnica.pl
 0.0.0.0 e-radom.xyz
+0.0.0.0 e-rzeszow.xyz
 0.0.0.0 e-solutions.com.pe
 0.0.0.0 e-sosnowiec.xyz
 0.0.0.0 e-support.xyz
@@ -6102,9 +6109,20 @@
 0.0.0.0 inpost.oferda-pl.space
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-web.site
+0.0.0.0 inpost.pl-safebuy.icu
 0.0.0.0 inpost.pl-safebuy.shop
 0.0.0.0 inpost.pl-safebuy.work
+0.0.0.0 inpost.pl-safebuyed.shop
+0.0.0.0 inpost.pl-safebuyed.work
+0.0.0.0 inpost.pl-safebuyed.xyz
+0.0.0.0 inpost.pl-safebuys.club
+0.0.0.0 inpost.pl-safebuys.cyou
+0.0.0.0 inpost.pl-safebuys.shop
 0.0.0.0 inpost.pl-safebuys.work
+0.0.0.0 inpost.pl-savebuys.club
+0.0.0.0 inpost.pl-savebuys.cyou
+0.0.0.0 inpost.pl-savebuys.icu
+0.0.0.0 inpost.pl-savebuys.shop
 0.0.0.0 inpost.pl-savedcashes.club
 0.0.0.0 inpost.pl-savedmoney.icu
 0.0.0.0 inpost.pl-savedmoney.shop
@@ -6737,6 +6755,7 @@
 0.0.0.0 miastowe24.pl
 0.0.0.0 michasiapaczka.org
 0.0.0.0 michorzewski.pl
+0.0.0.0 microsoftserviceautheticationteam.weebly.com
 0.0.0.0 microsoft-o365-outlook.ts.r.appspot.com
 0.0.0.0 microsoft-secure-online.oa.r.appspot.com
 0.0.0.0 miejskagazeta.online
@@ -7455,12 +7474,22 @@
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-oplata-cash.xyz
+0.0.0.0 olx.pl-safebuy.icu
 0.0.0.0 olx.pl-safebuy.shop
 0.0.0.0 olx.pl-safebuy.work
 0.0.0.0 olx.pl-safebuy.xyz
 0.0.0.0 olx.pl-safebuyed.icu
+0.0.0.0 olx.pl-safebuyed.shop
+0.0.0.0 olx.pl-safebuyed.xyz
 0.0.0.0 olx.pl-safebuys.cyou
 0.0.0.0 olx.pl-safebuys.icu
+0.0.0.0 olx.pl-safe.oferta-payment.stream
+0.0.0.0 olx.pl-savebuys.club
+0.0.0.0 olx.pl-savebuys.cyou
+0.0.0.0 olx.pl-savebuys.icu
+0.0.0.0 olx.pl-savebuys.shop
+0.0.0.0 olx.pl-savebuys.work
+0.0.0.0 olx.pl-savebuys.xyz
 0.0.0.0 olx.pl-savedmoney.shop
 0.0.0.0 olx.pl-savedmoney.work
 0.0.0.0 olx.pl.get.oferta-payment.technology
@@ -10083,6 +10112,7 @@
 0.0.0.0 www.catsplit.pl
 0.0.0.0 www.cats.ugu.pl
 0.0.0.0 www.cbdnewsdirect.com
+0.0.0.0 www.cc73817.tmweb.ru
 0.0.0.0 www.cco0.cc
 0.0.0.0 www.ccpgotofuture.ru
 0.0.0.0 www.ccsms.in
@@ -10430,6 +10460,7 @@
 0.0.0.0 www.dotarlibysmydoniego.cyou
 0.0.0.0 www.dotpay1.pl
 0.0.0.0 www.dotpay.pocztapolska48.com
+0.0.0.0 www.dotpay.pocztexpolska48.net
 0.0.0.0 www.dotpay.pocztexpolska.org
 0.0.0.0 www.downloadfiles.pl
 0.0.0.0 www.download.inboxace.com
@@ -11537,6 +11568,7 @@
 0.0.0.0 www.miastowe24.pl
 0.0.0.0 www.michasiapaczka.org
 0.0.0.0 www.michorzewski.pl
+0.0.0.0 www.microsoftserviceautheticationteam.weebly.com
 0.0.0.0 www.miejskagazeta.online
 0.0.0.0 www.miejskie24.gpe.pl
 0.0.0.0 www.miejskiportal.eu
@@ -13862,6 +13894,7 @@
 0.0.0.0 www.e-przesylki.com
 0.0.0.0 www.e-przysietnica.pl
 0.0.0.0 www.e-radom.xyz
+0.0.0.0 www.e-rzeszow.xyz
 0.0.0.0 www.e-solutions.com.pe
 0.0.0.0 www.e-sosnowiec.xyz
 0.0.0.0 www.e-support.xyz
@@ -14120,9 +14153,20 @@
 0.0.0.0 www.inpost.oferda-pl.space
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-web.site
+0.0.0.0 www.inpost.pl-safebuy.icu
 0.0.0.0 www.inpost.pl-safebuy.shop
 0.0.0.0 www.inpost.pl-safebuy.work
+0.0.0.0 www.inpost.pl-safebuyed.shop
+0.0.0.0 www.inpost.pl-safebuyed.work
+0.0.0.0 www.inpost.pl-safebuyed.xyz
+0.0.0.0 www.inpost.pl-safebuys.club
+0.0.0.0 www.inpost.pl-safebuys.cyou
+0.0.0.0 www.inpost.pl-safebuys.shop
 0.0.0.0 www.inpost.pl-safebuys.work
+0.0.0.0 www.inpost.pl-savebuys.club
+0.0.0.0 www.inpost.pl-savebuys.cyou
+0.0.0.0 www.inpost.pl-savebuys.icu
+0.0.0.0 www.inpost.pl-savebuys.shop
 0.0.0.0 www.inpost.pl-savedcashes.club
 0.0.0.0 www.inpost.pl-savedmoney.icu
 0.0.0.0 www.inpost.pl-savedmoney.shop
@@ -14638,12 +14682,22 @@
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-oplata-cash.xyz
+0.0.0.0 www.olx.pl-safebuy.icu
 0.0.0.0 www.olx.pl-safebuy.shop
 0.0.0.0 www.olx.pl-safebuy.work
 0.0.0.0 www.olx.pl-safebuy.xyz
 0.0.0.0 www.olx.pl-safebuyed.icu
+0.0.0.0 www.olx.pl-safebuyed.shop
+0.0.0.0 www.olx.pl-safebuyed.xyz
 0.0.0.0 www.olx.pl-safebuys.cyou
 0.0.0.0 www.olx.pl-safebuys.icu
+0.0.0.0 www.olx.pl-safe.oferta-payment.stream
+0.0.0.0 www.olx.pl-savebuys.club
+0.0.0.0 www.olx.pl-savebuys.cyou
+0.0.0.0 www.olx.pl-savebuys.icu
+0.0.0.0 www.olx.pl-savebuys.shop
+0.0.0.0 www.olx.pl-savebuys.work
+0.0.0.0 www.olx.pl-savebuys.xyz
 0.0.0.0 www.olx.pl-savedmoney.shop
 0.0.0.0 www.olx.pl-savedmoney.work
 0.0.0.0 www.olx.pl.get.oferta-payment.technology
