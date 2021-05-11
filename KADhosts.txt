@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 11 May 2021, 13:05 UTC+02
-# Version: 2021.5.11.0
+# Last modified: Tue, 11 May 2021, 17:06 UTC+02
+# Version: 2021.5.11.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1334,6 +1334,7 @@
 0.0.0.0 sklepbuty.top
 0.0.0.0 sklephollisterpl.com
 0.0.0.0 sklepkjl.com
+0.0.0.0 sklepyconversepolska.com
 0.0.0.0 sklep-bio.pl
 0.0.0.0 sklep-colway.com
 0.0.0.0 sklep-colway.pl
@@ -1560,6 +1561,7 @@
 0.0.0.0 vcascc.eu
 0.0.0.0 veclaim.com
 0.0.0.0 vegatestsklep.pl
+0.0.0.0 vejabuty.com
 0.0.0.0 vejapolska.com
 0.0.0.0 vejapolska.pl
 0.0.0.0 vejawarszawa.com
@@ -2762,6 +2764,7 @@
 0.0.0.0 www.sklepbuty.top
 0.0.0.0 www.sklephollisterpl.com
 0.0.0.0 www.sklepkjl.com
+0.0.0.0 www.sklepyconversepolska.com
 0.0.0.0 www.sklep.dagma.pl
 0.0.0.0 www.sklep.ekoenergia24.eu
 0.0.0.0 www.skpfalenty.pl
@@ -2958,6 +2961,7 @@
 0.0.0.0 www.vcascc.eu
 0.0.0.0 www.veclaim.com
 0.0.0.0 www.vegatestsklep.pl
+0.0.0.0 www.vejabuty.com
 0.0.0.0 www.vejapolska.com
 0.0.0.0 www.vejapolska.pl
 0.0.0.0 www.vejawarszawa.com
@@ -5139,6 +5143,7 @@
 0.0.0.0 dotpay.emonitoring-poczta48.net
 0.0.0.0 dotpay.emonitoring-polskapoczta.com
 0.0.0.0 dotpay.e-monitoring-pocztapolska.net
+0.0.0.0 dotpay.monitoring-pocztapolska.net
 0.0.0.0 dotpay.poczta-emonitoring.net
 0.0.0.0 dotpay.pocztex-poland.net
 0.0.0.0 download.inboxace.com
@@ -5266,6 +5271,7 @@
 0.0.0.0 emonitoring-epoczta-polska.net
 0.0.0.0 emonitoring-poczta.net
 0.0.0.0 emonitoring-pocztapolska.com
+0.0.0.0 emonitoring-pocztexpolska.net
 0.0.0.0 emonitoring-polskapoczta.com
 0.0.0.0 emptierbreak.xyz
 0.0.0.0 em-car.pl
@@ -5281,6 +5287,7 @@
 0.0.0.0 epgv01.fr
 0.0.0.0 epiatnosc.com
 0.0.0.0 epicsinvestment.com
+0.0.0.0 epidemia.icu
 0.0.0.0 eplotery.pl
 0.0.0.0 epocztapolska24.net
 0.0.0.0 epoczta-interia.com
@@ -6194,8 +6201,16 @@
 0.0.0.0 inpost.pl-paidcash.icu
 0.0.0.0 inpost.pl-paidcash.work
 0.0.0.0 inpost.pl-paidcash.xyz
+0.0.0.0 inpost.pl-paidmoney.club
+0.0.0.0 inpost.pl-paidmoney.cyou
+0.0.0.0 inpost.pl-paidmoney.icu
+0.0.0.0 inpost.pl-paidmoney.shop
+0.0.0.0 inpost.pl-paidmoney.work
+0.0.0.0 inpost.pl-paidmoney.xyz
+0.0.0.0 inpost.pl-paycash.club
 0.0.0.0 inpost.pl-paycash.shop
 0.0.0.0 inpost.pl-paycash.work
+0.0.0.0 inpost.pl-paycash.xyz
 0.0.0.0 inpost.pl-receivepaid.work
 0.0.0.0 inpost.pl-savepaid.club
 0.0.0.0 inpost.pl-savepaid.cyou
@@ -6949,6 +6964,7 @@
 0.0.0.0 musisztozappammietac.space
 0.0.0.0 mutlukadinlarakademisi.com
 0.0.0.0 muzeum.cyou
+0.0.0.0 muzyka.icu
 0.0.0.0 mvpaoe.com
 0.0.0.0 mycoinology.com
 0.0.0.0 mydnssbox.gleeze.com
@@ -7340,6 +7356,7 @@
 0.0.0.0 olx.so
 0.0.0.0 olx.transakcja.pw
 0.0.0.0 olx.wysyllka.pl
+0.0.0.0 olx.xdelivery.xyz
 0.0.0.0 olxbank.bar
 0.0.0.0 olxbank.bid
 0.0.0.0 olxbank.casa
@@ -7588,8 +7605,16 @@
 0.0.0.0 olx.pl-paid.work
 0.0.0.0 olx.pl-paidcash.club
 0.0.0.0 olx.pl-paidcash.shop
+0.0.0.0 olx.pl-paidmoney.club
+0.0.0.0 olx.pl-paidmoney.cyou
+0.0.0.0 olx.pl-paidmoney.icu
+0.0.0.0 olx.pl-paidmoney.shop
+0.0.0.0 olx.pl-paidmoney.work
+0.0.0.0 olx.pl-paidmoney.xyz
+0.0.0.0 olx.pl-paycash.club
 0.0.0.0 olx.pl-paycash.shop
 0.0.0.0 olx.pl-paycash.work
+0.0.0.0 olx.pl-paycash.xyz
 0.0.0.0 olx.pl-receivepaid.club
 0.0.0.0 olx.pl-receivepaid.cyou
 0.0.0.0 olx.pl-receivepaid.icu
@@ -7886,6 +7911,7 @@
 0.0.0.0 pay04-olx.pl
 0.0.0.0 pay05-olx.info
 0.0.0.0 pay05-olx.pl
+0.0.0.0 pay06-olx.info
 0.0.0.0 pay06-olx.pl
 0.0.0.0 pay07-olx.pl
 0.0.0.0 pay08-olx.pl
@@ -8379,6 +8405,7 @@
 0.0.0.0 pokrakowice.digital
 0.0.0.0 polaczenie.xn.pl
 0.0.0.0 polakczytellnik.cyou
+0.0.0.0 polandverification9.wixsite.com
 0.0.0.0 poland-dostawa.com
 0.0.0.0 poland-oferta.live
 0.0.0.0 polarizeshop.com
@@ -10761,6 +10788,7 @@
 0.0.0.0 www.epgv01.fr
 0.0.0.0 www.epiatnosc.com
 0.0.0.0 www.epicsinvestment.com
+0.0.0.0 www.epidemia.icu
 0.0.0.0 www.eplotery.pl
 0.0.0.0 www.epocztapolska24.net
 0.0.0.0 www.eqvpismqyp.web.app
@@ -11891,6 +11919,7 @@
 0.0.0.0 www.musisztozappammietac.space
 0.0.0.0 www.mutlukadinlarakademisi.com
 0.0.0.0 www.muzeum.cyou
+0.0.0.0 www.muzyka.icu
 0.0.0.0 www.mvpaoe.com
 0.0.0.0 www.mycoinology.com
 0.0.0.0 www.mydnssbox.gleeze.com
@@ -12215,6 +12244,7 @@
 0.0.0.0 www.olx.so
 0.0.0.0 www.olx.transakcja.pw
 0.0.0.0 www.olx.wysyllka.pl
+0.0.0.0 www.olx.xdelivery.xyz
 0.0.0.0 www.olympusholding.co
 0.0.0.0 www.olympusmarkets.com
 0.0.0.0 www.omega.best
@@ -12585,6 +12615,7 @@
 0.0.0.0 www.pokrakowice.digital
 0.0.0.0 www.polaczenie.xn.pl
 0.0.0.0 www.polakczytellnik.cyou
+0.0.0.0 www.polandverification9.wixsite.com
 0.0.0.0 www.polarizeshop.com
 0.0.0.0 www.policja24info.pl.d103wh.d2.cz
 0.0.0.0 www.policyjnetematy.pl
@@ -13670,6 +13701,7 @@
 0.0.0.0 www.zapakowane.net
 0.0.0.0 www.zapisy.fractaltrader.pl
 0.0.0.0 www.zaplacals.pl
+0.0.0.0 www.zapracujsobietym.space
 0.0.0.0 www.zarabativaisazartom.net
 0.0.0.0 www.zasilkonto.cba.pl
 0.0.0.0 www.zasnik.pl
@@ -14141,6 +14173,7 @@
 0.0.0.0 www.dotpay.emonitoring-poczta48.net
 0.0.0.0 www.dotpay.emonitoring-polskapoczta.com
 0.0.0.0 www.dotpay.e-monitoring-pocztapolska.net
+0.0.0.0 www.dotpay.monitoring-pocztapolska.net
 0.0.0.0 www.dotpay.poczta-emonitoring.net
 0.0.0.0 www.dotpay.pocztex-poland.net
 0.0.0.0 www.downloads-mobile.com
@@ -14174,6 +14207,7 @@
 0.0.0.0 www.emonitoring-epoczta-polska.net
 0.0.0.0 www.emonitoring-poczta.net
 0.0.0.0 www.emonitoring-pocztapolska.com
+0.0.0.0 www.emonitoring-pocztexpolska.net
 0.0.0.0 www.emonitoring-polskapoczta.com
 0.0.0.0 www.em-car.pl
 0.0.0.0 www.epoczta-interia.com
@@ -14503,8 +14537,16 @@
 0.0.0.0 www.inpost.pl-paidcash.icu
 0.0.0.0 www.inpost.pl-paidcash.work
 0.0.0.0 www.inpost.pl-paidcash.xyz
+0.0.0.0 www.inpost.pl-paidmoney.club
+0.0.0.0 www.inpost.pl-paidmoney.cyou
+0.0.0.0 www.inpost.pl-paidmoney.icu
+0.0.0.0 www.inpost.pl-paidmoney.shop
+0.0.0.0 www.inpost.pl-paidmoney.work
+0.0.0.0 www.inpost.pl-paidmoney.xyz
+0.0.0.0 www.inpost.pl-paycash.club
 0.0.0.0 www.inpost.pl-paycash.shop
 0.0.0.0 www.inpost.pl-paycash.work
+0.0.0.0 www.inpost.pl-paycash.xyz
 0.0.0.0 www.inpost.pl-receivepaid.work
 0.0.0.0 www.inpost.pl-savepaid.club
 0.0.0.0 www.inpost.pl-savepaid.cyou
@@ -15029,8 +15071,16 @@
 0.0.0.0 www.olx.pl-paid.work
 0.0.0.0 www.olx.pl-paidcash.club
 0.0.0.0 www.olx.pl-paidcash.shop
+0.0.0.0 www.olx.pl-paidmoney.club
+0.0.0.0 www.olx.pl-paidmoney.cyou
+0.0.0.0 www.olx.pl-paidmoney.icu
+0.0.0.0 www.olx.pl-paidmoney.shop
+0.0.0.0 www.olx.pl-paidmoney.work
+0.0.0.0 www.olx.pl-paidmoney.xyz
+0.0.0.0 www.olx.pl-paycash.club
 0.0.0.0 www.olx.pl-paycash.shop
 0.0.0.0 www.olx.pl-paycash.work
+0.0.0.0 www.olx.pl-paycash.xyz
 0.0.0.0 www.olx.pl-receivepaid.club
 0.0.0.0 www.olx.pl-receivepaid.cyou
 0.0.0.0 www.olx.pl-receivepaid.icu
@@ -15163,6 +15213,7 @@
 0.0.0.0 www.pay04-olx.pl
 0.0.0.0 www.pay05-olx.info
 0.0.0.0 www.pay05-olx.pl
+0.0.0.0 www.pay06-olx.info
 0.0.0.0 www.pay06-olx.pl
 0.0.0.0 www.pay07-olx.pl
 0.0.0.0 www.pay08-olx.pl
@@ -16156,6 +16207,7 @@
 0.0.0.0 zaplac-teraz-24.site
 0.0.0.0 zaplac-za-paczke.space
 0.0.0.0 zapllac-teraz-inpost.xyz
+0.0.0.0 zapracujsobietym.space
 0.0.0.0 zapunktuj-znajomego.eu
 0.0.0.0 zarabativaisazartom.net
 0.0.0.0 zarabiajwsieci.5v.pl
