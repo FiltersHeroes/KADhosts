@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 13 May 2021, 13:06 UTC+02
-# Version: 2021.5.13.0
+# Last modified: Thu, 13 May 2021, 17:05 UTC+02
+# Version: 2021.5.13.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -220,6 +220,7 @@
 0.0.0.0 butykeenpolska.com
 0.0.0.0 butymartensy.com
 0.0.0.0 butymizunopolska.com
+0.0.0.0 butyonrunning.com
 0.0.0.0 butyplsklep.com
 0.0.0.0 butypremium.pl
 0.0.0.0 butyreebokonline.pl
@@ -1509,6 +1510,7 @@
 0.0.0.0 tradecompany.pl
 0.0.0.0 trampkiconverse.com
 0.0.0.0 trampkisuperga.pl
+0.0.0.0 trampoliny260.com
 0.0.0.0 transeuropaferries.pl
 0.0.0.0 trapez-sc.pl
 0.0.0.0 trella.com.pl
@@ -1800,6 +1802,7 @@
 0.0.0.0 www.butykeenpolska.com
 0.0.0.0 www.butymartensy.com
 0.0.0.0 www.butymizunopolska.com
+0.0.0.0 www.butyonrunning.com
 0.0.0.0 www.butyplsklep.com
 0.0.0.0 www.butypremium.pl
 0.0.0.0 www.butyreebokonline.pl
@@ -2918,6 +2921,7 @@
 0.0.0.0 www.tradecompany.pl
 0.0.0.0 www.trampkiconverse.com
 0.0.0.0 www.trampkisuperga.pl
+0.0.0.0 www.trampoliny260.com
 0.0.0.0 www.transeuropaferries.pl
 0.0.0.0 www.trella.com.pl
 0.0.0.0 www.tresurapsow.com.pl
@@ -4187,6 +4191,7 @@
 0.0.0.0 allegrolokaline.club
 0.0.0.0 allegrolokalnie.gifts
 0.0.0.0 allegrolokalnie.ink
+0.0.0.0 allegrolokalnie.site
 0.0.0.0 allegrolokalnii.digital
 0.0.0.0 allegropayu.com
 0.0.0.0 allegrosmart.net
@@ -5067,6 +5072,7 @@
 0.0.0.0 doladujfona.org
 0.0.0.0 dolozswojacegiellke.cyou
 0.0.0.0 domain-registration.me
+0.0.0.0 domappchecknwas20.web.app
 0.0.0.0 domena-informacyjna.dkonto.pl
 0.0.0.0 domgoralskispa.pl
 0.0.0.0 domki-kopalino.com.pl
@@ -5148,7 +5154,9 @@
 0.0.0.0 dotpay.pocztexpolska.org
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.emonitoring-poczta.net
+0.0.0.0 dotpay.emonitoring-poczta24polska.net
 0.0.0.0 dotpay.emonitoring-poczta48.net
+0.0.0.0 dotpay.emonitoring-pocztapl24.net
 0.0.0.0 dotpay.emonitoring-pocztapolska.org
 0.0.0.0 dotpay.emonitoring-pocztexpolska.com
 0.0.0.0 dotpay.emonitoring-polskapoczta.com
@@ -5281,8 +5289,11 @@
 0.0.0.0 emonitoringpoczta.net
 0.0.0.0 emonitoring-epoczta-polska.net
 0.0.0.0 emonitoring-poczta.net
+0.0.0.0 emonitoring-poczta24polska.net
+0.0.0.0 emonitoring-pocztapl24.net
 0.0.0.0 emonitoring-pocztapolska.com
 0.0.0.0 emonitoring-pocztapolska.org
+0.0.0.0 emonitoring-pocztex24polska.net
 0.0.0.0 emonitoring-pocztexpolska.com
 0.0.0.0 emonitoring-pocztexpolska.net
 0.0.0.0 emonitoring-polskapoczta.com
@@ -6212,6 +6223,7 @@
 0.0.0.0 inpost.pl-getdelivery.club
 0.0.0.0 inpost.pl-getpaid.cyou
 0.0.0.0 inpost.pl-getpaid.work
+0.0.0.0 inpost.pl-orderpaid.xyz
 0.0.0.0 inpost.pl-orderpays.work
 0.0.0.0 inpost.pl-paid.club
 0.0.0.0 inpost.pl-paid.cyou
@@ -7081,11 +7093,13 @@
 0.0.0.0 naszemiasto-informacje24.eu
 0.0.0.0 naszepanstwo.xyz
 0.0.0.0 naszepieknemiasstto.site
+0.0.0.0 naszetv.pl
 0.0.0.0 naszewiadomosci.site
 0.0.0.0 naszewiadomosci.xyz
 0.0.0.0 naszezabrze.online
 0.0.0.0 nasze-miasta24tv.online
 0.0.0.0 nasze-miasto.k99k.com.pl
+0.0.0.0 nasze-tv.pl
 0.0.0.0 nasze-usg.pl
 0.0.0.0 naszglos24.laohost.net
 0.0.0.0 naszpolskiswiat.icu
@@ -7652,7 +7666,12 @@
 0.0.0.0 olx.pl-getpaid.shop
 0.0.0.0 olx.pl-getpaid.work
 0.0.0.0 olx.pl-getpaid.xyz
+0.0.0.0 olx.pl-orderpaid.icu
+0.0.0.0 olx.pl-orderpaid.work
+0.0.0.0 olx.pl-orderpaid.xyz
 0.0.0.0 olx.pl-orderpays.cyou
+0.0.0.0 olx.pl-orderpays.shop
+0.0.0.0 olx.pl-orderpays.work
 0.0.0.0 olx.pl-paid.cyou
 0.0.0.0 olx.pl-paid.work
 0.0.0.0 olx.pl-paidcash.club
@@ -8856,6 +8875,7 @@
 0.0.0.0 realinvestment.pl
 0.0.0.0 realnyzarobek.pl
 0.0.0.0 realsson.com
+0.0.0.0 recommendtent.xyz
 0.0.0.0 redakcjadllapommocy.site
 0.0.0.0 redirecting.pl
 0.0.0.0 redquantum.com.pl
@@ -9179,6 +9199,7 @@
 0.0.0.0 smsinf.org
 0.0.0.0 smsnn.in
 0.0.0.0 smsoo.in
+0.0.0.0 smsto.in
 0.0.0.0 smsxx.in
 0.0.0.0 smsy24.pl
 0.0.0.0 smszo.in
@@ -9782,6 +9803,7 @@
 0.0.0.0 versacesklep.com
 0.0.0.0 versales.xyz
 0.0.0.0 vesen.xyz
+0.0.0.0 vfy-wmail.web.app
 0.0.0.0 vgdny.com
 0.0.0.0 vidalyasociados.com
 0.0.0.0 videoplanet.pl
@@ -9789,6 +9811,7 @@
 0.0.0.0 vidplayer.pl
 0.0.0.0 vikingradom.freehost.pl
 0.0.0.0 vikmar.com.pl
+0.0.0.0 vinted.cc
 0.0.0.0 viralka.pl
 0.0.0.0 visa-payment.sytes.net
 0.0.0.0 visitoronearthxrussellathletic.xyz
@@ -10082,6 +10105,7 @@
 0.0.0.0 www.allegrolokaline.club
 0.0.0.0 www.allegrolokalnie.gifts
 0.0.0.0 www.allegrolokalnie.ink
+0.0.0.0 www.allegrolokalnie.site
 0.0.0.0 www.allegrolokalnii.digital
 0.0.0.0 www.allegropayu.com
 0.0.0.0 www.allegrosmart.net
@@ -10740,6 +10764,7 @@
 0.0.0.0 www.dokonczstyuuajcietv.cyou
 0.0.0.0 www.doladujfona.org
 0.0.0.0 www.dolozswojacegiellke.cyou
+0.0.0.0 www.domappchecknwas20.web.app
 0.0.0.0 www.domgoralskispa.pl
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.dont.pl
@@ -12077,6 +12102,7 @@
 0.0.0.0 www.naszemiasto.dkonto.pl
 0.0.0.0 www.naszepanstwo.xyz
 0.0.0.0 www.naszepieknemiasstto.site
+0.0.0.0 www.naszetv.pl
 0.0.0.0 www.naszewiadomosci.site
 0.0.0.0 www.naszewiadomosci.xyz
 0.0.0.0 www.naszezabrze.online
@@ -12993,6 +13019,7 @@
 0.0.0.0 www.realinvestment.pl
 0.0.0.0 www.realnyzarobek.pl
 0.0.0.0 www.realsson.com
+0.0.0.0 www.recommendtent.xyz
 0.0.0.0 www.redakcjadllapommocy.site
 0.0.0.0 www.redirecting.pl
 0.0.0.0 www.redquantum.com.pl
@@ -13189,6 +13216,7 @@
 0.0.0.0 www.smsinf.org
 0.0.0.0 www.smsnn.in
 0.0.0.0 www.smsoo.in
+0.0.0.0 www.smsto.in
 0.0.0.0 www.smsxx.in
 0.0.0.0 www.smsy24.pl
 0.0.0.0 www.smszo.in
@@ -13615,6 +13643,7 @@
 0.0.0.0 www.vidplayer.pl
 0.0.0.0 www.vikingradom.freehost.pl
 0.0.0.0 www.vikmar.com.pl
+0.0.0.0 www.vinted.cc
 0.0.0.0 www.viralka.pl
 0.0.0.0 www.visitoronearthxrussellathletic.xyz
 0.0.0.0 www.viskio.xyz
@@ -14306,7 +14335,9 @@
 0.0.0.0 www.dostawy-dhl.com
 0.0.0.0 www.dostaw-safety.com
 0.0.0.0 www.dotpay.emonitoring-poczta.net
+0.0.0.0 www.dotpay.emonitoring-poczta24polska.net
 0.0.0.0 www.dotpay.emonitoring-poczta48.net
+0.0.0.0 www.dotpay.emonitoring-pocztapl24.net
 0.0.0.0 www.dotpay.emonitoring-pocztapolska.org
 0.0.0.0 www.dotpay.emonitoring-pocztexpolska.com
 0.0.0.0 www.dotpay.emonitoring-polskapoczta.com
@@ -14345,8 +14376,11 @@
 0.0.0.0 www.emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.emonitoring-epoczta-polska.net
 0.0.0.0 www.emonitoring-poczta.net
+0.0.0.0 www.emonitoring-poczta24polska.net
+0.0.0.0 www.emonitoring-pocztapl24.net
 0.0.0.0 www.emonitoring-pocztapolska.com
 0.0.0.0 www.emonitoring-pocztapolska.org
+0.0.0.0 www.emonitoring-pocztex24polska.net
 0.0.0.0 www.emonitoring-pocztexpolska.com
 0.0.0.0 www.emonitoring-pocztexpolska.net
 0.0.0.0 www.emonitoring-polskapoczta.com
@@ -14671,6 +14705,7 @@
 0.0.0.0 www.inpost.pl-getdelivery.club
 0.0.0.0 www.inpost.pl-getpaid.cyou
 0.0.0.0 www.inpost.pl-getpaid.work
+0.0.0.0 www.inpost.pl-orderpaid.xyz
 0.0.0.0 www.inpost.pl-orderpays.work
 0.0.0.0 www.inpost.pl-paid.club
 0.0.0.0 www.inpost.pl-paid.cyou
@@ -14939,6 +14974,7 @@
 0.0.0.0 www.naszemiasto-informacje24.eu
 0.0.0.0 www.nasze-miasta24tv.online
 0.0.0.0 www.nasze-miasto.k99k.com.pl
+0.0.0.0 www.nasze-tv.pl
 0.0.0.0 www.nasze-usg.pl
 0.0.0.0 www.nasz--kraj-info.x9.eu
 0.0.0.0 www.naturalna-selekcja.eu
@@ -15225,7 +15261,12 @@
 0.0.0.0 www.olx.pl-getpaid.shop
 0.0.0.0 www.olx.pl-getpaid.work
 0.0.0.0 www.olx.pl-getpaid.xyz
+0.0.0.0 www.olx.pl-orderpaid.icu
+0.0.0.0 www.olx.pl-orderpaid.work
+0.0.0.0 www.olx.pl-orderpaid.xyz
 0.0.0.0 www.olx.pl-orderpays.cyou
+0.0.0.0 www.olx.pl-orderpays.shop
+0.0.0.0 www.olx.pl-orderpays.work
 0.0.0.0 www.olx.pl-paid.cyou
 0.0.0.0 www.olx.pl-paid.work
 0.0.0.0 www.olx.pl-paidcash.club
@@ -16075,6 +16116,7 @@
 0.0.0.0 www.uzyskac-olx.xyz
 0.0.0.0 www.validate-837a3.web.app
 0.0.0.0 www.verify-updatebfkmhgshgs.moonfruit.com
+0.0.0.0 www.vfy-wmail.web.app
 0.0.0.0 www.visa-payment.sytes.net
 0.0.0.0 www.vod-box.pl
 0.0.0.0 www.vod-play.pl
