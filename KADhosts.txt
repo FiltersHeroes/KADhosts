@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 13 May 2021, 21:05 UTC+02
-# Version: 2021.5.13.2
+# Last modified: Fri, 14 May 2021, 13:06 UTC+02
+# Version: 2021.5.14.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -281,6 +281,7 @@
 0.0.0.0 circlescatfish.com
 0.0.0.0 cityodyssey.com
 0.0.0.0 cksserock.pl
+0.0.0.0 clarkssklep.co
 0.0.0.0 clarkswyprzedaz.com
 0.0.0.0 closiv.com
 0.0.0.0 cloudtokenwallet.com
@@ -398,6 +399,7 @@
 0.0.0.0 eccobutypolska.com
 0.0.0.0 eccoeustore.com
 0.0.0.0 eccopoland.com
+0.0.0.0 eccowyprzedaz.com
 0.0.0.0 ecco-polska.pl
 0.0.0.0 ecolife-home.com.pl
 0.0.0.0 ecoslimmer.pro
@@ -1180,6 +1182,7 @@
 0.0.0.0 prokino.pl
 0.0.0.0 promeblemania.pl
 0.0.0.0 promocjaeuro.pl
+0.0.0.0 promocjavan.com
 0.0.0.0 proobuwie.pl
 0.0.0.0 protesttaxi.pl
 0.0.0.0 przedszkolefalenty.pl
@@ -1857,6 +1860,7 @@
 0.0.0.0 www.circlescatfish.com
 0.0.0.0 www.cityodyssey.com
 0.0.0.0 www.cksserock.pl
+0.0.0.0 www.clarkssklep.co
 0.0.0.0 www.clarkswyprzedaz.com
 0.0.0.0 www.closiv.com
 0.0.0.0 www.cloudtokenwallet.com
@@ -1958,6 +1962,7 @@
 0.0.0.0 www.eccobuty.co
 0.0.0.0 www.eccoeustore.com
 0.0.0.0 www.eccopoland.com
+0.0.0.0 www.eccowyprzedaz.com
 0.0.0.0 www.ecoslimmer.pro
 0.0.0.0 www.eduhull.pl
 0.0.0.0 www.edumedix.pl
@@ -2632,6 +2637,7 @@
 0.0.0.0 www.prokino.pl
 0.0.0.0 www.promeblemania.pl
 0.0.0.0 www.promocjaeuro.pl
+0.0.0.0 www.promocjavan.com
 0.0.0.0 www.proobuwie.pl
 0.0.0.0 www.protesttaxi.pl
 0.0.0.0 www.przedszkolefalenty.pl
@@ -4879,6 +4885,7 @@
 0.0.0.0 czymsiezajmujebiznes.cyou
 0.0.0.0 czyn-pomocy.eu
 0.0.0.0 czyscidlo.pl
+0.0.0.0 czytanie.site
 0.0.0.0 czytelnikpoliska.club
 0.0.0.0 czytooszustwo.pl
 0.0.0.0 d0stawadhi.com
@@ -4992,6 +4999,7 @@
 0.0.0.0 dellivery-safe.info
 0.0.0.0 dellivery-safe.org
 0.0.0.0 del-sieradz.neostrada.pl
+0.0.0.0 demo.interlab.online
 0.0.0.0 demo.website.pl
 0.0.0.0 dentalsearchsolutions.com
 0.0.0.0 dentystarzeszow.com.pl
@@ -5161,6 +5169,7 @@
 0.0.0.0 dotpay.emonitoring-poczta.net
 0.0.0.0 dotpay.emonitoring-poczta24polska.net
 0.0.0.0 dotpay.emonitoring-poczta48.net
+0.0.0.0 dotpay.emonitoring-poczta247.net
 0.0.0.0 dotpay.emonitoring-pocztapl24.net
 0.0.0.0 dotpay.emonitoring-pocztapolska.org
 0.0.0.0 dotpay.emonitoring-pocztexpolska.com
@@ -5295,6 +5304,7 @@
 0.0.0.0 emonitoring-epoczta-polska.net
 0.0.0.0 emonitoring-poczta.net
 0.0.0.0 emonitoring-poczta24polska.net
+0.0.0.0 emonitoring-poczta247.net
 0.0.0.0 emonitoring-pocztapl24.net
 0.0.0.0 emonitoring-pocztapolska.com
 0.0.0.0 emonitoring-pocztapolska.org
@@ -6164,6 +6174,10 @@
 0.0.0.0 inpost.moferta.xyz
 0.0.0.0 inpost.name
 0.0.0.0 inpost.olxkonstos.cyou
+0.0.0.0 inpost.olxkontosos.casa
+0.0.0.0 inpost.olxkontosos.cyou
+0.0.0.0 inpost.olxkontosos.shop
+0.0.0.0 inpost.olxkontosos.xyz
 0.0.0.0 inpost.page
 0.0.0.0 inpost.payouts.xyz
 0.0.0.0 inpost.plkonstosa.xyz
@@ -6229,6 +6243,9 @@
 0.0.0.0 inpost.pl-getdelivery.club
 0.0.0.0 inpost.pl-getpaid.cyou
 0.0.0.0 inpost.pl-getpaid.work
+0.0.0.0 inpost.pl-gotpaid.club
+0.0.0.0 inpost.pl-gotpaid.work
+0.0.0.0 inpost.pl-gotpaid.xyz
 0.0.0.0 inpost.pl-orderpaid.cyou
 0.0.0.0 inpost.pl-orderpaid.icu
 0.0.0.0 inpost.pl-orderpaid.work
@@ -6456,6 +6473,7 @@
 0.0.0.0 karolbus.pl
 0.0.0.0 kartawire.pl
 0.0.0.0 karta-swiateczna.eu
+0.0.0.0 karteli.xyz
 0.0.0.0 kasa-sms.pl
 0.0.0.0 kasiapaczka.com
 0.0.0.0 kasiapaczka.org
@@ -6561,6 +6579,7 @@
 0.0.0.0 krajowe24.com
 0.0.0.0 krajpolska.eu
 0.0.0.0 krajpolska24.eu
+0.0.0.0 krasovice.xyz
 0.0.0.0 krecisztosamm.online
 0.0.0.0 kredyt24.biz
 0.0.0.0 kristen.store
@@ -7412,6 +7431,10 @@
 0.0.0.0 olx.olxkonstos.casa
 0.0.0.0 olx.olxkonstos.club
 0.0.0.0 olx.olxkonstos.work
+0.0.0.0 olx.olxkontosos.casa
+0.0.0.0 olx.olxkontosos.cyou
+0.0.0.0 olx.olxkontosos.shop
+0.0.0.0 olx.olxkontosos.xyz
 0.0.0.0 olx.orderpl.club
 0.0.0.0 olx.paymenting.pl
 0.0.0.0 olx.pink
@@ -7575,6 +7598,7 @@
 0.0.0.0 olx-paystatus.com
 0.0.0.0 olx-pay-dk.online
 0.0.0.0 olx-pay-pl.su
+0.0.0.0 olx-pay.myitem-items.pw
 0.0.0.0 olx-pl.cc
 0.0.0.0 olx-pl.depget.com
 0.0.0.0 olx-pl.eu
@@ -7678,6 +7702,7 @@
 0.0.0.0 olx.pl-getpaid.xyz
 0.0.0.0 olx.pl-gotpaid.cyou
 0.0.0.0 olx.pl-gotpaid.icu
+0.0.0.0 olx.pl-gotpaid.work
 0.0.0.0 olx.pl-orderpaid.cyou
 0.0.0.0 olx.pl-orderpaid.icu
 0.0.0.0 olx.pl-orderpaid.shop
@@ -7725,6 +7750,7 @@
 0.0.0.0 olx.pl-savepaid.shop
 0.0.0.0 olx.pl-savepaid.work
 0.0.0.0 olx.pl-savepaid.xyz
+0.0.0.0 olx.pl.oferta-payment.email
 0.0.0.0 olx.pl.oferta-payment.guru
 0.0.0.0 olx.pl.oferta-payment.team
 0.0.0.0 olx.poland-ofer.cc
@@ -7910,6 +7936,7 @@
 0.0.0.0 paczkedpd.com
 0.0.0.0 paczkgls.com
 0.0.0.0 paczki24-pl.live
+0.0.0.0 paczkidh.com
 0.0.0.0 paczkik.com
 0.0.0.0 paczkikk.com
 0.0.0.0 paczkitnt.com
@@ -8467,6 +8494,12 @@
 0.0.0.0 poczta.interia-pl.online
 0.0.0.0 poczta.interia-pl.site
 0.0.0.0 poczta.interia-pl.space
+0.0.0.0 poczta.pl-gotpaid.club
+0.0.0.0 poczta.pl-gotpaid.cyou
+0.0.0.0 poczta.pl-gotpaid.icu
+0.0.0.0 poczta.pl-gotpaid.shop
+0.0.0.0 poczta.pl-gotpaid.work
+0.0.0.0 poczta.pl-gotpaid.xyz
 0.0.0.0 poczta.pl-ordered.work
 0.0.0.0 poczta.pl-orderpaid.cyou
 0.0.0.0 poczta.pl-orderpaid.xyz
@@ -8555,6 +8588,7 @@
 0.0.0.0 polskainfo.co.pl
 0.0.0.0 polskanews.eu
 0.0.0.0 polskaonline.club
+0.0.0.0 polskapoczta.olxkontosos.casa
 0.0.0.0 polskapoczta.plskontas.casa
 0.0.0.0 polskapoczta.plskontas.cyou
 0.0.0.0 polskapoczta.plskontas.life
@@ -8849,6 +8883,7 @@
 0.0.0.0 puppychain.pl
 0.0.0.0 purchase-olx.pl
 0.0.0.0 pusiaweb.com
+0.0.0.0 puttbirchwood.com
 0.0.0.0 puypey.net
 0.0.0.0 pxd-pay.online
 0.0.0.0 pycie.com
@@ -10630,6 +10665,7 @@
 0.0.0.0 www.czemubyniezaczac.website
 0.0.0.0 www.czymsiezajmujebiznes.cyou
 0.0.0.0 www.czyscidlo.pl
+0.0.0.0 www.czytanie.site
 0.0.0.0 www.czytelnikpoliska.club
 0.0.0.0 www.czytooszustwo.pl
 0.0.0.0 www.d0stawadhi.com
@@ -10713,6 +10749,7 @@
 0.0.0.0 www.delivery.olx.safedeal.casa
 0.0.0.0 www.delivery.olx.shipment.casa
 0.0.0.0 www.delivery.olx.umowa.live
+0.0.0.0 www.demo.interlab.online
 0.0.0.0 www.demo.website.pl
 0.0.0.0 www.dentalsearchsolutions.com
 0.0.0.0 www.dentystarzeszow.com.pl
@@ -11510,6 +11547,10 @@
 0.0.0.0 www.inpost.moferta.xyz
 0.0.0.0 www.inpost.name
 0.0.0.0 www.inpost.olxkonstos.cyou
+0.0.0.0 www.inpost.olxkontosos.casa
+0.0.0.0 www.inpost.olxkontosos.cyou
+0.0.0.0 www.inpost.olxkontosos.shop
+0.0.0.0 www.inpost.olxkontosos.xyz
 0.0.0.0 www.inpost.page
 0.0.0.0 www.inpost.payouts.xyz
 0.0.0.0 www.inpost.plkonstosa.xyz
@@ -11661,6 +11702,7 @@
 0.0.0.0 www.karnesprawy.net
 0.0.0.0 www.karolbus.pl
 0.0.0.0 www.kartawire.pl
+0.0.0.0 www.karteli.xyz
 0.0.0.0 www.kasiapaczka.com
 0.0.0.0 www.kasiapaczka.org
 0.0.0.0 www.kasonet.pl
@@ -11735,6 +11777,7 @@
 0.0.0.0 www.krajowe24.com
 0.0.0.0 www.krajpolska24.eu
 0.0.0.0 www.krajpolska.eu
+0.0.0.0 www.krasovice.xyz
 0.0.0.0 www.krecisztosamm.online
 0.0.0.0 www.kredyt24.biz
 0.0.0.0 www.kristen.store
@@ -12391,6 +12434,10 @@
 0.0.0.0 www.olx.olxkonstos.casa
 0.0.0.0 www.olx.olxkonstos.club
 0.0.0.0 www.olx.olxkonstos.work
+0.0.0.0 www.olx.olxkontosos.casa
+0.0.0.0 www.olx.olxkontosos.cyou
+0.0.0.0 www.olx.olxkontosos.shop
+0.0.0.0 www.olx.olxkontosos.xyz
 0.0.0.0 www.olx.orderpl.club
 0.0.0.0 www.olx.paymenting.pl
 0.0.0.0 www.olx.pink
@@ -12502,6 +12549,7 @@
 0.0.0.0 www.paczkedhl.com
 0.0.0.0 www.paczkedpd.com
 0.0.0.0 www.paczkgls.com
+0.0.0.0 www.paczkidh.com
 0.0.0.0 www.paczkikk.com
 0.0.0.0 www.paczkik.com
 0.0.0.0 www.paczkitnt.com
@@ -12810,6 +12858,7 @@
 0.0.0.0 www.polskainfo.co.pl
 0.0.0.0 www.polskanews.eu
 0.0.0.0 www.polskaonline.club
+0.0.0.0 www.polskapoczta.olxkontosos.casa
 0.0.0.0 www.polskapoczta.plskontas.casa
 0.0.0.0 www.polskapoczta.plskontas.cyou
 0.0.0.0 www.polskapoczta.plskontas.life
@@ -13007,6 +13056,7 @@
 0.0.0.0 www.pumeksy.pl
 0.0.0.0 www.puppychain.pl
 0.0.0.0 www.pusiaweb.com
+0.0.0.0 www.puttbirchwood.com
 0.0.0.0 www.puypey.net
 0.0.0.0 www.pycie.com
 0.0.0.0 www.pyhqjc.com
@@ -14363,6 +14413,7 @@
 0.0.0.0 www.dotpay.emonitoring-poczta.net
 0.0.0.0 www.dotpay.emonitoring-poczta24polska.net
 0.0.0.0 www.dotpay.emonitoring-poczta48.net
+0.0.0.0 www.dotpay.emonitoring-poczta247.net
 0.0.0.0 www.dotpay.emonitoring-pocztapl24.net
 0.0.0.0 www.dotpay.emonitoring-pocztapolska.org
 0.0.0.0 www.dotpay.emonitoring-pocztexpolska.com
@@ -14403,6 +14454,7 @@
 0.0.0.0 www.emonitoring-epoczta-polska.net
 0.0.0.0 www.emonitoring-poczta.net
 0.0.0.0 www.emonitoring-poczta24polska.net
+0.0.0.0 www.emonitoring-poczta247.net
 0.0.0.0 www.emonitoring-pocztapl24.net
 0.0.0.0 www.emonitoring-pocztapolska.com
 0.0.0.0 www.emonitoring-pocztapolska.org
@@ -14731,6 +14783,9 @@
 0.0.0.0 www.inpost.pl-getdelivery.club
 0.0.0.0 www.inpost.pl-getpaid.cyou
 0.0.0.0 www.inpost.pl-getpaid.work
+0.0.0.0 www.inpost.pl-gotpaid.club
+0.0.0.0 www.inpost.pl-gotpaid.work
+0.0.0.0 www.inpost.pl-gotpaid.xyz
 0.0.0.0 www.inpost.pl-orderpaid.cyou
 0.0.0.0 www.inpost.pl-orderpaid.icu
 0.0.0.0 www.inpost.pl-orderpaid.work
@@ -15190,6 +15245,7 @@
 0.0.0.0 www.olx-paystatus.com
 0.0.0.0 www.olx-pay-dk.online
 0.0.0.0 www.olx-pay-pl.su
+0.0.0.0 www.olx-pay.myitem-items.pw
 0.0.0.0 www.olx-pl.cc
 0.0.0.0 www.olx-pl.depget.com
 0.0.0.0 www.olx-pl.eu
@@ -15293,6 +15349,7 @@
 0.0.0.0 www.olx.pl-getpaid.xyz
 0.0.0.0 www.olx.pl-gotpaid.cyou
 0.0.0.0 www.olx.pl-gotpaid.icu
+0.0.0.0 www.olx.pl-gotpaid.work
 0.0.0.0 www.olx.pl-orderpaid.cyou
 0.0.0.0 www.olx.pl-orderpaid.icu
 0.0.0.0 www.olx.pl-orderpaid.shop
@@ -15340,6 +15397,7 @@
 0.0.0.0 www.olx.pl-savepaid.shop
 0.0.0.0 www.olx.pl-savepaid.work
 0.0.0.0 www.olx.pl-savepaid.xyz
+0.0.0.0 www.olx.pl.oferta-payment.email
 0.0.0.0 www.olx.pl.oferta-payment.guru
 0.0.0.0 www.olx.pl.oferta-payment.team
 0.0.0.0 www.olx.poland-ofer.cc
@@ -15704,6 +15762,12 @@
 0.0.0.0 www.poczta.interia-pl.online
 0.0.0.0 www.poczta.interia-pl.site
 0.0.0.0 www.poczta.interia-pl.space
+0.0.0.0 www.poczta.pl-gotpaid.club
+0.0.0.0 www.poczta.pl-gotpaid.cyou
+0.0.0.0 www.poczta.pl-gotpaid.icu
+0.0.0.0 www.poczta.pl-gotpaid.shop
+0.0.0.0 www.poczta.pl-gotpaid.work
+0.0.0.0 www.poczta.pl-gotpaid.xyz
 0.0.0.0 www.poczta.pl-ordered.work
 0.0.0.0 www.poczta.pl-orderpaid.cyou
 0.0.0.0 www.poczta.pl-orderpaid.xyz
