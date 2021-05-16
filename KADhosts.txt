@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 16 May 2021, 17:53 UTC+02
-# Version: 2021.5.16.6
+# Last modified: Sun, 16 May 2021, 21:06 UTC+02
+# Version: 2021.5.16.7
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5075,6 +5075,7 @@
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.emonitoring-poczta48.net
 0.0.0.0 dotpay.etracking-pocztex48.net
+0.0.0.0 dotpay.e-monitoring-pocztapolska.net
 0.0.0.0 dotpay.poczta-emonitoring.net
 0.0.0.0 dotpay.pocztex-poland.net
 0.0.0.0 download.inboxace.com
@@ -6091,6 +6092,11 @@
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-web.site
+0.0.0.0 inpost.pl-orderedpays.club
+0.0.0.0 inpost.pl-orderedpays.cyou
+0.0.0.0 inpost.pl-orderedpays.icu
+0.0.0.0 inpost.pl-orderedpays.shop
+0.0.0.0 inpost.pl-orderedpays.xyz
 0.0.0.0 inprost24.net
 0.0.0.0 inqost.net
 0.0.0.0 instagarm.pl
@@ -7388,6 +7394,7 @@
 0.0.0.0 olx-pay-dk.online
 0.0.0.0 olx-pay-pl.su
 0.0.0.0 olx-pay.myitem-items.pw
+0.0.0.0 olx-pay.pl-buyitnow.pw
 0.0.0.0 olx-pl.cc
 0.0.0.0 olx-pl.depget.com
 0.0.0.0 olx-pl.eu
@@ -7409,6 +7416,7 @@
 0.0.0.0 olx-pl-mobile.site
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
+0.0.0.0 olx-pl.3dsecure-pay.com
 0.0.0.0 olx-pl.3vd.me
 0.0.0.0 olx-pl.eu-pay.site
 0.0.0.0 olx-pl.iso-pay.net.ru
@@ -7466,6 +7474,7 @@
 0.0.0.0 olx.pay-id183413.company
 0.0.0.0 olx.pay-otrymac.store
 0.0.0.0 olx.pay-safe.store
+0.0.0.0 olx.pl-orderedpays.shop
 0.0.0.0 olx.poland-ofer.cc
 0.0.0.0 olx.poland-orders.shop
 0.0.0.0 olx.polka-oferta.club
@@ -8286,6 +8295,7 @@
 0.0.0.0 polskainfo.co.pl
 0.0.0.0 polskanews.eu
 0.0.0.0 polskaonline.club
+0.0.0.0 polskapoczta.olxkonstosx.xyz
 0.0.0.0 polskapoczta.olxkontosos.casa
 0.0.0.0 polskapoczta.plskontas.casa
 0.0.0.0 polskapoczta.plskontas.cyou
@@ -12463,6 +12473,7 @@
 0.0.0.0 www.polskainfo.co.pl
 0.0.0.0 www.polskanews.eu
 0.0.0.0 www.polskaonline.club
+0.0.0.0 www.polskapoczta.olxkonstosx.xyz
 0.0.0.0 www.polskapoczta.olxkontosos.casa
 0.0.0.0 www.polskapoczta.plskontas.casa
 0.0.0.0 www.polskapoczta.plskontas.cyou
@@ -13977,6 +13988,7 @@
 0.0.0.0 www.dostaw-safety.com
 0.0.0.0 www.dotpay.emonitoring-poczta48.net
 0.0.0.0 www.dotpay.etracking-pocztex48.net
+0.0.0.0 www.dotpay.e-monitoring-pocztapolska.net
 0.0.0.0 www.dotpay.poczta-emonitoring.net
 0.0.0.0 www.dotpay.pocztex-poland.net
 0.0.0.0 www.downloads-mobile.com
@@ -14321,6 +14333,11 @@
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-web.site
+0.0.0.0 www.inpost.pl-orderedpays.club
+0.0.0.0 www.inpost.pl-orderedpays.cyou
+0.0.0.0 www.inpost.pl-orderedpays.icu
+0.0.0.0 www.inpost.pl-orderedpays.shop
+0.0.0.0 www.inpost.pl-orderedpays.xyz
 0.0.0.0 www.instagramverification-center.com
 0.0.0.0 www.insta-support.org
 0.0.0.0 www.instytut-medyczny24.com
@@ -14737,6 +14754,7 @@
 0.0.0.0 www.olx-pay-dk.online
 0.0.0.0 www.olx-pay-pl.su
 0.0.0.0 www.olx-pay.myitem-items.pw
+0.0.0.0 www.olx-pay.pl-buyitnow.pw
 0.0.0.0 www.olx-pl.cc
 0.0.0.0 www.olx-pl.depget.com
 0.0.0.0 www.olx-pl.eu
@@ -14758,6 +14776,7 @@
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
+0.0.0.0 www.olx-pl.3dsecure-pay.com
 0.0.0.0 www.olx-pl.3vd.me
 0.0.0.0 www.olx-pl.eu-pay.site
 0.0.0.0 www.olx-pl.iso-pay.net.ru
@@ -14815,6 +14834,7 @@
 0.0.0.0 www.olx.pay-id183413.company
 0.0.0.0 www.olx.pay-otrymac.store
 0.0.0.0 www.olx.pay-safe.store
+0.0.0.0 www.olx.pl-orderedpays.shop
 0.0.0.0 www.olx.poland-ofer.cc
 0.0.0.0 www.olx.poland-orders.shop
 0.0.0.0 www.olx.polka-oferta.club
@@ -15735,6 +15755,7 @@
 0.0.0.0 www.zaglosuj-dzisiaj.eu
 0.0.0.0 www.zakup-olx.pl
 0.0.0.0 www.zalbani.is-best.net
+0.0.0.0 www.zamawianie-ogloszenia.com
 0.0.0.0 www.zap588693-1.plesk10.zap-webspace.com
 0.0.0.0 www.zapiac-teraz24.tech
 0.0.0.0 www.zapisek-wiadomosc.eu
@@ -15896,6 +15917,7 @@
 0.0.0.0 zakupshop.com
 0.0.0.0 zakup-olx.pl
 0.0.0.0 zalbani.is-best.net
+0.0.0.0 zamawianie-ogloszenia.com
 0.0.0.0 zamknij.you2.pl
 0.0.0.0 zamowienie761265261.pl
 0.0.0.0 zap588693-1.plesk10.zap-webspace.com
