@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 17 May 2021, 17:06 UTC+02
-# Version: 2021.5.17.1
+# Last modified: Mon, 17 May 2021, 21:06 UTC+02
+# Version: 2021.5.17.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6104,6 +6104,11 @@
 0.0.0.0 inpost.pl-orderedpays.icu
 0.0.0.0 inpost.pl-orderedpays.shop
 0.0.0.0 inpost.pl-orderedpays.xyz
+0.0.0.0 inpost.pl-safepaid.cyou
+0.0.0.0 inpost.pl-safepaid.icu
+0.0.0.0 inpost.pl-safepaid.shop
+0.0.0.0 inpost.pl-safepaid.work
+0.0.0.0 inpost.pl-safepaid.xyz
 0.0.0.0 inprost24.net
 0.0.0.0 inqost.net
 0.0.0.0 instagarm.pl
@@ -7409,6 +7414,7 @@
 0.0.0.0 olx-pay-pl.su
 0.0.0.0 olx-pay.myitem-items.pw
 0.0.0.0 olx-pay.pl-buyitnow.pw
+0.0.0.0 olx-pay.pl-itemreserve.pw
 0.0.0.0 olx-pl.cc
 0.0.0.0 olx-pl.depget.com
 0.0.0.0 olx-pl.eu
@@ -7435,6 +7441,7 @@
 0.0.0.0 olx-pl.eu-pay.site
 0.0.0.0 olx-pl.ez-pays.ru
 0.0.0.0 olx-pl.iso-pay.net.ru
+0.0.0.0 olx-pl.moja-dostawa.site
 0.0.0.0 olx-pl.mpay-fs.info
 0.0.0.0 olx-pl.oformlenie-uslug.ru
 0.0.0.0 olx-pl.payment-bank.ga
@@ -7495,7 +7502,12 @@
 0.0.0.0 olx.pl-safeordered.icu
 0.0.0.0 olx.pl-safeordered.xyz
 0.0.0.0 olx.pl-safepaid.club
+0.0.0.0 olx.pl-safepaid.cyou
+0.0.0.0 olx.pl-safepaid.icu
+0.0.0.0 olx.pl-safepaid.shop
+0.0.0.0 olx.pl-safepaid.work
 0.0.0.0 olx.pl-safepaid.xyz
+0.0.0.0 olx.pl.oferta-payment.blog
 0.0.0.0 olx.poland-ofer.cc
 0.0.0.0 olx.poland-orders.shop
 0.0.0.0 olx.polka-oferta.club
@@ -7792,6 +7804,7 @@
 0.0.0.0 pay13-olx.pl
 0.0.0.0 pay14-olx.pl
 0.0.0.0 pay15-olx.pl
+0.0.0.0 pay16-olx.info
 0.0.0.0 pay16-olx.pl
 0.0.0.0 pay17-olx.pl
 0.0.0.0 pay18-olx.pl
@@ -8688,6 +8701,7 @@
 0.0.0.0 reg-olx.pl
 0.0.0.0 rehabilitant.rzeszow.re
 0.0.0.0 rejestr24.5p.pl
+0.0.0.0 rejestracja-ogloszenia.com
 0.0.0.0 rejestr.5p.pl
 0.0.0.0 reklamapoznan.com.pl
 0.0.0.0 relaxdom.com.pl
@@ -8979,6 +8993,7 @@
 0.0.0.0 smszz.in
 0.0.0.0 sms-info.app
 0.0.0.0 sms-info.club
+0.0.0.0 sms-info.it
 0.0.0.0 sms-info.net
 0.0.0.0 sms-info.su
 0.0.0.0 sms-za-darmo.pl
@@ -9410,6 +9425,7 @@
 0.0.0.0 tv.gorzow.pl
 0.0.0.0 tv24.dkonto.pl
 0.0.0.0 tvinfo.katowice.pl
+0.0.0.0 tvinfo24-online.pl
 0.0.0.0 tvinfo-24.pl
 0.0.0.0 tvjovem.net
 0.0.0.0 tvn24.club
@@ -14386,6 +14402,11 @@
 0.0.0.0 www.inpost.pl-orderedpays.icu
 0.0.0.0 www.inpost.pl-orderedpays.shop
 0.0.0.0 www.inpost.pl-orderedpays.xyz
+0.0.0.0 www.inpost.pl-safepaid.cyou
+0.0.0.0 www.inpost.pl-safepaid.icu
+0.0.0.0 www.inpost.pl-safepaid.shop
+0.0.0.0 www.inpost.pl-safepaid.work
+0.0.0.0 www.inpost.pl-safepaid.xyz
 0.0.0.0 www.instagramverification-center.com
 0.0.0.0 www.insta-support.org
 0.0.0.0 www.instytut-medyczny24.com
@@ -14804,6 +14825,7 @@
 0.0.0.0 www.olx-pay-pl.su
 0.0.0.0 www.olx-pay.myitem-items.pw
 0.0.0.0 www.olx-pay.pl-buyitnow.pw
+0.0.0.0 www.olx-pay.pl-itemreserve.pw
 0.0.0.0 www.olx-pl.cc
 0.0.0.0 www.olx-pl.depget.com
 0.0.0.0 www.olx-pl.eu
@@ -14830,6 +14852,7 @@
 0.0.0.0 www.olx-pl.eu-pay.site
 0.0.0.0 www.olx-pl.ez-pays.ru
 0.0.0.0 www.olx-pl.iso-pay.net.ru
+0.0.0.0 www.olx-pl.moja-dostawa.site
 0.0.0.0 www.olx-pl.mpay-fs.info
 0.0.0.0 www.olx-pl.oformlenie-uslug.ru
 0.0.0.0 www.olx-pl.payment-bank.ga
@@ -14890,7 +14913,12 @@
 0.0.0.0 www.olx.pl-safeordered.icu
 0.0.0.0 www.olx.pl-safeordered.xyz
 0.0.0.0 www.olx.pl-safepaid.club
+0.0.0.0 www.olx.pl-safepaid.cyou
+0.0.0.0 www.olx.pl-safepaid.icu
+0.0.0.0 www.olx.pl-safepaid.shop
+0.0.0.0 www.olx.pl-safepaid.work
 0.0.0.0 www.olx.pl-safepaid.xyz
+0.0.0.0 www.olx.pl.oferta-payment.blog
 0.0.0.0 www.olx.poland-ofer.cc
 0.0.0.0 www.olx.poland-orders.shop
 0.0.0.0 www.olx.polka-oferta.club
@@ -15019,6 +15047,7 @@
 0.0.0.0 www.pay13-olx.pl
 0.0.0.0 www.pay14-olx.pl
 0.0.0.0 www.pay15-olx.pl
+0.0.0.0 www.pay16-olx.info
 0.0.0.0 www.pay16-olx.pl
 0.0.0.0 www.pay17-olx.pl
 0.0.0.0 www.pay18-olx.pl
@@ -15402,6 +15431,7 @@
 0.0.0.0 www.reg-me.pl
 0.0.0.0 www.reg-olx.pl
 0.0.0.0 www.rejestr24.5p.pl
+0.0.0.0 www.rejestracja-ogloszenia.com
 0.0.0.0 www.rejestr.5p.pl
 0.0.0.0 www.reportaz-live.dfirma.pl
 0.0.0.0 www.reportaz-na-zywo.dfirma.pl
@@ -15508,6 +15538,7 @@
 0.0.0.0 www.smieszne-zdjecia.eu
 0.0.0.0 www.sms-info.app
 0.0.0.0 www.sms-info.club
+0.0.0.0 www.sms-info.it
 0.0.0.0 www.sms-info.net
 0.0.0.0 www.sms-info.su
 0.0.0.0 www.sms-za-darmo.pl
@@ -15625,6 +15656,7 @@
 0.0.0.0 www.trofeum-zdobywamy.eu
 0.0.0.0 www.tunele-sklep.com
 0.0.0.0 www.tura-informacyjna.eu
+0.0.0.0 www.tvinfo24-online.pl
 0.0.0.0 www.tvinfo-24.pl
 0.0.0.0 www.tvn-uwaga.dfirma.pl
 0.0.0.0 www.tvp-info.xyz
