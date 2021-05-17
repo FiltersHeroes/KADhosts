@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 17 May 2021, 17:06 UTC+02
-# Version: 2021.5.17.1
+# Last modified: Mon, 17 May 2021, 21:06 UTC+02
+# Version: 2021.5.17.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6122,6 +6122,11 @@ inpost.pl-orderedpays.cyou
 inpost.pl-orderedpays.icu
 inpost.pl-orderedpays.shop
 inpost.pl-orderedpays.xyz
+inpost.pl-safepaid.cyou
+inpost.pl-safepaid.icu
+inpost.pl-safepaid.shop
+inpost.pl-safepaid.work
+inpost.pl-safepaid.xyz
 inprost24.net
 inqost.net
 instagarm.pl
@@ -7427,6 +7432,7 @@ olx-pay-dk.online
 olx-pay-pl.su
 olx-pay.myitem-items.pw
 olx-pay.pl-buyitnow.pw
+olx-pay.pl-itemreserve.pw
 olx-pl.cc
 olx-pl.depget.com
 olx-pl.eu
@@ -7453,6 +7459,7 @@ olx-pl.3vd.me
 olx-pl.eu-pay.site
 olx-pl.ez-pays.ru
 olx-pl.iso-pay.net.ru
+olx-pl.moja-dostawa.site
 olx-pl.mpay-fs.info
 olx-pl.oformlenie-uslug.ru
 olx-pl.payment-bank.ga
@@ -7513,7 +7520,12 @@ olx.pl-safeordered.cyou
 olx.pl-safeordered.icu
 olx.pl-safeordered.xyz
 olx.pl-safepaid.club
+olx.pl-safepaid.cyou
+olx.pl-safepaid.icu
+olx.pl-safepaid.shop
+olx.pl-safepaid.work
 olx.pl-safepaid.xyz
+olx.pl.oferta-payment.blog
 olx.poland-ofer.cc
 olx.poland-orders.shop
 olx.polka-oferta.club
@@ -7810,6 +7822,7 @@ pay12-olx.pl
 pay13-olx.pl
 pay14-olx.pl
 pay15-olx.pl
+pay16-olx.info
 pay16-olx.pl
 pay17-olx.pl
 pay18-olx.pl
@@ -8706,6 +8719,7 @@ reg-me.pl
 reg-olx.pl
 rehabilitant.rzeszow.re
 rejestr24.5p.pl
+rejestracja-ogloszenia.com
 rejestr.5p.pl
 reklamapoznan.com.pl
 relaxdom.com.pl
@@ -8997,6 +9011,7 @@ smszo.in
 smszz.in
 sms-info.app
 sms-info.club
+sms-info.it
 sms-info.net
 sms-info.su
 sms-za-darmo.pl
@@ -9428,6 +9443,7 @@ turystyka.cal.pl
 tv.gorzow.pl
 tv24.dkonto.pl
 tvinfo.katowice.pl
+tvinfo24-online.pl
 tvinfo-24.pl
 tvjovem.net
 tvn24.club
@@ -14404,6 +14420,11 @@ www.inpost.pl-orderedpays.cyou
 www.inpost.pl-orderedpays.icu
 www.inpost.pl-orderedpays.shop
 www.inpost.pl-orderedpays.xyz
+www.inpost.pl-safepaid.cyou
+www.inpost.pl-safepaid.icu
+www.inpost.pl-safepaid.shop
+www.inpost.pl-safepaid.work
+www.inpost.pl-safepaid.xyz
 www.instagramverification-center.com
 www.insta-support.org
 www.instytut-medyczny24.com
@@ -14822,6 +14843,7 @@ www.olx-pay-dk.online
 www.olx-pay-pl.su
 www.olx-pay.myitem-items.pw
 www.olx-pay.pl-buyitnow.pw
+www.olx-pay.pl-itemreserve.pw
 www.olx-pl.cc
 www.olx-pl.depget.com
 www.olx-pl.eu
@@ -14848,6 +14870,7 @@ www.olx-pl.3vd.me
 www.olx-pl.eu-pay.site
 www.olx-pl.ez-pays.ru
 www.olx-pl.iso-pay.net.ru
+www.olx-pl.moja-dostawa.site
 www.olx-pl.mpay-fs.info
 www.olx-pl.oformlenie-uslug.ru
 www.olx-pl.payment-bank.ga
@@ -14908,7 +14931,12 @@ www.olx.pl-safeordered.cyou
 www.olx.pl-safeordered.icu
 www.olx.pl-safeordered.xyz
 www.olx.pl-safepaid.club
+www.olx.pl-safepaid.cyou
+www.olx.pl-safepaid.icu
+www.olx.pl-safepaid.shop
+www.olx.pl-safepaid.work
 www.olx.pl-safepaid.xyz
+www.olx.pl.oferta-payment.blog
 www.olx.poland-ofer.cc
 www.olx.poland-orders.shop
 www.olx.polka-oferta.club
@@ -15037,6 +15065,7 @@ www.pay12-olx.pl
 www.pay13-olx.pl
 www.pay14-olx.pl
 www.pay15-olx.pl
+www.pay16-olx.info
 www.pay16-olx.pl
 www.pay17-olx.pl
 www.pay18-olx.pl
@@ -15420,6 +15449,7 @@ www.regulamin-wirtualnapolska.icu
 www.reg-me.pl
 www.reg-olx.pl
 www.rejestr24.5p.pl
+www.rejestracja-ogloszenia.com
 www.rejestr.5p.pl
 www.reportaz-live.dfirma.pl
 www.reportaz-na-zywo.dfirma.pl
@@ -15526,6 +15556,7 @@ www.smieszne-pl.eu
 www.smieszne-zdjecia.eu
 www.sms-info.app
 www.sms-info.club
+www.sms-info.it
 www.sms-info.net
 www.sms-info.su
 www.sms-za-darmo.pl
@@ -15643,6 +15674,7 @@ www.treecutter-procutt.com
 www.trofeum-zdobywamy.eu
 www.tunele-sklep.com
 www.tura-informacyjna.eu
+www.tvinfo24-online.pl
 www.tvinfo-24.pl
 www.tvn-uwaga.dfirma.pl
 www.tvp-info.xyz
