@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 19 May 2021, 13:06 UTC+02
-# Version: 2021.5.19.0
+# Last modified: Wed, 19 May 2021, 17:06 UTC+02
+# Version: 2021.5.19.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5088,12 +5088,16 @@
 0.0.0.0 dotpay.pocztexpolska48.net
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.emonitoring-poczta48.net
+0.0.0.0 dotpay.emonitoring-pocztex.com
 0.0.0.0 dotpay.emonitoring-pocztex.net
 0.0.0.0 dotpay.emonitoring-pocztex48.net
 0.0.0.0 dotpay.emonitoring-polska48poczta.net
 0.0.0.0 dotpay.emonitoring-polska-poczta.net
+0.0.0.0 dotpay.epoczta-polska.com
+0.0.0.0 dotpay.epoczta-polska.net
 0.0.0.0 dotpay.etracking-pocztex48.net
 0.0.0.0 dotpay.e-monitoring-pocztapolska.net
+0.0.0.0 dotpay.e-pocztapolska.com
 0.0.0.0 dotpay.e-poczta-polska.com
 0.0.0.0 dotpay.e-poczta-polska.net
 0.0.0.0 dotpay.poczta-emonitoring.net
@@ -5221,12 +5225,14 @@
 0.0.0.0 emonitoring24.online
 0.0.0.0 emonitoringpoczta.net
 0.0.0.0 emonitoring-epoczta-polska.net
+0.0.0.0 emonitoring-epocztex24.net
 0.0.0.0 emonitoring-poczta.net
 0.0.0.0 emonitoring-poczta24polska.net
 0.0.0.0 emonitoring-poczta247.net
 0.0.0.0 emonitoring-pocztapl24.net
 0.0.0.0 emonitoring-pocztapolska.com
 0.0.0.0 emonitoring-pocztapolska.org
+0.0.0.0 emonitoring-pocztex.com
 0.0.0.0 emonitoring-pocztex.net
 0.0.0.0 emonitoring-pocztex24polska.net
 0.0.0.0 emonitoring-pocztexpolska.com
@@ -5252,6 +5258,8 @@
 0.0.0.0 eplotery.pl
 0.0.0.0 epocztapolska24.net
 0.0.0.0 epoczta-interia.com
+0.0.0.0 epoczta-polska.com
+0.0.0.0 epoczta-polska.net
 0.0.0.0 eqvpismqyp.web.app
 0.0.0.0 erhherrehhre.n4t.co
 0.0.0.0 ericius.eu
@@ -5327,6 +5335,7 @@
 0.0.0.0 e-osobyzagionione.pl
 0.0.0.0 e-payu.online
 0.0.0.0 e-payu.xyz
+0.0.0.0 e-pocztapolska.com
 0.0.0.0 e-poczta-polska.com
 0.0.0.0 e-poczta-polska.net
 0.0.0.0 e-pocztex.pl
@@ -6206,6 +6215,7 @@
 0.0.0.0 invest-flow.io
 0.0.0.0 invest-moment.com
 0.0.0.0 invp.edealand.pro
+0.0.0.0 invp.pluniland.pro
 0.0.0.0 inwestujemy.online
 0.0.0.0 inwestujmy.online
 0.0.0.0 inwpgnig.pw
@@ -6883,6 +6893,7 @@
 0.0.0.0 mopieflix.com
 0.0.0.0 morandons.com
 0.0.0.0 moreti.pl
+0.0.0.0 morev.lv
 0.0.0.0 motelil.com
 0.0.0.0 mottywaccjadozycia.website
 0.0.0.0 mountainhotel.it
@@ -7335,6 +7346,7 @@
 0.0.0.0 olx.polskaolerta.shop
 0.0.0.0 olx.polskaolerta.xyz
 0.0.0.0 olx.przewiezienie.pl
+0.0.0.0 olx.pt.savedpays.icu
 0.0.0.0 olx.rwpay.ru
 0.0.0.0 olx.so
 0.0.0.0 olx.transakcja.pw
@@ -7775,6 +7787,7 @@
 0.0.0.0 paczkedpd.com
 0.0.0.0 paczkgls.com
 0.0.0.0 paczki24-pl.live
+0.0.0.0 paczkic.com
 0.0.0.0 paczkidh.com
 0.0.0.0 paczkidhm.com
 0.0.0.0 paczkik.com
@@ -7862,6 +7875,7 @@
 0.0.0.0 passivetrading.co.uk
 0.0.0.0 pasticcerialonghitano.it
 0.0.0.0 paterashop.pl
+0.0.0.0 paterps.pl
 0.0.0.0 patrolprzygody.pl
 0.0.0.0 patrzonline.pl
 0.0.0.0 pay.inpost.cam
@@ -8370,6 +8384,11 @@
 0.0.0.0 pogodasub.com
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 poinformowanni.cyou
+0.0.0.0 poinformujemy1.pl
+0.0.0.0 poinformujemy2.pl
+0.0.0.0 poinformujemy3.pl
+0.0.0.0 poinformujemy4.pl
+0.0.0.0 poinformujemy5.pl
 0.0.0.0 poinformujemy-swiat.pl
 0.0.0.0 poinformujkazdego.pl
 0.0.0.0 poinformujwszystkich.pl
@@ -8921,6 +8940,7 @@
 0.0.0.0 sauny-finskie.com.pl
 0.0.0.0 savinek-pl.com
 0.0.0.0 saxtorph.net
+0.0.0.0 scb-online.co.uk
 0.0.0.0 sculptureco.com.au
 0.0.0.0 sdx.pl
 0.0.0.0 seamcommunlty.com
@@ -11400,6 +11420,7 @@
 0.0.0.0 www.investingstate.com
 0.0.0.0 www.investmarket.info
 0.0.0.0 www.invp.edealand.pro
+0.0.0.0 www.invp.pluniland.pro
 0.0.0.0 www.inwestujemy.online
 0.0.0.0 www.inwestujmy.online
 0.0.0.0 www.inwpgnig.pw
@@ -11887,6 +11908,7 @@
 0.0.0.0 www.mopieflix.com
 0.0.0.0 www.morandons.com
 0.0.0.0 www.moreti.pl
+0.0.0.0 www.morev.lv
 0.0.0.0 www.motelil.com
 0.0.0.0 www.mottywaccjadozycia.website
 0.0.0.0 www.mountainhotel.it
@@ -12263,6 +12285,7 @@
 0.0.0.0 www.olx.polskaolerta.shop
 0.0.0.0 www.olx.polskaolerta.xyz
 0.0.0.0 www.olx.przewiezienie.pl
+0.0.0.0 www.olx.pt.savedpays.icu
 0.0.0.0 www.olx.rwpay.ru
 0.0.0.0 www.olx.so
 0.0.0.0 www.olx.transakcja.pw
@@ -12360,6 +12383,7 @@
 0.0.0.0 www.paczkedhl.com
 0.0.0.0 www.paczkedpd.com
 0.0.0.0 www.paczkgls.com
+0.0.0.0 www.paczkic.com
 0.0.0.0 www.paczkidhm.com
 0.0.0.0 www.paczkidh.com
 0.0.0.0 www.paczkikk.com
@@ -12430,6 +12454,7 @@
 0.0.0.0 www.passivetrading.co.uk
 0.0.0.0 www.pasticcerialonghitano.it
 0.0.0.0 www.paterashop.pl
+0.0.0.0 www.paterps.pl
 0.0.0.0 www.patrolprzygody.pl
 0.0.0.0 www.patrzonline.pl
 0.0.0.0 www.pay2me.pl
@@ -12634,6 +12659,11 @@
 0.0.0.0 www.pogodasub.com
 0.0.0.0 www.pogotowie.pcserwis.c0.pl
 0.0.0.0 www.poinformowanni.cyou
+0.0.0.0 www.poinformujemy1.pl
+0.0.0.0 www.poinformujemy2.pl
+0.0.0.0 www.poinformujemy3.pl
+0.0.0.0 www.poinformujemy4.pl
+0.0.0.0 www.poinformujemy5.pl
 0.0.0.0 www.poinformujkazdego.pl
 0.0.0.0 www.poinformujwszystkich.pl
 0.0.0.0 www.pojadetam.pl
@@ -14191,12 +14221,16 @@
 0.0.0.0 www.dostawy-dhl.com
 0.0.0.0 www.dostaw-safety.com
 0.0.0.0 www.dotpay.emonitoring-poczta48.net
+0.0.0.0 www.dotpay.emonitoring-pocztex.com
 0.0.0.0 www.dotpay.emonitoring-pocztex.net
 0.0.0.0 www.dotpay.emonitoring-pocztex48.net
 0.0.0.0 www.dotpay.emonitoring-polska48poczta.net
 0.0.0.0 www.dotpay.emonitoring-polska-poczta.net
+0.0.0.0 www.dotpay.epoczta-polska.com
+0.0.0.0 www.dotpay.epoczta-polska.net
 0.0.0.0 www.dotpay.etracking-pocztex48.net
 0.0.0.0 www.dotpay.e-monitoring-pocztapolska.net
+0.0.0.0 www.dotpay.e-pocztapolska.com
 0.0.0.0 www.dotpay.e-poczta-polska.com
 0.0.0.0 www.dotpay.e-poczta-polska.net
 0.0.0.0 www.dotpay.poczta-emonitoring.net
@@ -14231,12 +14265,14 @@
 0.0.0.0 www.elektronicze-poszukiwania.eu
 0.0.0.0 www.emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.emonitoring-epoczta-polska.net
+0.0.0.0 www.emonitoring-epocztex24.net
 0.0.0.0 www.emonitoring-poczta.net
 0.0.0.0 www.emonitoring-poczta24polska.net
 0.0.0.0 www.emonitoring-poczta247.net
 0.0.0.0 www.emonitoring-pocztapl24.net
 0.0.0.0 www.emonitoring-pocztapolska.com
 0.0.0.0 www.emonitoring-pocztapolska.org
+0.0.0.0 www.emonitoring-pocztex.com
 0.0.0.0 www.emonitoring-pocztex.net
 0.0.0.0 www.emonitoring-pocztex24polska.net
 0.0.0.0 www.emonitoring-pocztexpolska.com
@@ -14246,6 +14282,8 @@
 0.0.0.0 www.emonitoring-polska-poczta.net
 0.0.0.0 www.em-car.pl
 0.0.0.0 www.epoczta-interia.com
+0.0.0.0 www.epoczta-polska.com
+0.0.0.0 www.epoczta-polska.net
 0.0.0.0 www.eska-tv.dfirma.pl
 0.0.0.0 www.eskluzywne-fotele.ovel.pl
 0.0.0.0 www.eu-markets.co
@@ -14287,6 +14325,7 @@
 0.0.0.0 www.e-osobyzagionione.pl
 0.0.0.0 www.e-payu.online
 0.0.0.0 www.e-payu.xyz
+0.0.0.0 www.e-pocztapolska.com
 0.0.0.0 www.e-poczta-polska.com
 0.0.0.0 www.e-poczta-polska.net
 0.0.0.0 www.e-pocztex.pl
@@ -15668,6 +15707,7 @@
 0.0.0.0 www.santander-paymentsservice.com
 0.0.0.0 www.sauny-finskie.com.pl
 0.0.0.0 www.savinek-pl.com
+0.0.0.0 www.scb-online.co.uk
 0.0.0.0 www.secure-bank-getin.xyz
 0.0.0.0 www.secure-getin.online
 0.0.0.0 www.secure-getin.pl
