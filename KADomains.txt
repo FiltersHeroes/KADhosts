@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 19 May 2021, 13:06 UTC+02
-# Version: 2021.5.19.0
+# Last modified: Wed, 19 May 2021, 17:06 UTC+02
+# Version: 2021.5.19.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5106,12 +5106,16 @@ dotpay.pocztapolska247.com
 dotpay.pocztexpolska48.net
 dotpay1.pl
 dotpay.emonitoring-poczta48.net
+dotpay.emonitoring-pocztex.com
 dotpay.emonitoring-pocztex.net
 dotpay.emonitoring-pocztex48.net
 dotpay.emonitoring-polska48poczta.net
 dotpay.emonitoring-polska-poczta.net
+dotpay.epoczta-polska.com
+dotpay.epoczta-polska.net
 dotpay.etracking-pocztex48.net
 dotpay.e-monitoring-pocztapolska.net
+dotpay.e-pocztapolska.com
 dotpay.e-poczta-polska.com
 dotpay.e-poczta-polska.net
 dotpay.poczta-emonitoring.net
@@ -5239,12 +5243,14 @@ emonitoring24.eu
 emonitoring24.online
 emonitoringpoczta.net
 emonitoring-epoczta-polska.net
+emonitoring-epocztex24.net
 emonitoring-poczta.net
 emonitoring-poczta24polska.net
 emonitoring-poczta247.net
 emonitoring-pocztapl24.net
 emonitoring-pocztapolska.com
 emonitoring-pocztapolska.org
+emonitoring-pocztex.com
 emonitoring-pocztex.net
 emonitoring-pocztex24polska.net
 emonitoring-pocztexpolska.com
@@ -5270,6 +5276,8 @@ epidemia.icu
 eplotery.pl
 epocztapolska24.net
 epoczta-interia.com
+epoczta-polska.com
+epoczta-polska.net
 eqvpismqyp.web.app
 erhherrehhre.n4t.co
 ericius.eu
@@ -5345,6 +5353,7 @@ e-onetfakty24.eu
 e-osobyzagionione.pl
 e-payu.online
 e-payu.xyz
+e-pocztapolska.com
 e-poczta-polska.com
 e-poczta-polska.net
 e-pocztex.pl
@@ -6224,6 +6233,7 @@ invest-fd.io
 invest-flow.io
 invest-moment.com
 invp.edealand.pro
+invp.pluniland.pro
 inwestujemy.online
 inwestujmy.online
 inwpgnig.pw
@@ -6901,6 +6911,7 @@ moontradefx.com
 mopieflix.com
 morandons.com
 moreti.pl
+morev.lv
 motelil.com
 mottywaccjadozycia.website
 mountainhotel.it
@@ -7353,6 +7364,7 @@ olx.polskaolerta.casa
 olx.polskaolerta.shop
 olx.polskaolerta.xyz
 olx.przewiezienie.pl
+olx.pt.savedpays.icu
 olx.rwpay.ru
 olx.so
 olx.transakcja.pw
@@ -7793,6 +7805,7 @@ paczkedhl.com
 paczkedpd.com
 paczkgls.com
 paczki24-pl.live
+paczkic.com
 paczkidh.com
 paczkidhm.com
 paczkik.com
@@ -7880,6 +7893,7 @@ paskicrestpolska.com
 passivetrading.co.uk
 pasticcerialonghitano.it
 paterashop.pl
+paterps.pl
 patrolprzygody.pl
 patrzonline.pl
 pay.inpost.cam
@@ -8388,6 +8402,11 @@ pogodasms.net
 pogodasub.com
 pogotowie.pcserwis.c0.pl
 poinformowanni.cyou
+poinformujemy1.pl
+poinformujemy2.pl
+poinformujemy3.pl
+poinformujemy4.pl
+poinformujemy5.pl
 poinformujemy-swiat.pl
 poinformujkazdego.pl
 poinformujwszystkich.pl
@@ -8939,6 +8958,7 @@ sasiedzkiportal.eu
 sauny-finskie.com.pl
 savinek-pl.com
 saxtorph.net
+scb-online.co.uk
 sculptureco.com.au
 sdx.pl
 seamcommunlty.com
@@ -11418,6 +11438,7 @@ www.investingops.com
 www.investingstate.com
 www.investmarket.info
 www.invp.edealand.pro
+www.invp.pluniland.pro
 www.inwestujemy.online
 www.inwestujmy.online
 www.inwpgnig.pw
@@ -11905,6 +11926,7 @@ www.moontradefx.com
 www.mopieflix.com
 www.morandons.com
 www.moreti.pl
+www.morev.lv
 www.motelil.com
 www.mottywaccjadozycia.website
 www.mountainhotel.it
@@ -12281,6 +12303,7 @@ www.olx.polskaolerta.casa
 www.olx.polskaolerta.shop
 www.olx.polskaolerta.xyz
 www.olx.przewiezienie.pl
+www.olx.pt.savedpays.icu
 www.olx.rwpay.ru
 www.olx.so
 www.olx.transakcja.pw
@@ -12378,6 +12401,7 @@ www.paczkdups.com
 www.paczkedhl.com
 www.paczkedpd.com
 www.paczkgls.com
+www.paczkic.com
 www.paczkidhm.com
 www.paczkidh.com
 www.paczkikk.com
@@ -12448,6 +12472,7 @@ www.paskicrestpolska.com
 www.passivetrading.co.uk
 www.pasticcerialonghitano.it
 www.paterashop.pl
+www.paterps.pl
 www.patrolprzygody.pl
 www.patrzonline.pl
 www.pay2me.pl
@@ -12652,6 +12677,11 @@ www.pogodasms.net
 www.pogodasub.com
 www.pogotowie.pcserwis.c0.pl
 www.poinformowanni.cyou
+www.poinformujemy1.pl
+www.poinformujemy2.pl
+www.poinformujemy3.pl
+www.poinformujemy4.pl
+www.poinformujemy5.pl
 www.poinformujkazdego.pl
 www.poinformujwszystkich.pl
 www.pojadetam.pl
@@ -14209,12 +14239,16 @@ www.dostawa-w.pl
 www.dostawy-dhl.com
 www.dostaw-safety.com
 www.dotpay.emonitoring-poczta48.net
+www.dotpay.emonitoring-pocztex.com
 www.dotpay.emonitoring-pocztex.net
 www.dotpay.emonitoring-pocztex48.net
 www.dotpay.emonitoring-polska48poczta.net
 www.dotpay.emonitoring-polska-poczta.net
+www.dotpay.epoczta-polska.com
+www.dotpay.epoczta-polska.net
 www.dotpay.etracking-pocztex48.net
 www.dotpay.e-monitoring-pocztapolska.net
+www.dotpay.e-pocztapolska.com
 www.dotpay.e-poczta-polska.com
 www.dotpay.e-poczta-polska.net
 www.dotpay.poczta-emonitoring.net
@@ -14249,12 +14283,14 @@ www.elektromax-serwis.pl
 www.elektronicze-poszukiwania.eu
 www.emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
 www.emonitoring-epoczta-polska.net
+www.emonitoring-epocztex24.net
 www.emonitoring-poczta.net
 www.emonitoring-poczta24polska.net
 www.emonitoring-poczta247.net
 www.emonitoring-pocztapl24.net
 www.emonitoring-pocztapolska.com
 www.emonitoring-pocztapolska.org
+www.emonitoring-pocztex.com
 www.emonitoring-pocztex.net
 www.emonitoring-pocztex24polska.net
 www.emonitoring-pocztexpolska.com
@@ -14264,6 +14300,8 @@ www.emonitoring-polskapoczta.com
 www.emonitoring-polska-poczta.net
 www.em-car.pl
 www.epoczta-interia.com
+www.epoczta-polska.com
+www.epoczta-polska.net
 www.eska-tv.dfirma.pl
 www.eskluzywne-fotele.ovel.pl
 www.eu-markets.co
@@ -14305,6 +14343,7 @@ www.e-onetfakty24.eu
 www.e-osobyzagionione.pl
 www.e-payu.online
 www.e-payu.xyz
+www.e-pocztapolska.com
 www.e-poczta-polska.com
 www.e-poczta-polska.net
 www.e-pocztex.pl
@@ -15686,6 +15725,7 @@ www.santander-payments4.com
 www.santander-paymentsservice.com
 www.sauny-finskie.com.pl
 www.savinek-pl.com
+www.scb-online.co.uk
 www.secure-bank-getin.xyz
 www.secure-getin.online
 www.secure-getin.pl
