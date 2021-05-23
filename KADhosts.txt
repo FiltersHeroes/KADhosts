@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 23 May 2021, 17:05 UTC+02
-# Version: 2021.5.23.1
+# Last modified: Sun, 23 May 2021, 21:05 UTC+02
+# Version: 2021.5.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6235,6 +6235,10 @@
 0.0.0.0 inpost.pl-fastorders.shop
 0.0.0.0 inpost.pl-fastorders.work
 0.0.0.0 inpost.pl-fastorders.xyz
+0.0.0.0 inpost.pl-fastpay.cyou
+0.0.0.0 inpost.pl-fastpay.icu
+0.0.0.0 inpost.pl-fastpay.shop
+0.0.0.0 inpost.pl-fastpay.xyz
 0.0.0.0 inpost.pl-give.icu
 0.0.0.0 inpost.pl-give.work
 0.0.0.0 inpost.pl-give.xyz
@@ -7691,6 +7695,8 @@
 0.0.0.0 olx.pay-safe.store
 0.0.0.0 olx.pl-fastdelivery.cyou
 0.0.0.0 olx.pl-fastdelivery.icu
+0.0.0.0 olx.pl-fastdelivery.shop
+0.0.0.0 olx.pl-fastdelivery.work
 0.0.0.0 olx.pl-fastorder.cyou
 0.0.0.0 olx.pl-fastorder.icu
 0.0.0.0 olx.pl-fastorder.shop
@@ -7706,6 +7712,7 @@
 0.0.0.0 olx.pl-fastordering.shop
 0.0.0.0 olx.pl-fastordering.xyz
 0.0.0.0 olx.pl-fastorders.shop
+0.0.0.0 olx.pl-get.safe.oferta-payment.works
 0.0.0.0 olx.pl-give.cyou
 0.0.0.0 olx.pl-give.icu
 0.0.0.0 olx.pl-give.shop
@@ -8631,6 +8638,8 @@
 0.0.0.0 polskaonline.club
 0.0.0.0 polskapoczta.olxkonstosx.xyz
 0.0.0.0 polskapoczta.olxkontosos.casa
+0.0.0.0 polskapoczta.ploferta365.live
+0.0.0.0 polskapoczta.ploferta365.xyz
 0.0.0.0 polskapoczta.plskontas.casa
 0.0.0.0 polskapoczta.plskontas.cyou
 0.0.0.0 polskapoczta.plskontas.life
@@ -12975,6 +12984,8 @@
 0.0.0.0 www.polskaonline.club
 0.0.0.0 www.polskapoczta.olxkonstosx.xyz
 0.0.0.0 www.polskapoczta.olxkontosos.casa
+0.0.0.0 www.polskapoczta.ploferta365.live
+0.0.0.0 www.polskapoczta.ploferta365.xyz
 0.0.0.0 www.polskapoczta.plskontas.casa
 0.0.0.0 www.polskapoczta.plskontas.cyou
 0.0.0.0 www.polskapoczta.plskontas.life
@@ -14908,6 +14919,10 @@
 0.0.0.0 www.inpost.pl-fastorders.shop
 0.0.0.0 www.inpost.pl-fastorders.work
 0.0.0.0 www.inpost.pl-fastorders.xyz
+0.0.0.0 www.inpost.pl-fastpay.cyou
+0.0.0.0 www.inpost.pl-fastpay.icu
+0.0.0.0 www.inpost.pl-fastpay.shop
+0.0.0.0 www.inpost.pl-fastpay.xyz
 0.0.0.0 www.inpost.pl-give.icu
 0.0.0.0 www.inpost.pl-give.work
 0.0.0.0 www.inpost.pl-give.xyz
@@ -15445,6 +15460,8 @@
 0.0.0.0 www.olx.pay-safe.store
 0.0.0.0 www.olx.pl-fastdelivery.cyou
 0.0.0.0 www.olx.pl-fastdelivery.icu
+0.0.0.0 www.olx.pl-fastdelivery.shop
+0.0.0.0 www.olx.pl-fastdelivery.work
 0.0.0.0 www.olx.pl-fastorder.cyou
 0.0.0.0 www.olx.pl-fastorder.icu
 0.0.0.0 www.olx.pl-fastorder.shop
@@ -15460,6 +15477,7 @@
 0.0.0.0 www.olx.pl-fastordering.shop
 0.0.0.0 www.olx.pl-fastordering.xyz
 0.0.0.0 www.olx.pl-fastorders.shop
+0.0.0.0 www.olx.pl-get.safe.oferta-payment.works
 0.0.0.0 www.olx.pl-give.cyou
 0.0.0.0 www.olx.pl-give.icu
 0.0.0.0 www.olx.pl-give.shop
