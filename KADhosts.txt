@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 28 May 2021, 13:05 UTC+02
-# Version: 2021.5.28.0
+# Last modified: Fri, 28 May 2021, 17:07 UTC+02
+# Version: 2021.5.28.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5138,10 +5138,12 @@
 0.0.0.0 dotpay.kpocztapolska.net
 0.0.0.0 dotpay.lpocztapolska.net
 0.0.0.0 dotpay.mpocztapolska.net
+0.0.0.0 dotpay.npocztapolska.net
 0.0.0.0 dotpay.opocztapolska.net
 0.0.0.0 dotpay.pocztapolska48.com
 0.0.0.0 dotpay.pocztapolska247.com
 0.0.0.0 dotpay.pocztexpolska48.net
+0.0.0.0 dotpay.spocztapolska.net
 0.0.0.0 dotpay.upocztapolska.net
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.emonitoring-poczta48.net
@@ -5152,6 +5154,8 @@
 0.0.0.0 dotpay.emonitoring-polska-poczta.net
 0.0.0.0 dotpay.epoczta-polska.com
 0.0.0.0 dotpay.epoczta-polska.net
+0.0.0.0 dotpay.epoczta-polska24.com
+0.0.0.0 dotpay.epoczta-polska24.org
 0.0.0.0 dotpay.etracking-pocztex48.net
 0.0.0.0 dotpay.e-monitoring-pocztapolska.net
 0.0.0.0 dotpay.e-monitoring-pocztapolska.org
@@ -5164,6 +5168,7 @@
 0.0.0.0 dotpay.poczta-emonitoring.net
 0.0.0.0 dotpay.pocztex-poland.net
 0.0.0.0 dotpay.pol-pocztapolska.net
+0.0.0.0 dotpay.track-pocztapolska.net
 0.0.0.0 download.inboxace.com
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 download.w65.pl
@@ -5321,6 +5326,8 @@
 0.0.0.0 epoczta-interia.com
 0.0.0.0 epoczta-polska.com
 0.0.0.0 epoczta-polska.net
+0.0.0.0 epoczta-polska24.com
+0.0.0.0 epoczta-polska24.org
 0.0.0.0 eqvpismqyp.web.app
 0.0.0.0 erhherrehhre.n4t.co
 0.0.0.0 ericius.eu
@@ -5363,6 +5370,7 @@
 0.0.0.0 expresspaczki.com
 0.0.0.0 express-delivery.pl
 0.0.0.0 express-dhl.com
+0.0.0.0 express-dpd.com
 0.0.0.0 express-inpost.com
 0.0.0.0 express-inpost.online
 0.0.0.0 express-paczka.today
@@ -5798,6 +5806,7 @@
 0.0.0.0 getmyfreetraffic.com
 0.0.0.0 gettheflow.pl
 0.0.0.0 get-safe.inpost.cam
+0.0.0.0 get.3dsec.inpost.codes
 0.0.0.0 gevotel.com
 0.0.0.0 gfhjkldcfvfg.moonfruit.com
 0.0.0.0 gfxroyal.com
@@ -6248,6 +6257,7 @@
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-web.site
+0.0.0.0 inpost.pl-delivery.pw
 0.0.0.0 inpost.pl-fastdelivery.cyou
 0.0.0.0 inpost.pl-fastdelivery.icu
 0.0.0.0 inpost.pl-fastdelivery.shop
@@ -6304,6 +6314,15 @@
 0.0.0.0 inpost.pl-saving.shop
 0.0.0.0 inpost.pl-saving.work
 0.0.0.0 inpost.pl-saving.xyz
+0.0.0.0 inpost.pl-savingcash.cyou
+0.0.0.0 inpost.pl-savingcash.icu
+0.0.0.0 inpost.pl-savingcash.shop
+0.0.0.0 inpost.pl-savingcash.work
+0.0.0.0 inpost.pl-savingcash.xyz
+0.0.0.0 inpost.pl-savingmoney.cyou
+0.0.0.0 inpost.pl-savingmoney.icu
+0.0.0.0 inpost.pl-savingmoney.shop
+0.0.0.0 inpost.pl-savingmoney.work
 0.0.0.0 inpost.pl-savingmoney.xyz
 0.0.0.0 inpost.pl-success.cyou
 0.0.0.0 inpost.pl-success.shop
@@ -6580,6 +6599,7 @@
 0.0.0.0 kolege-wspomoz.eu
 0.0.0.0 kolejnyodcinekpolska.space
 0.0.0.0 kolekcjnoerbiznessu.space
+0.0.0.0 koleno.store
 0.0.0.0 kolor.oq.pl
 0.0.0.0 kolorfun.pl
 0.0.0.0 kolporter24.net
@@ -7328,6 +7348,7 @@
 0.0.0.0 nowoczesnemuzeum.pl
 0.0.0.0 nowy-regulamin.pl
 0.0.0.0 no-snore-pl.com
+0.0.0.0 npocztapolska.net
 0.0.0.0 nvod.pl
 0.0.0.0 nytopu.dm-progress.ru
 0.0.0.0 n-mobile.net
@@ -7762,6 +7783,7 @@
 0.0.0.0 olx--pl.online
 0.0.0.0 olx.com-id381949.xyz
 0.0.0.0 olx.dostawa-1613579853.site
+0.0.0.0 olx.dostawa-1619227488.site
 0.0.0.0 olx.dostawa-secure.com
 0.0.0.0 olx.get-pl.shop
 0.0.0.0 olx.m-inposta.site
@@ -7862,6 +7884,8 @@
 0.0.0.0 olx.pl-savingcash.cyou
 0.0.0.0 olx.pl-savingcash.xyz
 0.0.0.0 olx.pl-savingmoney.icu
+0.0.0.0 olx.pl-savingmoney.shop
+0.0.0.0 olx.pl-savingmoney.work
 0.0.0.0 olx.pl-secure.oferta-payment.cards
 0.0.0.0 olx.pl-success.cyou
 0.0.0.0 olx.pl-success.icu
@@ -9539,6 +9563,10 @@
 0.0.0.0 sprawdzam-dalej.xyz
 0.0.0.0 sprawdzam.is-best.net
 0.0.0.0 sprawdzikk.v0r.org
+0.0.0.0 sprawdzjak1.pl
+0.0.0.0 sprawdzjak2.pl
+0.0.0.0 sprawdzjak3.pl
+0.0.0.0 sprawdzjak4.pl
 0.0.0.0 sprawdzony-produkt.pl
 0.0.0.0 sprawdzto.ml
 0.0.0.0 sprawdzto.is-best.net
@@ -9875,6 +9903,7 @@
 0.0.0.0 towszystkobywyjasnialo.website
 0.0.0.0 tpc.hu
 0.0.0.0 trackandnow.site
+0.0.0.0 track-pocztapolska.net
 0.0.0.0 trade360.com
 0.0.0.0 traden365.co
 0.0.0.0 traderking.cc
@@ -10258,6 +10287,7 @@
 0.0.0.0 wmcs.pl
 0.0.0.0 wmieszajsiewtoszybko.site
 0.0.0.0 wnioski-kredytowe.pl
+0.0.0.0 wnioski-z-obiektywu24.xyz
 0.0.0.0 woja-punktowa.eu
 0.0.0.0 wojtekduda.pl
 0.0.0.0 wolaklosza.is-best.net
@@ -11117,10 +11147,12 @@
 0.0.0.0 www.dotpay.kpocztapolska.net
 0.0.0.0 www.dotpay.lpocztapolska.net
 0.0.0.0 www.dotpay.mpocztapolska.net
+0.0.0.0 www.dotpay.npocztapolska.net
 0.0.0.0 www.dotpay.opocztapolska.net
 0.0.0.0 www.dotpay.pocztapolska48.com
 0.0.0.0 www.dotpay.pocztapolska247.com
 0.0.0.0 www.dotpay.pocztexpolska48.net
+0.0.0.0 www.dotpay.spocztapolska.net
 0.0.0.0 www.dotpay.upocztapolska.net
 0.0.0.0 www.download.inboxace.com
 0.0.0.0 www.download.televisionfanatic.com
@@ -12035,6 +12067,7 @@
 0.0.0.0 www.kohhh.top
 0.0.0.0 www.kolejnyodcinekpolska.space
 0.0.0.0 www.kolekcjnoerbiznessu.space
+0.0.0.0 www.koleno.store
 0.0.0.0 www.kolorfun.pl
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kolporter24.net
@@ -12582,6 +12615,7 @@
 0.0.0.0 www.nowemysliobizznseise24.website
 0.0.0.0 www.nowezyciezarogiem.site
 0.0.0.0 www.nowoczesnemuzeum.pl
+0.0.0.0 www.npocztapolska.net
 0.0.0.0 www.nvod.pl
 0.0.0.0 www.o2news.you2.pl
 0.0.0.0 www.obadatrendy.com
@@ -13728,6 +13762,10 @@
 0.0.0.0 www.sprawajestprosta21.site
 0.0.0.0 www.sprawanr035812.net
 0.0.0.0 www.sprawdzikk.v0r.org
+0.0.0.0 www.sprawdzjak1.pl
+0.0.0.0 www.sprawdzjak2.pl
+0.0.0.0 www.sprawdzjak3.pl
+0.0.0.0 www.sprawdzjak4.pl
 0.0.0.0 www.sprawdzto.ml
 0.0.0.0 www.sprawykarne.net
 0.0.0.0 www.sprobujazdobedziiesz.club
@@ -14814,6 +14852,8 @@
 0.0.0.0 www.dotpay.emonitoring-polska-poczta.net
 0.0.0.0 www.dotpay.epoczta-polska.com
 0.0.0.0 www.dotpay.epoczta-polska.net
+0.0.0.0 www.dotpay.epoczta-polska24.com
+0.0.0.0 www.dotpay.epoczta-polska24.org
 0.0.0.0 www.dotpay.etracking-pocztex48.net
 0.0.0.0 www.dotpay.e-monitoring-pocztapolska.net
 0.0.0.0 www.dotpay.e-monitoring-pocztapolska.org
@@ -14826,6 +14866,7 @@
 0.0.0.0 www.dotpay.poczta-emonitoring.net
 0.0.0.0 www.dotpay.pocztex-poland.net
 0.0.0.0 www.dotpay.pol-pocztapolska.net
+0.0.0.0 www.dotpay.track-pocztapolska.net
 0.0.0.0 www.downloads-mobile.com
 0.0.0.0 www.dowod-wplaty.site
 0.0.0.0 www.do-kuchni.com
@@ -14875,6 +14916,8 @@
 0.0.0.0 www.epoczta-interia.com
 0.0.0.0 www.epoczta-polska.com
 0.0.0.0 www.epoczta-polska.net
+0.0.0.0 www.epoczta-polska24.com
+0.0.0.0 www.epoczta-polska24.org
 0.0.0.0 www.eska-tv.dfirma.pl
 0.0.0.0 www.eskluzywne-fotele.ovel.pl
 0.0.0.0 www.eu-markets.co
@@ -14885,6 +14928,7 @@
 0.0.0.0 www.excentral-int.com
 0.0.0.0 www.express-delivery.pl
 0.0.0.0 www.express-dhl.com
+0.0.0.0 www.express-dpd.com
 0.0.0.0 www.express-inpost.com
 0.0.0.0 www.express-inpost.online
 0.0.0.0 www.express-paczka.today
@@ -15049,6 +15093,7 @@
 0.0.0.0 www.geting-security.inpost.codes
 0.0.0.0 www.getin-secure-bank.xyz
 0.0.0.0 www.get-safe.inpost.cam
+0.0.0.0 www.get.3dsec.inpost.codes
 0.0.0.0 www.ggewgwegwe.001www.com
 0.0.0.0 www.giuatpzhd9dytiw.choobin-co.ir
 0.0.0.0 www.glob-markets.net
@@ -15187,6 +15232,7 @@
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-web.site
+0.0.0.0 www.inpost.pl-delivery.pw
 0.0.0.0 www.inpost.pl-fastdelivery.cyou
 0.0.0.0 www.inpost.pl-fastdelivery.icu
 0.0.0.0 www.inpost.pl-fastdelivery.shop
@@ -15243,6 +15289,15 @@
 0.0.0.0 www.inpost.pl-saving.shop
 0.0.0.0 www.inpost.pl-saving.work
 0.0.0.0 www.inpost.pl-saving.xyz
+0.0.0.0 www.inpost.pl-savingcash.cyou
+0.0.0.0 www.inpost.pl-savingcash.icu
+0.0.0.0 www.inpost.pl-savingcash.shop
+0.0.0.0 www.inpost.pl-savingcash.work
+0.0.0.0 www.inpost.pl-savingcash.xyz
+0.0.0.0 www.inpost.pl-savingmoney.cyou
+0.0.0.0 www.inpost.pl-savingmoney.icu
+0.0.0.0 www.inpost.pl-savingmoney.shop
+0.0.0.0 www.inpost.pl-savingmoney.work
 0.0.0.0 www.inpost.pl-savingmoney.xyz
 0.0.0.0 www.inpost.pl-success.cyou
 0.0.0.0 www.inpost.pl-success.shop
@@ -15757,6 +15812,7 @@
 0.0.0.0 www.olx--pl.online
 0.0.0.0 www.olx.com-id381949.xyz
 0.0.0.0 www.olx.dostawa-1613579853.site
+0.0.0.0 www.olx.dostawa-1619227488.site
 0.0.0.0 www.olx.dostawa-secure.com
 0.0.0.0 www.olx.get-pl.shop
 0.0.0.0 www.olx.m-inposta.site
@@ -15857,6 +15913,8 @@
 0.0.0.0 www.olx.pl-savingcash.cyou
 0.0.0.0 www.olx.pl-savingcash.xyz
 0.0.0.0 www.olx.pl-savingmoney.icu
+0.0.0.0 www.olx.pl-savingmoney.shop
+0.0.0.0 www.olx.pl-savingmoney.work
 0.0.0.0 www.olx.pl-secure.oferta-payment.cards
 0.0.0.0 www.olx.pl-success.cyou
 0.0.0.0 www.olx.pl-success.icu
@@ -16660,6 +16718,7 @@
 0.0.0.0 www.top-ragers.net
 0.0.0.0 www.torrenty-org.pl
 0.0.0.0 www.torrenty--org.pl
+0.0.0.0 www.track-pocztapolska.net
 0.0.0.0 www.trade-labs.com
 0.0.0.0 www.trade-olx.pl
 0.0.0.0 www.trampoliny-sklep.com
@@ -16781,6 +16840,7 @@
 0.0.0.0 www.wiocha-pl.eu
 0.0.0.0 www.wirtualna-polska.you2.pl
 0.0.0.0 www.wnioski-kredytowe.pl
+0.0.0.0 www.wnioski-z-obiektywu24.xyz
 0.0.0.0 www.woja-punktowa.eu
 0.0.0.0 www.wolaklosza.is-best.net
 0.0.0.0 www.worlds-news.org
