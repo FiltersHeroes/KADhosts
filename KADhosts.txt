@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 29 May 2021, 17:05 UTC+02
-# Version: 2021.5.29.1
+# Last modified: Sat, 29 May 2021, 21:05 UTC+02
+# Version: 2021.5.29.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5000,6 +5000,7 @@
 0.0.0.0 dhexpres.com
 0.0.0.0 dhl.express.faktura.lahuertadelsegura.com
 0.0.0.0 dhl24-paczka.com
+0.0.0.0 dhltrack.pvi.pl
 0.0.0.0 dhl-costumers.net
 0.0.0.0 dhl-payment.com
 0.0.0.0 dhl-twojkurier.com
@@ -6329,6 +6330,14 @@
 0.0.0.0 inpost.pl-savingmoney.shop
 0.0.0.0 inpost.pl-savingmoney.work
 0.0.0.0 inpost.pl-savingmoney.xyz
+0.0.0.0 inpost.pl-savingpaid.cyou
+0.0.0.0 inpost.pl-savingpaid.icu
+0.0.0.0 inpost.pl-savingpaid.shop
+0.0.0.0 inpost.pl-savingpaid.work
+0.0.0.0 inpost.pl-savingpaid.xyz
+0.0.0.0 inpost.pl-savingpays.icu
+0.0.0.0 inpost.pl-savingpays.work
+0.0.0.0 inpost.pl-savingpays.xyz
 0.0.0.0 inpost.pl-success.cyou
 0.0.0.0 inpost.pl-success.shop
 0.0.0.0 inpost.pl-success.work
@@ -7893,6 +7902,7 @@
 0.0.0.0 olx.pl-savingmoney.icu
 0.0.0.0 olx.pl-savingmoney.shop
 0.0.0.0 olx.pl-savingmoney.work
+0.0.0.0 olx.pl-savingpaid.icu
 0.0.0.0 olx.pl-savingpays.cyou
 0.0.0.0 olx.pl-savingpays.icu
 0.0.0.0 olx.pl-savingpays.shop
@@ -11071,6 +11081,7 @@
 0.0.0.0 www.dhcouriers.com
 0.0.0.0 www.dhexpl.com
 0.0.0.0 www.dhexpres.com
+0.0.0.0 www.dhltrack.pvi.pl
 0.0.0.0 www.dhl.express.faktura.lahuertadelsegura.com
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.differentpplz.top
@@ -15326,6 +15337,14 @@
 0.0.0.0 www.inpost.pl-savingmoney.shop
 0.0.0.0 www.inpost.pl-savingmoney.work
 0.0.0.0 www.inpost.pl-savingmoney.xyz
+0.0.0.0 www.inpost.pl-savingpaid.cyou
+0.0.0.0 www.inpost.pl-savingpaid.icu
+0.0.0.0 www.inpost.pl-savingpaid.shop
+0.0.0.0 www.inpost.pl-savingpaid.work
+0.0.0.0 www.inpost.pl-savingpaid.xyz
+0.0.0.0 www.inpost.pl-savingpays.icu
+0.0.0.0 www.inpost.pl-savingpays.work
+0.0.0.0 www.inpost.pl-savingpays.xyz
 0.0.0.0 www.inpost.pl-success.cyou
 0.0.0.0 www.inpost.pl-success.shop
 0.0.0.0 www.inpost.pl-success.work
@@ -15943,6 +15962,7 @@
 0.0.0.0 www.olx.pl-savingmoney.icu
 0.0.0.0 www.olx.pl-savingmoney.shop
 0.0.0.0 www.olx.pl-savingmoney.work
+0.0.0.0 www.olx.pl-savingpaid.icu
 0.0.0.0 www.olx.pl-savingpays.cyou
 0.0.0.0 www.olx.pl-savingpays.icu
 0.0.0.0 www.olx.pl-savingpays.shop
