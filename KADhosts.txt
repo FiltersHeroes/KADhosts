@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 01 Jun 2021, 13:05 UTC+02
-# Version: 2021.6.1.0
+# Last modified: Tue, 01 Jun 2021, 17:05 UTC+02
+# Version: 2021.6.1.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3953,11 +3953,13 @@
 0.0.0.0 1y8v7s.store
 0.0.0.0 1-onet.pl
 0.0.0.0 1-onet.waw.pl
+0.0.0.0 1-onetowo.pl
 0.0.0.0 2remove.guide
 0.0.0.0 2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud
 0.0.0.0 2supermocna-tasma-klejaca-pl.com
 0.0.0.0 2-onet.pl
 0.0.0.0 2-onet.waw.pl
+0.0.0.0 2-onetowo.pl
 0.0.0.0 2-remove-virus.com
 0.0.0.0 02-wiadomosci.com.pl
 0.0.0.0 3dsecure-pay.com
@@ -3969,6 +3971,7 @@
 0.0.0.0 3-139-92-223.cprapid.com
 0.0.0.0 3-onet.pl
 0.0.0.0 3-onet.waw.pl
+0.0.0.0 3-onetowo.pl
 0.0.0.0 4afe8b11a52839751.temporary.link
 0.0.0.0 4kmovies.xyz
 0.0.0.0 4kplayer.pl
@@ -3977,6 +3980,7 @@
 0.0.0.0 4stronyzdrowia.com
 0.0.0.0 4-onet.pl
 0.0.0.0 4-onet.waw.pl
+0.0.0.0 4-onetowo.pl
 0.0.0.0 5d8b2c00436ac.site123.me
 0.0.0.0 5kplayer.pl
 0.0.0.0 5tysiecy.pl
@@ -4230,6 +4234,7 @@
 0.0.0.0 anime.flix-share.xyz
 0.0.0.0 aniventure.co.uk
 0.0.0.0 ankaraa.icu
+0.0.0.0 anmcm-azmon.myvnc.com
 0.0.0.0 annitakurier.org
 0.0.0.0 antares.trade
 0.0.0.0 antispam-pro.us
@@ -6276,6 +6281,7 @@
 0.0.0.0 inpost.dostawa-orders.casa
 0.0.0.0 inpost.dostawa-orders.xyz
 0.0.0.0 inpost.offerta-dostawa.club
+0.0.0.0 inpost.offerta-dostawo.club
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-web.site
 0.0.0.0 inpost.pl-delivery.pw
@@ -6327,6 +6333,8 @@
 0.0.0.0 inpost.pl-receivepay.xyz
 0.0.0.0 inpost.pl-receivepays.icu
 0.0.0.0 inpost.pl-receivepays.work
+0.0.0.0 inpost.pl-safecost.icu
+0.0.0.0 inpost.pl-safecost.xyz
 0.0.0.0 inpost.pl-safelycash.cyou
 0.0.0.0 inpost.pl-safelycash.icu
 0.0.0.0 inpost.pl-safelycash.shop
@@ -7019,6 +7027,7 @@
 0.0.0.0 mediafile.pl
 0.0.0.0 mediavideo.pl
 0.0.0.0 mediazmojegomiasta.online
+0.0.0.0 media-24n.cleverapps.io
 0.0.0.0 medical-library.org
 0.0.0.0 medycyna-naturalna24.com
 0.0.0.0 medycznapolska.pl
@@ -7179,6 +7188,7 @@
 0.0.0.0 muzeum.cyou
 0.0.0.0 muzyka.icu
 0.0.0.0 mvpaoe.com
+0.0.0.0 mxdby-mailsever-000ruiwas.web.app
 0.0.0.0 my.commbank.com.au.logon.australia.commbankaustralia.aspx.logon.nb.authorization.loginx.lockedintrusted.nmsistemas.com
 0.0.0.0 mycoinology.com
 0.0.0.0 mydnssbox.gleeze.com
@@ -7921,6 +7931,7 @@
 0.0.0.0 olx.pl-receivepays.cyou
 0.0.0.0 olx.pl-receivepays.icu
 0.0.0.0 olx.pl-receivepays.work
+0.0.0.0 olx.pl-safecost.icu
 0.0.0.0 olx.pl-safecosts.cyou
 0.0.0.0 olx.pl-safecosts.icu
 0.0.0.0 olx.pl-safecosts.shop
@@ -7996,6 +8007,7 @@
 0.0.0.0 olx.pl.dostawa-orders.store
 0.0.0.0 olx.pl.oferta-payment.fit
 0.0.0.0 olx.pl.oferta-payment.works
+0.0.0.0 olx.pl.payfor-id.site
 0.0.0.0 olx.pl.pay-reg.pw
 0.0.0.0 olx.pl.rec-pay.site
 0.0.0.0 olx.pl.rek-transfer.pw
@@ -8388,9 +8400,11 @@
 0.0.0.0 pay47-olx.pl
 0.0.0.0 pay48-olx.info
 0.0.0.0 pay48-olx.pl
+0.0.0.0 pay49-olx.info
 0.0.0.0 pay49-olx.pl
 0.0.0.0 pay50-olx.pl
 0.0.0.0 pay51-olx.pl
+0.0.0.0 pay52-olx.info
 0.0.0.0 pay52-olx.pl
 0.0.0.0 pay53-olx.pl
 0.0.0.0 pay55-olx.pl
@@ -9500,6 +9514,7 @@
 0.0.0.0 seriale.best
 0.0.0.0 serialosy.pl
 0.0.0.0 serialowo.pl
+0.0.0.0 server254.dedicated2-webhosting.com
 0.0.0.0 server274.dedicated-webhosting.xyz
 0.0.0.0 server012121.nazwa.pl
 0.0.0.0 server060728.nazwa.pl
@@ -9793,6 +9808,7 @@
 0.0.0.0 stoprocentpollskatv.cyou
 0.0.0.0 stopspam.pl
 0.0.0.0 stop-szczepionkom.waw.pl
+0.0.0.0 storageclear.site
 0.0.0.0 strangefullthiggngs.com
 0.0.0.0 streamcommunitty.ru.com
 0.0.0.0 streamcomunniti.ru
@@ -10038,6 +10054,7 @@
 0.0.0.0 topparcelservices.com
 0.0.0.0 toptarotist.nl
 0.0.0.0 top-daily-profit.com
+0.0.0.0 top-premium.weebly.com
 0.0.0.0 top-ragers.net
 0.0.0.0 torrento.pl
 0.0.0.0 torrentu.pl
@@ -13997,6 +14014,7 @@
 0.0.0.0 www.stopcodex.pl
 0.0.0.0 www.stoprocentpollskatv.cyou
 0.0.0.0 www.stopspam.pl
+0.0.0.0 www.storageclear.site
 0.0.0.0 www.strangefullthiggngs.com
 0.0.0.0 www.streamcommunitty.ru.com
 0.0.0.0 www.streamcomunniti.ru
@@ -14640,11 +14658,13 @@
 0.0.0.0 www.1y8v7s.store
 0.0.0.0 www.1-onet.pl
 0.0.0.0 www.1-onet.waw.pl
+0.0.0.0 www.1-onetowo.pl
 0.0.0.0 www.2remove.guide
 0.0.0.0 www.2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.2supermocna-tasma-klejaca-pl.com
 0.0.0.0 www.2-onet.pl
 0.0.0.0 www.2-onet.waw.pl
+0.0.0.0 www.2-onetowo.pl
 0.0.0.0 www.2-remove-virus.com
 0.0.0.0 www.02-wiadomosci.com.pl
 0.0.0.0 www.3dsecure-pay.com
@@ -14656,6 +14676,7 @@
 0.0.0.0 www.3-139-92-223.cprapid.com
 0.0.0.0 www.3-onet.pl
 0.0.0.0 www.3-onet.waw.pl
+0.0.0.0 www.3-onetowo.pl
 0.0.0.0 www.4afe8b11a52839751.temporary.link
 0.0.0.0 www.4kmovies.xyz
 0.0.0.0 www.4kplayer.pl
@@ -14664,6 +14685,7 @@
 0.0.0.0 www.4stronyzdrowia.com
 0.0.0.0 www.4-onet.pl
 0.0.0.0 www.4-onet.waw.pl
+0.0.0.0 www.4-onetowo.pl
 0.0.0.0 www.5d8b2c00436ac.site123.me
 0.0.0.0 www.5kplayer.pl
 0.0.0.0 www.5tysiecy.pl
@@ -14788,6 +14810,7 @@
 0.0.0.0 www.amu-edu-pl.ew.r.appspot.com
 0.0.0.0 www.android-cleaner.net
 0.0.0.0 www.anime.flix-share.xyz
+0.0.0.0 www.anmcm-azmon.myvnc.com
 0.0.0.0 www.antispam-pro.us
 0.0.0.0 www.antyspam-aplikacja.us
 0.0.0.0 www.antyspam-interia.live
@@ -15429,6 +15452,7 @@
 0.0.0.0 www.inpost.dostawa-orders.casa
 0.0.0.0 www.inpost.dostawa-orders.xyz
 0.0.0.0 www.inpost.offerta-dostawa.club
+0.0.0.0 www.inpost.offerta-dostawo.club
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-web.site
 0.0.0.0 www.inpost.pl-delivery.pw
@@ -15480,6 +15504,8 @@
 0.0.0.0 www.inpost.pl-receivepay.xyz
 0.0.0.0 www.inpost.pl-receivepays.icu
 0.0.0.0 www.inpost.pl-receivepays.work
+0.0.0.0 www.inpost.pl-safecost.icu
+0.0.0.0 www.inpost.pl-safecost.xyz
 0.0.0.0 www.inpost.pl-safelycash.cyou
 0.0.0.0 www.inpost.pl-safelycash.icu
 0.0.0.0 www.inpost.pl-safelycash.shop
@@ -15707,6 +15733,7 @@
 0.0.0.0 www.mdelivery.olx-pl.services
 0.0.0.0 www.mediacje-olsztyn.pl
 0.0.0.0 www.mediaexpert-sale.pl
+0.0.0.0 www.media-24n.cleverapps.io
 0.0.0.0 www.medical-library.org
 0.0.0.0 www.medycyna-naturalna24.com
 0.0.0.0 www.meet-me-here3.com
@@ -15746,6 +15773,7 @@
 0.0.0.0 www.ms-gatewayapp.com
 0.0.0.0 www.multico.5v.pl
 0.0.0.0 www.multikino-pl.over-blog.com
+0.0.0.0 www.mxdby-mailsever-000ruiwas.web.app
 0.0.0.0 www.my-dostawa-olx.pl
 0.0.0.0 www.my-olx.pl
 0.0.0.0 www.my-pay.info
@@ -16124,6 +16152,7 @@
 0.0.0.0 www.olx.pl-receivepays.cyou
 0.0.0.0 www.olx.pl-receivepays.icu
 0.0.0.0 www.olx.pl-receivepays.work
+0.0.0.0 www.olx.pl-safecost.icu
 0.0.0.0 www.olx.pl-safecosts.cyou
 0.0.0.0 www.olx.pl-safecosts.icu
 0.0.0.0 www.olx.pl-safecosts.shop
@@ -16199,6 +16228,7 @@
 0.0.0.0 www.olx.pl.dostawa-orders.store
 0.0.0.0 www.olx.pl.oferta-payment.fit
 0.0.0.0 www.olx.pl.oferta-payment.works
+0.0.0.0 www.olx.pl.payfor-id.site
 0.0.0.0 www.olx.pl.pay-reg.pw
 0.0.0.0 www.olx.pl.rec-pay.site
 0.0.0.0 www.olx.pl.rek-transfer.pw
@@ -16412,9 +16442,11 @@
 0.0.0.0 www.pay47-olx.pl
 0.0.0.0 www.pay48-olx.info
 0.0.0.0 www.pay48-olx.pl
+0.0.0.0 www.pay49-olx.info
 0.0.0.0 www.pay49-olx.pl
 0.0.0.0 www.pay50-olx.pl
 0.0.0.0 www.pay51-olx.pl
+0.0.0.0 www.pay52-olx.info
 0.0.0.0 www.pay52-olx.pl
 0.0.0.0 www.pay53-olx.pl
 0.0.0.0 www.pay55-olx.pl
@@ -16868,6 +16900,7 @@
 0.0.0.0 www.send-post.fun
 0.0.0.0 www.send-post.host
 0.0.0.0 www.send-post.space
+0.0.0.0 www.server254.dedicated2-webhosting.com
 0.0.0.0 www.server274.dedicated-webhosting.xyz
 0.0.0.0 www.server-payuser1.com
 0.0.0.0 www.serwis-medyczny24.com
@@ -17023,6 +17056,7 @@
 0.0.0.0 www.tojestto.is-best.net
 0.0.0.0 www.topgryusluga.5p.pl
 0.0.0.0 www.top-daily-profit.com
+0.0.0.0 www.top-premium.weebly.com
 0.0.0.0 www.top-ragers.net
 0.0.0.0 www.torrenty-org.pl
 0.0.0.0 www.torrenty--org.pl
