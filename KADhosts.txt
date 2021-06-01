@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 31 May 2021, 21:05 UTC+02
-# Version: 2021.5.31.2
+# Last modified: Tue, 01 Jun 2021, 13:05 UTC+02
+# Version: 2021.6.1.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6158,7 +6158,11 @@
 0.0.0.0 info-centrum.co.pl
 0.0.0.0 info-inpost.pl
 0.0.0.0 info-od-policji.dnsrobotuptime.ru
+0.0.0.0 info-onet.pl
 0.0.0.0 info-onet.waw.pl
+0.0.0.0 info-onet1.pl
+0.0.0.0 info-onet2.pl
+0.0.0.0 info-onet3.pl
 0.0.0.0 info-prosto-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 info-prosto-z-polski.dnsrobotuptime.ru
 0.0.0.0 info-sms.su
@@ -6265,6 +6269,7 @@
 0.0.0.0 inpost-pl.online
 0.0.0.0 inpost-platnosc.in.net
 0.0.0.0 inpost-pl-pay.site
+0.0.0.0 inpost-pl.delivery-site.info
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpost.dostawa-oferla.casa
 0.0.0.0 inpost.dostawa-oferla.cyou
@@ -7916,6 +7921,11 @@
 0.0.0.0 olx.pl-receivepays.cyou
 0.0.0.0 olx.pl-receivepays.icu
 0.0.0.0 olx.pl-receivepays.work
+0.0.0.0 olx.pl-safecosts.cyou
+0.0.0.0 olx.pl-safecosts.icu
+0.0.0.0 olx.pl-safecosts.shop
+0.0.0.0 olx.pl-safecosts.work
+0.0.0.0 olx.pl-safecosts.xyz
 0.0.0.0 olx.pl-safelycash.cyou
 0.0.0.0 olx.pl-safelycash.icu
 0.0.0.0 olx.pl-safelycash.shop
@@ -8018,6 +8028,10 @@
 0.0.0.0 onet24polska.eu
 0.0.0.0 onet1111.webd.pro
 0.0.0.0 onetfakt24.eu
+0.0.0.0 onetowo.pl
+0.0.0.0 onetowo1.pl
+0.0.0.0 onetowo2.pl
+0.0.0.0 onetowo3.pl
 0.0.0.0 onet-1.pl
 0.0.0.0 onet-1.waw.pl
 0.0.0.0 onet-2.pl
@@ -8052,10 +8066,15 @@
 0.0.0.0 onet-wiadomosc.online
 0.0.0.0 onet-wiadomosc.xyz
 0.0.0.0 one-pay.xyz
+0.0.0.0 one-t.pl
 0.0.0.0 one-t1.pl
+0.0.0.0 one-t1.waw.pl
 0.0.0.0 one-t2.pl
+0.0.0.0 one-t2.waw.pl
 0.0.0.0 one-t3.pl
+0.0.0.0 one-t3.waw.pl
 0.0.0.0 one-t4.pl
+0.0.0.0 one-t4.waw.pl
 0.0.0.0 onioq.xyz
 0.0.0.0 onliine.pl
 0.0.0.0 onlineaccessonlineacesonlineacess.weebly.com
@@ -8367,6 +8386,7 @@
 0.0.0.0 pay46-olx.pl
 0.0.0.0 pay47-olx.info
 0.0.0.0 pay47-olx.pl
+0.0.0.0 pay48-olx.info
 0.0.0.0 pay48-olx.pl
 0.0.0.0 pay49-olx.pl
 0.0.0.0 pay50-olx.pl
@@ -9946,6 +9966,7 @@
 0.0.0.0 test.maciejdudek.com.pl
 0.0.0.0 testcompetence.pl
 0.0.0.0 testeryperfum.fcg.org.pl
+0.0.0.0 teterly.site
 0.0.0.0 tevasandalypl.org
 0.0.0.0 tewiadomosci.online
 0.0.0.0 tfks19yr6ykp3ud.likemyish.com
@@ -10421,6 +10442,7 @@
 0.0.0.0 wolaklosza.is-best.net
 0.0.0.0 wolski.med.pl
 0.0.0.0 wolyncalyfilm.wordpress.com
+0.0.0.0 wondereg.site
 0.0.0.0 wootmyrilk.xyz
 0.0.0.0 wordpresszapocetnike.com
 0.0.0.0 worldmarkets.com
@@ -12977,6 +12999,10 @@
 0.0.0.0 www.onet24.live
 0.0.0.0 www.onet1111.webd.pro
 0.0.0.0 www.onetfakt24.eu
+0.0.0.0 www.onetowo1.pl
+0.0.0.0 www.onetowo2.pl
+0.0.0.0 www.onetowo3.pl
+0.0.0.0 www.onetowo.pl
 0.0.0.0 www.onet.dfirma.pl
 0.0.0.0 www.onet.waw.pl
 0.0.0.0 www.onet.you2.pl
@@ -14094,6 +14120,7 @@
 0.0.0.0 www.testcompetence.pl
 0.0.0.0 www.testeryperfum.fcg.org.pl
 0.0.0.0 www.test.maciejdudek.com.pl
+0.0.0.0 www.teterly.site
 0.0.0.0 www.tevasandalypl.org
 0.0.0.0 www.tewiadomosci.online
 0.0.0.0 www.tfks19yr6ykp3ud.likemyish.com
@@ -14424,6 +14451,7 @@
 0.0.0.0 www.wojtekduda.pl
 0.0.0.0 www.wolski.med.pl
 0.0.0.0 www.wolyncalyfilm.wordpress.com
+0.0.0.0 www.wondereg.site
 0.0.0.0 www.wootmyrilk.xyz
 0.0.0.0 www.wordpresszapocetnike.com
 0.0.0.0 www.worldmarkets.com
@@ -15354,7 +15382,11 @@
 0.0.0.0 www.info-centrum.co.pl
 0.0.0.0 www.info-inpost.pl
 0.0.0.0 www.info-od-policji.dnsrobotuptime.ru
+0.0.0.0 www.info-onet.pl
 0.0.0.0 www.info-onet.waw.pl
+0.0.0.0 www.info-onet1.pl
+0.0.0.0 www.info-onet2.pl
+0.0.0.0 www.info-onet3.pl
 0.0.0.0 www.info-prosto-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 www.info-prosto-z-polski.dnsrobotuptime.ru
 0.0.0.0 www.info-sms.su
@@ -15390,6 +15422,7 @@
 0.0.0.0 www.inpost-pl.online
 0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.inpost-pl-pay.site
+0.0.0.0 www.inpost-pl.delivery-site.info
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpost.dostawa-oferla.casa
 0.0.0.0 www.inpost.dostawa-oferla.cyou
@@ -16091,6 +16124,11 @@
 0.0.0.0 www.olx.pl-receivepays.cyou
 0.0.0.0 www.olx.pl-receivepays.icu
 0.0.0.0 www.olx.pl-receivepays.work
+0.0.0.0 www.olx.pl-safecosts.cyou
+0.0.0.0 www.olx.pl-safecosts.icu
+0.0.0.0 www.olx.pl-safecosts.shop
+0.0.0.0 www.olx.pl-safecosts.work
+0.0.0.0 www.olx.pl-safecosts.xyz
 0.0.0.0 www.olx.pl-safelycash.cyou
 0.0.0.0 www.olx.pl-safelycash.icu
 0.0.0.0 www.olx.pl-safelycash.shop
@@ -16210,10 +16248,15 @@
 0.0.0.0 www.onet-wiadomosc.online
 0.0.0.0 www.onet-wiadomosc.xyz
 0.0.0.0 www.one-pay.xyz
+0.0.0.0 www.one-t.pl
 0.0.0.0 www.one-t1.pl
+0.0.0.0 www.one-t1.waw.pl
 0.0.0.0 www.one-t2.pl
+0.0.0.0 www.one-t2.waw.pl
 0.0.0.0 www.one-t3.pl
+0.0.0.0 www.one-t3.waw.pl
 0.0.0.0 www.one-t4.pl
+0.0.0.0 www.one-t4.waw.pl
 0.0.0.0 www.onlinegettin-bank.com
 0.0.0.0 www.online-allorbank.com
 0.0.0.0 www.online-cda.pl
@@ -16367,6 +16410,7 @@
 0.0.0.0 www.pay46-olx.pl
 0.0.0.0 www.pay47-olx.info
 0.0.0.0 www.pay47-olx.pl
+0.0.0.0 www.pay48-olx.info
 0.0.0.0 www.pay48-olx.pl
 0.0.0.0 www.pay49-olx.pl
 0.0.0.0 www.pay50-olx.pl
