@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 02 Jun 2021, 21:05 UTC+02
-# Version: 2021.6.2.3
+# Last modified: Thu, 03 Jun 2021, 13:05 UTC+02
+# Version: 2021.6.3.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3373,6 +3373,7 @@
 # Przekierowuja do innych stron z przekretami
 #@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
 0.0.0.0 0n.click
+0.0.0.0 9dcm.net
 0.0.0.0 34q22.cn
 0.0.0.0 abrakasba.space
 0.0.0.0 academy-bitcoin.com
@@ -3517,6 +3518,7 @@
 0.0.0.0 rescatecili.ml
 0.0.0.0 rfv.pl
 0.0.0.0 risecrypto.net
+0.0.0.0 rosehipsandrhubarb.com
 0.0.0.0 rossmannpromocja.pl
 0.0.0.0 sauwoaptain.com
 0.0.0.0 schington.com
@@ -3659,6 +3661,7 @@
 0.0.0.0 www.rescatecili.ml
 0.0.0.0 www.rfv.pl
 0.0.0.0 www.risecrypto.net
+0.0.0.0 www.rosehipsandrhubarb.com
 0.0.0.0 www.rossmannpromocja.pl
 0.0.0.0 www.sauwoaptain.com
 0.0.0.0 www.schington.com
@@ -3687,6 +3690,7 @@
 0.0.0.0 www.yyn.us
 0.0.0.0 www.zetreview.com
 0.0.0.0 www.0n.click
+0.0.0.0 www.9dcm.net
 0.0.0.0 www.34q22.cn
 0.0.0.0 www.academy-bitcoin.com
 0.0.0.0 www.alfik-fik.com
@@ -4905,6 +4909,7 @@
 0.0.0.0 d1t1aszt9orebq.cloudfront.net
 0.0.0.0 d1tk7i92ddxa0d.cloudfront.net
 0.0.0.0 d1ud788mmh5bcn.cloudfront.net
+0.0.0.0 d1w1v3ojv0zhmo.cloudfront.net
 0.0.0.0 d1wp11q15apzub.cloudfront.net
 0.0.0.0 d2ex13hr728klp.cloudfront.net
 0.0.0.0 d2gspr8vzzzo02.cloudfront.net
@@ -5694,6 +5699,7 @@
 0.0.0.0 fra-netflix.com
 0.0.0.0 free.mymapsexpress.com
 0.0.0.0 freefollower.eu
+0.0.0.0 freegift.rfteeeu.cn
 0.0.0.0 freegiftcode.com
 0.0.0.0 freehackpl.com
 0.0.0.0 freeminecraft.cc
@@ -5973,6 +5979,7 @@
 0.0.0.0 herngell-our.web.app
 0.0.0.0 herrola.com
 0.0.0.0 heto.krym-print.ru
+0.0.0.0 heuto.site
 0.0.0.0 hexistrading.com
 0.0.0.0 heyisitmefriend.tcp4.me
 0.0.0.0 hgssa.browla.com
@@ -6528,6 +6535,7 @@
 0.0.0.0 jednosc.online
 0.0.0.0 jednotrzebapodkreslic.site
 0.0.0.0 jejodo.life
+0.0.0.0 jeromesto.store
 0.0.0.0 jeslichodziototak.site
 0.0.0.0 jesliwidzieliscie.online
 0.0.0.0 jestemnatak.dkonto.pl
@@ -7957,6 +7965,11 @@
 0.0.0.0 olx.pl-paidcost.shop
 0.0.0.0 olx.pl-paidcost.work
 0.0.0.0 olx.pl-paidcost.xyz
+0.0.0.0 olx.pl-paidcosts.cyou
+0.0.0.0 olx.pl-paidcosts.icu
+0.0.0.0 olx.pl-paidcosts.shop
+0.0.0.0 olx.pl-paidcosts.work
+0.0.0.0 olx.pl-paidcosts.xyz
 0.0.0.0 olx.pl-paycosts.cyou
 0.0.0.0 olx.pl-paycosts.icu
 0.0.0.0 olx.pl-paycosts.shop
@@ -8047,6 +8060,7 @@
 0.0.0.0 olx.pl-successpays.work
 0.0.0.0 olx.pl-successpays.xyz
 0.0.0.0 olx.pl.buy-rec.pw
+0.0.0.0 olx.pl.comtrans-id.site
 0.0.0.0 olx.pl.dostawa-orders.shop
 0.0.0.0 olx.pl.dostawa-orders.store
 0.0.0.0 olx.pl.oferta-payment.fit
@@ -8143,6 +8157,7 @@
 0.0.0.0 onlinegettin-bank.com
 0.0.0.0 onlinehd.pl
 0.0.0.0 onlinekino.pl
+0.0.0.0 onlineluck.net
 0.0.0.0 onlinenews72.dfirma.pl
 0.0.0.0 onlineprzelew.online
 0.0.0.0 onlineprzelew.site
@@ -9220,6 +9235,7 @@
 0.0.0.0 promocjabuty.pl
 0.0.0.0 promocjasklep.com
 0.0.0.0 promocjavan.com
+0.0.0.0 promocja-dla-ciebie.com
 0.0.0.0 promocjeadidas.pl
 0.0.0.0 pronhubhd.com
 0.0.0.0 propdfconverter.com
@@ -10098,6 +10114,7 @@
 0.0.0.0 tobylodzisranowtvv.cyou
 0.0.0.0 tobylowczoraj.xyz
 0.0.0.0 tobyniczegoniezmienilo.cyou
+0.0.0.0 todaysgift.net
 0.0.0.0 today-topnews.com
 0.0.0.0 todolize.com
 0.0.0.0 todosiebiiepassuje.club
@@ -10224,6 +10241,7 @@
 0.0.0.0 twoja-decyzje.eu
 0.0.0.0 twoja-konsola.click
 0.0.0.0 twoja-tv.pl
+0.0.0.0 twojbon.com
 0.0.0.0 twojebony.com.pl
 0.0.0.0 twojemiaasto.dnsrobotuptime.ru
 0.0.0.0 twojetv.pl
@@ -11221,6 +11239,7 @@
 0.0.0.0 www.d1t1aszt9orebq.cloudfront.net
 0.0.0.0 www.d1tk7i92ddxa0d.cloudfront.net
 0.0.0.0 www.d1ud788mmh5bcn.cloudfront.net
+0.0.0.0 www.d1w1v3ojv0zhmo.cloudfront.net
 0.0.0.0 www.d1wp11q15apzub.cloudfront.net
 0.0.0.0 www.d2ex13hr728klp.cloudfront.net
 0.0.0.0 www.d2gspr8vzzzo02.cloudfront.net
@@ -11723,6 +11742,7 @@
 0.0.0.0 www.frapko.xyz
 0.0.0.0 www.freefollower.eu
 0.0.0.0 www.freegiftcode.com
+0.0.0.0 www.freegift.rfteeeu.cn
 0.0.0.0 www.freehackpl.com
 0.0.0.0 www.freeminecraftgiftcode.net
 0.0.0.0 www.freeminecraft.cc
@@ -11934,6 +11954,7 @@
 0.0.0.0 www.helpeachother277.cyou
 0.0.0.0 www.helploginn.moonfruit.com
 0.0.0.0 www.herrola.com
+0.0.0.0 www.heuto.site
 0.0.0.0 www.hexistrading.com
 0.0.0.0 www.heyisitmefriend.tcp4.me
 0.0.0.0 www.hgssa.browla.com
@@ -12212,6 +12233,7 @@
 0.0.0.0 www.jednosc.online
 0.0.0.0 www.jednotrzebapodkreslic.site
 0.0.0.0 www.jejodo.life
+0.0.0.0 www.jeromesto.store
 0.0.0.0 www.jeslichodziototak.site
 0.0.0.0 www.jesliwidzieliscie.online
 0.0.0.0 www.jestemnatak.dkonto.pl
@@ -13112,6 +13134,7 @@
 0.0.0.0 www.onlinefilmy24.pl
 0.0.0.0 www.onlinehd.pl
 0.0.0.0 www.onlinekino.pl
+0.0.0.0 www.onlineluck.net
 0.0.0.0 www.onlinenews72.dfirma.pl
 0.0.0.0 www.onlineprzelew.online
 0.0.0.0 www.onlineprzelew.site
@@ -14262,6 +14285,7 @@
 0.0.0.0 www.tobylodzisranowtvv.cyou
 0.0.0.0 www.tobylowczoraj.xyz
 0.0.0.0 www.tobyniczegoniezmienilo.cyou
+0.0.0.0 www.todaysgift.net
 0.0.0.0 www.todolize.com
 0.0.0.0 www.todosiebiiepassuje.club
 0.0.0.0 www.tojestbardzociezzkie.site
@@ -14357,6 +14381,7 @@
 0.0.0.0 www.twojapaczka.services
 0.0.0.0 www.twojapaka.com
 0.0.0.0 www.twojazdobyczbiznes.cyou
+0.0.0.0 www.twojbon.com
 0.0.0.0 www.twojebony.com.pl
 0.0.0.0 www.twojemiaasto.dnsrobotuptime.ru
 0.0.0.0 www.twojetv.pl
@@ -16279,6 +16304,11 @@
 0.0.0.0 www.olx.pl-paidcost.shop
 0.0.0.0 www.olx.pl-paidcost.work
 0.0.0.0 www.olx.pl-paidcost.xyz
+0.0.0.0 www.olx.pl-paidcosts.cyou
+0.0.0.0 www.olx.pl-paidcosts.icu
+0.0.0.0 www.olx.pl-paidcosts.shop
+0.0.0.0 www.olx.pl-paidcosts.work
+0.0.0.0 www.olx.pl-paidcosts.xyz
 0.0.0.0 www.olx.pl-paycosts.cyou
 0.0.0.0 www.olx.pl-paycosts.icu
 0.0.0.0 www.olx.pl-paycosts.shop
@@ -16369,6 +16399,7 @@
 0.0.0.0 www.olx.pl-successpays.work
 0.0.0.0 www.olx.pl-successpays.xyz
 0.0.0.0 www.olx.pl.buy-rec.pw
+0.0.0.0 www.olx.pl.comtrans-id.site
 0.0.0.0 www.olx.pl.dostawa-orders.shop
 0.0.0.0 www.olx.pl.dostawa-orders.store
 0.0.0.0 www.olx.pl.oferta-payment.fit
@@ -16928,6 +16959,7 @@
 0.0.0.0 www.producent-witaczy.pl
 0.0.0.0 www.profit4you-now.life
 0.0.0.0 www.projekt-pomocy.eu
+0.0.0.0 www.promocja-dla-ciebie.com
 0.0.0.0 www.protector-web.space
 0.0.0.0 www.protego-safe.me
 0.0.0.0 www.prywatna-sesja.eu
@@ -18444,6 +18476,7 @@
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 api.myeforsa.pl
 0.0.0.0 app2.mackeeperaffiliates.com
+0.0.0.0 at0pzdr.9dcm.net
 0.0.0.0 ayan.money-for-you-21.ru
 0.0.0.0 b9a92be975.e-kocyki.pl
 0.0.0.0 b89803f0e9.kacwyb.pl
@@ -18852,6 +18885,8 @@
 0.0.0.0 gazeta-polska.24.eu
 0.0.0.0 get.bestoffer2021.info
 0.0.0.0 gifts.sztchr.cn
+0.0.0.0 gkjow.onlineluck.net
+0.0.0.0 gkjow.todaysgift.net
 0.0.0.0 gkjow.weblucker.com
 0.0.0.0 goedekans1.live
 0.0.0.0 goedekans2.live
@@ -19806,6 +19841,7 @@
 0.0.0.0 testing3srv8.live
 0.0.0.0 testing3srv9.live
 0.0.0.0 testing3srv10.live
+0.0.0.0 th8v8n.rosehipsandrhubarb.com
 0.0.0.0 thebitcoins-pro.financialmarketsworld.com
 0.0.0.0 thecryptogenius.com
 0.0.0.0 the-bitcoin-millionaire.financialmarketsworld.com
@@ -19890,6 +19926,7 @@
 0.0.0.0 waterdiepattern13.live
 0.0.0.0 waterdiepattern14.live
 0.0.0.0 waterdiepattern15.live
+0.0.0.0 wco9zr8.9dcm.net
 0.0.0.0 web.cellfun.mobi
 0.0.0.0 web.yuppipuppy.com
 0.0.0.0 wez-bon.24.eu
@@ -20210,6 +20247,8 @@
 0.0.0.0 www.garternal20.live
 0.0.0.0 www.get.bestoffer2021.info
 0.0.0.0 www.gifts.sztchr.cn
+0.0.0.0 www.gkjow.onlineluck.net
+0.0.0.0 www.gkjow.todaysgift.net
 0.0.0.0 www.gkjow.weblucker.com
 0.0.0.0 www.goedekans1.live
 0.0.0.0 www.goedekans2.live
@@ -20667,6 +20706,7 @@
 0.0.0.0 www.testing3srv8.live
 0.0.0.0 www.testing3srv9.live
 0.0.0.0 www.testing3srv10.live
+0.0.0.0 www.th8v8n.rosehipsandrhubarb.com
 0.0.0.0 www.thecryptogenius.com
 0.0.0.0 www.thinkwhilemelody3.live
 0.0.0.0 www.thoughcopyforest1.live
@@ -20894,6 +20934,7 @@
 0.0.0.0 www.allegroloklinie-oferta748219.xyz
 0.0.0.0 www.aloisia.money-for-you-2021.ru
 0.0.0.0 www.anate.money-for-you-2021.ru
+0.0.0.0 www.at0pzdr.9dcm.net
 0.0.0.0 www.ayan.money-for-you-21.ru
 0.0.0.0 www.b9a92be975.e-kocyki.pl
 0.0.0.0 www.bee355b844.e-kocyki.pl
@@ -21553,6 +21594,7 @@
 0.0.0.0 www.twojkurier-dhl.vip
 0.0.0.0 www.up-poczta-polska.net
 0.0.0.0 www.url-partners.g2afse.com
+0.0.0.0 www.wco9zr8.9dcm.net
 0.0.0.0 www.wez-bon.24.eu
 0.0.0.0 www.wiadomosci-naszemiasto24.x9.eu
 0.0.0.0 www.wiadomosci-web.24.eu
