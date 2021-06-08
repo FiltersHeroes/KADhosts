@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 08 Jun 2021, 13:07 UTC+02
-# Version: 2021.6.8.0
+# Last modified: Tue, 08 Jun 2021, 17:05 UTC+02
+# Version: 2021.6.8.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5202,6 +5202,7 @@ dotpay.ipocztapolska.net
 dotpay.ipocztexpolska.net
 dotpay.kpocztapolska.net
 dotpay.lpocztapolska.net
+dotpay.mobpocztapolska.net
 dotpay.mpocztapolska.net
 dotpay.npocztapolska.net
 dotpay.opocztapolska.net
@@ -6354,6 +6355,10 @@ inpost.pl-givesale.cyou
 inpost.pl-givesale.icu
 inpost.pl-givesale.work
 inpost.pl-gotorders.work
+inpost.pl-livedeal.icu
+inpost.pl-livedeal.shop
+inpost.pl-livedeal.work
+inpost.pl-livedeal.xyz
 inpost.pl-livemoney.cyou
 inpost.pl-livemoney.icu
 inpost.pl-livemoney.shop
@@ -6367,6 +6372,7 @@ inpost.pl-liveorder.xyz
 inpost.pl-liveordered.cyou
 inpost.pl-liveordered.icu
 inpost.pl-liveordered.shop
+inpost.pl-liveordered.work
 inpost.pl-liveordered.xyz
 inpost.pl-liveorders.icu
 inpost.pl-liveorders.xyz
@@ -7956,6 +7962,7 @@ olx.dostawa-1613548154.site
 olx.dostawa-1613579853.site
 olx.dostawa-1614773363.site
 olx.dostawa-1619227488.site
+olx.dostawa-ofertka.shop
 olx.dostawa-orders.casa
 olx.dostawa-orders.shop
 olx.dostawa-orders.store
@@ -8042,11 +8049,17 @@ olx.pl-givesold.xyz
 olx.pl-livecash.cyou
 olx.pl-livecash.icu
 olx.pl-livecash.xyz
+olx.pl-livedeal.icu
+olx.pl-livedeal.shop
+olx.pl-livedeal.work
+olx.pl-livedeal.xyz
 olx.pl-livemoney.cyou
 olx.pl-livemoney.icu
 olx.pl-livemoney.shop
 olx.pl-livemoney.xyz
 olx.pl-liveorder.xyz
+olx.pl-liveordered.shop
+olx.pl-liveordered.work
 olx.pl-liveorders.cyou
 olx.pl-liveorders.icu
 olx.pl-liveorders.shop
@@ -9886,6 +9899,7 @@ smsl.in
 smsn.in
 smsnn.in
 smsoo.in
+smsrr.in
 smsto.in
 smsww.in
 smsxx.in
@@ -11608,6 +11622,7 @@ www.dotpay.ipocztapolska.net
 www.dotpay.ipocztexpolska.net
 www.dotpay.kpocztapolska.net
 www.dotpay.lpocztapolska.net
+www.dotpay.mobpocztapolska.net
 www.dotpay.mpocztapolska.net
 www.dotpay.npocztapolska.net
 www.dotpay.opocztapolska.net
@@ -14208,6 +14223,7 @@ www.smsl.in
 www.smsnn.in
 www.smsn.in
 www.smsoo.in
+www.smsrr.in
 www.smsto.in
 www.smsww.in
 www.smsxx.in
@@ -15839,6 +15855,10 @@ www.inpost.pl-givesale.cyou
 www.inpost.pl-givesale.icu
 www.inpost.pl-givesale.work
 www.inpost.pl-gotorders.work
+www.inpost.pl-livedeal.icu
+www.inpost.pl-livedeal.shop
+www.inpost.pl-livedeal.work
+www.inpost.pl-livedeal.xyz
 www.inpost.pl-livemoney.cyou
 www.inpost.pl-livemoney.icu
 www.inpost.pl-livemoney.shop
@@ -15852,6 +15872,7 @@ www.inpost.pl-liveorder.xyz
 www.inpost.pl-liveordered.cyou
 www.inpost.pl-liveordered.icu
 www.inpost.pl-liveordered.shop
+www.inpost.pl-liveordered.work
 www.inpost.pl-liveordered.xyz
 www.inpost.pl-liveorders.icu
 www.inpost.pl-liveorders.xyz
@@ -16471,6 +16492,7 @@ www.olx.dostawa-1613548154.site
 www.olx.dostawa-1613579853.site
 www.olx.dostawa-1614773363.site
 www.olx.dostawa-1619227488.site
+www.olx.dostawa-ofertka.shop
 www.olx.dostawa-orders.casa
 www.olx.dostawa-orders.shop
 www.olx.dostawa-orders.store
@@ -16557,11 +16579,17 @@ www.olx.pl-givesold.xyz
 www.olx.pl-livecash.cyou
 www.olx.pl-livecash.icu
 www.olx.pl-livecash.xyz
+www.olx.pl-livedeal.icu
+www.olx.pl-livedeal.shop
+www.olx.pl-livedeal.work
+www.olx.pl-livedeal.xyz
 www.olx.pl-livemoney.cyou
 www.olx.pl-livemoney.icu
 www.olx.pl-livemoney.shop
 www.olx.pl-livemoney.xyz
 www.olx.pl-liveorder.xyz
+www.olx.pl-liveordered.shop
+www.olx.pl-liveordered.work
 www.olx.pl-liveorders.cyou
 www.olx.pl-liveorders.icu
 www.olx.pl-liveorders.shop
@@ -17774,6 +17802,7 @@ www.xn--ox-xqa.pl
 www.xn--pasaer-spb.pl
 www.x-alp.pl
 www.x-hosepl2.com
+www.x-zdjecia.cleverapps.io
 www.yangqi-miss.com
 www.yorki-oddaj.pl
 www.yorki-oddaje.pl
@@ -17914,6 +17943,7 @@ xref.icu
 xxsms.in
 x-alp.pl
 x-hosepl2.com
+x-zdjecia.cleverapps.io
 yamamay.com.pl
 yangqi-miss.com
 yellownet.pl
