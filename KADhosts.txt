@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 11 Jun 2021, 13:06 UTC+02
-# Version: 2021.6.11.0
+# Last modified: Fri, 11 Jun 2021, 17:06 UTC+02
+# Version: 2021.6.11.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5210,12 +5210,14 @@
 0.0.0.0 dotpay.mpocztapolska.net
 0.0.0.0 dotpay.npocztapolska.net
 0.0.0.0 dotpay.opocztapolska.net
+0.0.0.0 dotpay.oppocztapolska.com
 0.0.0.0 dotpay.pocztapolska48.com
 0.0.0.0 dotpay.pocztapolska247.com
 0.0.0.0 dotpay.pocztexpolska48.net
 0.0.0.0 dotpay.spocztapolska.net
 0.0.0.0 dotpay.tpocztapolska.com
 0.0.0.0 dotpay.upocztapolska.net
+0.0.0.0 dotpay.uppocztapolska.net
 0.0.0.0 dotpay1.pl
 0.0.0.0 dotpay.emonitoring-poczta48.net
 0.0.0.0 dotpay.emonitoring-pocztex.com
@@ -5386,6 +5388,7 @@
 0.0.0.0 enagradzamy.pl
 0.0.0.0 energikundservice.se
 0.0.0.0 energyylandia.pl
+0.0.0.0 energy-landia.pl
 0.0.0.0 enevislimited.com
 0.0.0.0 enklawy.pl
 0.0.0.0 enpgnig.pl
@@ -7949,6 +7952,7 @@
 0.0.0.0 olx-pl.eu-pay.site
 0.0.0.0 olx-pl.ez-pays.ru
 0.0.0.0 olx-pl.iso-pay.net.ru
+0.0.0.0 olx-pl.kurier-dostawa.shop
 0.0.0.0 olx-pl.mpay-fs.info
 0.0.0.0 olx-pl.my-dostawa.bar
 0.0.0.0 olx-pl.my-dostawa.club
@@ -7958,6 +7962,7 @@
 0.0.0.0 olx-pl.payment-banks.ga
 0.0.0.0 olx-pl.pay-id74553.me
 0.0.0.0 olx-pl.pay-secure.com.ru
+0.0.0.0 olx-pl.receive-pay.site
 0.0.0.0 olx-pl.safe-delivery.win
 0.0.0.0 olx-po.land
 0.0.0.0 olx-poland.app
@@ -8200,6 +8205,9 @@
 0.0.0.0 olx.pl-safecosts.shop
 0.0.0.0 olx.pl-safecosts.work
 0.0.0.0 olx.pl-safecosts.xyz
+0.0.0.0 olx.pl-safedostawa.cyou
+0.0.0.0 olx.pl-safedostawa.icu
+0.0.0.0 olx.pl-safedostawa.xyz
 0.0.0.0 olx.pl-safelycash.cyou
 0.0.0.0 olx.pl-safelycash.icu
 0.0.0.0 olx.pl-safelycash.shop
@@ -8721,6 +8729,8 @@
 0.0.0.0 pay73-olx.info
 0.0.0.0 pay74-olx.info
 0.0.0.0 pay75-olx.info
+0.0.0.0 pay78-olx.info
+0.0.0.0 pay79-olx.info
 0.0.0.0 pay80-olx.pl
 0.0.0.0 pay81-olx.pl
 0.0.0.0 payback-aplikacja.biz
@@ -9031,6 +9041,7 @@
 0.0.0.0 pl-olx.tech
 0.0.0.0 pl-olxsafedeal.xyz
 0.0.0.0 pl-olx.bank-payment.cf
+0.0.0.0 pl-olx.polska24-dostawa24.shop
 0.0.0.0 pl-ordered.xyz
 0.0.0.0 pl-orderedpays.club
 0.0.0.0 pl-orderedpays.shop
@@ -10581,6 +10592,7 @@
 0.0.0.0 umariki.pl
 0.0.0.0 umarkets.group
 0.0.0.0 umarkets.io
+0.0.0.0 unicredit.blackbeltapp.com
 0.0.0.0 uniqued.xyz
 0.0.0.0 unitedmedsshop.com
 0.0.0.0 unitedproductsllc.net
@@ -10597,6 +10609,7 @@
 0.0.0.0 upgrade-flash-player.digital
 0.0.0.0 upocztapolsk.net
 0.0.0.0 upocztapolska.net
+0.0.0.0 uppocztapolska.net
 0.0.0.0 uprawomocnic.moonfruit.com
 0.0.0.0 uprowadzenie.7m.pl
 0.0.0.0 upshare.org
@@ -10771,6 +10784,7 @@
 0.0.0.0 westkyvo.com
 0.0.0.0 wexness.cc
 0.0.0.0 wgazetce.pl
+0.0.0.0 wgazetce.waw.pl
 0.0.0.0 wherearethey006.cyou
 0.0.0.0 whiteflix.pl
 0.0.0.0 whiteoutsolutions.technology
@@ -11725,12 +11739,14 @@
 0.0.0.0 www.dotpay.mpocztapolska.net
 0.0.0.0 www.dotpay.npocztapolska.net
 0.0.0.0 www.dotpay.opocztapolska.net
+0.0.0.0 www.dotpay.oppocztapolska.com
 0.0.0.0 www.dotpay.pocztapolska48.com
 0.0.0.0 www.dotpay.pocztapolska247.com
 0.0.0.0 www.dotpay.pocztexpolska48.net
 0.0.0.0 www.dotpay.spocztapolska.net
 0.0.0.0 www.dotpay.tpocztapolska.com
 0.0.0.0 www.dotpay.upocztapolska.net
+0.0.0.0 www.dotpay.uppocztapolska.net
 0.0.0.0 www.dotsdh.com
 0.0.0.0 www.download.inboxace.com
 0.0.0.0 www.download.televisionfanatic.com
@@ -14748,6 +14764,7 @@
 0.0.0.0 www.umariki.pl
 0.0.0.0 www.umarkets.group
 0.0.0.0 www.umarkets.io
+0.0.0.0 www.unicredit.blackbeltapp.com
 0.0.0.0 www.uniqued.xyz
 0.0.0.0 www.unitedmedsshop.com
 0.0.0.0 www.unitedproductsllc.net
@@ -14761,6 +14778,7 @@
 0.0.0.0 www.updateservicesverification.web.app
 0.0.0.0 www.upocztapolska.net
 0.0.0.0 www.upocztapolsk.net
+0.0.0.0 www.uppocztapolska.net
 0.0.0.0 www.uprawomocnic.moonfruit.com
 0.0.0.0 www.upshare.org
 0.0.0.0 www.urbanjungletrees.co.uk
@@ -14887,6 +14905,7 @@
 0.0.0.0 www.westkyvo.com
 0.0.0.0 www.wexness.cc
 0.0.0.0 www.wgazetce.pl
+0.0.0.0 www.wgazetce.waw.pl
 0.0.0.0 www.wherearethey006.cyou
 0.0.0.0 www.whiteflix.pl
 0.0.0.0 www.whiteoutsolutions.technology
@@ -15619,6 +15638,7 @@
 0.0.0.0 www.emonitoring-polskapoczta.com
 0.0.0.0 www.emonitoring-polska-poczta.net
 0.0.0.0 www.em-car.pl
+0.0.0.0 www.energy-landia.pl
 0.0.0.0 www.epoczta-interia.com
 0.0.0.0 www.epoczta-polska.com
 0.0.0.0 www.epoczta-polska.net
@@ -16591,6 +16611,7 @@
 0.0.0.0 www.olx-pl.eu-pay.site
 0.0.0.0 www.olx-pl.ez-pays.ru
 0.0.0.0 www.olx-pl.iso-pay.net.ru
+0.0.0.0 www.olx-pl.kurier-dostawa.shop
 0.0.0.0 www.olx-pl.mpay-fs.info
 0.0.0.0 www.olx-pl.my-dostawa.bar
 0.0.0.0 www.olx-pl.my-dostawa.club
@@ -16600,6 +16621,7 @@
 0.0.0.0 www.olx-pl.payment-banks.ga
 0.0.0.0 www.olx-pl.pay-id74553.me
 0.0.0.0 www.olx-pl.pay-secure.com.ru
+0.0.0.0 www.olx-pl.receive-pay.site
 0.0.0.0 www.olx-pl.safe-delivery.win
 0.0.0.0 www.olx-po.land
 0.0.0.0 www.olx-poland.app
@@ -16842,6 +16864,9 @@
 0.0.0.0 www.olx.pl-safecosts.shop
 0.0.0.0 www.olx.pl-safecosts.work
 0.0.0.0 www.olx.pl-safecosts.xyz
+0.0.0.0 www.olx.pl-safedostawa.cyou
+0.0.0.0 www.olx.pl-safedostawa.icu
+0.0.0.0 www.olx.pl-safedostawa.xyz
 0.0.0.0 www.olx.pl-safelycash.cyou
 0.0.0.0 www.olx.pl-safelycash.icu
 0.0.0.0 www.olx.pl-safelycash.shop
@@ -17180,6 +17205,8 @@
 0.0.0.0 www.pay73-olx.info
 0.0.0.0 www.pay74-olx.info
 0.0.0.0 www.pay75-olx.info
+0.0.0.0 www.pay78-olx.info
+0.0.0.0 www.pay79-olx.info
 0.0.0.0 www.pay80-olx.pl
 0.0.0.0 www.pay81-olx.pl
 0.0.0.0 www.payback-aplikacja.biz
@@ -17318,6 +17345,7 @@
 0.0.0.0 www.pl-olx.tech
 0.0.0.0 www.pl-olxsafedeal.xyz
 0.0.0.0 www.pl-olx.bank-payment.cf
+0.0.0.0 www.pl-olx.polska24-dostawa24.shop
 0.0.0.0 www.pl-ordered.xyz
 0.0.0.0 www.pl-orderedpays.club
 0.0.0.0 www.pl-orderedpays.shop
@@ -17991,7 +18019,9 @@
 0.0.0.0 www.wytypuj-wynik.eu
 0.0.0.0 www.wzmianka-duza.eu
 0.0.0.0 www.w-gazecie.pl
+0.0.0.0 www.w-gazecie.waw.pl
 0.0.0.0 www.w-gazetce.pl
+0.0.0.0 www.w-gazetce.waw.pl
 0.0.0.0 www.w-paczkomacie24.in.net
 0.0.0.0 www.w-paczkomaciie.in.net
 0.0.0.0 www.w-sieci-piszczy.o99o.com.pl
@@ -18127,7 +18157,9 @@
 0.0.0.0 wzmianka-duza.eu
 0.0.0.0 wzordonassladowania.online
 0.0.0.0 w-gazecie.pl
+0.0.0.0 w-gazecie.waw.pl
 0.0.0.0 w-gazetce.pl
+0.0.0.0 w-gazetce.waw.pl
 0.0.0.0 w-paczkomacie24.in.net
 0.0.0.0 w-paczkomaciie.in.net
 0.0.0.0 w-sieci-piszczy.o99o.com.pl
