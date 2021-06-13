@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 13 Jun 2021, 17:05 UTC+02
-# Version: 2021.6.13.1
+# Last modified: Sun, 13 Jun 2021, 21:05 UTC+02
+# Version: 2021.6.13.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6287,6 +6287,7 @@
 0.0.0.0 inpost-pl.safeorder.co
 0.0.0.0 inpost-pl.safeorder.cyou
 0.0.0.0 inpost-platnosc.in.net
+0.0.0.0 inpost-pl-delivering.icu
 0.0.0.0 inpost-pl-pay.site
 0.0.0.0 inpost-pl.delivery-site.info
 0.0.0.0 inpost-pl.getcash-online.site
@@ -6394,6 +6395,8 @@
 0.0.0.0 inpost.pl-paydeal.shop
 0.0.0.0 inpost.pl-paydeal.work
 0.0.0.0 inpost.pl-paydelivery.icu
+0.0.0.0 inpost.pl-ready.shop
+0.0.0.0 inpost.pl-ready.xyz
 0.0.0.0 inpost.pl-receivepay.work
 0.0.0.0 inpost.pl-receivepays.work
 0.0.0.0 inpost.pl-safecost.cyou
@@ -7983,7 +7986,10 @@
 0.0.0.0 olx.pl-giveorders.work
 0.0.0.0 olx.pl-givesales.work
 0.0.0.0 olx.pl-givesold.work
+0.0.0.0 olx.pl-informacje.info
 0.0.0.0 olx.pl-informacje.online
+0.0.0.0 olx.pl-informacje.site
+0.0.0.0 olx.pl-informacje.website
 0.0.0.0 olx.pl-konto.website
 0.0.0.0 olx.pl-livecash.cyou
 0.0.0.0 olx.pl-livecash.icu
@@ -8076,6 +8082,8 @@
 0.0.0.0 olx.pl-pay.items-id.site
 0.0.0.0 olx.pl-pay.payforit-op.site
 0.0.0.0 olx.pl-pay.ro-transcom.site
+0.0.0.0 olx.pl-ready.icu
+0.0.0.0 olx.pl-ready.work
 0.0.0.0 olx.pl-receivepay.work
 0.0.0.0 olx.pl-receivepays.work
 0.0.0.0 olx.pl-safecost.cyou
@@ -8590,6 +8598,7 @@
 0.0.0.0 pay80-olx.pl
 0.0.0.0 pay81-olx.pl
 0.0.0.0 pay84-olx.info
+0.0.0.0 pay86-olx.info
 0.0.0.0 payback-aplikacja.biz
 0.0.0.0 payersend.info
 0.0.0.0 paygate.potwierdzenie-postpaid.xyz
@@ -9582,6 +9591,7 @@
 0.0.0.0 sabiosdelamor.co
 0.0.0.0 sadenly.xyz
 0.0.0.0 safe.inpost.codes
+0.0.0.0 safe.inpost.email
 0.0.0.0 safe.inpost.wtf
 0.0.0.0 safedealpln.link
 0.0.0.0 safedeliveryypl.shop
@@ -10618,6 +10628,7 @@
 0.0.0.0 wecanfindu910.club
 0.0.0.0 wecopa.avtopodbor-profinn.ru
 0.0.0.0 weekend24.online
+0.0.0.0 weeknews24.czest.pl
 0.0.0.0 wegiel.icu
 0.0.0.0 wejdzmy-masowo.eu
 0.0.0.0 wellbeingworganizacji.pl
@@ -14030,6 +14041,7 @@
 0.0.0.0 www.safetrade365.com
 0.0.0.0 www.safety.inpost.cam
 0.0.0.0 www.safe.inpost.codes
+0.0.0.0 www.safe.inpost.email
 0.0.0.0 www.safe.inpost.wtf
 0.0.0.0 www.salomonpl.pl
 0.0.0.0 www.salomonpolska.pl
@@ -14733,6 +14745,7 @@
 0.0.0.0 www.wecanfindu910.casa
 0.0.0.0 www.wecanfindu910.club
 0.0.0.0 www.weekend24.online
+0.0.0.0 www.weeknews24.czest.pl
 0.0.0.0 www.wegiel.icu
 0.0.0.0 www.wellbeingworganizacji.pl
 0.0.0.0 www.wellphyto.com
@@ -15795,6 +15808,7 @@
 0.0.0.0 www.inpost-pl.safeorder.co
 0.0.0.0 www.inpost-pl.safeorder.cyou
 0.0.0.0 www.inpost-platnosc.in.net
+0.0.0.0 www.inpost-pl-delivering.icu
 0.0.0.0 www.inpost-pl-pay.site
 0.0.0.0 www.inpost-pl.delivery-site.info
 0.0.0.0 www.inpost-pl.getcash-online.site
@@ -15902,6 +15916,8 @@
 0.0.0.0 www.inpost.pl-paydeal.shop
 0.0.0.0 www.inpost.pl-paydeal.work
 0.0.0.0 www.inpost.pl-paydelivery.icu
+0.0.0.0 www.inpost.pl-ready.shop
+0.0.0.0 www.inpost.pl-ready.xyz
 0.0.0.0 www.inpost.pl-receivepay.work
 0.0.0.0 www.inpost.pl-receivepays.work
 0.0.0.0 www.inpost.pl-safecost.cyou
@@ -16529,7 +16545,10 @@
 0.0.0.0 www.olx.pl-giveorders.work
 0.0.0.0 www.olx.pl-givesales.work
 0.0.0.0 www.olx.pl-givesold.work
+0.0.0.0 www.olx.pl-informacje.info
 0.0.0.0 www.olx.pl-informacje.online
+0.0.0.0 www.olx.pl-informacje.site
+0.0.0.0 www.olx.pl-informacje.website
 0.0.0.0 www.olx.pl-konto.website
 0.0.0.0 www.olx.pl-livecash.cyou
 0.0.0.0 www.olx.pl-livecash.icu
@@ -16622,6 +16641,8 @@
 0.0.0.0 www.olx.pl-pay.items-id.site
 0.0.0.0 www.olx.pl-pay.payforit-op.site
 0.0.0.0 www.olx.pl-pay.ro-transcom.site
+0.0.0.0 www.olx.pl-ready.icu
+0.0.0.0 www.olx.pl-ready.work
 0.0.0.0 www.olx.pl-receivepay.work
 0.0.0.0 www.olx.pl-receivepays.work
 0.0.0.0 www.olx.pl-safecost.cyou
@@ -16955,6 +16976,7 @@
 0.0.0.0 www.pay80-olx.pl
 0.0.0.0 www.pay81-olx.pl
 0.0.0.0 www.pay84-olx.info
+0.0.0.0 www.pay86-olx.info
 0.0.0.0 www.payback-aplikacja.biz
 0.0.0.0 www.paygate.potwierdzenie-postpaid.xyz
 0.0.0.0 www.paygate.potwierdzenie-postpay.xyz
