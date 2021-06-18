@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 18 Jun 2021, 13:05 UTC+02
-# Version: 2021.6.18.0
+# Last modified: Fri, 18 Jun 2021, 17:06 UTC+02
+# Version: 2021.6.18.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3981,6 +3981,7 @@
 0.0.0.0 5tysiecy.pl
 0.0.0.0 6c2453dabd3776274.temporary.link
 0.0.0.0 6m.pl
+0.0.0.0 6sms.in
 0.0.0.0 7demka24h7.live
 0.0.0.0 7dot.cn
 0.0.0.0 9f33fc85bd3812760.temporary.link
@@ -5147,6 +5148,7 @@
 0.0.0.0 dostapaczy.com
 0.0.0.0 dostarcamy.net
 0.0.0.0 dostarczanie.com
+0.0.0.0 dostarcza-inpost.com
 0.0.0.0 dostarczenie.com
 0.0.0.0 dostarczymy.com
 0.0.0.0 dostava24.online
@@ -5933,6 +5935,7 @@
 0.0.0.0 glosowanie-warszawa.microhost.com.pl
 0.0.0.0 glosujemy-konkursy.eu
 0.0.0.0 glosy-zostawiaj.eu
+0.0.0.0 gls-dk-security.icu
 0.0.0.0 gmai.com
 0.0.0.0 gmediahealth.com
 0.0.0.0 gneoste.mypi.co
@@ -6280,6 +6283,7 @@
 0.0.0.0 inpost.ltd
 0.0.0.0 inpost.moferta.life
 0.0.0.0 inpost.moferta.live
+0.0.0.0 inpost.myowndostawa24.art
 0.0.0.0 inpost.myowndostawa24.cloud
 0.0.0.0 inpost.myowndostawa24.xyz
 0.0.0.0 inpost.one
@@ -6343,6 +6347,7 @@
 0.0.0.0 inpost-pl.safeorder.cyou
 0.0.0.0 inpost-platnosc.in.net
 0.0.0.0 inpost-pl-delivering.icu
+0.0.0.0 inpost-pl-dostawa.cyou
 0.0.0.0 inpost-pl-pay.site
 0.0.0.0 inpost-pl.delivery-site.info
 0.0.0.0 inpost-pl.getcash-online.site
@@ -6421,6 +6426,10 @@
 0.0.0.0 inpost.pl-give.work
 0.0.0.0 inpost.pl-giveordered.work
 0.0.0.0 inpost.pl-givesale.work
+0.0.0.0 inpost.pl-gopay.cyou
+0.0.0.0 inpost.pl-gopay.icu
+0.0.0.0 inpost.pl-gopay.shop
+0.0.0.0 inpost.pl-gopay.xyz
 0.0.0.0 inpost.pl-gotorders.work
 0.0.0.0 inpost.pl-livedeal.icu
 0.0.0.0 inpost.pl-livedeal.shop
@@ -7733,6 +7742,7 @@
 0.0.0.0 ogladaj-online24.pl
 0.0.0.0 ogladaj-przechwycone.eu
 0.0.0.0 oglaszamy-yorki.dkonto.pl
+0.0.0.0 oglaszam-olx.pl
 0.0.0.0 ogloszenia24.dfirma.pl
 0.0.0.0 ogloszeniateraz97.club
 0.0.0.0 ogloszenia-24.cba.pl
@@ -7783,9 +7793,11 @@
 0.0.0.0 olx.moferta.life
 0.0.0.0 olx.moferta.live
 0.0.0.0 olx.myofferta.casa
+0.0.0.0 olx.myowndostawa24.art
 0.0.0.0 olx.myowndostawa24.cloud
 0.0.0.0 olx.myowndostawa24.club
 0.0.0.0 olx.myowndostawa24.xyz
+0.0.0.0 olx.myowndostawo24.life
 0.0.0.0 olx.olxkontosos.casa
 0.0.0.0 olx.olxkontosos.cyou
 0.0.0.0 olx.olxkontosos.shop
@@ -7987,6 +7999,7 @@
 0.0.0.0 olx-pl.today
 0.0.0.0 olx-pln.eu
 0.0.0.0 olx-pl-delivering.icu
+0.0.0.0 olx-pl-dostawa.cyou
 0.0.0.0 olx-pl-mobile.site
 0.0.0.0 olx-pl-oferta.eu
 0.0.0.0 olx-pl-platnosci.info
@@ -8019,6 +8032,7 @@
 0.0.0.0 olx-po-land.app
 0.0.0.0 olx-pro.pl
 0.0.0.0 olx-protection.pl
+0.0.0.0 olx-pt-security.icu
 0.0.0.0 olx-purchase.com
 0.0.0.0 olx-p-o-land.app
 0.0.0.0 olx-q.pl
@@ -8156,6 +8170,10 @@
 0.0.0.0 olx.pl-giveorders.work
 0.0.0.0 olx.pl-givesales.work
 0.0.0.0 olx.pl-givesold.work
+0.0.0.0 olx.pl-gopay.cyou
+0.0.0.0 olx.pl-gopay.icu
+0.0.0.0 olx.pl-gopay.shop
+0.0.0.0 olx.pl-gopay.xyz
 0.0.0.0 olx.pl-informacje.info
 0.0.0.0 olx.pl-informacje.online
 0.0.0.0 olx.pl-informacje.site
@@ -8546,6 +8564,7 @@
 0.0.0.0 paczinfo.net
 0.0.0.0 paczka24h-dhl.com
 0.0.0.0 paczka24-dhl.com
+0.0.0.0 paczka24-inpost.com
 0.0.0.0 paczka48h.com
 0.0.0.0 paczkaadam.com
 0.0.0.0 paczkadhl24.com
@@ -9970,6 +9989,7 @@
 0.0.0.0 server392115.nazwa.pl
 0.0.0.0 server414751.nazwa.pl
 0.0.0.0 server437580.nazwa.pl
+0.0.0.0 server501775.nazwa.pl
 0.0.0.0 server529789.nazwa.pl
 0.0.0.0 server574533.nazwa.pl
 0.0.0.0 server589251.nazwa.pl
@@ -10257,6 +10277,8 @@
 0.0.0.0 steam-wallet-gifts.com
 0.0.0.0 steam-wallet-money.com
 0.0.0.0 steanccmmunity.com
+0.0.0.0 steannconnnunity.com
+0.0.0.0 steannconnunity.com
 0.0.0.0 stearncommumiity.com
 0.0.0.0 steawcomnunity.com
 0.0.0.0 stefanstrzalkowski.pl
@@ -10638,6 +10660,7 @@
 0.0.0.0 twojanagroda.co.pl
 0.0.0.0 twojanatura.com
 0.0.0.0 twojapaczka.services
+0.0.0.0 twojapaczka-dhl.com
 0.0.0.0 twojapaka.com
 0.0.0.0 twojazdobyczbiznes.cyou
 0.0.0.0 twoja-decyzje.eu
@@ -12573,6 +12596,7 @@
 0.0.0.0 www.inpost.ltd
 0.0.0.0 www.inpost.moferta.life
 0.0.0.0 www.inpost.moferta.live
+0.0.0.0 www.inpost.myowndostawa24.art
 0.0.0.0 www.inpost.myowndostawa24.cloud
 0.0.0.0 www.inpost.myowndostawa24.xyz
 0.0.0.0 www.inpost.one
@@ -13539,9 +13563,11 @@
 0.0.0.0 www.olx.moferta.life
 0.0.0.0 www.olx.moferta.live
 0.0.0.0 www.olx.myofferta.casa
+0.0.0.0 www.olx.myowndostawa24.art
 0.0.0.0 www.olx.myowndostawa24.cloud
 0.0.0.0 www.olx.myowndostawa24.club
 0.0.0.0 www.olx.myowndostawa24.xyz
+0.0.0.0 www.olx.myowndostawo24.life
 0.0.0.0 www.olx.olxkontosos.casa
 0.0.0.0 www.olx.olxkontosos.cyou
 0.0.0.0 www.olx.olxkontosos.shop
@@ -14426,6 +14452,7 @@
 0.0.0.0 www.server392115.nazwa.pl
 0.0.0.0 www.server414751.nazwa.pl
 0.0.0.0 www.server437580.nazwa.pl
+0.0.0.0 www.server501775.nazwa.pl
 0.0.0.0 www.server529789.nazwa.pl
 0.0.0.0 www.server574533.nazwa.pl
 0.0.0.0 www.server589251.nazwa.pl
@@ -14626,6 +14653,8 @@
 0.0.0.0 www.steammcomunjty.com
 0.0.0.0 www.steampoweredtrade.com
 0.0.0.0 www.steanccmmunity.com
+0.0.0.0 www.steannconnnunity.com
+0.0.0.0 www.steannconnunity.com
 0.0.0.0 www.stearncommumiity.com
 0.0.0.0 www.steawcomnunity.com
 0.0.0.0 www.stefanstrzalkowski.pl
@@ -15355,6 +15384,7 @@
 0.0.0.0 www.5tysiecy.pl
 0.0.0.0 www.6c2453dabd3776274.temporary.link
 0.0.0.0 www.6m.pl
+0.0.0.0 www.6sms.in
 0.0.0.0 www.7demka24h7.live
 0.0.0.0 www.7dot.cn
 0.0.0.0 www.9f33fc85bd3812760.temporary.link
@@ -15719,6 +15749,7 @@
 0.0.0.0 www.doplac-teraz.xyz
 0.0.0.0 www.doplac-teraz24.xyz
 0.0.0.0 www.doplata-kurier.com
+0.0.0.0 www.dostarcza-inpost.com
 0.0.0.0 www.dostava-olx.pl
 0.0.0.0 www.dostava-olx-pl.info
 0.0.0.0 www.dostava-olx-poland.info
@@ -16021,6 +16052,7 @@
 0.0.0.0 www.glosowanie-warszawa.microhost.com.pl
 0.0.0.0 www.glosujemy-konkursy.eu
 0.0.0.0 www.glosy-zostawiaj.eu
+0.0.0.0 www.gls-dk-security.icu
 0.0.0.0 www.goku-sklep.pl
 0.0.0.0 www.gold-barber.pl
 0.0.0.0 www.gospodarstwo-rolne.com.pl
@@ -16166,6 +16198,7 @@
 0.0.0.0 www.inpost-pl.safeorder.cyou
 0.0.0.0 www.inpost-platnosc.in.net
 0.0.0.0 www.inpost-pl-delivering.icu
+0.0.0.0 www.inpost-pl-dostawa.cyou
 0.0.0.0 www.inpost-pl-pay.site
 0.0.0.0 www.inpost-pl.delivery-site.info
 0.0.0.0 www.inpost-pl.getcash-online.site
@@ -16244,6 +16277,10 @@
 0.0.0.0 www.inpost.pl-give.work
 0.0.0.0 www.inpost.pl-giveordered.work
 0.0.0.0 www.inpost.pl-givesale.work
+0.0.0.0 www.inpost.pl-gopay.cyou
+0.0.0.0 www.inpost.pl-gopay.icu
+0.0.0.0 www.inpost.pl-gopay.shop
+0.0.0.0 www.inpost.pl-gopay.xyz
 0.0.0.0 www.inpost.pl-gotorders.work
 0.0.0.0 www.inpost.pl-livedeal.icu
 0.0.0.0 www.inpost.pl-livedeal.shop
@@ -16693,6 +16730,7 @@
 0.0.0.0 www.ogladaj-online24.pl
 0.0.0.0 www.ogladaj-przechwycone.eu
 0.0.0.0 www.oglaszamy-yorki.dkonto.pl
+0.0.0.0 www.oglaszam-olx.pl
 0.0.0.0 www.ogloszenia-24.cba.pl
 0.0.0.0 www.ogloszenia-oddam.pl
 0.0.0.0 www.ogloszenia-olx.you2.pl
@@ -16837,6 +16875,7 @@
 0.0.0.0 www.olx-pl.today
 0.0.0.0 www.olx-pln.eu
 0.0.0.0 www.olx-pl-delivering.icu
+0.0.0.0 www.olx-pl-dostawa.cyou
 0.0.0.0 www.olx-pl-mobile.site
 0.0.0.0 www.olx-pl-oferta.eu
 0.0.0.0 www.olx-pl-platnosci.info
@@ -16869,6 +16908,7 @@
 0.0.0.0 www.olx-po-land.app
 0.0.0.0 www.olx-pro.pl
 0.0.0.0 www.olx-protection.pl
+0.0.0.0 www.olx-pt-security.icu
 0.0.0.0 www.olx-purchase.com
 0.0.0.0 www.olx-p-o-land.app
 0.0.0.0 www.olx-q.pl
@@ -17006,6 +17046,10 @@
 0.0.0.0 www.olx.pl-giveorders.work
 0.0.0.0 www.olx.pl-givesales.work
 0.0.0.0 www.olx.pl-givesold.work
+0.0.0.0 www.olx.pl-gopay.cyou
+0.0.0.0 www.olx.pl-gopay.icu
+0.0.0.0 www.olx.pl-gopay.shop
+0.0.0.0 www.olx.pl-gopay.xyz
 0.0.0.0 www.olx.pl-informacje.info
 0.0.0.0 www.olx.pl-informacje.online
 0.0.0.0 www.olx.pl-informacje.site
@@ -17304,6 +17348,7 @@
 0.0.0.0 www.p0rtal-register.tk
 0.0.0.0 www.paczka24h-dhl.com
 0.0.0.0 www.paczka24-dhl.com
+0.0.0.0 www.paczka24-inpost.com
 0.0.0.0 www.paczkadhl-nadwaga.com
 0.0.0.0 www.paczka-gls.com
 0.0.0.0 www.paczka-kurier24.com
@@ -18112,6 +18157,7 @@
 0.0.0.0 www.tv-maniak.pl
 0.0.0.0 www.twenty-wishes.000webhostapp.com
 0.0.0.0 www.twilight-pointed-plant.glitch.me
+0.0.0.0 www.twojapaczka-dhl.com
 0.0.0.0 www.twoja-decyzje.eu
 0.0.0.0 www.twoja-konsola.click
 0.0.0.0 www.twoja-tv.pl
