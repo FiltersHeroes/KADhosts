@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Wed, 02 Jun 2021, 17:08 UTC+02
-# Version: 2021.6.2.1
+# Last modified: Sun, 20 Jun 2021, 16:31 UTC+02
+# Version: 2021.6.20.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -67,7 +67,6 @@
 (^|\.)google-.*\.*present*\.icu$
 (^|\.)historieludzkie.*\.online$
 (^|\.)inform.*\.is-best\.net$
-(^|\.)inpost\.olxkon.*\.*$
 (^|\.)instasexlocator.*\.com$
 (^|\.)ionetporwanie\..*$
 (^|\.)iporwaniedziecka24\..*$
@@ -89,44 +88,6 @@
 (^|\.)ogloszenie-kupteraz-.*\.*$
 (^|\.)ogloszeniie-kupteraz-pl-.*\.*$
 (^|\.)oglosznie-elektroniczne\..*$
-(^|\.)olxdostawa\..*$
-(^|\.)olxpl-dostawa\..*$
-(^|\.)olxpl-order\..*$
-(^|\.)olx-delivers\..*$
-(^|\.)olx-delivery-.*\.*$
-(^|\.)olx-delivery\..*$
-(^|\.)olx-deliver\..*$
-(^|\.)olx-dostava\..*$
-(^|\.)olx-dostawa\..*$
-(^|\.)olx-oferta\..*$
-(^|\.)olx-offerta\..*$
-(^|\.)olx-pl-delivery\..*$
-(^|\.)olx-pl-dostava\..*$
-(^|\.)olx-pl-dostawa\..*$
-(^|\.)olx-pl-id-.*\.*$
-(^|\.)olx-pl-id\..*$
-(^|\.)olx-pl\.com-.*\.*$
-(^|\.)olx-pl\.id.*\.ru$
-(^|\.)olx-pl\.oferta-payment\..*$
-(^|\.)olx-pl\.oferta-pay\..*$
-(^|\.)olx-pl\.ru-.*\.*$
-(^|\.)olx-polands\..*$
-(^|\.)olx-poland\..*$
-(^|\.)olx-przesylk.*\.*$
-(^|\.)olx-transfer\..*$
-(^|\.)olx-zamowienie\..*$
-(^|\.)olx\.deliverry\..*$
-(^|\.)olx\.deliverys\..*$
-(^|\.)olx\.delliverry\..*$
-(^|\.)olx\.dellivers\..*$
-(^|\.)olx\.dellivery\..*$
-(^|\.)olx\.dostawa-pl\..*$
-(^|\.)olx\.dostawa\..*$
-(^|\.)olx\.dostaw\..*$
-(^|\.)olx\.payment-otrymac\..*$
-(^|\.)olx\.przesylki\..*$
-(^|\.)olx\.przesylk\..*$
-(^|\.)olx\.zamowienie\..*$
 (^|\.)onetporwanie\..*$
 (^|\.)onetposzukiwani\..*$
 (^|\.)paczpocztex\..*$
