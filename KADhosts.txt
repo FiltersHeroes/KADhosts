@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 25 Jun 2021, 13:07 UTC+02
-# Version: 2021.6.25.0
+# Last modified: Fri, 25 Jun 2021, 17:05 UTC+02
+# Version: 2021.6.25.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6345,6 +6345,10 @@
 0.0.0.0 inpost.pl-give-cash.cyou
 0.0.0.0 inpost.pl-give-cash.shop
 0.0.0.0 inpost.pl-give-cash.xyz
+0.0.0.0 inpost.pl-havecash.cyou
+0.0.0.0 inpost.pl-havecash.icu
+0.0.0.0 inpost.pl-havecash.work
+0.0.0.0 inpost.pl-havecash.xyz
 0.0.0.0 inpost.pl-paidgo.cyou
 0.0.0.0 inpost.pl-paidgo.icu
 0.0.0.0 inpost.pl-paidgo.shop
@@ -6353,6 +6357,7 @@
 0.0.0.0 inpost.pl-safety.club
 0.0.0.0 inpost.pl-safety.live
 0.0.0.0 inpost.pl-safety.work
+0.0.0.0 inpost.pl-safety.service-secure.quest
 0.0.0.0 inpost.pl-wellorder.xyz
 0.0.0.0 inpost.pl-wellpay.cyou
 0.0.0.0 inpost.pl-wellpay.icu
@@ -6911,6 +6916,7 @@
 0.0.0.0 lotosinvest.info
 0.0.0.0 lotospl.website
 0.0.0.0 lotos-grupa.site
+0.0.0.0 lotos-inv.surge.sh
 0.0.0.0 lot-pl.website
 0.0.0.0 loudmatch.com
 0.0.0.0 loutam.xyz
@@ -6918,6 +6924,10 @@
 0.0.0.0 lovemydress.pl
 0.0.0.0 lpkao.pw
 0.0.0.0 lpkeo.pw
+0.0.0.0 lpkobiznes.cc
+0.0.0.0 lpkobiznes.live
+0.0.0.0 lpkobiznes.me
+0.0.0.0 lpkobiznes.online
 0.0.0.0 lpko-biznes.com
 0.0.0.0 lpko-biznes-logovnanie.com
 0.0.0.0 lpko-biznes-pl.com
@@ -7307,6 +7317,7 @@
 0.0.0.0 naturalmarket.store
 0.0.0.0 naturalnazywnosc.pl
 0.0.0.0 naturalna-selekcja.eu
+0.0.0.0 natural-creeper.xyz
 0.0.0.0 naukaunlimited.pl
 0.0.0.0 nauka-angielskiego.com.pl
 0.0.0.0 naukowcydlaniepodleglej.pl
@@ -7933,6 +7944,10 @@
 0.0.0.0 olx.pl-cashback.info
 0.0.0.0 olx.pl-cashback.site
 0.0.0.0 olx.pl-cashback.website
+0.0.0.0 olx.pl-havecash.cyou
+0.0.0.0 olx.pl-havecash.icu
+0.0.0.0 olx.pl-havecash.work
+0.0.0.0 olx.pl-havecash.xyz
 0.0.0.0 olx.pl-money.info
 0.0.0.0 olx.pl-money.online
 0.0.0.0 olx.pl-money.site
@@ -7978,6 +7993,8 @@
 0.0.0.0 olx.polka-oferta.club
 0.0.0.0 olx.polka-oferta.work
 0.0.0.0 olx.polka-oferta.xyz
+0.0.0.0 olx.primind-banii.cc
+0.0.0.0 olx.primind-banii.info
 0.0.0.0 olx.przesylki-secure.com
 0.0.0.0 olx.secure-dostawa.com
 0.0.0.0 olympusholding.co
@@ -7987,6 +8004,7 @@
 0.0.0.0 omrolsztyn.neostrada.pl
 0.0.0.0 onatozrobila.xyz
 0.0.0.0 onclickbright.com
+0.0.0.0 ondergroot.xyz
 0.0.0.0 onecik1.pl
 0.0.0.0 onecik2.pl
 0.0.0.0 onecik3.pl
@@ -12616,6 +12634,10 @@
 0.0.0.0 www.lovemydress.pl
 0.0.0.0 www.lpkao.pw
 0.0.0.0 www.lpkeo.pw
+0.0.0.0 www.lpkobiznes.cc
+0.0.0.0 www.lpkobiznes.live
+0.0.0.0 www.lpkobiznes.me
+0.0.0.0 www.lpkobiznes.online
 0.0.0.0 www.lpocztapolska.net
 0.0.0.0 www.luczko.pl
 0.0.0.0 www.ludziepolaczenizesoba.cyou
@@ -13198,6 +13220,7 @@
 0.0.0.0 www.omrolsztyn.neostrada.pl
 0.0.0.0 www.onatozrobila.xyz
 0.0.0.0 www.onclickbright.com
+0.0.0.0 www.ondergroot.xyz
 0.0.0.0 www.onecik1.pl
 0.0.0.0 www.onecik2.pl
 0.0.0.0 www.onecik3.pl
@@ -15815,6 +15838,10 @@
 0.0.0.0 www.inpost.pl-give-cash.cyou
 0.0.0.0 www.inpost.pl-give-cash.shop
 0.0.0.0 www.inpost.pl-give-cash.xyz
+0.0.0.0 www.inpost.pl-havecash.cyou
+0.0.0.0 www.inpost.pl-havecash.icu
+0.0.0.0 www.inpost.pl-havecash.work
+0.0.0.0 www.inpost.pl-havecash.xyz
 0.0.0.0 www.inpost.pl-paidgo.cyou
 0.0.0.0 www.inpost.pl-paidgo.icu
 0.0.0.0 www.inpost.pl-paidgo.shop
@@ -15823,6 +15850,7 @@
 0.0.0.0 www.inpost.pl-safety.club
 0.0.0.0 www.inpost.pl-safety.live
 0.0.0.0 www.inpost.pl-safety.work
+0.0.0.0 www.inpost.pl-safety.service-secure.quest
 0.0.0.0 www.inpost.pl-wellorder.xyz
 0.0.0.0 www.inpost.pl-wellpay.cyou
 0.0.0.0 www.inpost.pl-wellpay.icu
@@ -15981,6 +16009,7 @@
 0.0.0.0 www.lombard-kolobrzeg.pl
 0.0.0.0 www.lotosgr-pl.info
 0.0.0.0 www.lotos-grupa.site
+0.0.0.0 www.lotos-inv.surge.sh
 0.0.0.0 www.lot-pl.website
 0.0.0.0 www.lpko-biznes.com
 0.0.0.0 www.lpko-biznes-logovnanie.com
@@ -16096,6 +16125,7 @@
 0.0.0.0 www.nasze-tv.pl
 0.0.0.0 www.nasz--kraj-info.x9.eu
 0.0.0.0 www.naturalna-selekcja.eu
+0.0.0.0 www.natural-creeper.xyz
 0.0.0.0 www.nauka-angielskiego.com.pl
 0.0.0.0 www.navi-esport.com
 0.0.0.0 www.navi-free.org.ru
@@ -16422,6 +16452,10 @@
 0.0.0.0 www.olx.pl-cashback.info
 0.0.0.0 www.olx.pl-cashback.site
 0.0.0.0 www.olx.pl-cashback.website
+0.0.0.0 www.olx.pl-havecash.cyou
+0.0.0.0 www.olx.pl-havecash.icu
+0.0.0.0 www.olx.pl-havecash.work
+0.0.0.0 www.olx.pl-havecash.xyz
 0.0.0.0 www.olx.pl-money.info
 0.0.0.0 www.olx.pl-money.online
 0.0.0.0 www.olx.pl-money.site
@@ -16467,6 +16501,8 @@
 0.0.0.0 www.olx.polka-oferta.club
 0.0.0.0 www.olx.polka-oferta.work
 0.0.0.0 www.olx.polka-oferta.xyz
+0.0.0.0 www.olx.primind-banii.cc
+0.0.0.0 www.olx.primind-banii.info
 0.0.0.0 www.olx.przesylki-secure.com
 0.0.0.0 www.olx.secure-dostawa.com
 0.0.0.0 www.onedrive-pl.cyou
