@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 27 Jun 2021, 17:06 UTC+02
-# Version: 2021.6.27.2
+# Last modified: Sun, 27 Jun 2021, 21:07 UTC+02
+# Version: 2021.6.27.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4135,7 +4135,6 @@
 0.0.0.0 allegro-lokalniie.fun
 0.0.0.0 allegro-m.pl
 0.0.0.0 allegro-ogloszenia.you2.pl
-0.0.0.0 allegro-okazje.dkonto.pl
 0.0.0.0 allegro-pl.lokalnie.digital
 0.0.0.0 allegro-pl.online
 0.0.0.0 allegro-pl-7e2a33.ingress-daribow.easywp.com
@@ -4465,6 +4464,7 @@
 0.0.0.0 blog.lalalalala.club
 0.0.0.0 bncoposta.com
 0.0.0.0 bnppalba-biznesplanet.com
+0.0.0.0 bnpparibas-poland.co
 0.0.0.0 bnpparibas-secure-biznes.at
 0.0.0.0 bn-allorbank.com
 0.0.0.0 bobali.xyz
@@ -4692,7 +4692,6 @@
 0.0.0.0 cisie.pl
 0.0.0.0 city24.you2.pl
 0.0.0.0 cityvida.com
-0.0.0.0 city-news.dkonto.pl
 0.0.0.0 cklipce.xyz
 0.0.0.0 clamart24.com
 0.0.0.0 clarkssklep.co
@@ -4760,10 +4759,8 @@
 0.0.0.0 country.moppie91.com
 0.0.0.0 couplefind.xyz
 0.0.0.0 covergt.com
-0.0.0.0 covidinfo.dkonto.pl
 0.0.0.0 covidowaszczepionkainfo.co.pl
 0.0.0.0 covidoweszczepienia.co.pl
-0.0.0.0 covidpolska24.dkonto.pl
 0.0.0.0 covid-polska.dfirma.pl
 0.0.0.0 covid-szpital.waw.pl
 0.0.0.0 coviplex.pl
@@ -4855,12 +4852,15 @@
 0.0.0.0 d1ca0ybissqy5r.cloudfront.net
 0.0.0.0 d1eanoj6rae82v.cloudfront.net
 0.0.0.0 d1f0moag0nv89.cloudfront.net
+0.0.0.0 d1f5c02sm6dd74.cloudfront.net
 0.0.0.0 d1fdv4jgqr3t4d.cloudfront.net
 0.0.0.0 d1fjbm89xo24p6.cloudfront.net
 0.0.0.0 d1gp86p9dfzex5.cloudfront.net
+0.0.0.0 d1ikoaew23l9vw.cloudfront.net
 0.0.0.0 d1jd3unconuqim.cloudfront.net
 0.0.0.0 d1k5vgf76yp8wa.cloudfront.net
 0.0.0.0 d1k56tjpmngmzw.cloudfront.net
+0.0.0.0 d1l875ujvjbvs5.cloudfront.net
 0.0.0.0 d1lyagb9sxnnqj.cloudfront.net
 0.0.0.0 d1nrc70vcbb0d6.cloudfront.net
 0.0.0.0 d1of11q7gtqib1.cloudfront.net
@@ -4868,6 +4868,7 @@
 0.0.0.0 d1p4figd2ritbe.cloudfront.net
 0.0.0.0 d1ppczim070vc2.cloudfront.net
 0.0.0.0 d1quu53w0vld5k.cloudfront.net
+0.0.0.0 d1rdewbb3ho9y7.cloudfront.net
 0.0.0.0 d1rme4jvs62tcn.cloudfront.net
 0.0.0.0 d1sgj25cjn4adw.cloudfront.net
 0.0.0.0 d1t1aszt9orebq.cloudfront.net
@@ -4891,15 +4892,20 @@
 0.0.0.0 d2ex13hr728klp.cloudfront.net
 0.0.0.0 d2gspr8vzzzo02.cloudfront.net
 0.0.0.0 d2gztwgb14h1d.cloudfront.net
+0.0.0.0 d2h1iqzusoe15l.cloudfront.net
 0.0.0.0 d2hijslwjjb6xf.cloudfront.net
 0.0.0.0 d2hr0yhxixa9i2.cloudfront.net
 0.0.0.0 d2hxx9arx28rc0.cloudfront.net
 0.0.0.0 d2i7526ghpizc9.cloudfront.net
 0.0.0.0 d2iep9bp6c22dc.cloudfront.net
+0.0.0.0 d2k03nouvabnnt.cloudfront.net
+0.0.0.0 d2kssogjl1dooj.cloudfront.net
 0.0.0.0 d2lb83ybl22jem.cloudfront.net
+0.0.0.0 d2lg05a9nw0qzh.cloudfront.net
 0.0.0.0 d2lia7e2uhjvv1.cloudfront.net
 0.0.0.0 d2lxl4doqci3po.cloudfront.net
 0.0.0.0 d2lymsbwmwpr6n.cloudfront.net
+0.0.0.0 d2mkwbg1ge4ui5.cloudfront.net
 0.0.0.0 d2ml98k2s6sdit.cloudfront.net
 0.0.0.0 d2nw9e0ddo08bt.cloudfront.net
 0.0.0.0 d2obhr6r5fzecl.cloudfront.net
@@ -4907,17 +4913,21 @@
 0.0.0.0 d2ovivg4v0qxjm.cloudfront.net
 0.0.0.0 d2qnw7npg5oug3.cloudfront.net
 0.0.0.0 d2s6zp48dykzie.cloudfront.net
+0.0.0.0 d2tgmy656z2cs2.cloudfront.net
 0.0.0.0 d2th9vamsn7cws.cloudfront.net
 0.0.0.0 d2tsykvn82sryi.cloudfront.net
 0.0.0.0 d2u5hcrs3kmrbd.cloudfront.net
 0.0.0.0 d2uflbyyoc1c1l.cloudfront.net
+0.0.0.0 d2uls76jz0lag9.cloudfront.net
 0.0.0.0 d2ur41cbocu27e.cloudfront.net
 0.0.0.0 d2xe17mzyskaoi.cloudfront.net
+0.0.0.0 d2y2uz6sn2mxfg.cloudfront.net
 0.0.0.0 d2ycz30klri3f9.cloudfront.net
 0.0.0.0 d2ym1oubw1eszq.cloudfront.net
 0.0.0.0 d2z5qakd2ama3r.cloudfront.net
 0.0.0.0 d2zrxpsszcdyhx.cloudfront.net
 0.0.0.0 d3a3j770jgc81v.cloudfront.net
+0.0.0.0 d3d2pdui0691vv.cloudfront.net
 0.0.0.0 d3dfirf94ib4mc.cloudfront.net
 0.0.0.0 d3djra8xuxrarl.cloudfront.net
 0.0.0.0 d3dp8iocsuomgc.cloudfront.net
@@ -4927,6 +4937,8 @@
 0.0.0.0 d3ix9yg89ky1c5.cloudfront.net
 0.0.0.0 d3jdrqwt8yggac.cloudfront.net
 0.0.0.0 d3jfqy3y1871yh.cloudfront.net
+0.0.0.0 d3jxnxkvhogv5f.cloudfront.net
+0.0.0.0 d3kst2qu2utim3.cloudfront.net
 0.0.0.0 d3l9k0igpiir98.cloudfront.net
 0.0.0.0 d3l41d43cmmx14.cloudfront.net
 0.0.0.0 d3lzjgxt3dye5f.cloudfront.net
@@ -4941,7 +4953,9 @@
 0.0.0.0 d3t48bevxuic2e.cloudfront.net
 0.0.0.0 d3tgju2fe3if19.cloudfront.net
 0.0.0.0 d3v735z3cvlhwa.cloudfront.net
+0.0.0.0 d4mkjc8lyoypo.cloudfront.net
 0.0.0.0 d4y6zofef2seo.cloudfront.net
+0.0.0.0 d6bwmymz83ob5.cloudfront.net
 0.0.0.0 d6sdrygslyc0g.cloudfront.net
 0.0.0.0 d8k8yw18dq88h.cloudfront.net
 0.0.0.0 d9ii1r9blfm7t.cloudfront.net
@@ -4964,6 +4978,7 @@
 0.0.0.0 d20ezslo7c6hnj.cloudfront.net
 0.0.0.0 d20hr3rtnrxud2.cloudfront.net
 0.0.0.0 d20isuo4zumftr.cloudfront.net
+0.0.0.0 d21cegfx64ngj9.cloudfront.net
 0.0.0.0 d21dzntokiu6dl.cloudfront.net
 0.0.0.0 d22cujgt2tcui6.cloudfront.net
 0.0.0.0 d22e2i2ieoe5aa.cloudfront.net
@@ -4983,14 +4998,20 @@
 0.0.0.0 d34linqtty5evl.cloudfront.net
 0.0.0.0 d34rr3edznjsj6.cloudfront.net
 0.0.0.0 d34tdjde2x12pd.cloudfront.net
+0.0.0.0 d34zwo5uunib6m.cloudfront.net
 0.0.0.0 d35s76ui8ol8u7.cloudfront.net
 0.0.0.0 d36nbgnuno71tn.cloudfront.net
+0.0.0.0 d38d6vjyuuw2sl.cloudfront.net
+0.0.0.0 d39rpvvlkl2oml.cloudfront.net
+0.0.0.0 d138l6i2f1ss16.cloudfront.net
+0.0.0.0 d168u5ovk0xpjb.cloudfront.net
 0.0.0.0 d182p0mo6pnsdg.cloudfront.net
 0.0.0.0 d278e6l7afg8fl.cloudfront.net
 0.0.0.0 d03307.top
 0.0.0.0 d3513xcfpbcnht.cloudfront.net
 0.0.0.0 d3889itag5jgx6.cloudfront.net
 0.0.0.0 d16026ycio8a62.cloudfront.net
+0.0.0.0 da7itbt696zyr.cloudfront.net
 0.0.0.0 dac24nse4s4d7.cloudfront.net
 0.0.0.0 dachbud.slask.pl
 0.0.0.0 dalsari.com
@@ -5029,6 +5050,7 @@
 0.0.0.0 dc5zdxob07xpk.cloudfront.net
 0.0.0.0 dcshoespolska.com
 0.0.0.0 dcshoessklep.com
+0.0.0.0 de7o82mzreipe.cloudfront.net
 0.0.0.0 debie.pl
 0.0.0.0 debki-klara.pl
 0.0.0.0 debridleech.com
@@ -5093,6 +5115,7 @@
 0.0.0.0 dhdost.com
 0.0.0.0 dhexpl.com
 0.0.0.0 dhexpres.com
+0.0.0.0 dhhfxb5eyj88f.cloudfront.net
 0.0.0.0 dhl24-paczka.com
 0.0.0.0 dhl-costumers.net
 0.0.0.0 dhl-dostawa.com
@@ -5114,7 +5137,7 @@
 0.0.0.0 djarumgol.com
 0.0.0.0 djrooby.pl
 0.0.0.0 dk7crqufgrsl0.cloudfront.net
-0.0.0.0 dkonto.dkonto.pl
+0.0.0.0 dl483ndvtytqn.cloudfront.net
 0.0.0.0 dlaczegoniezacznniesz.space
 0.0.0.0 dladomu.biz
 0.0.0.0 dladomu150.com
@@ -5137,6 +5160,7 @@
 0.0.0.0 dlugosiieootymmowi.space
 0.0.0.0 dm5s33kpu5h5p.cloudfront.net
 0.0.0.0 dmcatime.space
+0.0.0.0 dmqxrk27t97xo.cloudfront.net
 0.0.0.0 dnmultiglobal.duckdns.org
 0.0.0.0 dnsfordomains.ru
 0.0.0.0 dnw5n74x7xkb4qg.surrterreproperties.com
@@ -5174,7 +5198,7 @@
 0.0.0.0 domappchecknwas20.web.app
 0.0.0.0 domappcheckoyo10.web.app
 0.0.0.0 domek200.com
-0.0.0.0 domena-informacyjna.dkonto.pl
+0.0.0.0 domek300.com
 0.0.0.0 domgoralskispa.pl
 0.0.0.0 domki-kopalino.com.pl
 0.0.0.0 domniespodzianek.com
@@ -5545,7 +5569,6 @@
 0.0.0.0 fakturowanie24.net
 0.0.0.0 fakturo-wnia.gq
 0.0.0.0 fakturo-wnia.ml
-0.0.0.0 fakty24.dkonto.pl
 0.0.0.0 fakty24.warszawa.pl
 0.0.0.0 fakty24.you2.pl
 0.0.0.0 fakty24gazeta.pl
@@ -6151,6 +6174,7 @@
 0.0.0.0 inclusivetrading.biz
 0.0.0.0 inesmanila.com
 0.0.0.0 inezsport.com
+0.0.0.0 inf
 0.0.0.0 infasd2a.is-best.net
 0.0.0.0 infa-z-polski.dnsrobotuptime.ru
 0.0.0.0 info112.waw.pl
@@ -6161,7 +6185,6 @@
 0.0.0.0 infofpolska.online
 0.0.0.0 infokrk.co.pl
 0.0.0.0 infolokalne24.pl
-0.0.0.0 infonet.dfirma.pl
 0.0.0.0 infopolska34.you2.pl
 0.0.0.0 inforadiogazeta.site
 0.0.0.0 informacja.club
@@ -6170,7 +6193,6 @@
 0.0.0.0 informacje.life
 0.0.0.0 informacje.radom.pl
 0.0.0.0 informacje.work
-0.0.0.0 informacje24.dkonto.pl
 0.0.0.0 informacje24.eu
 0.0.0.0 informacje24.wroclaw.pl
 0.0.0.0 informacje24-alert.eu
@@ -6377,6 +6399,8 @@
 0.0.0.0 inpost.pl-give-cash.cyou
 0.0.0.0 inpost.pl-give-cash.shop
 0.0.0.0 inpost.pl-give-cash.xyz
+0.0.0.0 inpost.pl-goodorder.cyou
+0.0.0.0 inpost.pl-goodorders.xyz
 0.0.0.0 inpost.pl-havecash.cyou
 0.0.0.0 inpost.pl-havecash.icu
 0.0.0.0 inpost.pl-havecash.work
@@ -6554,7 +6578,6 @@
 0.0.0.0 jeromesto.store
 0.0.0.0 jeslichodziototak.site
 0.0.0.0 jesliwidzieliscie.online
-0.0.0.0 jestemnatak.dkonto.pl
 0.0.0.0 jestesaztakkdopprzodu.website
 0.0.0.0 jestesmywszedie.pl
 0.0.0.0 jestesmyznszegokrajutv.cyou
@@ -6644,6 +6667,7 @@
 0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kierunekzycia.site
 0.0.0.0 kieszen.icu
+0.0.0.0 kilowo.xyz
 0.0.0.0 kindsum.pl
 0.0.0.0 kinofilm-tv.pl
 0.0.0.0 kinomaniac.pl
@@ -6812,6 +6836,7 @@
 0.0.0.0 ladysklep.com.pl
 0.0.0.0 lajlaa.com
 0.0.0.0 lander.pl
+0.0.0.0 lanla.pl
 0.0.0.0 laptopyinfo.pl
 0.0.0.0 larissalinhares.com.br
 0.0.0.0 larson.store
@@ -6885,7 +6910,6 @@
 0.0.0.0 living2winning.com
 0.0.0.0 liviosklep.pl
 0.0.0.0 lldi.pl
-0.0.0.0 lluxurycapitals.com
 0.0.0.0 lnfo.web-chat.eu
 0.0.0.0 lngbusiness-start.com
 0.0.0.0 lngstart-business.com
@@ -6918,7 +6942,6 @@
 0.0.0.0 login-paribas.info
 0.0.0.0 login-paribas-planet.info
 0.0.0.0 logononfb.n4t.co
-0.0.0.0 logowanie.dkonto.pl
 0.0.0.0 logowanie-bnpparibas.at
 0.0.0.0 logowanie-bnpparibas.xyz
 0.0.0.0 logowanie-facebook.mcjust.pl
@@ -6971,6 +6994,7 @@
 0.0.0.0 lpko-biznes-pl.com
 0.0.0.0 lpocztapolska.net
 0.0.0.0 lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog
+0.0.0.0 ltsale.onlineshopoutlet2021.com
 0.0.0.0 lubicplacki.is-best.net
 0.0.0.0 lubiego.is-best.net
 0.0.0.0 lubiszto.is-best.net
@@ -6987,6 +7011,7 @@
 0.0.0.0 lutz-blades.pl
 0.0.0.0 luxeeforex.com
 0.0.0.0 luxoid.pl
+0.0.0.0 luxurycapitals.com
 0.0.0.0 lvgrowmarkets.com
 0.0.0.0 lytkarino.com
 0.0.0.0 mabanque-bnpparibas-ref-31-fr.web.app
@@ -7115,7 +7140,6 @@
 0.0.0.0 me-olx.com
 0.0.0.0 mgzhgs.com
 0.0.0.0 miasesy.com
-0.0.0.0 miasto24h.dkonto.pl
 0.0.0.0 miastowe24.eu
 0.0.0.0 miastowe24.pl
 0.0.0.0 michorzewski.pl
@@ -7187,7 +7211,6 @@
 0.0.0.0 mojeapartamenty.com
 0.0.0.0 mojekobe.is-best.net
 0.0.0.0 mojekonto-otomoto.com
-0.0.0.0 mojemiasto.dkonto.pl
 0.0.0.0 mojemiasto24.you2.pl
 0.0.0.0 mojemiastoinfo.eu
 0.0.0.0 mojeweselicho.za.pl
@@ -7260,6 +7283,7 @@
 0.0.0.0 muzyka.icu
 0.0.0.0 mvpaoe.com
 0.0.0.0 mxdby-mailsever-000ruiwas.web.app
+0.0.0.0 mybodyshark.com
 0.0.0.0 mycoinology.com
 0.0.0.0 mydnssbox.gleeze.com
 0.0.0.0 mydreamholidaysandresorts.com
@@ -7335,7 +7359,6 @@
 0.0.0.0 naszawiadomosc.online
 0.0.0.0 naszbiznes.xyz
 0.0.0.0 naszdom.you2.pl
-0.0.0.0 naszemiasto.dkonto.pl
 0.0.0.0 naszemiasto-informacje24.eu
 0.0.0.0 naszepanstwo.xyz
 0.0.0.0 naszepieknemiasstto.site
@@ -7398,7 +7421,6 @@
 0.0.0.0 newsweeks.xyz
 0.0.0.0 newsy.wroclaw.pl
 0.0.0.0 newsyintera24.medianewsonline.com
-0.0.0.0 news-day.dkonto.pl
 0.0.0.0 news-deck.at
 0.0.0.0 news-week.dfirma.pl
 0.0.0.0 newthemforthink.site
@@ -7521,7 +7543,6 @@
 0.0.0.0 oddaj-kampania.eu
 0.0.0.0 oddam-kotki17.microhost.com.pl
 0.0.0.0 oddam-pieska.waw.pl
-0.0.0.0 oddam-yorki.dfirma.pl
 0.0.0.0 odebranie-punktu.eu
 0.0.0.0 odessa.com.pl
 0.0.0.0 odj4s702.web.app
@@ -7607,9 +7628,7 @@
 0.0.0.0 ogladaj-online.pl
 0.0.0.0 ogladaj-online24.pl
 0.0.0.0 ogladaj-przechwycone.eu
-0.0.0.0 oglaszamy-yorki.dkonto.pl
 0.0.0.0 oglaszam-olx.pl
-0.0.0.0 ogloszenia24.dfirma.pl
 0.0.0.0 ogloszeniateraz97.club
 0.0.0.0 ogloszenia-24.cba.pl
 0.0.0.0 ogloszenia-olx.you2.pl
@@ -7618,7 +7637,6 @@
 0.0.0.0 ogloszenie156712.xyz
 0.0.0.0 ogloszenie348293.space
 0.0.0.0 ogloszenie-nagrod.eu
-0.0.0.0 ogl-yorki.dfirma.pl
 0.0.0.0 ogrodek.biz
 0.0.0.0 ogrodek.club
 0.0.0.0 ogrodek.top
@@ -7749,7 +7767,6 @@
 0.0.0.0 olxteam.com
 0.0.0.0 olxwysylka.info
 0.0.0.0 olxwysylka.pl
-0.0.0.0 olxyorki.dfirma.pl
 0.0.0.0 olx-b.com
 0.0.0.0 olx-b.pl
 0.0.0.0 olx-banking.ac
@@ -7762,6 +7779,9 @@
 0.0.0.0 olx-banking.page
 0.0.0.0 olx-bezpieczny.pl
 0.0.0.0 olx-biezpieczna-dostawa-pl.biz
+0.0.0.0 olx-b.spredaz-online.club
+0.0.0.0 olx-b.spredaz-online.icu
+0.0.0.0 olx-b.spredaz-online.one
 0.0.0.0 olx-c.pl
 0.0.0.0 olx-cash.site
 0.0.0.0 olx-cassa.pl
@@ -7795,6 +7815,7 @@
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-h.pl
+0.0.0.0 olx-h.spredaz-online.icu
 0.0.0.0 olx-i.pl
 0.0.0.0 olx-informacja.pl
 0.0.0.0 olx-j.pl
@@ -7814,7 +7835,7 @@
 0.0.0.0 olx-my.pl
 0.0.0.0 olx-n.pl
 0.0.0.0 olx-nd.spredaz-online.club
-0.0.0.0 olx-ogloszenie.dkonto.pl
+0.0.0.0 olx-nd.spredaz-online.one
 0.0.0.0 olx-online.pl
 0.0.0.0 olx-oplata.org
 0.0.0.0 olx-order.com
@@ -7943,6 +7964,7 @@
 0.0.0.0 olx-spedycja.pl
 0.0.0.0 olx-statuspay.com
 0.0.0.0 olx-u.pl
+0.0.0.0 olx-ua.spredaz-online.club
 0.0.0.0 olx-uzyskiwanie.pl
 0.0.0.0 olx-uzyskiwaniie.pl
 0.0.0.0 olx-vip.com
@@ -7951,6 +7973,7 @@
 0.0.0.0 olx-wplata.cards
 0.0.0.0 olx-wplata.today
 0.0.0.0 olx-wyplata.pl
+0.0.0.0 olx-w.spredaz-online.club
 0.0.0.0 olx-x.site
 0.0.0.0 olx-y.pl
 0.0.0.0 olx-z.pl
@@ -8054,9 +8077,7 @@
 0.0.0.0 ondergroot.xyz
 0.0.0.0 onedrive-pl.cyou
 0.0.0.0 onemed.com.pl
-0.0.0.0 onet.dfirma.pl
 0.0.0.0 onet.you2.pl
-0.0.0.0 onet24.dkonto.pl
 0.0.0.0 onet24.live
 0.0.0.0 onet24pl.pvi.pl
 0.0.0.0 onet24polska.eu
@@ -8116,7 +8137,6 @@
 0.0.0.0 onlinehd.pl
 0.0.0.0 onlinekino.pl
 0.0.0.0 onlineluck.net
-0.0.0.0 onlinenews72.dfirma.pl
 0.0.0.0 onlineprzelew.online
 0.0.0.0 onlineprzelew.site
 0.0.0.0 onlineprzelew.space
@@ -8616,6 +8636,7 @@
 0.0.0.0 pieklodlakobiet.podpisz-petycje.eu
 0.0.0.0 pieklokobiet.podpisz-petycje.eu
 0.0.0.0 pieklo-kobiet.podpisz-petycje.eu
+0.0.0.0 pieknozywicy.pl
 0.0.0.0 pielegniarsko-poloznicze.pl
 0.0.0.0 pieprzyc.com
 0.0.0.0 pieski-pomoc.xyz
@@ -8631,6 +8652,7 @@
 0.0.0.0 pinpey.net
 0.0.0.0 pinspey.net
 0.0.0.0 pin-odbioru.com
+0.0.0.0 piosenkanaszkle.pl
 0.0.0.0 piotrdzieciolowski.pl
 0.0.0.0 piotrprzewozy.pl
 0.0.0.0 pipey.net
@@ -8653,6 +8675,7 @@
 0.0.0.0 pl.bitcoinmethodpro.com
 0.0.0.0 pl.centrumoferty24.com
 0.0.0.0 pl.centrumoferty.com
+0.0.0.0 pl.heyfit.shop
 0.0.0.0 pl.mevida.me
 0.0.0.0 pl.mysafesmartphone.com
 0.0.0.0 pl.oferto.cc
@@ -8996,12 +9019,9 @@
 0.0.0.0 poloralphlaurenpoland.pl
 0.0.0.0 polsh.in
 0.0.0.0 polska24.com.pl
-0.0.0.0 polska24.dkonto.pl
 0.0.0.0 polska24.ehost.pl
 0.0.0.0 polska24.eu
 0.0.0.0 polska24.serwerplus.pl
-0.0.0.0 polska24info.dkonto.pl
-0.0.0.0 polska24poszukiwani.dkonto.pl
 0.0.0.0 polskadziennik.pl
 0.0.0.0 polskagazeta.xyz
 0.0.0.0 polskainfo.co.pl
@@ -9060,7 +9080,6 @@
 0.0.0.0 polska-raport.tk
 0.0.0.0 polska--wiadomosci24h.x9.eu
 0.0.0.0 polskiagazeta24.serwerplus.pl
-0.0.0.0 polskidziennik.dkonto.pl
 0.0.0.0 polskidziennik.pl
 0.0.0.0 polskieczasy0.online
 0.0.0.0 polskieeinformacje.online
@@ -9077,9 +9096,7 @@
 0.0.0.0 polskilombard.pl
 0.0.0.0 polskinews24.eu
 0.0.0.0 polskiportal.you2.pl
-0.0.0.0 polskiszpital24.dkonto.pl
 0.0.0.0 polski-artykul-24h.pl
-0.0.0.0 polski-lot.dfirma.pl
 0.0.0.0 polski-styl.shop
 0.0.0.0 polsko-oferta.life
 0.0.0.0 polsko-oferta.shop
@@ -9088,7 +9105,6 @@
 0.0.0.0 pomagajiwspieraj.com
 0.0.0.0 pomagajmy-szybko.eu
 0.0.0.0 pomagamy.xip.pl
-0.0.0.0 pomagamy24.dkonto.pl
 0.0.0.0 pomagamy-onet.eu
 0.0.0.0 pomagam-dzisiaj.eu
 0.0.0.0 pomagam-joannie.com.pl
@@ -9148,7 +9164,6 @@
 0.0.0.0 post-track.al-awa2el.com
 0.0.0.0 post-track.poczta-polska.al-awa2el.com
 0.0.0.0 poszukiwana.cyou
-0.0.0.0 poszukiwani24.dkonto.pl
 0.0.0.0 poszukiwani24.pl
 0.0.0.0 poszukiwanialludzi.site
 0.0.0.0 poszukiwaniaonline.eu
@@ -9156,7 +9171,6 @@
 0.0.0.0 poszukiwaniaosobzaginionych.you2.pl
 0.0.0.0 poszukiwanipolska24.eu
 0.0.0.0 poszukiwany-sprawca.pl
-0.0.0.0 poszukuiwania24.dkonto.pl
 0.0.0.0 potencjalnaszannsa.site
 0.0.0.0 potwierdzeniawiekowe.xyz
 0.0.0.0 potwierdzenie.cc
@@ -9247,7 +9261,6 @@
 0.0.0.0 propdfconverter.com
 0.0.0.0 propicture.pl
 0.0.0.0 prostasytuacjadlawas.website
-0.0.0.0 prostozkraju.dkonto.pl
 0.0.0.0 prostybiznes.waw.pl
 0.0.0.0 prosze.moonfruit.com
 0.0.0.0 protector-web.space
@@ -9298,7 +9311,6 @@
 0.0.0.0 przyjrzyjsiesampolska.website
 0.0.0.0 przypadkiroznnychrodzin.site
 0.0.0.0 przysluga-ludziom.eu
-0.0.0.0 psiaki-ollx.dfirma.pl
 0.0.0.0 psialapka.pl
 0.0.0.0 psinetutor.com
 0.0.0.0 pstfsb.com
@@ -9418,8 +9430,6 @@
 0.0.0.0 relayimmo.com
 0.0.0.0 remontim.pl
 0.0.0.0 rentapart24.com
-0.0.0.0 reportaz-live.dfirma.pl
-0.0.0.0 reportaz-na-zywo.dfirma.pl
 0.0.0.0 reset-your-device.com
 0.0.0.0 restauracjatramontana.pl
 0.0.0.0 restore-payp.com
@@ -9648,7 +9658,6 @@
 0.0.0.0 serwer2108520.home.pl
 0.0.0.0 serwis.you2.pl
 0.0.0.0 serwis-medyczny24.com
-0.0.0.0 serwis-news.dfirma.pl
 0.0.0.0 serwis-news.you2.pl
 0.0.0.0 setforconfigplease.com
 0.0.0.0 seveninsta-lady1.com
@@ -9871,7 +9880,6 @@
 0.0.0.0 sprzedaz-nr-497417.in.net
 0.0.0.0 sprzedaz-nr-940031.in.net
 0.0.0.0 srednioraznakilkalat.space
-0.0.0.0 ssl.dfirma.pl
 0.0.0.0 ssl.dotpay.club
 0.0.0.0 ssll-payu.com
 0.0.0.0 sslpayu.com
@@ -9957,10 +9965,7 @@
 0.0.0.0 strefa-vod.pl
 0.0.0.0 strentys.site
 0.0.0.0 strikteobizznesie24.cyou
-0.0.0.0 strona2020.dkonto.pl
-0.0.0.0 stronamiasta.dkonto.pl
 0.0.0.0 strona-zdrowia.com
-0.0.0.0 strona-zpk.dkonto.pl
 0.0.0.0 strstudio.pl
 0.0.0.0 structures-made-easy.co.uk
 0.0.0.0 stsroyal.com
@@ -10011,7 +10016,6 @@
 0.0.0.0 suwalskieprzytulisko.pl
 0.0.0.0 sv-forum.com
 0.0.0.0 swapgg.pl
-0.0.0.0 swiat24.dkonto.pl
 0.0.0.0 swiatfilmikow.pl
 0.0.0.0 swiattesterow.pl
 0.0.0.0 swiatwiadomosci.xyz
@@ -10031,7 +10035,6 @@
 0.0.0.0 szalonerabaty.com
 0.0.0.0 szansaonline.click
 0.0.0.0 szaszlyk.biz
-0.0.0.0 szczeniaczki-oddam.dfirma.pl
 0.0.0.0 szczepienieprzeciwcovid.co.pl
 0.0.0.0 szczepionki24.you2.pl
 0.0.0.0 szczepionki.000webhostapp.com
@@ -10049,9 +10052,7 @@
 0.0.0.0 szkolenie.m.poznan.pm
 0.0.0.0 szlonepromocje.com
 0.0.0.0 sznsajestogroomna.space
-0.0.0.0 szokujace-nagrania.dfirma.pl
 0.0.0.0 szpieg.cyou
-0.0.0.0 szpitalepolska24.dkonto.pl
 0.0.0.0 szpital-covid.waw.pl
 0.0.0.0 sztchr.cn
 0.0.0.0 szukajmysie.eu
@@ -10070,13 +10071,13 @@
 0.0.0.0 szybkie-zakupy.co.pl
 0.0.0.0 szybkoiprosto.website
 0.0.0.0 t24.cleverapps.io
-0.0.0.0 t72.dkonto.pl
 0.0.0.0 t500track29.com
 0.0.0.0 tabxolabs.com
 0.0.0.0 tacticaltrainingdatabase.com
 0.0.0.0 tajnespotkania.eu
 0.0.0.0 tajskimasazsopot.pl
 0.0.0.0 tajwanac.icu
+0.0.0.0 takado.xyz
 0.0.0.0 takaprawda.icu
 0.0.0.0 takczyinaczejmusibyc.space
 0.0.0.0 takczysiakpolska24.website
@@ -10084,6 +10085,7 @@
 0.0.0.0 takijestnaszkruaj.website
 0.0.0.0 takjakbylopowwiedziane.website
 0.0.0.0 takjakwszyscyy.site
+0.0.0.0 takpolska.com
 0.0.0.0 taktoleciwtellewizjii.club
 0.0.0.0 taktooceniamypolacy.club
 0.0.0.0 tamjuzktosbyl.cyou
@@ -10277,23 +10279,19 @@
 0.0.0.0 turystyka.cal.pl
 0.0.0.0 tv.gorzow.pl
 0.0.0.0 tv.kolobrzeg.pl
-0.0.0.0 tv24.dkonto.pl
 0.0.0.0 tvinfo.katowice.pl
 0.0.0.0 tvinfo24-online.pl
 0.0.0.0 tvinfo-24.pl
 0.0.0.0 tvjovem.net
 0.0.0.0 tvn24.club
-0.0.0.0 tvn24.dfirma.pl
 0.0.0.0 tvn24polska.eu
 0.0.0.0 tvn24polska.you2.pl
 0.0.0.0 tvn24-uwaga.pl
 0.0.0.0 tvnowapp.net
-0.0.0.0 tvn-uwaga.dfirma.pl
 0.0.0.0 tvn-uwaga.pl
 0.0.0.0 tvpinfo.net.pl
 0.0.0.0 tvp-info.xyz
 0.0.0.0 tvp-info.you2.pl
-0.0.0.0 tvp-polska.dfirma.pl
 0.0.0.0 tv-maniak.pl
 0.0.0.0 twenty-wishes.000webhostapp.com
 0.0.0.0 twilight-pointed-plant.glitch.me
@@ -10319,7 +10317,6 @@
 0.0.0.0 twoje-filmyvod.pl
 0.0.0.0 twoje-fotki.cleverapps.io
 0.0.0.0 twoje-lakocie.click
-0.0.0.0 twoje-miasto.dfirma.pl
 0.0.0.0 twoje-miasto.k99k.com.pl
 0.0.0.0 twoje-ogloszenia.com
 0.0.0.0 twoje-ogloszenie.com
@@ -10358,7 +10355,6 @@
 0.0.0.0 udany-wynik.eu
 0.0.0.0 udasietosoknczyc.space
 0.0.0.0 udokumentowanie.eu
-0.0.0.0 udostpnij-antos24.dkonto.pl
 0.0.0.0 uggbootspolska.pl
 0.0.0.0 uggpl.com
 0.0.0.0 ujecie24telerradio.website
@@ -10580,7 +10576,6 @@
 0.0.0.0 wiadomoscizkraju.online
 0.0.0.0 wiadomoscizkraju.site
 0.0.0.0 wiadomoscizkraju.xyz
-0.0.0.0 wiadomosci-24.dkonto.pl
 0.0.0.0 wiadomosci-facebook.eu
 0.0.0.0 wiadomosci-j24.cleverapps.io
 0.0.0.0 wiadomosclokalna.pl
@@ -10618,7 +10613,6 @@
 0.0.0.0 wiocha-pl.eu
 0.0.0.0 wiochowisko.eu
 0.0.0.0 wiochowo.eu
-0.0.0.0 wirtualnapolska24.dkonto.pl
 0.0.0.0 wirtualnapolska24.eu
 0.0.0.0 wirtualna-polska.you2.pl
 0.0.0.0 wirtualneinformacje.eu
@@ -10673,7 +10667,6 @@
 0.0.0.0 wsbifkatowice.pl
 0.0.0.0 wspanialy-dzien.click
 0.0.0.0 wsparciejezykowe.eu
-0.0.0.0 wspolnemiasto.dkonto.pl
 0.0.0.0 wspolny-wybieranie.eu
 0.0.0.0 wspomozmy-szybciej.eu
 0.0.0.0 wstrzymana-paczka.in.net
@@ -10693,7 +10686,6 @@
 0.0.0.0 wvw-oix.pl
 0.0.0.0 wvw-olx.pl
 0.0.0.0 ww.paczkjups.com
-0.0.0.0 wwa-24.dkonto.pl
 0.0.0.0 wwv-olx.pl
 0.0.0.0 www.a2btrans.pl
 0.0.0.0 www.a2plvcpnl308307.prod.iad2.secureserver.net
@@ -11243,10 +11235,8 @@
 0.0.0.0 www.country.moppie91.com
 0.0.0.0 www.couplefind.xyz
 0.0.0.0 www.covergt.com
-0.0.0.0 www.covidinfo.dkonto.pl
 0.0.0.0 www.covidowaszczepionkainfo.co.pl
 0.0.0.0 www.covidoweszczepienia.co.pl
-0.0.0.0 www.covidpolska24.dkonto.pl
 0.0.0.0 www.coviplex.pl
 0.0.0.0 www.cowpolsce.xyz
 0.0.0.0 www.coztyymjestnietak.club
@@ -11317,12 +11307,15 @@
 0.0.0.0 www.d1ca0ybissqy5r.cloudfront.net
 0.0.0.0 www.d1eanoj6rae82v.cloudfront.net
 0.0.0.0 www.d1f0moag0nv89.cloudfront.net
+0.0.0.0 www.d1f5c02sm6dd74.cloudfront.net
 0.0.0.0 www.d1fdv4jgqr3t4d.cloudfront.net
 0.0.0.0 www.d1fjbm89xo24p6.cloudfront.net
 0.0.0.0 www.d1gp86p9dfzex5.cloudfront.net
+0.0.0.0 www.d1ikoaew23l9vw.cloudfront.net
 0.0.0.0 www.d1jd3unconuqim.cloudfront.net
 0.0.0.0 www.d1k5vgf76yp8wa.cloudfront.net
 0.0.0.0 www.d1k56tjpmngmzw.cloudfront.net
+0.0.0.0 www.d1l875ujvjbvs5.cloudfront.net
 0.0.0.0 www.d1lyagb9sxnnqj.cloudfront.net
 0.0.0.0 www.d1nrc70vcbb0d6.cloudfront.net
 0.0.0.0 www.d1of11q7gtqib1.cloudfront.net
@@ -11330,6 +11323,7 @@
 0.0.0.0 www.d1p4figd2ritbe.cloudfront.net
 0.0.0.0 www.d1ppczim070vc2.cloudfront.net
 0.0.0.0 www.d1quu53w0vld5k.cloudfront.net
+0.0.0.0 www.d1rdewbb3ho9y7.cloudfront.net
 0.0.0.0 www.d1rme4jvs62tcn.cloudfront.net
 0.0.0.0 www.d1sgj25cjn4adw.cloudfront.net
 0.0.0.0 www.d1t1aszt9orebq.cloudfront.net
@@ -11353,15 +11347,20 @@
 0.0.0.0 www.d2ex13hr728klp.cloudfront.net
 0.0.0.0 www.d2gspr8vzzzo02.cloudfront.net
 0.0.0.0 www.d2gztwgb14h1d.cloudfront.net
+0.0.0.0 www.d2h1iqzusoe15l.cloudfront.net
 0.0.0.0 www.d2hijslwjjb6xf.cloudfront.net
 0.0.0.0 www.d2hr0yhxixa9i2.cloudfront.net
 0.0.0.0 www.d2hxx9arx28rc0.cloudfront.net
 0.0.0.0 www.d2i7526ghpizc9.cloudfront.net
 0.0.0.0 www.d2iep9bp6c22dc.cloudfront.net
+0.0.0.0 www.d2k03nouvabnnt.cloudfront.net
+0.0.0.0 www.d2kssogjl1dooj.cloudfront.net
 0.0.0.0 www.d2lb83ybl22jem.cloudfront.net
+0.0.0.0 www.d2lg05a9nw0qzh.cloudfront.net
 0.0.0.0 www.d2lia7e2uhjvv1.cloudfront.net
 0.0.0.0 www.d2lxl4doqci3po.cloudfront.net
 0.0.0.0 www.d2lymsbwmwpr6n.cloudfront.net
+0.0.0.0 www.d2mkwbg1ge4ui5.cloudfront.net
 0.0.0.0 www.d2ml98k2s6sdit.cloudfront.net
 0.0.0.0 www.d2nw9e0ddo08bt.cloudfront.net
 0.0.0.0 www.d2obhr6r5fzecl.cloudfront.net
@@ -11369,17 +11368,21 @@
 0.0.0.0 www.d2ovivg4v0qxjm.cloudfront.net
 0.0.0.0 www.d2qnw7npg5oug3.cloudfront.net
 0.0.0.0 www.d2s6zp48dykzie.cloudfront.net
+0.0.0.0 www.d2tgmy656z2cs2.cloudfront.net
 0.0.0.0 www.d2th9vamsn7cws.cloudfront.net
 0.0.0.0 www.d2tsykvn82sryi.cloudfront.net
 0.0.0.0 www.d2u5hcrs3kmrbd.cloudfront.net
 0.0.0.0 www.d2uflbyyoc1c1l.cloudfront.net
+0.0.0.0 www.d2uls76jz0lag9.cloudfront.net
 0.0.0.0 www.d2ur41cbocu27e.cloudfront.net
 0.0.0.0 www.d2xe17mzyskaoi.cloudfront.net
+0.0.0.0 www.d2y2uz6sn2mxfg.cloudfront.net
 0.0.0.0 www.d2ycz30klri3f9.cloudfront.net
 0.0.0.0 www.d2ym1oubw1eszq.cloudfront.net
 0.0.0.0 www.d2z5qakd2ama3r.cloudfront.net
 0.0.0.0 www.d2zrxpsszcdyhx.cloudfront.net
 0.0.0.0 www.d3a3j770jgc81v.cloudfront.net
+0.0.0.0 www.d3d2pdui0691vv.cloudfront.net
 0.0.0.0 www.d3dfirf94ib4mc.cloudfront.net
 0.0.0.0 www.d3djra8xuxrarl.cloudfront.net
 0.0.0.0 www.d3dp8iocsuomgc.cloudfront.net
@@ -11389,6 +11392,8 @@
 0.0.0.0 www.d3ix9yg89ky1c5.cloudfront.net
 0.0.0.0 www.d3jdrqwt8yggac.cloudfront.net
 0.0.0.0 www.d3jfqy3y1871yh.cloudfront.net
+0.0.0.0 www.d3jxnxkvhogv5f.cloudfront.net
+0.0.0.0 www.d3kst2qu2utim3.cloudfront.net
 0.0.0.0 www.d3l9k0igpiir98.cloudfront.net
 0.0.0.0 www.d3l41d43cmmx14.cloudfront.net
 0.0.0.0 www.d3lzjgxt3dye5f.cloudfront.net
@@ -11403,7 +11408,9 @@
 0.0.0.0 www.d3t48bevxuic2e.cloudfront.net
 0.0.0.0 www.d3tgju2fe3if19.cloudfront.net
 0.0.0.0 www.d3v735z3cvlhwa.cloudfront.net
+0.0.0.0 www.d4mkjc8lyoypo.cloudfront.net
 0.0.0.0 www.d4y6zofef2seo.cloudfront.net
+0.0.0.0 www.d6bwmymz83ob5.cloudfront.net
 0.0.0.0 www.d6sdrygslyc0g.cloudfront.net
 0.0.0.0 www.d8k8yw18dq88h.cloudfront.net
 0.0.0.0 www.d9ii1r9blfm7t.cloudfront.net
@@ -11426,6 +11433,7 @@
 0.0.0.0 www.d20ezslo7c6hnj.cloudfront.net
 0.0.0.0 www.d20hr3rtnrxud2.cloudfront.net
 0.0.0.0 www.d20isuo4zumftr.cloudfront.net
+0.0.0.0 www.d21cegfx64ngj9.cloudfront.net
 0.0.0.0 www.d21dzntokiu6dl.cloudfront.net
 0.0.0.0 www.d22cujgt2tcui6.cloudfront.net
 0.0.0.0 www.d22e2i2ieoe5aa.cloudfront.net
@@ -11445,14 +11453,20 @@
 0.0.0.0 www.d34linqtty5evl.cloudfront.net
 0.0.0.0 www.d34rr3edznjsj6.cloudfront.net
 0.0.0.0 www.d34tdjde2x12pd.cloudfront.net
+0.0.0.0 www.d34zwo5uunib6m.cloudfront.net
 0.0.0.0 www.d35s76ui8ol8u7.cloudfront.net
 0.0.0.0 www.d36nbgnuno71tn.cloudfront.net
+0.0.0.0 www.d38d6vjyuuw2sl.cloudfront.net
+0.0.0.0 www.d39rpvvlkl2oml.cloudfront.net
+0.0.0.0 www.d138l6i2f1ss16.cloudfront.net
+0.0.0.0 www.d168u5ovk0xpjb.cloudfront.net
 0.0.0.0 www.d182p0mo6pnsdg.cloudfront.net
 0.0.0.0 www.d278e6l7afg8fl.cloudfront.net
 0.0.0.0 www.d03307.top
 0.0.0.0 www.d3513xcfpbcnht.cloudfront.net
 0.0.0.0 www.d3889itag5jgx6.cloudfront.net
 0.0.0.0 www.d16026ycio8a62.cloudfront.net
+0.0.0.0 www.da7itbt696zyr.cloudfront.net
 0.0.0.0 www.dac24nse4s4d7.cloudfront.net
 0.0.0.0 www.dachbud.slask.pl
 0.0.0.0 www.dalsari.com
@@ -11481,6 +11495,7 @@
 0.0.0.0 www.dc5zdxob07xpk.cloudfront.net
 0.0.0.0 www.dcshoespolska.com
 0.0.0.0 www.dcshoessklep.com
+0.0.0.0 www.de7o82mzreipe.cloudfront.net
 0.0.0.0 www.debie.pl
 0.0.0.0 www.debridleech.com
 0.0.0.0 www.declineconcert.com
@@ -11523,6 +11538,7 @@
 0.0.0.0 www.dhdost.com
 0.0.0.0 www.dhexpl.com
 0.0.0.0 www.dhexpres.com
+0.0.0.0 www.dhhfxb5eyj88f.cloudfront.net
 0.0.0.0 www.dhwysl.com
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.differentpplz.top
@@ -11536,7 +11552,7 @@
 0.0.0.0 www.djarumgol.com
 0.0.0.0 www.djrooby.pl
 0.0.0.0 www.dk7crqufgrsl0.cloudfront.net
-0.0.0.0 www.dkonto.dkonto.pl
+0.0.0.0 www.dl483ndvtytqn.cloudfront.net
 0.0.0.0 www.dlaczegoniezacznniesz.space
 0.0.0.0 www.dladomu150.com
 0.0.0.0 www.dladomu160.com
@@ -11558,6 +11574,7 @@
 0.0.0.0 www.dlugosiieootymmowi.space
 0.0.0.0 www.dm5s33kpu5h5p.cloudfront.net
 0.0.0.0 www.dmcatime.space
+0.0.0.0 www.dmqxrk27t97xo.cloudfront.net
 0.0.0.0 www.dnmultiglobal.duckdns.org
 0.0.0.0 www.dnsfordomains.ru
 0.0.0.0 www.dnw5n74x7xkb4qg.surrterreproperties.com
@@ -11588,6 +11605,7 @@
 0.0.0.0 www.domappchecknwas20.web.app
 0.0.0.0 www.domappcheckoyo10.web.app
 0.0.0.0 www.domek200.com
+0.0.0.0 www.domek300.com
 0.0.0.0 www.domgoralskispa.pl
 0.0.0.0 www.domniespodzianek.com
 0.0.0.0 www.dont.pl
@@ -11796,7 +11814,6 @@
 0.0.0.0 www.fakty24gazeta.pl
 0.0.0.0 www.fakty24h.eu
 0.0.0.0 www.fakty24zaginiony.eu
-0.0.0.0 www.fakty24.dkonto.pl
 0.0.0.0 www.fakty24.warszawa.pl
 0.0.0.0 www.fakty24.you2.pl
 0.0.0.0 www.faktyonet24.eu
@@ -12244,6 +12261,7 @@
 0.0.0.0 www.inclusivetrading.biz
 0.0.0.0 www.inesmanila.com
 0.0.0.0 www.inezsport.com
+0.0.0.0 www.inf
 0.0.0.0 www.info112.waw.pl
 0.0.0.0 www.info394290.wixsite.com
 0.0.0.0 www.infodostarcz.net
@@ -12252,12 +12270,10 @@
 0.0.0.0 www.infofpolska.online
 0.0.0.0 www.infokrk.co.pl
 0.0.0.0 www.infolokalne24.pl
-0.0.0.0 www.infonet.dfirma.pl
 0.0.0.0 www.infopolska34.you2.pl
 0.0.0.0 www.inforadiogazeta.site
 0.0.0.0 www.informacja24.eu
 0.0.0.0 www.informacja.club
-0.0.0.0 www.informacje24.dkonto.pl
 0.0.0.0 www.informacje24.eu
 0.0.0.0 www.informacje24.wroclaw.pl
 0.0.0.0 www.informacje2021.waw.pl
@@ -12444,7 +12460,6 @@
 0.0.0.0 www.jeromesto.store
 0.0.0.0 www.jeslichodziototak.site
 0.0.0.0 www.jesliwidzieliscie.online
-0.0.0.0 www.jestemnatak.dkonto.pl
 0.0.0.0 www.jestesaztakkdopprzodu.website
 0.0.0.0 www.jestesmywszedie.pl
 0.0.0.0 www.jestesmyznszegokrajutv.cyou
@@ -12524,6 +12539,7 @@
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kierunekzycia.site
 0.0.0.0 www.kieszen.icu
+0.0.0.0 www.kilowo.xyz
 0.0.0.0 www.kindsum.pl
 0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kinomaniak.cc
@@ -12642,6 +12658,7 @@
 0.0.0.0 www.ladysklep.com.pl
 0.0.0.0 www.lajlaa.com
 0.0.0.0 www.lander.pl
+0.0.0.0 www.lanla.pl
 0.0.0.0 www.laptopyinfo.pl
 0.0.0.0 www.larissalinhares.com.br
 0.0.0.0 www.larson.store
@@ -12709,7 +12726,6 @@
 0.0.0.0 www.living2winning.com
 0.0.0.0 www.liviosklep.pl
 0.0.0.0 www.lldi.pl
-0.0.0.0 www.lluxurycapitals.com
 0.0.0.0 www.lnkpayme.page.link
 0.0.0.0 www.lnkpay.me
 0.0.0.0 www.lnnpost.net
@@ -12724,7 +12740,6 @@
 0.0.0.0 www.logintofb.tcp4.me
 0.0.0.0 www.login.microsoftorline.com
 0.0.0.0 www.logononfb.n4t.co
-0.0.0.0 www.logowanie.dkonto.pl
 0.0.0.0 www.lokaineogloszenie.live
 0.0.0.0 www.lokainie.life
 0.0.0.0 www.lokainie.live
@@ -12755,6 +12770,7 @@
 0.0.0.0 www.lpkobiznes.me
 0.0.0.0 www.lpkobiznes.online
 0.0.0.0 www.lpocztapolska.net
+0.0.0.0 www.ltsale.onlineshopoutlet2021.com
 0.0.0.0 www.luczko.pl
 0.0.0.0 www.ludziepolaczenizesoba.cyou
 0.0.0.0 www.ludzieprawa.pl
@@ -12765,6 +12781,7 @@
 0.0.0.0 www.luminnotik.xyz
 0.0.0.0 www.luxeeforex.com
 0.0.0.0 www.luxoid.pl
+0.0.0.0 www.luxurycapitals.com
 0.0.0.0 www.lvgrowmarkets.com
 0.0.0.0 www.lytkarino.com
 0.0.0.0 www.maceju.com
@@ -12856,7 +12873,6 @@
 0.0.0.0 www.metaltechnics.pl
 0.0.0.0 www.mgzhgs.com
 0.0.0.0 www.miasesy.com
-0.0.0.0 www.miasto24h.dkonto.pl
 0.0.0.0 www.miastowe24.eu
 0.0.0.0 www.miastowe24.pl
 0.0.0.0 www.michorzewski.pl
@@ -12908,7 +12924,6 @@
 0.0.0.0 www.mojeapartamenty.com
 0.0.0.0 www.mojemiasto24.you2.pl
 0.0.0.0 www.mojemiastoinfo.eu
-0.0.0.0 www.mojemiasto.dkonto.pl
 0.0.0.0 www.mojeweselicho.za.pl
 0.0.0.0 www.mojezyciemojasprawa.site
 0.0.0.0 www.mojfetysz.pl
@@ -12966,6 +12981,7 @@
 0.0.0.0 www.muzeum.cyou
 0.0.0.0 www.muzyka.icu
 0.0.0.0 www.mvpaoe.com
+0.0.0.0 www.mybodyshark.com
 0.0.0.0 www.mycoinology.com
 0.0.0.0 www.mydnssbox.gleeze.com
 0.0.0.0 www.mydreamholidaysandresorts.com
@@ -13016,7 +13032,6 @@
 0.0.0.0 www.naszawiadomosc.online
 0.0.0.0 www.naszbiznes.xyz
 0.0.0.0 www.naszdom.you2.pl
-0.0.0.0 www.naszemiasto.dkonto.pl
 0.0.0.0 www.naszepanstwo.xyz
 0.0.0.0 www.naszepieknemiasstto.site
 0.0.0.0 www.naszewiadomosci.site
@@ -13212,7 +13227,6 @@
 0.0.0.0 www.ogiosz24.in.net
 0.0.0.0 www.ogladajzadarmo.com.pl
 0.0.0.0 www.ogladaj.eu
-0.0.0.0 www.ogloszenia24.dfirma.pl
 0.0.0.0 www.ogloszeniateraz97.club
 0.0.0.0 www.ogloszenie24.in.net
 0.0.0.0 www.ogloszenie156712.xyz
@@ -13286,7 +13300,6 @@
 0.0.0.0 www.olxteam.com
 0.0.0.0 www.olxwysylka.info
 0.0.0.0 www.olxwysylka.pl
-0.0.0.0 www.olxyorki.dfirma.pl
 0.0.0.0 www.olx.blue
 0.0.0.0 www.olx.doreczanie.pl
 0.0.0.0 www.olx.doreczenle.pl
@@ -13336,12 +13349,10 @@
 0.0.0.0 www.onemed.com.pl
 0.0.0.0 www.onet24pl.pvi.pl
 0.0.0.0 www.onet24polska.eu
-0.0.0.0 www.onet24.dkonto.pl
 0.0.0.0 www.onet24.live
 0.0.0.0 www.onet1111.webd.pro
 0.0.0.0 www.onetfakt24.eu
 0.0.0.0 www.onetmailsupportsystemnetworks.tk
-0.0.0.0 www.onet.dfirma.pl
 0.0.0.0 www.onet.you2.pl
 0.0.0.0 www.onioq.xyz
 0.0.0.0 www.onliine.pl
@@ -13352,7 +13363,6 @@
 0.0.0.0 www.onlinehd.pl
 0.0.0.0 www.onlinekino.pl
 0.0.0.0 www.onlineluck.net
-0.0.0.0 www.onlinenews72.dfirma.pl
 0.0.0.0 www.onlineprzelew.online
 0.0.0.0 www.onlineprzelew.site
 0.0.0.0 www.onlineprzelew.space
@@ -13600,6 +13610,7 @@
 0.0.0.0 www.piastpatrol.pl
 0.0.0.0 www.pib7bocaiuvadosul.com.br
 0.0.0.0 www.picie.cyou
+0.0.0.0 www.pieknozywicy.pl
 0.0.0.0 www.pieprzyc.com
 0.0.0.0 www.pijawkileczyca.pl
 0.0.0.0 www.pillyways.xyz
@@ -13610,6 +13621,7 @@
 0.0.0.0 www.pinkypants.top
 0.0.0.0 www.pinpey.net
 0.0.0.0 www.pinspey.net
+0.0.0.0 www.piosenkanaszkle.pl
 0.0.0.0 www.piotrdzieciolowski.pl
 0.0.0.0 www.piotrprzewozy.pl
 0.0.0.0 www.pipey.net
@@ -13746,10 +13758,7 @@
 0.0.0.0 www.politykaprywatnosci.org
 0.0.0.0 www.poloralphlaurenpoland.pl
 0.0.0.0 www.polsh.in
-0.0.0.0 www.polska24info.dkonto.pl
-0.0.0.0 www.polska24poszukiwani.dkonto.pl
 0.0.0.0 www.polska24.com.pl
-0.0.0.0 www.polska24.dkonto.pl
 0.0.0.0 www.polska24.ehost.pl
 0.0.0.0 www.polska24.eu
 0.0.0.0 www.polska24.serwerplus.pl
@@ -13782,7 +13791,6 @@
 0.0.0.0 www.polskayear.pl
 0.0.0.0 www.polskazobaczy.online
 0.0.0.0 www.polskiagazeta24.serwerplus.pl
-0.0.0.0 www.polskidziennik.dkonto.pl
 0.0.0.0 www.polskidziennik.pl
 0.0.0.0 www.polskieczasy0.online
 0.0.0.0 www.polskieeinformacje.online
@@ -13797,10 +13805,8 @@
 0.0.0.0 www.polskilombard.pl
 0.0.0.0 www.polskinews24.eu
 0.0.0.0 www.polskiportal.you2.pl
-0.0.0.0 www.polskiszpital24.dkonto.pl
 0.0.0.0 www.polsriardrtoihizis.info
 0.0.0.0 www.pomagajiwspieraj.com
-0.0.0.0 www.pomagamy24.dkonto.pl
 0.0.0.0 www.pomagamy.xip.pl
 0.0.0.0 www.pomkalo.link
 0.0.0.0 www.pomoc24.site
@@ -13838,14 +13844,12 @@
 0.0.0.0 www.postmaster334.moonfruit.com
 0.0.0.0 www.post.inpost.cam
 0.0.0.0 www.poszukiwana.cyou
-0.0.0.0 www.poszukiwani24.dkonto.pl
 0.0.0.0 www.poszukiwani24.pl
 0.0.0.0 www.poszukiwanialludzi.site
 0.0.0.0 www.poszukiwaniaonline.eu
 0.0.0.0 www.poszukiwaniaonline.you2.pl
 0.0.0.0 www.poszukiwaniaosobzaginionych.you2.pl
 0.0.0.0 www.poszukiwanipolska24.eu
-0.0.0.0 www.poszukuiwania24.dkonto.pl
 0.0.0.0 www.potencjalnaszannsa.site
 0.0.0.0 www.potwierdzeniawiekowe.xyz
 0.0.0.0 www.potwierdzenie.cc
@@ -13904,7 +13908,6 @@
 0.0.0.0 www.propdfconverter.com
 0.0.0.0 www.propicture.pl
 0.0.0.0 www.prostasytuacjadlawas.website
-0.0.0.0 www.prostozkraju.dkonto.pl
 0.0.0.0 www.prostybiznes.waw.pl
 0.0.0.0 www.prosze.moonfruit.com
 0.0.0.0 www.protocolcashmere.com
@@ -14331,7 +14334,6 @@
 0.0.0.0 www.sprzedamkoszty.com
 0.0.0.0 www.srednioraznakilkalat.space
 0.0.0.0 www.sslpayu.com
-0.0.0.0 www.ssl.dfirma.pl
 0.0.0.0 www.ssl.dotpay.club
 0.0.0.0 www.sspbadecz.ugu.pl
 0.0.0.0 www.staemcommnunity.com
@@ -14396,8 +14398,6 @@
 0.0.0.0 www.strefavod.online
 0.0.0.0 www.strentys.site
 0.0.0.0 www.strikteobizznesie24.cyou
-0.0.0.0 www.strona2020.dkonto.pl
-0.0.0.0 www.stronamiasta.dkonto.pl
 0.0.0.0 www.strstudio.pl
 0.0.0.0 www.stsroyal.com
 0.0.0.0 www.studiofantazja.com.pl
@@ -14431,7 +14431,6 @@
 0.0.0.0 www.sustainablecities.net
 0.0.0.0 www.suwalskieprzytulisko.pl
 0.0.0.0 www.swapgg.pl
-0.0.0.0 www.swiat24.dkonto.pl
 0.0.0.0 www.swiatfilmikow.pl
 0.0.0.0 www.swiattesterow.pl
 0.0.0.0 www.swiatwiadomosci.xyz
@@ -14460,7 +14459,6 @@
 0.0.0.0 www.szlonepromocje.com
 0.0.0.0 www.sznsajestogroomna.space
 0.0.0.0 www.szpieg.cyou
-0.0.0.0 www.szpitalepolska24.dkonto.pl
 0.0.0.0 www.sztchr.cn
 0.0.0.0 www.szukajmysie.eu
 0.0.0.0 www.szukammysuckesu.online
@@ -14471,13 +14469,13 @@
 0.0.0.0 www.szybkiezycie1.online
 0.0.0.0 www.szybkoiprosto.website
 0.0.0.0 www.t24.cleverapps.io
-0.0.0.0 www.t72.dkonto.pl
 0.0.0.0 www.t500track29.com
 0.0.0.0 www.tabxolabs.com
 0.0.0.0 www.tacticaltrainingdatabase.com
 0.0.0.0 www.tajnespotkania.eu
 0.0.0.0 www.tajskimasazsopot.pl
 0.0.0.0 www.tajwanac.icu
+0.0.0.0 www.takado.xyz
 0.0.0.0 www.takaprawda.icu
 0.0.0.0 www.takczyinaczejmusibyc.space
 0.0.0.0 www.takczysiakpolska24.website
@@ -14485,6 +14483,7 @@
 0.0.0.0 www.takijestnaszkruaj.website
 0.0.0.0 www.takjakbylopowwiedziane.website
 0.0.0.0 www.takjakwszyscyy.site
+0.0.0.0 www.takpolska.com
 0.0.0.0 www.taktoleciwtellewizjii.club
 0.0.0.0 www.taktooceniamypolacy.club
 0.0.0.0 www.tamjuzktosbyl.cyou
@@ -14633,13 +14632,11 @@
 0.0.0.0 www.tunaszapolska.xyz
 0.0.0.0 www.tunehub247shop.com
 0.0.0.0 www.turystyka.cal.pl
-0.0.0.0 www.tv24.dkonto.pl
 0.0.0.0 www.tvinfo.katowice.pl
 0.0.0.0 www.tvjovem.net
 0.0.0.0 www.tvn24polska.eu
 0.0.0.0 www.tvn24polska.you2.pl
 0.0.0.0 www.tvn24.club
-0.0.0.0 www.tvn24.dfirma.pl
 0.0.0.0 www.tvnowapp.net
 0.0.0.0 www.tvpinfo.net.pl
 0.0.0.0 www.tv.gorzow.pl
@@ -14858,7 +14855,6 @@
 0.0.0.0 www.wiochapl.eu
 0.0.0.0 www.wiochowisko.eu
 0.0.0.0 www.wiochowo.eu
-0.0.0.0 www.wirtualnapolska24.dkonto.pl
 0.0.0.0 www.wirtualnapolska24.eu
 0.0.0.0 www.wirtualneinformacje.eu
 0.0.0.0 www.wirtualnemiasto24.club
@@ -14893,7 +14889,6 @@
 0.0.0.0 www.wroclawnafotografii.pl
 0.0.0.0 www.wsbifkatowice.pl
 0.0.0.0 www.wsparciejezykowe.eu
-0.0.0.0 www.wspolnemiasto.dkonto.pl
 0.0.0.0 www.wsylkdh.com
 0.0.0.0 www.wszedziejestesmy.pl
 0.0.0.0 www.wszyscyoglladaja.online
@@ -14913,7 +14908,6 @@
 0.0.0.0 www.wydarzenia24.pisz.pl
 0.0.0.0 www.wydarzenia24.you2.pl
 0.0.0.0 www.wydarzeniaroku020.site
-0.0.0.0 www.wydarzenia.dkonto.pl
 0.0.0.0 www.wydarzenia.net.pl
 0.0.0.0 www.wydarzenia.you2.pl
 0.0.0.0 www.wydawnictwobila.pl
@@ -14964,7 +14958,6 @@
 0.0.0.0 www.yhoiport.site
 0.0.0.0 www.yogasuma.care
 0.0.0.0 www.yoofancy.pl
-0.0.0.0 www.yorkiolx.dfirma.pl
 0.0.0.0 www.yotefiles.com
 0.0.0.0 www.you24.eu
 0.0.0.0 www.yourbestmatch.life
@@ -15204,7 +15197,6 @@
 0.0.0.0 www.allegro-lokalniie.fun
 0.0.0.0 www.allegro-m.pl
 0.0.0.0 www.allegro-ogloszenia.you2.pl
-0.0.0.0 www.allegro-okazje.dkonto.pl
 0.0.0.0 www.allegro-pl.lokalnie.digital
 0.0.0.0 www.allegro-pl.online
 0.0.0.0 www.allegro-pl-7e2a33.ingress-daribow.easywp.com
@@ -15302,6 +15294,7 @@
 0.0.0.0 www.blablocar-pl.site
 0.0.0.0 www.blankiet-wspieraj.eu
 0.0.0.0 www.bnppalba-biznesplanet.com
+0.0.0.0 www.bnpparibas-poland.co
 0.0.0.0 www.bnpparibas-secure-biznes.at
 0.0.0.0 www.bn-allorbank.com
 0.0.0.0 www.bohemian-rhapsody-2018-online-napisy-pl-cda.over-blog.com
@@ -15365,7 +15358,6 @@
 0.0.0.0 www.chor-moniuszko.pl
 0.0.0.0 www.chron-telefon.com
 0.0.0.0 www.ciezkieczasy.is-best.net
-0.0.0.0 www.city-news.dkonto.pl
 0.0.0.0 www.clever-trade.com
 0.0.0.0 www.client-getin.online
 0.0.0.0 www.cloud-idea.at
@@ -15449,7 +15441,6 @@
 0.0.0.0 www.dodaj-cegielke.eu
 0.0.0.0 www.doladowania-telefonu.pl
 0.0.0.0 www.domain-registration.me
-0.0.0.0 www.domena-informacyjna.dkonto.pl
 0.0.0.0 www.domki-kopalino.com.pl
 0.0.0.0 www.domodi-sklep.pl
 0.0.0.0 www.domowe-kino.pl
@@ -15896,6 +15887,8 @@
 0.0.0.0 www.inpost.pl-give-cash.cyou
 0.0.0.0 www.inpost.pl-give-cash.shop
 0.0.0.0 www.inpost.pl-give-cash.xyz
+0.0.0.0 www.inpost.pl-goodorder.cyou
+0.0.0.0 www.inpost.pl-goodorders.xyz
 0.0.0.0 www.inpost.pl-havecash.cyou
 0.0.0.0 www.inpost.pl-havecash.icu
 0.0.0.0 www.inpost.pl-havecash.work
@@ -16196,7 +16189,6 @@
 0.0.0.0 www.netflix-update.platnosci.tttt-security.com
 0.0.0.0 www.netflix.pl.sri-india.com
 0.0.0.0 www.newbudimex-inpl.info
-0.0.0.0 www.news-day.dkonto.pl
 0.0.0.0 www.news-deck.at
 0.0.0.0 www.news-week.dfirma.pl
 0.0.0.0 www.new-message.co
@@ -16233,7 +16225,6 @@
 0.0.0.0 www.oddaj-kampania.eu
 0.0.0.0 www.oddam-kotki17.microhost.com.pl
 0.0.0.0 www.oddam-pieska.waw.pl
-0.0.0.0 www.oddam-yorki.dfirma.pl
 0.0.0.0 www.odebranie-punktu.eu
 0.0.0.0 www.odlbieraj-paczke.in.net
 0.0.0.0 www.odlotowy-bon.click
@@ -16258,13 +16249,11 @@
 0.0.0.0 www.ogladaj-online.pl
 0.0.0.0 www.ogladaj-online24.pl
 0.0.0.0 www.ogladaj-przechwycone.eu
-0.0.0.0 www.oglaszamy-yorki.dkonto.pl
 0.0.0.0 www.oglaszam-olx.pl
 0.0.0.0 www.ogloszenia-24.cba.pl
 0.0.0.0 www.ogloszenia-olx.you2.pl
 0.0.0.0 www.ogloszenia-pieski.pl
 0.0.0.0 www.ogloszenie-nagrod.eu
-0.0.0.0 www.ogl-yorki.dfirma.pl
 0.0.0.0 www.oiuoiup-71.ga
 0.0.0.0 www.oix-pl-safe.website
 0.0.0.0 www.oix-zaplata.com
@@ -16300,6 +16289,9 @@
 0.0.0.0 www.olx-banking.page
 0.0.0.0 www.olx-bezpieczny.pl
 0.0.0.0 www.olx-biezpieczna-dostawa-pl.biz
+0.0.0.0 www.olx-b.spredaz-online.club
+0.0.0.0 www.olx-b.spredaz-online.icu
+0.0.0.0 www.olx-b.spredaz-online.one
 0.0.0.0 www.olx-c.pl
 0.0.0.0 www.olx-cash.site
 0.0.0.0 www.olx-cassa.pl
@@ -16333,6 +16325,7 @@
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-h.pl
+0.0.0.0 www.olx-h.spredaz-online.icu
 0.0.0.0 www.olx-i.pl
 0.0.0.0 www.olx-informacja.pl
 0.0.0.0 www.olx-j.pl
@@ -16352,7 +16345,7 @@
 0.0.0.0 www.olx-my.pl
 0.0.0.0 www.olx-n.pl
 0.0.0.0 www.olx-nd.spredaz-online.club
-0.0.0.0 www.olx-ogloszenie.dkonto.pl
+0.0.0.0 www.olx-nd.spredaz-online.one
 0.0.0.0 www.olx-online.pl
 0.0.0.0 www.olx-oplata.org
 0.0.0.0 www.olx-order.com
@@ -16481,6 +16474,7 @@
 0.0.0.0 www.olx-spedycja.pl
 0.0.0.0 www.olx-statuspay.com
 0.0.0.0 www.olx-u.pl
+0.0.0.0 www.olx-ua.spredaz-online.club
 0.0.0.0 www.olx-uzyskiwanie.pl
 0.0.0.0 www.olx-uzyskiwaniie.pl
 0.0.0.0 www.olx-vip.com
@@ -16489,6 +16483,7 @@
 0.0.0.0 www.olx-wplata.cards
 0.0.0.0 www.olx-wplata.today
 0.0.0.0 www.olx-wyplata.pl
+0.0.0.0 www.olx-w.spredaz-online.club
 0.0.0.0 www.olx-x.site
 0.0.0.0 www.olx-y.pl
 0.0.0.0 www.olx-z.pl
@@ -17113,7 +17108,6 @@
 0.0.0.0 www.polskie-infa.dnsrobotuptime.ru
 0.0.0.0 www.polskie-informacje.dnsrobotuptime.ru
 0.0.0.0 www.polski-artykul-24h.pl
-0.0.0.0 www.polski-lot.dfirma.pl
 0.0.0.0 www.polski-styl.shop
 0.0.0.0 www.polsko-oferta.life
 0.0.0.0 www.polsko-oferta.shop
@@ -17189,7 +17183,6 @@
 0.0.0.0 www.przewozy-pegaz.pl
 0.0.0.0 www.przezwyciezenie-leku.eu
 0.0.0.0 www.przysluga-ludziom.eu
-0.0.0.0 www.psiaki-ollx.dfirma.pl
 0.0.0.0 www.purchase-olx.pl
 0.0.0.0 www.pxd-pay.online
 0.0.0.0 www.quantums-trade.com
@@ -17219,8 +17212,6 @@
 0.0.0.0 www.rejestracja-dostawy.com
 0.0.0.0 www.rejestracja-ogloszenia.com
 0.0.0.0 www.rejestr.5p.pl
-0.0.0.0 www.reportaz-live.dfirma.pl
-0.0.0.0 www.reportaz-na-zywo.dfirma.pl
 0.0.0.0 www.reset-your-device.com
 0.0.0.0 www.restore-payp.com
 0.0.0.0 www.revolution-fx.cc
@@ -17300,7 +17291,6 @@
 0.0.0.0 www.server274.dedicated-webhosting.xyz
 0.0.0.0 www.server-payuser1.com
 0.0.0.0 www.serwis-medyczny24.com
-0.0.0.0 www.serwis-news.dfirma.pl
 0.0.0.0 www.serwis-news.you2.pl
 0.0.0.0 www.seveninsta-lady1.com
 0.0.0.0 www.sgb24-login.com
@@ -17395,7 +17385,6 @@
 0.0.0.0 www.strefa-medycyny-naturalnej.com
 0.0.0.0 www.strefa-vod.pl
 0.0.0.0 www.strona-zdrowia.com
-0.0.0.0 www.strona-zpk.dkonto.pl
 0.0.0.0 www.structures-made-easy.co.uk
 0.0.0.0 www.sub3.blocked-site-hole-cert.pl
 0.0.0.0 www.subtim-outlook.com
@@ -17417,13 +17406,11 @@
 0.0.0.0 www.swietny-organizm.com
 0.0.0.0 www.swinka-morska.waw.pl
 0.0.0.0 www.swiss-finest.com
-0.0.0.0 www.szczeniaczki-oddam.dfirma.pl
 0.0.0.0 www.szczepionki.000webhostapp.com
 0.0.0.0 www.szczesliwe-zakupy.click
 0.0.0.0 www.szklarnia-sklep.com
 0.0.0.0 www.szklarnie-ogrodowe.com
 0.0.0.0 www.szklarnie-shop.com
-0.0.0.0 www.szokujace-nagrania.dfirma.pl
 0.0.0.0 www.szpital-covid.waw.pl
 0.0.0.0 www.szybka-dostawa.pl
 0.0.0.0 www.szybka-pomoc.eu
@@ -17478,11 +17465,9 @@
 0.0.0.0 www.tvinfo24-online.pl
 0.0.0.0 www.tvinfo-24.pl
 0.0.0.0 www.tvn24-uwaga.pl
-0.0.0.0 www.tvn-uwaga.dfirma.pl
 0.0.0.0 www.tvn-uwaga.pl
 0.0.0.0 www.tvp-info.xyz
 0.0.0.0 www.tvp-info.you2.pl
-0.0.0.0 www.tvp-polska.dfirma.pl
 0.0.0.0 www.tv-maniak.pl
 0.0.0.0 www.twenty-wishes.000webhostapp.com
 0.0.0.0 www.twilight-pointed-plant.glitch.me
@@ -17498,7 +17483,6 @@
 0.0.0.0 www.twoje-filmyvod.pl
 0.0.0.0 www.twoje-fotki.cleverapps.io
 0.0.0.0 www.twoje-lakocie.click
-0.0.0.0 www.twoje-miasto.dfirma.pl
 0.0.0.0 www.twoje-miasto.k99k.com.pl
 0.0.0.0 www.twoje-ogloszenia.com
 0.0.0.0 www.twoje-ogloszenie.com
@@ -17526,7 +17510,6 @@
 0.0.0.0 www.u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 0.0.0.0 www.uchwalenie-zwyciezcy.eu
 0.0.0.0 www.udany-wynik.eu
-0.0.0.0 www.udostpnij-antos24.dkonto.pl
 0.0.0.0 www.ultimate-opportunities.com
 0.0.0.0 www.ultra-cda.pl
 0.0.0.0 www.unlimited.movies.and.series.netflix.irsa-art.ir
@@ -17580,7 +17563,6 @@
 0.0.0.0 www.weryfikacja-paczki-24.xyz
 0.0.0.0 www.weryfikuj-wynik.eu
 0.0.0.0 www.wesole-maluszki.click
-0.0.0.0 www.wiadomosci-24.dkonto.pl
 0.0.0.0 www.wiadomosci-facebook.eu
 0.0.0.0 www.wiadomosci-j24.cleverapps.io
 0.0.0.0 www.wiadomosc-24.online
@@ -17621,7 +17603,6 @@
 0.0.0.0 www.wszedzie-jestesmy.pl
 0.0.0.0 www.wvw-oix.pl
 0.0.0.0 www.wvw-olx.pl
-0.0.0.0 www.wwa-24.dkonto.pl
 0.0.0.0 www.wwv-olx.pl
 0.0.0.0 www.wwww-olx.pl
 0.0.0.0 www.wx-xcx.xyz
@@ -17633,7 +17614,6 @@
 0.0.0.0 www.wybor-podpunktu.eu
 0.0.0.0 www.wybor-reprezentanta.eu
 0.0.0.0 www.wydanie-polskie24.cyou
-0.0.0.0 www.wydarzenia-24.dfirma.pl
 0.0.0.0 www.wydarzenia-polska24.you2.pl
 0.0.0.0 www.wydarzenia-regionalne.co.pl
 0.0.0.0 www.wygeneruj-kod.me
@@ -17654,6 +17634,7 @@
 0.0.0.0 www.w-paczkomaciie.in.net
 0.0.0.0 www.w-sieci-piszczy.o99o.com.pl
 0.0.0.0 www.w-szpitalu.gmina.pl
+0.0.0.0 www.xdmubhrcwr.2n9qvs.cn
 0.0.0.0 www.xn--c3ca7brwp8cb5a8bdr7kqe.com
 0.0.0.0 www.xn--ldgr-xva7266b.com
 0.0.0.0 www.xn--ox-xqa.pl
@@ -17665,7 +17646,6 @@
 0.0.0.0 www.yorki-oddaj.pl
 0.0.0.0 www.yorki-oddaje.pl
 0.0.0.0 www.yorki-oddam.dnsrobotuptime.ru
-0.0.0.0 www.york-24.dfirma.pl
 0.0.0.0 www.york-oddam.dnsrobotuptime.ru
 0.0.0.0 www.youronline-profits.life
 0.0.0.0 www.your-datingspot-here.com
@@ -17709,8 +17689,6 @@
 0.0.0.0 www.zisyq.proftools-online.ru
 0.0.0.0 www.zloty-lider.eu
 0.0.0.0 www.znajdz-paczke-24.xyz
-0.0.0.0 www.znany-lekarz.dfirma.pl
-0.0.0.0 www.znany-lekarz.pl
 0.0.0.0 www.zobacz-film.pl
 0.0.0.0 www.zone-telechargement-albums.com
 0.0.0.0 www.zus-wyplata.cf
@@ -17733,14 +17711,12 @@
 0.0.0.0 wydaniefaktypofaktach.xyz
 0.0.0.0 wydaniewiiadomossc24.website
 0.0.0.0 wydanie-polskie24.cyou
-0.0.0.0 wydarzenia.dkonto.pl
 0.0.0.0 wydarzenia.net.pl
 0.0.0.0 wydarzenia.you2.pl
 0.0.0.0 wydarzenia24.czest.pl
 0.0.0.0 wydarzenia24.pisz.pl
 0.0.0.0 wydarzenia24.you2.pl
 0.0.0.0 wydarzeniaroku020.site
-0.0.0.0 wydarzenia-24.dfirma.pl
 0.0.0.0 wydarzenia-polska24.you2.pl
 0.0.0.0 wydarzenia-regionalne.co.pl
 0.0.0.0 wydawnictwobila.pl
@@ -17795,6 +17771,7 @@
 0.0.0.0 xabeyangex.xyz
 0.0.0.0 xawqerklewq.myartsonline.com
 0.0.0.0 xcena.xyz
+0.0.0.0 xdmubhrcwr.2n9qvs.cn
 0.0.0.0 xediatel.com
 0.0.0.0 xeechy.xyz
 0.0.0.0 xianyujc.com
@@ -17817,11 +17794,9 @@
 0.0.0.0 yhoiport.site
 0.0.0.0 yogasuma.care
 0.0.0.0 yoofancy.pl
-0.0.0.0 yorkiolx.dfirma.pl
 0.0.0.0 yorki-oddaj.pl
 0.0.0.0 yorki-oddaje.pl
 0.0.0.0 yorki-oddam.dnsrobotuptime.ru
-0.0.0.0 york-24.dfirma.pl
 0.0.0.0 york-oddam.dnsrobotuptime.ru
 0.0.0.0 yotefiles.com
 0.0.0.0 you24.eu
@@ -17928,8 +17903,6 @@
 0.0.0.0 znakkommiterezultaty.space
 0.0.0.0 znamcie.pl
 0.0.0.0 znaneleki.pl
-0.0.0.0 znany-lekarz.dfirma.pl
-0.0.0.0 znany-lekarz.pl
 0.0.0.0 zobaczfotki.eu
 0.0.0.0 zobaczymyczyjjeszczesieuad.space
 0.0.0.0 zobacz-film.pl
