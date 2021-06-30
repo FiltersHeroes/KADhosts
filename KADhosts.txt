@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 30 Jun 2021, 13:06 UTC+02
-# Version: 2021.6.30.0
+# Last modified: Wed, 30 Jun 2021, 17:05 UTC+02
+# Version: 2021.6.30.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -6362,6 +6362,7 @@
 0.0.0.0 inpost.services
 0.0.0.0 inpost.shlinks.me
 0.0.0.0 inpost.shortdostawa.bar
+0.0.0.0 inpost.site
 0.0.0.0 inpost.su
 0.0.0.0 inpost.surf
 0.0.0.0 inpost.tech
@@ -6437,6 +6438,9 @@
 0.0.0.0 inpost-plzxle.platzdostawa.cc
 0.0.0.0 inpost-pl-delivering.icu
 0.0.0.0 inpost-pl-dostawa.cyou
+0.0.0.0 inpost-pl-id805.fastexpress.icu
+0.0.0.0 inpost-pl-id805.fastexpress.shop
+0.0.0.0 inpost-pl-id805.fastexpress.space
 0.0.0.0 inpost-pl-nkfi.ownoffferta.casa
 0.0.0.0 inpost-pl-nkfi.ownoffferta.cc
 0.0.0.0 inpost-pl-nkfi.ownoffferta.cyou
@@ -6474,6 +6478,7 @@
 0.0.0.0 inpost.pl-paidgo.icu
 0.0.0.0 inpost.pl-paidgo.shop
 0.0.0.0 inpost.pl-paidgo.xyz
+0.0.0.0 inpost.pl-paidwallets.cyou
 0.0.0.0 inpost.pl-paywallets.cyou
 0.0.0.0 inpost.pl-paywallets.icu
 0.0.0.0 inpost.pl-paywallets.xyz
@@ -7731,6 +7736,7 @@
 0.0.0.0 ogrodek.biz
 0.0.0.0 ogrodek.club
 0.0.0.0 ogrodek.top
+0.0.0.0 ogrodek150.com
 0.0.0.0 ogrodexmilicz.pl
 0.0.0.0 ogrodzik.biz
 0.0.0.0 oiuoiup-71.ga
@@ -8065,6 +8071,8 @@
 0.0.0.0 olx-uzyskiwanie.pl
 0.0.0.0 olx-uzyskiwaniie.pl
 0.0.0.0 olx-vip.com
+0.0.0.0 olx-w.fastexpress.icu
+0.0.0.0 olx-w.fastexpress.shop
 0.0.0.0 olx-w.pl
 0.0.0.0 olx-weryfikacja.pl
 0.0.0.0 olx-wplata.cards
@@ -8123,6 +8131,7 @@
 0.0.0.0 olx.pl-paidgo.icu
 0.0.0.0 olx.pl-paidwallet.cyou
 0.0.0.0 olx.pl-paidwallet.xyz
+0.0.0.0 olx.pl-paidwallets.cyou
 0.0.0.0 olx.pl-paygo.icu
 0.0.0.0 olx.pl-paygo.work
 0.0.0.0 olx.pl-paysgo.cyou
@@ -9514,6 +9523,7 @@
 0.0.0.0 reactnow262.club
 0.0.0.0 reactnow262.shop
 0.0.0.0 reactnow262.work
+0.0.0.0 reactnow886.work
 0.0.0.0 reactnow918.work
 0.0.0.0 realescort.club
 0.0.0.0 realinvestment.pl
@@ -10723,6 +10733,7 @@
 0.0.0.0 westboundtime.xyz
 0.0.0.0 westkyvo.com
 0.0.0.0 wexness.cc
+0.0.0.0 wgliwicach.xyz
 0.0.0.0 wherearethey006.cyou
 0.0.0.0 whereareyou960.club
 0.0.0.0 wherewereyou011.club
@@ -10780,6 +10791,8 @@
 0.0.0.0 wirtualnemiasto24.club
 0.0.0.0 wirtualnetargi.com.pl
 0.0.0.0 wirutalneinformacje.eu
+0.0.0.0 wkatowicach.xyz
+0.0.0.0 wkielcach.xyz
 0.0.0.0 wlabeb7234.pl
 0.0.0.0 wlada.xyz
 0.0.0.0 wlasciwiennic.cyou
@@ -10792,6 +10805,7 @@
 0.0.0.0 wojtekduda.pl
 0.0.0.0 wolaklosza.is-best.net
 0.0.0.0 wolski.med.pl
+0.0.0.0 wolsztynie.xyz
 0.0.0.0 wolyncalyfilm.wordpress.com
 0.0.0.0 wondereg.site
 0.0.0.0 wonderingly.store
@@ -12574,6 +12588,7 @@
 0.0.0.0 www.inpost.services
 0.0.0.0 www.inpost.shlinks.me
 0.0.0.0 www.inpost.shortdostawa.bar
+0.0.0.0 www.inpost.site
 0.0.0.0 www.inpost.su
 0.0.0.0 www.inpost.surf
 0.0.0.0 www.inpost.tech
@@ -13458,6 +13473,7 @@
 0.0.0.0 www.ogloszenie24.in.net
 0.0.0.0 www.ogloszenie156712.xyz
 0.0.0.0 www.ogloszenie348293.space
+0.0.0.0 www.ogrodek150.com
 0.0.0.0 www.ogrodek.biz
 0.0.0.0 www.ogrodek.club
 0.0.0.0 www.ogrodek.top
@@ -14239,6 +14255,7 @@
 0.0.0.0 www.reactnow262.club
 0.0.0.0 www.reactnow262.shop
 0.0.0.0 www.reactnow262.work
+0.0.0.0 www.reactnow886.work
 0.0.0.0 www.reactnow918.work
 0.0.0.0 www.realescort.club
 0.0.0.0 www.realinvestment.pl
@@ -15073,6 +15090,7 @@
 0.0.0.0 www.westboundtime.xyz
 0.0.0.0 www.westkyvo.com
 0.0.0.0 www.wexness.cc
+0.0.0.0 www.wgliwicach.xyz
 0.0.0.0 www.wherearethey006.cyou
 0.0.0.0 www.whereareyou960.club
 0.0.0.0 www.wherewereyou011.club
@@ -15118,6 +15136,8 @@
 0.0.0.0 www.wirtualnetargi.com.pl
 0.0.0.0 www.wirutalneinformacje.eu
 0.0.0.0 www.wi.biz.pl
+0.0.0.0 www.wkatowicach.xyz
+0.0.0.0 www.wkielcach.xyz
 0.0.0.0 www.wlabeb7234.pl
 0.0.0.0 www.wlada.xyz
 0.0.0.0 www.wlasciwiennic.cyou
@@ -15126,6 +15146,7 @@
 0.0.0.0 www.wmieszajsiewtoszybko.site
 0.0.0.0 www.wojtekduda.pl
 0.0.0.0 www.wolski.med.pl
+0.0.0.0 www.wolsztynie.xyz
 0.0.0.0 www.wolyncalyfilm.wordpress.com
 0.0.0.0 www.wondereg.site
 0.0.0.0 www.wonderingly.store
@@ -16144,6 +16165,9 @@
 0.0.0.0 www.inpost-plzxle.platzdostawa.cc
 0.0.0.0 www.inpost-pl-delivering.icu
 0.0.0.0 www.inpost-pl-dostawa.cyou
+0.0.0.0 www.inpost-pl-id805.fastexpress.icu
+0.0.0.0 www.inpost-pl-id805.fastexpress.shop
+0.0.0.0 www.inpost-pl-id805.fastexpress.space
 0.0.0.0 www.inpost-pl-nkfi.ownoffferta.casa
 0.0.0.0 www.inpost-pl-nkfi.ownoffferta.cc
 0.0.0.0 www.inpost-pl-nkfi.ownoffferta.cyou
@@ -16181,6 +16205,7 @@
 0.0.0.0 www.inpost.pl-paidgo.icu
 0.0.0.0 www.inpost.pl-paidgo.shop
 0.0.0.0 www.inpost.pl-paidgo.xyz
+0.0.0.0 www.inpost.pl-paidwallets.cyou
 0.0.0.0 www.inpost.pl-paywallets.cyou
 0.0.0.0 www.inpost.pl-paywallets.icu
 0.0.0.0 www.inpost.pl-paywallets.xyz
@@ -16785,6 +16810,8 @@
 0.0.0.0 www.olx-uzyskiwanie.pl
 0.0.0.0 www.olx-uzyskiwaniie.pl
 0.0.0.0 www.olx-vip.com
+0.0.0.0 www.olx-w.fastexpress.icu
+0.0.0.0 www.olx-w.fastexpress.shop
 0.0.0.0 www.olx-w.pl
 0.0.0.0 www.olx-weryfikacja.pl
 0.0.0.0 www.olx-wplata.cards
@@ -16843,6 +16870,7 @@
 0.0.0.0 www.olx.pl-paidgo.icu
 0.0.0.0 www.olx.pl-paidwallet.cyou
 0.0.0.0 www.olx.pl-paidwallet.xyz
+0.0.0.0 www.olx.pl-paidwallets.cyou
 0.0.0.0 www.olx.pl-paygo.icu
 0.0.0.0 www.olx.pl-paygo.work
 0.0.0.0 www.olx.pl-paysgo.cyou
