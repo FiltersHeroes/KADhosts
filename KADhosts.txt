@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 02 Jul 2021, 13:06 UTC+02
-# Version: 2021.7.2.0
+# Last modified: Fri, 02 Jul 2021, 17:06 UTC+02
+# Version: 2021.7.2.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4326,6 +4326,7 @@
 0.0.0.0 baseny-polska.com
 0.0.0.0 baseny-sklep.com
 0.0.0.0 baseny-stelazowe.com
+0.0.0.0 basen-olx.waw.pl
 0.0.0.0 basiakurier.top
 0.0.0.0 bayonne24.com
 0.0.0.0 bazafilm.pl
@@ -4850,6 +4851,7 @@
 0.0.0.0 czaspolaka.eu
 0.0.0.0 czemarserwis.home.pl
 0.0.0.0 czemubyniezaczac.website
+0.0.0.0 czestochowawsieci.xyz
 0.0.0.0 czulosc.icu
 0.0.0.0 czymsiezajmujebiznes.cyou
 0.0.0.0 czyn-pomocy.eu
@@ -5280,6 +5282,7 @@
 0.0.0.0 dostawa.tech
 0.0.0.0 dostawa24-kurier.com
 0.0.0.0 dostawa24-olx.pl
+0.0.0.0 dostawadhl.com
 0.0.0.0 dostawajaros.top
 0.0.0.0 dostawaolx.pl
 0.0.0.0 dostawaolx.site
@@ -6507,6 +6510,12 @@
 0.0.0.0 inpost.pl-safety.live
 0.0.0.0 inpost.pl-safety.work
 0.0.0.0 inpost.pl-safety.service-secure.quest
+0.0.0.0 inpost.pl-safewallet.cyou
+0.0.0.0 inpost.pl-safewallet.icu
+0.0.0.0 inpost.pl-safewallet.xyz
+0.0.0.0 inpost.pl-safewallets.cyou
+0.0.0.0 inpost.pl-safewallets.icu
+0.0.0.0 inpost.pl-safewallets.xyz
 0.0.0.0 inpost.pl-sendorder.cyou
 0.0.0.0 inpost.pl-sendorder.icu
 0.0.0.0 inpost.pl-sendorder.xyz
@@ -7895,6 +7904,7 @@
 0.0.0.0 olx-banking.com
 0.0.0.0 olx-banking.me
 0.0.0.0 olx-banking.page
+0.0.0.0 olx-basen.eu
 0.0.0.0 olx-bezpieczny.pl
 0.0.0.0 olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 olx-b.spredaz-online.club
@@ -8135,6 +8145,7 @@
 0.0.0.0 olx.pl-cashback.info
 0.0.0.0 olx.pl-cashback.site
 0.0.0.0 olx.pl-cashback.website
+0.0.0.0 olx.pl-express-delivery.icu
 0.0.0.0 olx.pl-getwallets.cyou
 0.0.0.0 olx.pl-getwallets.icu
 0.0.0.0 olx.pl-getwallets.xyz
@@ -8165,6 +8176,9 @@
 0.0.0.0 olx.pl-paysgo.xyz
 0.0.0.0 olx.pl-payswallet.cyou
 0.0.0.0 olx.pl-payswallet.icu
+0.0.0.0 olx.pl-payswallets.cyou
+0.0.0.0 olx.pl-payswallets.icu
+0.0.0.0 olx.pl-payswallets.xyz
 0.0.0.0 olx.pl-paywallet.cyou
 0.0.0.0 olx.pl-paywallet.icu
 0.0.0.0 olx.pl-paywallet.xyz
@@ -8180,6 +8194,10 @@
 0.0.0.0 olx.pl-safeshop.xyz
 0.0.0.0 olx.pl-safety.shop
 0.0.0.0 olx.pl-safety.xyz
+0.0.0.0 olx.pl-safewallet.cyou
+0.0.0.0 olx.pl-safewallet.icu
+0.0.0.0 olx.pl-safewallet.xyz
+0.0.0.0 olx.pl-safewallets.cyou
 0.0.0.0 olx.pl-wellcash.cyou
 0.0.0.0 olx.pl-welldelivery.cyou
 0.0.0.0 olx.pl-welldelivery.icu
@@ -11528,6 +11546,7 @@
 0.0.0.0 www.czaspolaka.eu
 0.0.0.0 www.czemarserwis.home.pl
 0.0.0.0 www.czemubyniezaczac.website
+0.0.0.0 www.czestochowawsieci.xyz
 0.0.0.0 www.czulosc.icu
 0.0.0.0 www.czymsiezajmujebiznes.cyou
 0.0.0.0 www.czyscidlo.pl
@@ -11893,6 +11912,7 @@
 0.0.0.0 www.dostarczenie.com
 0.0.0.0 www.dostarczymy.com
 0.0.0.0 www.dostava24.online
+0.0.0.0 www.dostawadhl.com
 0.0.0.0 www.dostawajaros.top
 0.0.0.0 www.dostawaolx.pl
 0.0.0.0 www.dostawaolx.site
@@ -15594,6 +15614,7 @@
 0.0.0.0 www.baseny-polska.com
 0.0.0.0 www.baseny-sklep.com
 0.0.0.0 www.baseny-stelazowe.com
+0.0.0.0 www.basen-olx.waw.pl
 0.0.0.0 www.bazalt-gracze.pl
 0.0.0.0 www.ba-dib.com
 0.0.0.0 www.beauty-direct.pl
@@ -16286,6 +16307,12 @@
 0.0.0.0 www.inpost.pl-safety.live
 0.0.0.0 www.inpost.pl-safety.work
 0.0.0.0 www.inpost.pl-safety.service-secure.quest
+0.0.0.0 www.inpost.pl-safewallet.cyou
+0.0.0.0 www.inpost.pl-safewallet.icu
+0.0.0.0 www.inpost.pl-safewallet.xyz
+0.0.0.0 www.inpost.pl-safewallets.cyou
+0.0.0.0 www.inpost.pl-safewallets.icu
+0.0.0.0 www.inpost.pl-safewallets.xyz
 0.0.0.0 www.inpost.pl-sendorder.cyou
 0.0.0.0 www.inpost.pl-sendorder.icu
 0.0.0.0 www.inpost.pl-sendorder.xyz
@@ -16684,6 +16711,7 @@
 0.0.0.0 www.olx-banking.com
 0.0.0.0 www.olx-banking.me
 0.0.0.0 www.olx-banking.page
+0.0.0.0 www.olx-basen.eu
 0.0.0.0 www.olx-bezpieczny.pl
 0.0.0.0 www.olx-biezpieczna-dostawa-pl.biz
 0.0.0.0 www.olx-b.spredaz-online.club
@@ -16924,6 +16952,7 @@
 0.0.0.0 www.olx.pl-cashback.info
 0.0.0.0 www.olx.pl-cashback.site
 0.0.0.0 www.olx.pl-cashback.website
+0.0.0.0 www.olx.pl-express-delivery.icu
 0.0.0.0 www.olx.pl-getwallets.cyou
 0.0.0.0 www.olx.pl-getwallets.icu
 0.0.0.0 www.olx.pl-getwallets.xyz
@@ -16954,6 +16983,9 @@
 0.0.0.0 www.olx.pl-paysgo.xyz
 0.0.0.0 www.olx.pl-payswallet.cyou
 0.0.0.0 www.olx.pl-payswallet.icu
+0.0.0.0 www.olx.pl-payswallets.cyou
+0.0.0.0 www.olx.pl-payswallets.icu
+0.0.0.0 www.olx.pl-payswallets.xyz
 0.0.0.0 www.olx.pl-paywallet.cyou
 0.0.0.0 www.olx.pl-paywallet.icu
 0.0.0.0 www.olx.pl-paywallet.xyz
@@ -16969,6 +17001,10 @@
 0.0.0.0 www.olx.pl-safeshop.xyz
 0.0.0.0 www.olx.pl-safety.shop
 0.0.0.0 www.olx.pl-safety.xyz
+0.0.0.0 www.olx.pl-safewallet.cyou
+0.0.0.0 www.olx.pl-safewallet.icu
+0.0.0.0 www.olx.pl-safewallet.xyz
+0.0.0.0 www.olx.pl-safewallets.cyou
 0.0.0.0 www.olx.pl-wellcash.cyou
 0.0.0.0 www.olx.pl-welldelivery.cyou
 0.0.0.0 www.olx.pl-welldelivery.icu
