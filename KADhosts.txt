@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 05 Jul 2021, 13:06 UTC+02
-# Version: 2021.7.5.0
+# Last modified: Mon, 05 Jul 2021, 17:06 UTC+02
+# Version: 2021.7.5.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3960,6 +3960,7 @@
 0.0.0.0 26159-dot-custom-history-301500.appspot.com
 0.0.0.0 109222.zalogujkonto-weryfikacja.xyz
 0.0.0.0 126898.iogowanie.xyz
+0.0.0.0 186943.prohoster.biz
 0.0.0.0 553521.selcdn.ru
 0.0.0.0 555305.selcdn.ru
 0.0.0.0 1809175.na397463.web.hosting-test.net
@@ -6444,6 +6445,7 @@
 0.0.0.0 inpost.pl-cleanpays.cyou
 0.0.0.0 inpost.pl-cleanpays.icu
 0.0.0.0 inpost.pl-cleanpays.xyz
+0.0.0.0 inpost.pl-cleanspays.icu
 0.0.0.0 inpost.pl-cloudordered.cyou
 0.0.0.0 inpost.pl-cloudordered.icu
 0.0.0.0 inpost.pl-cloudordered.xyz
@@ -8112,6 +8114,9 @@
 0.0.0.0 olx.pl-cleanpaid.cyou
 0.0.0.0 olx.pl-cleanpaid.icu
 0.0.0.0 olx.pl-cleanpaid.xyz
+0.0.0.0 olx.pl-cleanspay.cyou
+0.0.0.0 olx.pl-cleanspay.icu
+0.0.0.0 olx.pl-cleanspay.xyz
 0.0.0.0 olx.pl-cloudorder.cyou
 0.0.0.0 olx.pl-cloudorder.icu
 0.0.0.0 olx.pl-cloudordered.icu
@@ -8485,6 +8490,7 @@
 0.0.0.0 paribas-logowanie.at
 0.0.0.0 paribas-logowanie.xyz
 0.0.0.0 paribas-online.xyz
+0.0.0.0 paribnks.xyz
 0.0.0.0 parkevish.xyz
 0.0.0.0 parkhiker.com
 0.0.0.0 parkingairport.com.pl
@@ -9620,6 +9626,7 @@
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rossmannbonyzakupowe.grvdc.eu
 0.0.0.0 ros-camp.website
+0.0.0.0 rotell.xyz
 0.0.0.0 rounaut-634f9.web.app
 0.0.0.0 roundcube.pl
 0.0.0.0 round-cub1.web.app
@@ -10456,6 +10463,8 @@
 0.0.0.0 tvn24-uwaga.pl
 0.0.0.0 tvnowapp.net
 0.0.0.0 tvn-24.czest.pl
+0.0.0.0 tvn-24.pisz.pl
+0.0.0.0 tvn-24.waw.pl
 0.0.0.0 tvn-uwaga.pl
 0.0.0.0 tvpinfo.net.pl
 0.0.0.0 tvp-info.xyz
@@ -13728,6 +13737,7 @@
 0.0.0.0 www.parcel.uzp2lo6ocafq7by.alirezamalek.ir
 0.0.0.0 www.parcel.y0ri42930ht6dgm.galexar.ir
 0.0.0.0 www.parcerldhl.com
+0.0.0.0 www.paribnks.xyz
 0.0.0.0 www.parkevish.xyz
 0.0.0.0 www.parkhiker.com
 0.0.0.0 www.parkingairport.com.pl
@@ -14308,6 +14318,7 @@
 0.0.0.0 www.roseiiy.com
 0.0.0.0 www.rossmanie.xyz
 0.0.0.0 www.rossmannbonyzakupowe.grvdc.eu
+0.0.0.0 www.rotell.xyz
 0.0.0.0 www.roundcube.pl
 0.0.0.0 www.rozakurier.com
 0.0.0.0 www.rozakurier.org
@@ -15216,6 +15227,7 @@
 0.0.0.0 www.wzabrzu.xyz
 0.0.0.0 www.wzordonassladowania.online
 0.0.0.0 www.x0sms.in
+0.0.0.0 www.x1sms.in
 0.0.0.0 www.xabeyangex.xyz
 0.0.0.0 www.xawqerklewq.myartsonline.com
 0.0.0.0 www.xcena.xyz
@@ -15408,6 +15420,7 @@
 0.0.0.0 www.26159-dot-custom-history-301500.appspot.com
 0.0.0.0 www.109222.zalogujkonto-weryfikacja.xyz
 0.0.0.0 www.126898.iogowanie.xyz
+0.0.0.0 www.186943.prohoster.biz
 0.0.0.0 www.553521.selcdn.ru
 0.0.0.0 www.555305.selcdn.ru
 0.0.0.0 www.1809175.na397463.web.hosting-test.net
@@ -16170,6 +16183,7 @@
 0.0.0.0 www.inpost.pl-cleanpays.cyou
 0.0.0.0 www.inpost.pl-cleanpays.icu
 0.0.0.0 www.inpost.pl-cleanpays.xyz
+0.0.0.0 www.inpost.pl-cleanspays.icu
 0.0.0.0 www.inpost.pl-cloudordered.cyou
 0.0.0.0 www.inpost.pl-cloudordered.icu
 0.0.0.0 www.inpost.pl-cloudordered.xyz
@@ -16856,6 +16870,9 @@
 0.0.0.0 www.olx.pl-cleanpaid.cyou
 0.0.0.0 www.olx.pl-cleanpaid.icu
 0.0.0.0 www.olx.pl-cleanpaid.xyz
+0.0.0.0 www.olx.pl-cleanspay.cyou
+0.0.0.0 www.olx.pl-cleanspay.icu
+0.0.0.0 www.olx.pl-cleanspay.xyz
 0.0.0.0 www.olx.pl-cloudorder.cyou
 0.0.0.0 www.olx.pl-cloudorder.icu
 0.0.0.0 www.olx.pl-cloudordered.icu
@@ -17849,6 +17866,8 @@
 0.0.0.0 www.tvinfo-24.pl
 0.0.0.0 www.tvn24-uwaga.pl
 0.0.0.0 www.tvn-24.czest.pl
+0.0.0.0 www.tvn-24.pisz.pl
+0.0.0.0 www.tvn-24.waw.pl
 0.0.0.0 www.tvn-uwaga.pl
 0.0.0.0 www.tvp-info.xyz
 0.0.0.0 www.tv-maniak.pl
@@ -18151,6 +18170,7 @@
 0.0.0.0 w-sieci-piszczy.o99o.com.pl
 0.0.0.0 w-szpitalu.gmina.pl
 0.0.0.0 x0sms.in
+0.0.0.0 x1sms.in
 0.0.0.0 xabeyangex.xyz
 0.0.0.0 xawqerklewq.myartsonline.com
 0.0.0.0 xcena.xyz
