@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 07 Jul 2021, 13:06 UTC+02
-# Version: 2021.7.7.0
+# Last modified: Wed, 07 Jul 2021, 17:52 UTC+02
+# Version: 2021.7.7.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -5019,6 +5019,7 @@
 0.0.0.0 d3tgju2fe3if19.cloudfront.net
 0.0.0.0 d3tuedwv4cfy49.cloudfront.net
 0.0.0.0 d3v735z3cvlhwa.cloudfront.net
+0.0.0.0 d4ayw5nfinkhq.cloudfront.net
 0.0.0.0 d4mkjc8lyoypo.cloudfront.net
 0.0.0.0 d4y6zofef2seo.cloudfront.net
 0.0.0.0 d6bwmymz83ob5.cloudfront.net
@@ -5073,10 +5074,12 @@
 0.0.0.0 d33zlsefl59aos.cloudfront.net
 0.0.0.0 d34i3ace4gfh5w.cloudfront.net
 0.0.0.0 d34linqtty5evl.cloudfront.net
+0.0.0.0 d34p4thjpg1j74.cloudfront.net
 0.0.0.0 d34rr3edznjsj6.cloudfront.net
 0.0.0.0 d34tdjde2x12pd.cloudfront.net
 0.0.0.0 d34zwo5uunib6m.cloudfront.net
 0.0.0.0 d35s76ui8ol8u7.cloudfront.net
+0.0.0.0 d35zh4mwcg70bq.cloudfront.net
 0.0.0.0 d36bok8k8k1n1l.cloudfront.net
 0.0.0.0 d36judyoxgl2zo.cloudfront.net
 0.0.0.0 d36nbgnuno71tn.cloudfront.net
@@ -6399,6 +6402,7 @@
 0.0.0.0 inpost.owndostaw.shop
 0.0.0.0 inpost.page
 0.0.0.0 inpost.plskontas.cyou
+0.0.0.0 inpost.pl.buytaisetem.site
 0.0.0.0 inpost.pl.mebuyit.pw
 0.0.0.0 inpost.pw
 0.0.0.0 inpost.safecheck.shop
@@ -6515,6 +6519,9 @@
 0.0.0.0 inpost.pl-cloudorders.icu
 0.0.0.0 inpost.pl-cloudsorder.cyou
 0.0.0.0 inpost.pl-cloudsorder.icu
+0.0.0.0 inpost.pl-dreamorders.cyou
+0.0.0.0 inpost.pl-dreamorders.icu
+0.0.0.0 inpost.pl-dreamorders.xyz
 0.0.0.0 inpost.pl-express.casa
 0.0.0.0 inpost.pl-forpay.pw
 0.0.0.0 inpost.pl-getexpres.cyou
@@ -7870,6 +7877,8 @@
 0.0.0.0 olx.pink
 0.0.0.0 olx.plskontas.casa
 0.0.0.0 olx.plskontas.live
+0.0.0.0 olx.pl.payfestrans.pw
+0.0.0.0 olx.pl.payukfestrans.pw
 0.0.0.0 olx.pl.transorbuy.pw
 0.0.0.0 olx.pl.transpaypas.pw
 0.0.0.0 olx.polskaolerta.art
@@ -8116,6 +8125,7 @@
 0.0.0.0 olx-pl.pay-secure.com.ru
 0.0.0.0 olx-pl.receive-pay.site
 0.0.0.0 olx-pl.safe-delivery.win
+0.0.0.0 olx-pl.secure-money.icu
 0.0.0.0 olx-poland.app
 0.0.0.0 olx-polland.com
 0.0.0.0 olx-polska.com
@@ -8209,7 +8219,15 @@
 0.0.0.0 olx.pl-cloudsorder.icu
 0.0.0.0 olx.pl-cloudsorders.cyou
 0.0.0.0 olx.pl-cloudsorders.icu
+0.0.0.0 olx.pl-dreamorder.cyou
+0.0.0.0 olx.pl-dreamorder.icu
+0.0.0.0 olx.pl-dreamorders.cyou
+0.0.0.0 olx.pl-dreamorders.icu
+0.0.0.0 olx.pl-dreamorders.xyz
 0.0.0.0 olx.pl-express.cyou
+0.0.0.0 olx.pl-expresspaid.cyou
+0.0.0.0 olx.pl-expresspaid.icu
+0.0.0.0 olx.pl-expresspaid.xyz
 0.0.0.0 olx.pl-expresspay.cyou
 0.0.0.0 olx.pl-expresspay.icu
 0.0.0.0 olx.pl-expresspay.xyz
@@ -8279,6 +8297,8 @@
 0.0.0.0 olx.pl-resell.cyou
 0.0.0.0 olx.pl-resell.icu
 0.0.0.0 olx.pl-resell.xyz
+0.0.0.0 olx.pl-safedream.icu
+0.0.0.0 olx.pl-safedream.xyz
 0.0.0.0 olx.pl-safeshop.cyou
 0.0.0.0 olx.pl-safeshop.icu
 0.0.0.0 olx.pl-safeshop.xyz
@@ -8777,6 +8797,7 @@
 0.0.0.0 payolx25.info
 0.0.0.0 payolx26.info
 0.0.0.0 payolx34.info
+0.0.0.0 payolx35.info
 0.0.0.0 payones.net
 0.0.0.0 payorte.net
 0.0.0.0 paypalticket-id-2e382123.com
@@ -10209,6 +10230,7 @@
 0.0.0.0 steamcomnenity.ru.com
 0.0.0.0 steamcomunjty.com
 0.0.0.0 steamcomunnjty.com
+0.0.0.0 steamconmmuntiy.ru
 0.0.0.0 steamconmumity.ru
 0.0.0.0 steamconmunuity.com
 0.0.0.0 steammcomunjty.com
@@ -10416,7 +10438,9 @@
 0.0.0.0 teshekure.site
 0.0.0.0 teslag.club
 0.0.0.0 teslax.shop
+0.0.0.0 tesla-pl.website
 0.0.0.0 tesla-polskaaa.icu
+0.0.0.0 tesssla-pl.website
 0.0.0.0 test.maciejdudek.com.pl
 0.0.0.0 testcompetence.pl
 0.0.0.0 testeryperfum.fcg.org.pl
@@ -11792,6 +11816,7 @@
 0.0.0.0 www.d3tgju2fe3if19.cloudfront.net
 0.0.0.0 www.d3tuedwv4cfy49.cloudfront.net
 0.0.0.0 www.d3v735z3cvlhwa.cloudfront.net
+0.0.0.0 www.d4ayw5nfinkhq.cloudfront.net
 0.0.0.0 www.d4mkjc8lyoypo.cloudfront.net
 0.0.0.0 www.d4y6zofef2seo.cloudfront.net
 0.0.0.0 www.d6bwmymz83ob5.cloudfront.net
@@ -11846,10 +11871,12 @@
 0.0.0.0 www.d33zlsefl59aos.cloudfront.net
 0.0.0.0 www.d34i3ace4gfh5w.cloudfront.net
 0.0.0.0 www.d34linqtty5evl.cloudfront.net
+0.0.0.0 www.d34p4thjpg1j74.cloudfront.net
 0.0.0.0 www.d34rr3edznjsj6.cloudfront.net
 0.0.0.0 www.d34tdjde2x12pd.cloudfront.net
 0.0.0.0 www.d34zwo5uunib6m.cloudfront.net
 0.0.0.0 www.d35s76ui8ol8u7.cloudfront.net
+0.0.0.0 www.d35zh4mwcg70bq.cloudfront.net
 0.0.0.0 www.d36bok8k8k1n1l.cloudfront.net
 0.0.0.0 www.d36judyoxgl2zo.cloudfront.net
 0.0.0.0 www.d36nbgnuno71tn.cloudfront.net
@@ -12770,6 +12797,7 @@
 0.0.0.0 www.inpost.owndostaw.shop
 0.0.0.0 www.inpost.page
 0.0.0.0 www.inpost.plskontas.cyou
+0.0.0.0 www.inpost.pl.buytaisetem.site
 0.0.0.0 www.inpost.pl.mebuyit.pw
 0.0.0.0 www.inpost.pw
 0.0.0.0 www.inpost.safecheck.shop
@@ -13755,6 +13783,8 @@
 0.0.0.0 www.olx.pink
 0.0.0.0 www.olx.plskontas.casa
 0.0.0.0 www.olx.plskontas.live
+0.0.0.0 www.olx.pl.payfestrans.pw
+0.0.0.0 www.olx.pl.payukfestrans.pw
 0.0.0.0 www.olx.pl.transorbuy.pw
 0.0.0.0 www.olx.pl.transpaypas.pw
 0.0.0.0 www.olx.polskaolerta.art
@@ -13951,6 +13981,7 @@
 0.0.0.0 www.payolx25.info
 0.0.0.0 www.payolx26.info
 0.0.0.0 www.payolx34.info
+0.0.0.0 www.payolx35.info
 0.0.0.0 www.payones.net
 0.0.0.0 www.payorte.net
 0.0.0.0 www.payples.net
@@ -14809,6 +14840,7 @@
 0.0.0.0 www.steamcomnenity.ru.com
 0.0.0.0 www.steamcomunjty.com
 0.0.0.0 www.steamcomunnjty.com
+0.0.0.0 www.steamconmmuntiy.ru
 0.0.0.0 www.steamconmumity.ru
 0.0.0.0 www.steamconmunuity.com
 0.0.0.0 www.steamco.de
@@ -16388,6 +16420,9 @@
 0.0.0.0 www.inpost.pl-cloudorders.icu
 0.0.0.0 www.inpost.pl-cloudsorder.cyou
 0.0.0.0 www.inpost.pl-cloudsorder.icu
+0.0.0.0 www.inpost.pl-dreamorders.cyou
+0.0.0.0 www.inpost.pl-dreamorders.icu
+0.0.0.0 www.inpost.pl-dreamorders.xyz
 0.0.0.0 www.inpost.pl-express.casa
 0.0.0.0 www.inpost.pl-forpay.pw
 0.0.0.0 www.inpost.pl-getexpres.cyou
@@ -17003,6 +17038,7 @@
 0.0.0.0 www.olx-pl.pay-secure.com.ru
 0.0.0.0 www.olx-pl.receive-pay.site
 0.0.0.0 www.olx-pl.safe-delivery.win
+0.0.0.0 www.olx-pl.secure-money.icu
 0.0.0.0 www.olx-poland.app
 0.0.0.0 www.olx-polland.com
 0.0.0.0 www.olx-polska.com
@@ -17096,7 +17132,15 @@
 0.0.0.0 www.olx.pl-cloudsorder.icu
 0.0.0.0 www.olx.pl-cloudsorders.cyou
 0.0.0.0 www.olx.pl-cloudsorders.icu
+0.0.0.0 www.olx.pl-dreamorder.cyou
+0.0.0.0 www.olx.pl-dreamorder.icu
+0.0.0.0 www.olx.pl-dreamorders.cyou
+0.0.0.0 www.olx.pl-dreamorders.icu
+0.0.0.0 www.olx.pl-dreamorders.xyz
 0.0.0.0 www.olx.pl-express.cyou
+0.0.0.0 www.olx.pl-expresspaid.cyou
+0.0.0.0 www.olx.pl-expresspaid.icu
+0.0.0.0 www.olx.pl-expresspaid.xyz
 0.0.0.0 www.olx.pl-expresspay.cyou
 0.0.0.0 www.olx.pl-expresspay.icu
 0.0.0.0 www.olx.pl-expresspay.xyz
@@ -17166,6 +17210,8 @@
 0.0.0.0 www.olx.pl-resell.cyou
 0.0.0.0 www.olx.pl-resell.icu
 0.0.0.0 www.olx.pl-resell.xyz
+0.0.0.0 www.olx.pl-safedream.icu
+0.0.0.0 www.olx.pl-safedream.xyz
 0.0.0.0 www.olx.pl-safeshop.cyou
 0.0.0.0 www.olx.pl-safeshop.icu
 0.0.0.0 www.olx.pl-safeshop.xyz
@@ -18074,7 +18120,9 @@
 0.0.0.0 www.termin-odbioru.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.termometr-na-podczerwien-pl.com
+0.0.0.0 www.tesla-pl.website
 0.0.0.0 www.tesla-polskaaa.icu
+0.0.0.0 www.tesssla-pl.website
 0.0.0.0 www.thecrypto-genius.net
 0.0.0.0 www.thepacifica-group.com
 0.0.0.0 www.the-bitcoinrevolution.com
