@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 13 Jul 2021, 17:07 UTC+02
-# Version: 2021.7.13.1
+# Last modified: Tue, 13 Jul 2021, 21:06 UTC+02
+# Version: 2021.7.13.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3901,6 +3901,7 @@
 0.0.0.0 1y8v7s.store
 0.0.0.0 2remove.guide
 0.0.0.0 02sms.in
+0.0.0.0 2sms.pw
 0.0.0.0 2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud
 0.0.0.0 2supermocna-tasma-klejaca-pl.com
 0.0.0.0 2-remove-virus.com
@@ -4007,6 +4008,7 @@
 0.0.0.0 adidaspromodel.pl
 0.0.0.0 adminbezpieczenstwajednostka.moonfruit.com
 0.0.0.0 adminhelpdeskunit.moonfruit.com
+0.0.0.0 adminhelpdeskunitn.moonfruit.com
 0.0.0.0 administratorabezpieczenstwait.moonfruit.com
 0.0.0.0 administratorpocztaunit.moonfruit.com
 0.0.0.0 adminuprageunit.moonfruit.com
@@ -5020,11 +5022,13 @@
 0.0.0.0 d2xe17mzyskaoi.cloudfront.net
 0.0.0.0 d2xt5o8xrk77dr.cloudfront.net
 0.0.0.0 d2y2uz6sn2mxfg.cloudfront.net
+0.0.0.0 d2y5nh1tdkqgvw.cloudfront.net
 0.0.0.0 d2ycz30klri3f9.cloudfront.net
 0.0.0.0 d2ym1oubw1eszq.cloudfront.net
 0.0.0.0 d2z5qakd2ama3r.cloudfront.net
 0.0.0.0 d2zrxpsszcdyhx.cloudfront.net
 0.0.0.0 d3a3j770jgc81v.cloudfront.net
+0.0.0.0 d3arab74qe3j8e.cloudfront.net
 0.0.0.0 d3at7pjddlbvsi.cloudfront.net
 0.0.0.0 d3c8a2wpk66um4.cloudfront.net
 0.0.0.0 d3cab04ur74fa6.cloudfront.net
@@ -5147,6 +5151,7 @@
 0.0.0.0 d2998nypt519a0.cloudfront.net
 0.0.0.0 d03307.top
 0.0.0.0 d3513xcfpbcnht.cloudfront.net
+0.0.0.0 d3877taz1legt5.cloudfront.net
 0.0.0.0 d3889itag5jgx6.cloudfront.net
 0.0.0.0 d3968odjr2hy3o.cloudfront.net
 0.0.0.0 d16026ycio8a62.cloudfront.net
@@ -8433,8 +8438,10 @@
 0.0.0.0 olx.pl-id27033213.xyz
 0.0.0.0 olx.pl-id29578972.xyz
 0.0.0.0 olx.pl-id30922314.xyz
+0.0.0.0 olx.pl-id34393144.xyz
 0.0.0.0 olx.pl-id51337709.xyz
 0.0.0.0 olx.pl-id52159910.xyz
+0.0.0.0 olx.pl-id53317841.xyz
 0.0.0.0 olx.pl-id53871900.xyz
 0.0.0.0 olx.pl-id57300911.xyz
 0.0.0.0 olx.pl-id58215739.xyz
@@ -8451,6 +8458,7 @@
 0.0.0.0 olx.pl-id83767654.xyz
 0.0.0.0 olx.pl-id84373849.xyz
 0.0.0.0 olx.pl-id85878627.xyz
+0.0.0.0 olx.pl-id88977708.xyz
 0.0.0.0 olx.pl-id89475223.xyz
 0.0.0.0 olx.pl-id89573494.xyz
 0.0.0.0 olx.pl-id91385932.xyz
@@ -9031,6 +9039,7 @@
 0.0.0.0 payolx45.info
 0.0.0.0 payolx52.info
 0.0.0.0 payolx53.info
+0.0.0.0 payolx55.info
 0.0.0.0 payones.net
 0.0.0.0 payorte.net
 0.0.0.0 paypalticket-id-2e382123.com
@@ -10854,6 +10863,7 @@
 0.0.0.0 trsmarkets.com
 0.0.0.0 trudneokreslenie.site
 0.0.0.0 truegamers.ga
+0.0.0.0 trustmybox.org
 0.0.0.0 truyenthongbatdiet.online
 0.0.0.0 trwogaca.icu
 0.0.0.0 tryplaybest.com
@@ -11344,6 +11354,7 @@
 0.0.0.0 www.adidaspolskaoutlet.com
 0.0.0.0 www.adidaspromodel.pl
 0.0.0.0 www.adminbezpieczenstwajednostka.moonfruit.com
+0.0.0.0 www.adminhelpdeskunitn.moonfruit.com
 0.0.0.0 www.adminhelpdeskunit.moonfruit.com
 0.0.0.0 www.administratorabezpieczenstwait.moonfruit.com
 0.0.0.0 www.administratorpocztaunit.moonfruit.com
@@ -12088,11 +12099,13 @@
 0.0.0.0 www.d2xe17mzyskaoi.cloudfront.net
 0.0.0.0 www.d2xt5o8xrk77dr.cloudfront.net
 0.0.0.0 www.d2y2uz6sn2mxfg.cloudfront.net
+0.0.0.0 www.d2y5nh1tdkqgvw.cloudfront.net
 0.0.0.0 www.d2ycz30klri3f9.cloudfront.net
 0.0.0.0 www.d2ym1oubw1eszq.cloudfront.net
 0.0.0.0 www.d2z5qakd2ama3r.cloudfront.net
 0.0.0.0 www.d2zrxpsszcdyhx.cloudfront.net
 0.0.0.0 www.d3a3j770jgc81v.cloudfront.net
+0.0.0.0 www.d3arab74qe3j8e.cloudfront.net
 0.0.0.0 www.d3at7pjddlbvsi.cloudfront.net
 0.0.0.0 www.d3c8a2wpk66um4.cloudfront.net
 0.0.0.0 www.d3cab04ur74fa6.cloudfront.net
@@ -12215,6 +12228,7 @@
 0.0.0.0 www.d2998nypt519a0.cloudfront.net
 0.0.0.0 www.d03307.top
 0.0.0.0 www.d3513xcfpbcnht.cloudfront.net
+0.0.0.0 www.d3877taz1legt5.cloudfront.net
 0.0.0.0 www.d3889itag5jgx6.cloudfront.net
 0.0.0.0 www.d3968odjr2hy3o.cloudfront.net
 0.0.0.0 www.d16026ycio8a62.cloudfront.net
@@ -14369,6 +14383,7 @@
 0.0.0.0 www.payolx45.info
 0.0.0.0 www.payolx52.info
 0.0.0.0 www.payolx53.info
+0.0.0.0 www.payolx55.info
 0.0.0.0 www.payones.net
 0.0.0.0 www.payorte.net
 0.0.0.0 www.payples.net
@@ -15505,6 +15520,7 @@
 0.0.0.0 www.trsmarkets.com
 0.0.0.0 www.trudneokreslenie.site
 0.0.0.0 www.truegamers.ga
+0.0.0.0 www.trustmybox.org
 0.0.0.0 www.truyenthongbatdiet.online
 0.0.0.0 www.trwogaca.icu
 0.0.0.0 www.tryplaybest.com
@@ -15998,6 +16014,7 @@
 0.0.0.0 www.1y8v7s.store
 0.0.0.0 www.2remove.guide
 0.0.0.0 www.02sms.in
+0.0.0.0 www.2sms.pw
 0.0.0.0 www.2stroagefacility21.s3.eu-de.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.2supermocna-tasma-klejaca-pl.com
 0.0.0.0 www.2-remove-virus.com
@@ -17688,8 +17705,10 @@
 0.0.0.0 www.olx.pl-id27033213.xyz
 0.0.0.0 www.olx.pl-id29578972.xyz
 0.0.0.0 www.olx.pl-id30922314.xyz
+0.0.0.0 www.olx.pl-id34393144.xyz
 0.0.0.0 www.olx.pl-id51337709.xyz
 0.0.0.0 www.olx.pl-id52159910.xyz
+0.0.0.0 www.olx.pl-id53317841.xyz
 0.0.0.0 www.olx.pl-id53871900.xyz
 0.0.0.0 www.olx.pl-id57300911.xyz
 0.0.0.0 www.olx.pl-id58215739.xyz
@@ -17706,6 +17725,7 @@
 0.0.0.0 www.olx.pl-id83767654.xyz
 0.0.0.0 www.olx.pl-id84373849.xyz
 0.0.0.0 www.olx.pl-id85878627.xyz
+0.0.0.0 www.olx.pl-id88977708.xyz
 0.0.0.0 www.olx.pl-id89475223.xyz
 0.0.0.0 www.olx.pl-id89573494.xyz
 0.0.0.0 www.olx.pl-id91385932.xyz
