@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 22 Jul 2021, 17:08 UTC+02
-# Version: 2021.7.22.1
+# Last modified: Thu, 22 Jul 2021, 21:07 UTC+02
+# Version: 2021.7.22.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -3895,6 +3895,7 @@
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => hosts
 0.0.0.0 0b8cc331813049912.temporary.link
+0.0.0.0 00ckpr.cn
 0.0.0.0 0lx.group
 0.0.0.0 0pen.page
 0.0.0.0 0r1en.bigbosspl.site
@@ -3902,7 +3903,9 @@
 0.0.0.0 0sms.pw
 0.0.0.0 0sms.xyz
 0.0.0.0 00x.eu
+0.0.0.0 0zw22yu.cn
 0.0.0.0 1btcnews.buzz
+0.0.0.0 1e332ns.cn
 0.0.0.0 1inv-budimpl.info
 0.0.0.0 1k-daily-profitz.com
 0.0.0.0 1mpost.net
@@ -5863,6 +5866,7 @@
 0.0.0.0 fakty24.you2.pl
 0.0.0.0 fakty24gazeta.pl
 0.0.0.0 fakty24h.eu
+0.0.0.0 fakty24online.pl
 0.0.0.0 fakty24zaginiony.eu
 0.0.0.0 fakty24-gdansk.pl
 0.0.0.0 fakty24-gdynia.pl
@@ -5988,6 +5992,7 @@
 0.0.0.0 finalowebiznes24.space
 0.0.0.0 financesucceed.webador.com
 0.0.0.0 financexbt.net
+0.0.0.0 finance-eu.info
 0.0.0.0 finance-lotos.website
 0.0.0.0 financial.org
 0.0.0.0 financialmarketsworld.com
@@ -6811,6 +6816,7 @@
 0.0.0.0 inpost.pl-cloudorders.icu
 0.0.0.0 inpost.pl-cloudsorder.cyou
 0.0.0.0 inpost.pl-cloudsorder.icu
+0.0.0.0 inpost.pl-compaybuy.pw
 0.0.0.0 inpost.pl-comtranspay.pw
 0.0.0.0 inpost.pl-cyberget.service-secure.cyou
 0.0.0.0 inpost.pl-cybersec.service-secure.cyou
@@ -13102,6 +13108,7 @@
 0.0.0.0 www.fakturowanie24.net
 0.0.0.0 www.fakty24gazeta.pl
 0.0.0.0 www.fakty24h.eu
+0.0.0.0 www.fakty24online.pl
 0.0.0.0 www.fakty24zaginiony.eu
 0.0.0.0 www.fakty24.warszawa.pl
 0.0.0.0 www.fakty24.you2.pl
@@ -16623,6 +16630,7 @@
 0.0.0.0 www-olx-dostawa.pl
 0.0.0.0 www-plnsafedeal.link
 0.0.0.0 www.0b8cc331813049912.temporary.link
+0.0.0.0 www.00ckpr.cn
 0.0.0.0 www.0lx.group
 0.0.0.0 www.0pen.page
 0.0.0.0 www.0r1en.bigbosspl.site
@@ -16630,7 +16638,9 @@
 0.0.0.0 www.0sms.pw
 0.0.0.0 www.0sms.xyz
 0.0.0.0 www.00x.eu
+0.0.0.0 www.0zw22yu.cn
 0.0.0.0 www.1btcnews.buzz
+0.0.0.0 www.1e332ns.cn
 0.0.0.0 www.1inv-budimpl.info
 0.0.0.0 www.1k-daily-profitz.com
 0.0.0.0 www.1mpost.net
@@ -17285,6 +17295,7 @@
 0.0.0.0 www.film-online-vod.over-blog.com
 0.0.0.0 www.film-rs.revolublog.com
 0.0.0.0 www.film-vod.pl
+0.0.0.0 www.finance-eu.info
 0.0.0.0 www.finance-lotos.website
 0.0.0.0 www.financial-times-appp.github.io
 0.0.0.0 www.findmy.iive-info.icu
@@ -17607,6 +17618,7 @@
 0.0.0.0 www.inpost.pl-cloudorders.icu
 0.0.0.0 www.inpost.pl-cloudsorder.cyou
 0.0.0.0 www.inpost.pl-cloudsorder.icu
+0.0.0.0 www.inpost.pl-compaybuy.pw
 0.0.0.0 www.inpost.pl-comtranspay.pw
 0.0.0.0 www.inpost.pl-cyberget.service-secure.cyou
 0.0.0.0 www.inpost.pl-cybersec.service-secure.cyou
