@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 30 Jul 2021, 13:07 UTC+02
-# Version: 2021.7.30.0
+# Last modified: Fri, 30 Jul 2021, 17:07 UTC+02
+# Version: 2021.7.30.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -7075,6 +7075,7 @@
 0.0.0.0 inpost-order.pl-id12043000.xyz
 0.0.0.0 inpost-order.pl-id14144075.xyz
 0.0.0.0 inpost-order.pl-id14873912.xyz
+0.0.0.0 inpost-order.pl-id18062242.xyz
 0.0.0.0 inpost-order.pl-id21400206.xyz
 0.0.0.0 inpost-order.pl-id24634297.xyz
 0.0.0.0 inpost-order.pl-id25253958.xyz
@@ -7097,6 +7098,7 @@
 0.0.0.0 inpost-order.pl-id67598643.xyz
 0.0.0.0 inpost-order.pl-id69069606.xyz
 0.0.0.0 inpost-order.pl-id74244312.xyz
+0.0.0.0 inpost-order.pl-id75121629.xyz
 0.0.0.0 inpost-order.pl-id77770656.xyz
 0.0.0.0 inpost-order.pl-id78418770.xyz
 0.0.0.0 inpost-order.pl-id78832475.xyz
@@ -8716,6 +8718,7 @@
 0.0.0.0 olx.pl.payfestrans.pw
 0.0.0.0 olx.pl.paymentchecked.site
 0.0.0.0 olx.pl.payukfestrans.pw
+0.0.0.0 olx.pl.tobuypittrans.pw
 0.0.0.0 olx.pl.topaybbitfor.pw
 0.0.0.0 olx.pl.transorbuy.pw
 0.0.0.0 olx.pl.transpaypas.pw
@@ -8926,6 +8929,7 @@
 0.0.0.0 olx-order.pl-id59162782.xyz
 0.0.0.0 olx-order.pl-id64370110.xyz
 0.0.0.0 olx-order.pl-id64594310.xyz
+0.0.0.0 olx-order.pl-id75121629.xyz
 0.0.0.0 olx-order.pl-id76721391.xyz
 0.0.0.0 olx-order.pl-id77770656.xyz
 0.0.0.0 olx-order.pl-id87869773.xyz
@@ -9661,6 +9665,7 @@
 0.0.0.0 panel.home.pl.frustone.it
 0.0.0.0 panel.home.pl.muna.it
 0.0.0.0 panel.home.pl.vespaclub.com
+0.0.0.0 panelpl.pl
 0.0.0.0 panie.online
 0.0.0.0 panigoanalyticsgfabza.xyz
 0.0.0.0 panivan.pl
@@ -9998,10 +10003,12 @@
 0.0.0.0 peytrom.net
 0.0.0.0 pg.h0st.site
 0.0.0.0 pge.toinvest.pro
+0.0.0.0 pgeforpl.info
 0.0.0.0 pgeoffer.space
 0.0.0.0 pgepl.info
 0.0.0.0 pgeplinvpge-1inv.info
 0.0.0.0 pgeplinvpge-1pl.info
+0.0.0.0 pgepl-inv.info
 0.0.0.0 pge-group.club
 0.0.0.0 pge-group.info
 0.0.0.0 pge-group.site
@@ -12351,6 +12358,7 @@
 0.0.0.0 wvw-olx.pl
 0.0.0.0 ww.paczkaups.com
 0.0.0.0 ww.paczkjups.com
+0.0.0.0 ww.paczksups.com
 0.0.0.0 wwv-olx.pl
 0.0.0.0 www.a2btrans.pl
 0.0.0.0 www.a2plvcpnl308307.prod.iad2.secureserver.net
@@ -15634,6 +15642,7 @@
 0.0.0.0 www.olx.pl.payfestrans.pw
 0.0.0.0 www.olx.pl.paymentchecked.site
 0.0.0.0 www.olx.pl.payukfestrans.pw
+0.0.0.0 www.olx.pl.tobuypittrans.pw
 0.0.0.0 www.olx.pl.topaybbitfor.pw
 0.0.0.0 www.olx.pl.transorbuy.pw
 0.0.0.0 www.olx.pl.transpaypas.pw
@@ -15827,6 +15836,7 @@
 0.0.0.0 www.palladiumpolska.com
 0.0.0.0 www.palmera.pl
 0.0.0.0 www.pamelambarnettcounseling.com
+0.0.0.0 www.panelpl.pl
 0.0.0.0 www.panel.home.pl.frustone.it
 0.0.0.0 www.panel.home.pl.muna.it
 0.0.0.0 www.panel.home.pl.vespaclub.com
@@ -15997,6 +16007,7 @@
 0.0.0.0 www.peytosl.net
 0.0.0.0 www.peytos.net
 0.0.0.0 www.peytrom.net
+0.0.0.0 www.pgeforpl.info
 0.0.0.0 www.pgeoffer.space
 0.0.0.0 www.pgepl.info
 0.0.0.0 www.pge.toinvest.pro
@@ -17439,6 +17450,7 @@
 0.0.0.0 www.wuus.org.cn
 0.0.0.0 www.ww.paczkaups.com
 0.0.0.0 www.ww.paczkjups.com
+0.0.0.0 www.ww.paczksups.com
 0.0.0.0 www.wyborcza.live
 0.0.0.0 www.wydajesienam.cyou
 0.0.0.0 www.wydaniefaktypofaktach.xyz
@@ -18536,6 +18548,7 @@
 0.0.0.0 www.inpost-order.pl-id12043000.xyz
 0.0.0.0 www.inpost-order.pl-id14144075.xyz
 0.0.0.0 www.inpost-order.pl-id14873912.xyz
+0.0.0.0 www.inpost-order.pl-id18062242.xyz
 0.0.0.0 www.inpost-order.pl-id21400206.xyz
 0.0.0.0 www.inpost-order.pl-id24634297.xyz
 0.0.0.0 www.inpost-order.pl-id25253958.xyz
@@ -18558,6 +18571,7 @@
 0.0.0.0 www.inpost-order.pl-id67598643.xyz
 0.0.0.0 www.inpost-order.pl-id69069606.xyz
 0.0.0.0 www.inpost-order.pl-id74244312.xyz
+0.0.0.0 www.inpost-order.pl-id75121629.xyz
 0.0.0.0 www.inpost-order.pl-id77770656.xyz
 0.0.0.0 www.inpost-order.pl-id78418770.xyz
 0.0.0.0 www.inpost-order.pl-id78832475.xyz
@@ -19325,6 +19339,7 @@
 0.0.0.0 www.olx-order.pl-id59162782.xyz
 0.0.0.0 www.olx-order.pl-id64370110.xyz
 0.0.0.0 www.olx-order.pl-id64594310.xyz
+0.0.0.0 www.olx-order.pl-id75121629.xyz
 0.0.0.0 www.olx-order.pl-id76721391.xyz
 0.0.0.0 www.olx-order.pl-id77770656.xyz
 0.0.0.0 www.olx-order.pl-id87869773.xyz
@@ -20049,6 +20064,7 @@
 0.0.0.0 www.perfect-movies.xyz
 0.0.0.0 www.pgeplinvpge-1inv.info
 0.0.0.0 www.pgeplinvpge-1pl.info
+0.0.0.0 www.pgepl-inv.info
 0.0.0.0 www.pge-group.club
 0.0.0.0 www.pge-group.info
 0.0.0.0 www.pge-group.site
