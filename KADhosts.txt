@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 06 Sep 2021, 13:08 UTC+02
-# Version: 2021.9.6.0
+# Last modified: Mon, 06 Sep 2021, 17:09 UTC+02
+# Version: 2021.9.6.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4601,11 +4601,14 @@
 0.0.0.0 booking.paycleaning.xyz
 0.0.0.0 booking.payconfirmed.xyz
 0.0.0.0 booking.payconfirms.xyz
+0.0.0.0 booking.payfixing.xyz
+0.0.0.0 booking.paymentfix.xyz
 0.0.0.0 booking.paysafecash.xyz
 0.0.0.0 booking-order.pl-id60385332.xyz
 0.0.0.0 booking-order.pl-id84593969.xyz
 0.0.0.0 booking-order.pl-id86950524.xyz
 0.0.0.0 booking-pl.com-id24310.pw
+0.0.0.0 booking.pl-id07981937.xyz
 0.0.0.0 booking.pl-id08140661.xyz
 0.0.0.0 booking.pl-id08870040.xyz
 0.0.0.0 booking.pl-id17958029.xyz
@@ -4613,10 +4616,12 @@
 0.0.0.0 booking.pl-id23093668.xyz
 0.0.0.0 booking.pl-id23645637.xyz
 0.0.0.0 booking.pl-id26621338.xyz
+0.0.0.0 booking.pl-id27172673.xyz
 0.0.0.0 booking.pl-id28339078.xyz
 0.0.0.0 booking.pl-id29435368.xyz
 0.0.0.0 booking.pl-id35155454.xyz
 0.0.0.0 booking.pl-id36003702.xyz
+0.0.0.0 booking.pl-id38427290.xyz
 0.0.0.0 booking.pl-id40980649.xyz
 0.0.0.0 booking.pl-id52496503.xyz
 0.0.0.0 booking.pl-id53668806.xyz
@@ -4624,6 +4629,7 @@
 0.0.0.0 booking.pl-id59219245.xyz
 0.0.0.0 booking.pl-id62691329.xyz
 0.0.0.0 booking.pl-id63458341.xyz
+0.0.0.0 booking.pl-id66758212.xyz
 0.0.0.0 booking.pl-id67987272.xyz
 0.0.0.0 booking.pl-id70002371.xyz
 0.0.0.0 booking.pl-id71780340.xyz
@@ -4634,9 +4640,11 @@
 0.0.0.0 booking.pl-id79593133.xyz
 0.0.0.0 booking.pl-id80721168.xyz
 0.0.0.0 booking.pl-id84593969.xyz
+0.0.0.0 booking.pl-id85332906.xyz
 0.0.0.0 booking.pl-id85761977.xyz
 0.0.0.0 booking.pl-id90378195.xyz
 0.0.0.0 booking.pl-id90870162.xyz
+0.0.0.0 booking.pl-id92311505.xyz
 0.0.0.0 booking.pl-id94234918.xyz
 0.0.0.0 booking.pl-id97181983.xyz
 0.0.0.0 booking.pl-order.pl-id29435368.xyz
@@ -5005,6 +5013,7 @@
 0.0.0.0 computer-arts.info
 0.0.0.0 conectpress.com
 0.0.0.0 confirmation.orders-olx.com
+0.0.0.0 conlet.info
 0.0.0.0 connessionedati.com
 0.0.0.0 consityr600.xyz
 0.0.0.0 constrainthead.info
@@ -6626,6 +6635,7 @@
 0.0.0.0 destgrena.at
 0.0.0.0 detoxic.net
 0.0.0.0 deu30xlzc2by3.cloudfront.net
+0.0.0.0 dev5974.d3l0uo7x8px3be.amplifyapp.com
 0.0.0.0 developer.team1global.com.au
 0.0.0.0 development.gloriadecor.com.pk
 0.0.0.0 dezinfikuj.se
@@ -7565,6 +7575,7 @@
 0.0.0.0 finvestings.com
 0.0.0.0 firecash.org
 0.0.0.0 firmaidom.pl
+0.0.0.0 firmaludowa.online
 0.0.0.0 firma-tuningowa.lublin.click
 0.0.0.0 firstclick.pro
 0.0.0.0 firstnotchtrading.com
@@ -7592,6 +7603,7 @@
 0.0.0.0 flowsrectifie.at
 0.0.0.0 fnatic-lol.club
 0.0.0.0 focus24.gpe.pl
+0.0.0.0 focushaber.com
 0.0.0.0 foliahydrofobowa-pl.com
 0.0.0.0 folia-hydrofobowa-pl.com
 0.0.0.0 followergods.com
@@ -7925,6 +7937,7 @@
 0.0.0.0 gromans.com.pl
 0.0.0.0 grools.xyz
 0.0.0.0 groupbehold.site
+0.0.0.0 grouptrot.xyz
 0.0.0.0 growhackr.com
 0.0.0.0 growp.xyz
 0.0.0.0 growthimpetus.com
@@ -8372,6 +8385,7 @@
 0.0.0.0 inpostpl.com
 0.0.0.0 inpost-akru.id-5936.com
 0.0.0.0 inpost-a.id-5847.me
+0.0.0.0 inpost-a.id-43980.me
 0.0.0.0 inpost-b.id-43895.me
 0.0.0.0 inpost-c.id-2323.me
 0.0.0.0 inpost-c.id-2830.me
@@ -8388,6 +8402,7 @@
 0.0.0.0 inpost-en.spredaz-online.club
 0.0.0.0 inpost-eoaw.id-845.me
 0.0.0.0 inpost-generator.net
+0.0.0.0 inpost-g.id-43980.me
 0.0.0.0 inpost-hhke.id-4365.me
 0.0.0.0 inpost-info.com
 0.0.0.0 inpost-i.id-4343.me
@@ -10200,6 +10215,7 @@
 0.0.0.0 olx.pay61.info
 0.0.0.0 olx.pay75.info
 0.0.0.0 olx.pay77.info
+0.0.0.0 olx.pay80.info
 0.0.0.0 olx.paymenting.pl
 0.0.0.0 olx.pink
 0.0.0.0 olx.plskontas.casa
@@ -10335,6 +10351,7 @@
 0.0.0.0 olx-g.pl
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-g.id-9523.me
+0.0.0.0 olx-g.id-43980.me
 0.0.0.0 olx-h.pl
 0.0.0.0 olx-h.id-89357.me
 0.0.0.0 olx-i.pl
@@ -10343,6 +10360,7 @@
 0.0.0.0 olx-i.id-05942.me
 0.0.0.0 olx-j.id877899.me
 0.0.0.0 olx-j.pl
+0.0.0.0 olx-j.id-43980.me
 0.0.0.0 olx-k.pl
 0.0.0.0 olx-ko.pl
 0.0.0.0 olx-kurier.pl
@@ -10361,6 +10379,7 @@
 0.0.0.0 olx-n.pl
 0.0.0.0 olx-nd.spredaz-online.club
 0.0.0.0 olx-nd.spredaz-online.one
+0.0.0.0 olx-n.id-43980.me
 0.0.0.0 olx-n.id-89357.me
 0.0.0.0 olx-oferta-pl.com
 0.0.0.0 olx-online.pl
@@ -10368,6 +10387,7 @@
 0.0.0.0 olx-order.com
 0.0.0.0 olx-order.pl
 0.0.0.0 olx-order.pl-id03177430.xyz
+0.0.0.0 olx-order.pl-id07981937.xyz
 0.0.0.0 olx-order.pl-id08870040.xyz
 0.0.0.0 olx-order.pl-id09607707.xyz
 0.0.0.0 olx-order.pl-id17352591.xyz
@@ -10479,6 +10499,7 @@
 0.0.0.0 olx-pl-qfz.id-9431.me
 0.0.0.0 olx-pl-receive.xyz
 0.0.0.0 olx-pl-rju.id864323.me
+0.0.0.0 olx-pl-zff.id-43980.me
 0.0.0.0 olx-pl.3dsec-dealings.icu
 0.0.0.0 olx-pl.3vd.me
 0.0.0.0 olx-pl.dealings-safe.icu
@@ -10884,6 +10905,36 @@
 0.0.0.0 orlendive.website
 0.0.0.0 orlenencourage.club
 0.0.0.0 orlenendure.website
+0.0.0.0 orlenhagoabc.xyz
+0.0.0.0 orlenhagoade.xyz
+0.0.0.0 orlenhagoaer.xyz
+0.0.0.0 orlenhagoanm.xyz
+0.0.0.0 orlenhagoapd.xyz
+0.0.0.0 orlenhagoapl.xyz
+0.0.0.0 orlenhagobbc.xyz
+0.0.0.0 orlenhagobcz.xyz
+0.0.0.0 orlenhagobfr.xyz
+0.0.0.0 orlenhagobft.xyz
+0.0.0.0 orlenhagobip.xyz
+0.0.0.0 orlenhagobot.xyz
+0.0.0.0 orlenhagobra.xyz
+0.0.0.0 orlenhagobro.xyz
+0.0.0.0 orlenhagobyz.xyz
+0.0.0.0 orlenhagocer.xyz
+0.0.0.0 orlenhagocld.xyz
+0.0.0.0 orlenhagocms.xyz
+0.0.0.0 orlenhagocpo.xyz
+0.0.0.0 orlenhagocss.xyz
+0.0.0.0 orlenhagocvy.xyz
+0.0.0.0 orlenhagodif.xyz
+0.0.0.0 orlenhagodmg.xyz
+0.0.0.0 orlenhagofgt.xyz
+0.0.0.0 orlenhagofty.xyz
+0.0.0.0 orlenhagogas.xyz
+0.0.0.0 orlenhagogfd.xyz
+0.0.0.0 orlenhagogfr.xyz
+0.0.0.0 orlenhagoggh.xyz
+0.0.0.0 orlenhagogim.xyz
 0.0.0.0 orleninvest.space
 0.0.0.0 orlennews.com
 0.0.0.0 orlenn.libracoinofficial-company.xyz
@@ -11909,6 +11960,7 @@
 0.0.0.0 poczta-polska.me
 0.0.0.0 poczta-polska-pl.us
 0.0.0.0 poczta-polska-pl.3dsecure-order.icu
+0.0.0.0 poczta-profil-wp.info
 0.0.0.0 poczta-regulamin.us
 0.0.0.0 poczta-umb-edu-pl.yolasite.com
 0.0.0.0 poczta.interia-pl.online
@@ -12562,6 +12614,7 @@
 0.0.0.0 rivermarketcyclery.com
 0.0.0.0 rj0m3i.webwave.dev
 0.0.0.0 rjefnpvdxrxgmnd.su
+0.0.0.0 rkinvestpl.info
 0.0.0.0 rmfinfo.waw.pl
 0.0.0.0 rminfo.waw.pl
 0.0.0.0 rmycevre.com
@@ -14798,6 +14851,8 @@
 0.0.0.0 www.booking.paycleaning.xyz
 0.0.0.0 www.booking.payconfirmed.xyz
 0.0.0.0 www.booking.payconfirms.xyz
+0.0.0.0 www.booking.payfixing.xyz
+0.0.0.0 www.booking.paymentfix.xyz
 0.0.0.0 www.booking.paysafecash.xyz
 0.0.0.0 www.bookplanet.pl
 0.0.0.0 www.boonbon.club
@@ -15054,6 +15109,7 @@
 0.0.0.0 www.compostboston.com
 0.0.0.0 www.com.tesprogram5.xyz
 0.0.0.0 www.conectpress.com
+0.0.0.0 www.conlet.info
 0.0.0.0 www.connessionedati.com
 0.0.0.0 www.consityr600.xyz
 0.0.0.0 www.constrainthead.info
@@ -16615,6 +16671,7 @@
 0.0.0.0 www.destgrena.at
 0.0.0.0 www.detoxic.net
 0.0.0.0 www.deu30xlzc2by3.cloudfront.net
+0.0.0.0 www.dev5974.d3l0uo7x8px3be.amplifyapp.com
 0.0.0.0 www.developer.team1global.com.au
 0.0.0.0 www.development.gloriadecor.com.pk
 0.0.0.0 www.dezinfikuj.se
@@ -17329,6 +17386,7 @@
 0.0.0.0 www.finvestings.com
 0.0.0.0 www.firecash.org
 0.0.0.0 www.firmaidom.pl
+0.0.0.0 www.firmaludowa.online
 0.0.0.0 www.firstclick.pro
 0.0.0.0 www.firstnotchtrading.com
 0.0.0.0 www.firtpey.net
@@ -17350,6 +17408,7 @@
 0.0.0.0 www.floatingmotion.com
 0.0.0.0 www.flowsrectifie.at
 0.0.0.0 www.focus24.gpe.pl
+0.0.0.0 www.focushaber.com
 0.0.0.0 www.followergods.com
 0.0.0.0 www.fonexpress.com.my
 0.0.0.0 www.fonstershoppen.se
@@ -17590,6 +17649,7 @@
 0.0.0.0 www.gromans.com.pl
 0.0.0.0 www.grools.xyz
 0.0.0.0 www.groupbehold.site
+0.0.0.0 www.grouptrot.xyz
 0.0.0.0 www.growhackr.com
 0.0.0.0 www.growp.xyz
 0.0.0.0 www.growthimpetus.com
@@ -19186,6 +19246,7 @@
 0.0.0.0 www.olx.pay61.info
 0.0.0.0 www.olx.pay75.info
 0.0.0.0 www.olx.pay77.info
+0.0.0.0 www.olx.pay80.info
 0.0.0.0 www.olx.paymenting.pl
 0.0.0.0 www.olx.pink
 0.0.0.0 www.olx.plskontas.casa
@@ -19396,6 +19457,36 @@
 0.0.0.0 www.orlendive.website
 0.0.0.0 www.orlenencourage.club
 0.0.0.0 www.orlenendure.website
+0.0.0.0 www.orlenhagoabc.xyz
+0.0.0.0 www.orlenhagoade.xyz
+0.0.0.0 www.orlenhagoaer.xyz
+0.0.0.0 www.orlenhagoanm.xyz
+0.0.0.0 www.orlenhagoapd.xyz
+0.0.0.0 www.orlenhagoapl.xyz
+0.0.0.0 www.orlenhagobbc.xyz
+0.0.0.0 www.orlenhagobcz.xyz
+0.0.0.0 www.orlenhagobfr.xyz
+0.0.0.0 www.orlenhagobft.xyz
+0.0.0.0 www.orlenhagobip.xyz
+0.0.0.0 www.orlenhagobot.xyz
+0.0.0.0 www.orlenhagobra.xyz
+0.0.0.0 www.orlenhagobro.xyz
+0.0.0.0 www.orlenhagobyz.xyz
+0.0.0.0 www.orlenhagocer.xyz
+0.0.0.0 www.orlenhagocld.xyz
+0.0.0.0 www.orlenhagocms.xyz
+0.0.0.0 www.orlenhagocpo.xyz
+0.0.0.0 www.orlenhagocss.xyz
+0.0.0.0 www.orlenhagocvy.xyz
+0.0.0.0 www.orlenhagodif.xyz
+0.0.0.0 www.orlenhagodmg.xyz
+0.0.0.0 www.orlenhagofgt.xyz
+0.0.0.0 www.orlenhagofty.xyz
+0.0.0.0 www.orlenhagogas.xyz
+0.0.0.0 www.orlenhagogfd.xyz
+0.0.0.0 www.orlenhagogfr.xyz
+0.0.0.0 www.orlenhagoggh.xyz
+0.0.0.0 www.orlenhagogim.xyz
 0.0.0.0 www.orleninvest.space
 0.0.0.0 www.orlennews.com
 0.0.0.0 www.orlenpilot.site
@@ -20368,6 +20459,7 @@
 0.0.0.0 www.rivermarketcyclery.com
 0.0.0.0 www.rj0m3i.webwave.dev
 0.0.0.0 www.rjefnpvdxrxgmnd.su
+0.0.0.0 www.rkinvestpl.info
 0.0.0.0 www.rmfinfo.waw.pl
 0.0.0.0 www.rminfo.waw.pl
 0.0.0.0 www.rmycevre.com
@@ -22204,6 +22296,7 @@
 0.0.0.0 www.booking-order.pl-id84593969.xyz
 0.0.0.0 www.booking-order.pl-id86950524.xyz
 0.0.0.0 www.booking-pl.com-id24310.pw
+0.0.0.0 www.booking.pl-id07981937.xyz
 0.0.0.0 www.booking.pl-id08140661.xyz
 0.0.0.0 www.booking.pl-id08870040.xyz
 0.0.0.0 www.booking.pl-id17958029.xyz
@@ -22211,10 +22304,12 @@
 0.0.0.0 www.booking.pl-id23093668.xyz
 0.0.0.0 www.booking.pl-id23645637.xyz
 0.0.0.0 www.booking.pl-id26621338.xyz
+0.0.0.0 www.booking.pl-id27172673.xyz
 0.0.0.0 www.booking.pl-id28339078.xyz
 0.0.0.0 www.booking.pl-id29435368.xyz
 0.0.0.0 www.booking.pl-id35155454.xyz
 0.0.0.0 www.booking.pl-id36003702.xyz
+0.0.0.0 www.booking.pl-id38427290.xyz
 0.0.0.0 www.booking.pl-id40980649.xyz
 0.0.0.0 www.booking.pl-id52496503.xyz
 0.0.0.0 www.booking.pl-id53668806.xyz
@@ -22222,6 +22317,7 @@
 0.0.0.0 www.booking.pl-id59219245.xyz
 0.0.0.0 www.booking.pl-id62691329.xyz
 0.0.0.0 www.booking.pl-id63458341.xyz
+0.0.0.0 www.booking.pl-id66758212.xyz
 0.0.0.0 www.booking.pl-id67987272.xyz
 0.0.0.0 www.booking.pl-id70002371.xyz
 0.0.0.0 www.booking.pl-id71780340.xyz
@@ -22232,9 +22328,11 @@
 0.0.0.0 www.booking.pl-id79593133.xyz
 0.0.0.0 www.booking.pl-id80721168.xyz
 0.0.0.0 www.booking.pl-id84593969.xyz
+0.0.0.0 www.booking.pl-id85332906.xyz
 0.0.0.0 www.booking.pl-id85761977.xyz
 0.0.0.0 www.booking.pl-id90378195.xyz
 0.0.0.0 www.booking.pl-id90870162.xyz
+0.0.0.0 www.booking.pl-id92311505.xyz
 0.0.0.0 www.booking.pl-id94234918.xyz
 0.0.0.0 www.booking.pl-id97181983.xyz
 0.0.0.0 www.booking.pl-order.pl-id29435368.xyz
@@ -22849,6 +22947,7 @@
 0.0.0.0 www.inpostkode-pl.com
 0.0.0.0 www.inpost-akru.id-5936.com
 0.0.0.0 www.inpost-a.id-5847.me
+0.0.0.0 www.inpost-a.id-43980.me
 0.0.0.0 www.inpost-b.id-43895.me
 0.0.0.0 www.inpost-c.id-2323.me
 0.0.0.0 www.inpost-c.id-2830.me
@@ -22865,6 +22964,7 @@
 0.0.0.0 www.inpost-en.spredaz-online.club
 0.0.0.0 www.inpost-eoaw.id-845.me
 0.0.0.0 www.inpost-generator.net
+0.0.0.0 www.inpost-g.id-43980.me
 0.0.0.0 www.inpost-hhke.id-4365.me
 0.0.0.0 www.inpost-info.com
 0.0.0.0 www.inpost-i.id-4343.me
@@ -23529,6 +23629,7 @@
 0.0.0.0 www.olx-g.pl
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-g.id-9523.me
+0.0.0.0 www.olx-g.id-43980.me
 0.0.0.0 www.olx-h.pl
 0.0.0.0 www.olx-h.id-89357.me
 0.0.0.0 www.olx-i.pl
@@ -23537,6 +23638,7 @@
 0.0.0.0 www.olx-i.id-05942.me
 0.0.0.0 www.olx-j.id877899.me
 0.0.0.0 www.olx-j.pl
+0.0.0.0 www.olx-j.id-43980.me
 0.0.0.0 www.olx-k.pl
 0.0.0.0 www.olx-ko.pl
 0.0.0.0 www.olx-kurier.pl
@@ -23555,6 +23657,7 @@
 0.0.0.0 www.olx-n.pl
 0.0.0.0 www.olx-nd.spredaz-online.club
 0.0.0.0 www.olx-nd.spredaz-online.one
+0.0.0.0 www.olx-n.id-43980.me
 0.0.0.0 www.olx-n.id-89357.me
 0.0.0.0 www.olx-oferta-pl.com
 0.0.0.0 www.olx-online.pl
@@ -23562,6 +23665,7 @@
 0.0.0.0 www.olx-order.com
 0.0.0.0 www.olx-order.pl
 0.0.0.0 www.olx-order.pl-id03177430.xyz
+0.0.0.0 www.olx-order.pl-id07981937.xyz
 0.0.0.0 www.olx-order.pl-id08870040.xyz
 0.0.0.0 www.olx-order.pl-id09607707.xyz
 0.0.0.0 www.olx-order.pl-id17352591.xyz
@@ -23673,6 +23777,7 @@
 0.0.0.0 www.olx-pl-qfz.id-9431.me
 0.0.0.0 www.olx-pl-receive.xyz
 0.0.0.0 www.olx-pl-rju.id864323.me
+0.0.0.0 www.olx-pl-zff.id-43980.me
 0.0.0.0 www.olx-pl.3dsec-dealings.icu
 0.0.0.0 www.olx-pl.3vd.me
 0.0.0.0 www.olx-pl.dealings-safe.icu
@@ -24332,6 +24437,7 @@
 0.0.0.0 www.poczta-polska.me
 0.0.0.0 www.poczta-polska-pl.us
 0.0.0.0 www.poczta-polska-pl.3dsecure-order.icu
+0.0.0.0 www.poczta-profil-wp.info
 0.0.0.0 www.poczta-regulamin.us
 0.0.0.0 www.poczta-umb-edu-pl.yolasite.com
 0.0.0.0 www.poczta.interia-pl.online
