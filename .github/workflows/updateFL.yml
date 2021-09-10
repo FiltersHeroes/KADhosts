@@ -1,16 +1,17 @@
 name: Aktualizacja listy
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: null
 
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: polishfiltersteam/vichs_image:latest
+    container: polishfiltersteam/vichs_image:2.26.6
     steps:
       - uses: actions/checkout@v2
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: |
-          ./scripts/VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+          export VICHS_MAIN_PATH="$(pwd)"
+          VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
