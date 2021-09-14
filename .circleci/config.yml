@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-    - image: polishfiltersteam/vichs_image:2.26.7
+    - image: polishfiltersteam/vichs_image:2.26.8
     working_directory: ~/git/KADhosts
     steps:
     - checkout
