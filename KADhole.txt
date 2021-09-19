@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sun, 19 Sep 2021, 20:48 UTC+02
-# Version: 2021.9.19.0
+# Last modified: Sun, 19 Sep 2021, 20:49 UTC+02
+# Version: 2021.9.19.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -30,6 +30,7 @@
 (^|\.)allegro\.pl\..*\.pl$
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
 (^|\.)childalertfakt\..*$
+(^|\.)creativego[a-z0-9]{20}\.com$
 (^|\.)dates-here-now.*\.com$
 (^|\.)dating-4-adults.*\.com$
 (^|\.)dating-heart.*\.com$
@@ -163,7 +164,6 @@
 (^|\.).*-?emonitoring-?e?poczta.*$
 (^|\.).*-?(fakty?|news|wiadomosci?)gwalt[0-9]+?\..*$
 (^|\.).*\.*\.mirsolar\.com\.tr$
-(^|\.)?creativego[a-z0-9]{20}\.com$
 (^|\.)?.?[a-z]+-?polska[0-9]+?-?poczta\..*$
 (^|\.)[0-9]+platnosci?\.online$
 (^|\.)[a-z]+-?poczta(\d+)?-?polska\..*$
