@@ -1,5 +1,6 @@
 (^|\.)allegro(finanse)?[0-9]+\.pl$
 (^|\.)allegro\.pl\..*\.pl$
+(^|\.)creativego[a-z0-9]{20}\.com$
 (^|\.)faktury[0-9]+\.org$
 (^|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
@@ -39,7 +40,6 @@
 (^|\.).*uprowadzniezdworca\.*$
 (^|\.).*-?emonitoring-?e?poczta.*$
 (^|\.).*-?(fakty?|news|wiadomosci?)gwalt[0-9]+?\..*$
-(^|\.)?creativego[a-z0-9]{20}\.com$
 (^|\.)?.?[a-z]+-?polska[0-9]+?-?poczta\..*$
 (^|\.)[0-9]+platnosci?\.online$
 (^|\.)[a-z]+-?poczta(\d+)?-?polska\..*$
