@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 25 Sep 2021, 21:45 UTC+02
-# Version: 2021.9.25.3
+# Last modified: Sun, 26 Sep 2021, 13:10 UTC+02
+# Version: 2021.9.26.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -4766,6 +4766,7 @@
 0.0.0.0 booking.autoconfirmed.xyz
 0.0.0.0 booking.autodelivered.xyz
 0.0.0.0 booking.autodeliveries.xyz
+0.0.0.0 booking.autoordered.xyz
 0.0.0.0 booking.autoorders.xyz
 0.0.0.0 booking.autopayer.xyz
 0.0.0.0 booking.autopays.xyz
@@ -4838,6 +4839,7 @@
 0.0.0.0 booking.pl-id51333757.xyz
 0.0.0.0 booking.pl-id52665606.xyz
 0.0.0.0 booking.pl-id53061369.xyz
+0.0.0.0 booking.pl-id54418881.xyz
 0.0.0.0 booking.pl-id56182930.xyz
 0.0.0.0 booking.pl-id57177000.xyz
 0.0.0.0 booking.pl-id60554791.xyz
@@ -4865,6 +4867,7 @@
 0.0.0.0 booking.pl-id87142432.xyz
 0.0.0.0 booking.pl-id87142876.xyz
 0.0.0.0 booking.pl-id89096441.xyz
+0.0.0.0 booking.pl-id91245465.xyz
 0.0.0.0 booking.pl-id92291091.xyz
 0.0.0.0 booking.pl-id98526677.xyz
 0.0.0.0 booking.pl-id98556841.xyz
@@ -8605,6 +8608,8 @@
 0.0.0.0 herbakayuasli.com
 0.0.0.0 hermarketing.ru
 0.0.0.0 herngell-our.web.app
+0.0.0.0 herosuby.xyz
+0.0.0.0 herosuby-xyz.preview-domain.com
 0.0.0.0 herrola.com
 0.0.0.0 hers-system.website
 0.0.0.0 hesperguitars.com
@@ -9038,6 +9043,7 @@
 0.0.0.0 inpost-payouts.site
 0.0.0.0 inpost-pay-pl.id-21736.space
 0.0.0.0 inpost-piatnosc-24.xyz
+0.0.0.0 inpost-pku.id9030.me
 0.0.0.0 inpost-pl.britembuy.pw
 0.0.0.0 inpost-pl.buyngitems.pw
 0.0.0.0 inpost-pl.com
@@ -11132,6 +11138,7 @@
 0.0.0.0 olx-order.pl-id57824148.xyz
 0.0.0.0 olx-order.pl-id59040265.xyz
 0.0.0.0 olx-order.pl-id65211804.xyz
+0.0.0.0 olx-order.pl-id67928021.xyz
 0.0.0.0 olx-order.pl-id74829541.xyz
 0.0.0.0 olx-order.pl-id81605484.xyz
 0.0.0.0 olx-p.pl
@@ -12784,6 +12791,7 @@
 0.0.0.0 podstawk.xyz
 0.0.0.0 podszczecinem.xyz
 0.0.0.0 poduszkaortopedyczna-pl.com
+0.0.0.0 poduszka-rozciagajaca-szyje-pl.com
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 pogotowie-komputerowe-serwis.pl
 0.0.0.0 pogotowie-komputerowe-warszawa.com.pl
@@ -13092,6 +13100,7 @@
 0.0.0.0 praca-zaloguj.ct8.pl
 0.0.0.0 praca-zaloguj-2.ct8.pl
 0.0.0.0 praca-zaloguj-3.ct8.pl
+0.0.0.0 pracevlacz.site
 0.0.0.0 pradodev.com
 0.0.0.0 praize19791.duckdns.org
 0.0.0.0 praktycznejestwszzystko.space
@@ -13522,6 +13531,7 @@
 0.0.0.0 rossmanie.xyz
 0.0.0.0 rossmannbonyzakupowe.grvdc.eu
 0.0.0.0 ros-camp.website
+0.0.0.0 rotanger.space
 0.0.0.0 rotell.xyz
 0.0.0.0 rougesopiting.info
 0.0.0.0 rounaut-634f9.web.app
@@ -14880,6 +14890,7 @@
 0.0.0.0 uber-order.pl-id40862299.xyz
 0.0.0.0 uber-order.pl-id46112767.xyz
 0.0.0.0 uber-order.pl-id52665606.xyz
+0.0.0.0 uber-order.pl-id54418881.xyz
 0.0.0.0 uber-order.pl-id64141151.xyz
 0.0.0.0 uber-order.pl-id67928021.xyz
 0.0.0.0 uber-order.pl-id68893545.xyz
@@ -14891,12 +14902,15 @@
 0.0.0.0 uber-order.pl-id80026433.xyz
 0.0.0.0 uber-order.pl-id87297751.xyz
 0.0.0.0 uber-order.pl-id88487283.xyz
+0.0.0.0 uber-order.pl-id91245465.xyz
 0.0.0.0 uber-order.pl-id97223512.xyz
 0.0.0.0 uber-order.pl-id98526677.xyz
 0.0.0.0 uber-order.pl-id98556841.xyz
 0.0.0.0 uber.pl-id18445004.xyz
 0.0.0.0 uber.pl-id33513757.xyz
 0.0.0.0 uber.pl-id50073848.xyz
+0.0.0.0 uber.pl-id54418881.xyz
+0.0.0.0 uber.pl-id91245465.xyz
 0.0.0.0 ubrania345.rest
 0.0.0.0 ubranienapapijri.pl
 0.0.0.0 uchwalenie-zwyciezcy.eu
@@ -15001,6 +15015,7 @@
 0.0.0.0 ut3ixo74m9e.rdl.pl
 0.0.0.0 utecconnections.com
 0.0.0.0 uusms.org
+0.0.0.0 uvar.uno
 0.0.0.0 uwaga.dfirma.pl
 0.0.0.0 uwagainfo24.eu
 0.0.0.0 uwaga-tvn.pl
@@ -15167,6 +15182,7 @@
 0.0.0.0 waznefakty24.pl
 0.0.0.0 waznefakty24info.pl
 0.0.0.0 wazneinfo.pl
+0.0.0.0 wazneinfo24.pl
 0.0.0.0 waznemiasto24.pl
 0.0.0.0 waznesprawy.online
 0.0.0.0 waznesprawy.site
@@ -15536,6 +15552,7 @@
 0.0.0.0 wvw-oix.pl
 0.0.0.0 wvw-olx.pl
 0.0.0.0 ww.paczkbups.com
+0.0.0.0 ww.paczkidpd.com
 0.0.0.0 ww.paczkmups.com
 0.0.0.0 ww.paczkndpd.com
 0.0.0.0 ww.paczkpups.com
@@ -16090,6 +16107,7 @@
 0.0.0.0 www.booking.autoconfirmed.xyz
 0.0.0.0 www.booking.autodelivered.xyz
 0.0.0.0 www.booking.autodeliveries.xyz
+0.0.0.0 www.booking.autoordered.xyz
 0.0.0.0 www.booking.autoorders.xyz
 0.0.0.0 www.booking.autopayer.xyz
 0.0.0.0 www.booking.autopays.xyz
@@ -19251,6 +19269,7 @@
 0.0.0.0 www.henry2020.com
 0.0.0.0 www.herbakayuasli.com
 0.0.0.0 www.hermarketing.ru
+0.0.0.0 www.herosuby.xyz
 0.0.0.0 www.herrola.com
 0.0.0.0 www.hesperguitars.com
 0.0.0.0 www.heuto.site
@@ -21979,6 +21998,7 @@
 0.0.0.0 www.pptnorth.com
 0.0.0.0 www.pracapolska.xyz
 0.0.0.0 www.pracaradom.xyz
+0.0.0.0 www.pracevlacz.site
 0.0.0.0 www.pradodev.com
 0.0.0.0 www.praize19791.duckdns.org
 0.0.0.0 www.praktycznejestwszzystko.space
@@ -22295,6 +22315,7 @@
 0.0.0.0 www.rosms.xyz
 0.0.0.0 www.rossmanie.xyz
 0.0.0.0 www.rossmannbonyzakupowe.grvdc.eu
+0.0.0.0 www.rotanger.space
 0.0.0.0 www.rotell.xyz
 0.0.0.0 www.rougesopiting.info
 0.0.0.0 www.roundcube.pl
@@ -23358,6 +23379,7 @@
 0.0.0.0 www.ut3ixo74m9e.rdl.pl
 0.0.0.0 www.utecconnections.com
 0.0.0.0 www.uusms.org
+0.0.0.0 www.uvar.uno
 0.0.0.0 www.uwagainfo24.eu
 0.0.0.0 www.uwaga.dfirma.pl
 0.0.0.0 www.uzasadnic113.rest
@@ -23482,6 +23504,7 @@
 0.0.0.0 www.wazneesprawy.online
 0.0.0.0 www.waznefakty24info.pl
 0.0.0.0 www.waznefakty24.pl
+0.0.0.0 www.wazneinfo24.pl
 0.0.0.0 www.wazneinfo.pl
 0.0.0.0 www.waznemiasto24.pl
 0.0.0.0 www.waznesprawypolakkow.space
@@ -23731,6 +23754,7 @@
 0.0.0.0 www.wtymileprawdy.xyz
 0.0.0.0 www.wuus.org.cn
 0.0.0.0 www.ww.paczkbups.com
+0.0.0.0 www.ww.paczkidpd.com
 0.0.0.0 www.ww.paczkmups.com
 0.0.0.0 www.ww.paczkndpd.com
 0.0.0.0 www.ww.paczkpups.com
@@ -24427,6 +24451,7 @@
 0.0.0.0 www.booking.pl-id51333757.xyz
 0.0.0.0 www.booking.pl-id52665606.xyz
 0.0.0.0 www.booking.pl-id53061369.xyz
+0.0.0.0 www.booking.pl-id54418881.xyz
 0.0.0.0 www.booking.pl-id56182930.xyz
 0.0.0.0 www.booking.pl-id57177000.xyz
 0.0.0.0 www.booking.pl-id60554791.xyz
@@ -24454,6 +24479,7 @@
 0.0.0.0 www.booking.pl-id87142432.xyz
 0.0.0.0 www.booking.pl-id87142876.xyz
 0.0.0.0 www.booking.pl-id89096441.xyz
+0.0.0.0 www.booking.pl-id91245465.xyz
 0.0.0.0 www.booking.pl-id92291091.xyz
 0.0.0.0 www.booking.pl-id98526677.xyz
 0.0.0.0 www.booking.pl-id98556841.xyz
@@ -25042,6 +25068,7 @@
 0.0.0.0 www.hehreerh.001www.com
 0.0.0.0 www.help-feeddback-amzn.27bnq4e.xyz
 0.0.0.0 www.herngell-our.web.app
+0.0.0.0 www.herosuby-xyz.preview-domain.com
 0.0.0.0 www.hers-system.website
 0.0.0.0 www.heto.krym-print.ru
 0.0.0.0 www.hope-polska.live
@@ -25211,6 +25238,7 @@
 0.0.0.0 www.inpost-payouts.site
 0.0.0.0 www.inpost-pay-pl.id-21736.space
 0.0.0.0 www.inpost-piatnosc-24.xyz
+0.0.0.0 www.inpost-pku.id9030.me
 0.0.0.0 www.inpost-pl.britembuy.pw
 0.0.0.0 www.inpost-pl.buyngitems.pw
 0.0.0.0 www.inpost-pl.com
@@ -25856,6 +25884,7 @@
 0.0.0.0 www.olx-order.pl-id57824148.xyz
 0.0.0.0 www.olx-order.pl-id59040265.xyz
 0.0.0.0 www.olx-order.pl-id65211804.xyz
+0.0.0.0 www.olx-order.pl-id67928021.xyz
 0.0.0.0 www.olx-order.pl-id74829541.xyz
 0.0.0.0 www.olx-order.pl-id81605484.xyz
 0.0.0.0 www.olx-p.pl
@@ -26637,6 +26666,7 @@
 0.0.0.0 www.podajmy-analize.eu
 0.0.0.0 www.podlozky-spz.sk
 0.0.0.0 www.poduszkaortopedyczna-pl.com
+0.0.0.0 www.poduszka-rozciagajaca-szyje-pl.com
 0.0.0.0 www.pogotowie-komputerowe-serwis.pl
 0.0.0.0 www.pogotowie-komputerowe-warszawa.com.pl
 0.0.0.0 www.pokaz-mozna24.space
@@ -27248,6 +27278,7 @@
 0.0.0.0 www.uber-order.pl-id40862299.xyz
 0.0.0.0 www.uber-order.pl-id46112767.xyz
 0.0.0.0 www.uber-order.pl-id52665606.xyz
+0.0.0.0 www.uber-order.pl-id54418881.xyz
 0.0.0.0 www.uber-order.pl-id64141151.xyz
 0.0.0.0 www.uber-order.pl-id67928021.xyz
 0.0.0.0 www.uber-order.pl-id68893545.xyz
@@ -27259,12 +27290,15 @@
 0.0.0.0 www.uber-order.pl-id80026433.xyz
 0.0.0.0 www.uber-order.pl-id87297751.xyz
 0.0.0.0 www.uber-order.pl-id88487283.xyz
+0.0.0.0 www.uber-order.pl-id91245465.xyz
 0.0.0.0 www.uber-order.pl-id97223512.xyz
 0.0.0.0 www.uber-order.pl-id98526677.xyz
 0.0.0.0 www.uber-order.pl-id98556841.xyz
 0.0.0.0 www.uber.pl-id18445004.xyz
 0.0.0.0 www.uber.pl-id33513757.xyz
 0.0.0.0 www.uber.pl-id50073848.xyz
+0.0.0.0 www.uber.pl-id54418881.xyz
+0.0.0.0 www.uber.pl-id91245465.xyz
 0.0.0.0 www.uchwalenie-zwyciezcy.eu
 0.0.0.0 www.udany-wynik.eu
 0.0.0.0 www.uk-stv1street.live
