@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 05 Oct 2021, 17:13 UTC+02
-# Version: 2021.10.5.1
+# Last modified: Tue, 05 Oct 2021, 21:08 UTC+02
+# Version: 2021.10.5.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -17,6 +17,7 @@
 #@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 0.0.0.0 1slo.pl
 0.0.0.0 2easy.pl
+0.0.0.0 3posilki.pl
 0.0.0.0 4ksport.pl
 0.0.0.0 4life.com
 0.0.0.0 4madesigngallerie.com.pl
@@ -488,6 +489,7 @@
 0.0.0.0 firesub.pl
 0.0.0.0 firmyb2b.pl
 0.0.0.0 firstweb.pl
+0.0.0.0 fitboxy.pl
 0.0.0.0 fitsweets.pl
 0.0.0.0 fit-buzz.com
 0.0.0.0 fizjoreha.pl
@@ -1968,6 +1970,7 @@
 0.0.0.0 www.firesub.pl
 0.0.0.0 www.firmyb2b.pl
 0.0.0.0 www.firstweb.pl
+0.0.0.0 www.fitboxy.pl
 0.0.0.0 www.fitsweets.pl
 0.0.0.0 www.fizjoreha.pl
 0.0.0.0 www.fjallravenpolska.com
@@ -2951,6 +2954,7 @@
 0.0.0.0 www.zukiewicz.com
 0.0.0.0 www.1slo.pl
 0.0.0.0 www.2easy.pl
+0.0.0.0 www.3posilki.pl
 0.0.0.0 www.4ksport.pl
 0.0.0.0 www.4life.com
 0.0.0.0 www.4madesigngallerie.com.pl
@@ -3332,6 +3336,7 @@
 0.0.0.0 iphone-za-darmo.over-blog.com
 0.0.0.0 iyfnzgb.com
 0.0.0.0 kacwyb.pl
+0.0.0.0 kartliew.com
 0.0.0.0 ksheeraorganics.com
 0.0.0.0 largetfar.ga
 0.0.0.0 largetfarge.ml
@@ -3488,6 +3493,7 @@
 0.0.0.0 www.inwestopinia.pl
 0.0.0.0 www.iyfnzgb.com
 0.0.0.0 www.kacwyb.pl
+0.0.0.0 www.kartliew.com
 0.0.0.0 www.ksheeraorganics.com
 0.0.0.0 www.largetfarge.ml
 0.0.0.0 www.largetfar.ga
@@ -4012,6 +4018,7 @@
 0.0.0.0 abra-sklep.pl
 0.0.0.0 absolutezeros.duckdns.org
 0.0.0.0 abstractway.top
+0.0.0.0 acadianfinance.com
 0.0.0.0 acanthosisnigricanspedia.com
 0.0.0.0 acash.info
 0.0.0.0 acceuil-serviceclient.com
@@ -4259,6 +4266,7 @@
 0.0.0.0 alpainvest.com
 0.0.0.0 alphahaul.com
 0.0.0.0 alpsmarkets.com
+0.0.0.0 altaninvestment.com
 0.0.0.0 alternormative.com
 0.0.0.0 althairco.com
 0.0.0.0 altrabuty.pl
@@ -4272,6 +4280,7 @@
 0.0.0.0 ambrosiaenterprise.biz
 0.0.0.0 amex-financials.com
 0.0.0.0 amichiganavenuemedicalcenter.com
+0.0.0.0 amicusinvest.net
 0.0.0.0 amirds.xyz
 0.0.0.0 amjotiyan.com
 0.0.0.0 amonitalia.it
@@ -4314,6 +4323,7 @@
 0.0.0.0 antivyruus.xyz
 0.0.0.0 antonniklasson.se
 0.0.0.0 antonresidential.com
+0.0.0.0 antvresinvestment.com
 0.0.0.0 antwerk.cz
 0.0.0.0 antyspam-aplikacja.us
 0.0.0.0 antyspam-interia.live
@@ -4356,6 +4366,7 @@
 0.0.0.0 appupstartventures.online
 0.0.0.0 app-findmyweb.com
 0.0.0.0 app-messenger-lite.com
+0.0.0.0 app-trader.biz
 0.0.0.0 app.uniswap.info-tokens.com
 0.0.0.0 aprove-confrim.000webhostapp.com
 0.0.0.0 aqsati.com
@@ -4402,6 +4413,7 @@
 0.0.0.0 aspenholding.co
 0.0.0.0 aspenholding.com
 0.0.0.0 assetgroup.io
+0.0.0.0 assetholdinglimited.com
 0.0.0.0 assets.movievod.pl
 0.0.0.0 assyoulike.servequake.com
 0.0.0.0 astagileya.com
@@ -4414,6 +4426,7 @@
 0.0.0.0 atforum.pl
 0.0.0.0 athlete246.com
 0.0.0.0 atinybithuge.com
+0.0.0.0 atlascryptomanagement.com
 0.0.0.0 atleastone.pl
 0.0.0.0 atlonium.com
 0.0.0.0 atmiyakids.org
@@ -5420,6 +5433,7 @@
 0.0.0.0 contact-update.centrum24consumer.me
 0.0.0.0 contbox.org
 0.0.0.0 contentsleuth.com
+0.0.0.0 controlsteamsone.xyz
 0.0.0.0 conversebutypl.com
 0.0.0.0 conversepolskapl.com
 0.0.0.0 converti.pro
@@ -5546,10 +5560,13 @@
 0.0.0.0 cryptomkt-exchange.com
 0.0.0.0 cryptopl.life
 0.0.0.0 cryptoprofit.pl
+0.0.0.0 cryptosmartinvestment.com
+0.0.0.0 cryptospacemine.com
 0.0.0.0 cryptosworld.trade
 0.0.0.0 cryptotrade.capital
 0.0.0.0 crypto-engine.pl
 0.0.0.0 crypto-genius.privatecatalog.pro
+0.0.0.0 crypto-trust.uk
 0.0.0.0 crypto-worldinvestments.com
 0.0.0.0 crysmawatches.com
 0.0.0.0 cr.prog-capital1.site
@@ -8102,6 +8119,7 @@
 0.0.0.0 fakty24liveinfomacje.pl
 0.0.0.0 fakty24online.pl
 0.0.0.0 fakty24onnnline.rf.gd
+0.0.0.0 fakty24wmiesice.eu
 0.0.0.0 fakty24zaginiony.eu
 0.0.0.0 faktyinfo24.pl
 0.0.0.0 faktynazywo-24.eu
@@ -8322,6 +8340,7 @@
 0.0.0.0 fkty24info.pl
 0.0.0.0 fkty24online.pl
 0.0.0.0 fkty24wazne.pl
+0.0.0.0 fkty24wmiescie.pl
 0.0.0.0 fl.sv
 0.0.0.0 flaginpocket.com
 0.0.0.0 flashplayerpl.top
@@ -8571,6 +8590,7 @@
 0.0.0.0 generujkody.me
 0.0.0.0 generujkody.net
 0.0.0.0 generuj-kody.net
+0.0.0.0 genesismining.uk
 0.0.0.0 genievba.ch
 0.0.0.0 geogeekgis.com
 0.0.0.0 george-co.com
@@ -9138,6 +9158,7 @@
 0.0.0.0 informacjefakty24online.pl
 0.0.0.0 informacjegdansk.xyz
 0.0.0.0 informacjekielce.xyz
+0.0.0.0 informacjeonet.pl
 0.0.0.0 informacjeopole.xyz
 0.0.0.0 informacjepl24.info.pl
 0.0.0.0 informacjepl24.pl
@@ -12792,6 +12813,7 @@
 0.0.0.0 pkopl.com
 0.0.0.0 pko-bp.pl
 0.0.0.0 pko-invest.club
+0.0.0.0 pk-pl.website
 0.0.0.0 pl.allsports4free.club
 0.0.0.0 pl.bitcoinbillionarie.narrowfly.world
 0.0.0.0 pl.bitcoinbillionarie.peretal.com
@@ -13099,6 +13121,7 @@
 0.0.0.0 pochowanaprawda.quest
 0.0.0.0 pocketing.site
 0.0.0.0 pocketmyponstar.com
+0.0.0.0 pocketoption.com
 0.0.0.0 pockztresmde.cabanova.com
 0.0.0.0 poczatkibywajatrudne.online
 0.0.0.0 poczta.cyou
@@ -13395,6 +13418,7 @@
 0.0.0.0 poolup.io
 0.0.0.0 popfilm.pl
 0.0.0.0 popieraj-internetowo.eu
+0.0.0.0 populartrendingnews.com
 0.0.0.0 popweb.info
 0.0.0.0 poradnik-diet.pl
 0.0.0.0 porannnatellewizja.website
@@ -13760,6 +13784,7 @@
 0.0.0.0 pycie.com
 0.0.0.0 pyhqjc.com
 0.0.0.0 pyitetwe2rqqwet75tg.xyz
+0.0.0.0 pysznepl.blogspot.com
 0.0.0.0 pzutrasyzdrowia.pl
 0.0.0.0 pzu-pl.info
 0.0.0.0 p-work.surge.sh
@@ -14007,6 +14032,7 @@
 0.0.0.0 rozbij-bank.click
 0.0.0.0 rozbiterodzinyzkraju.cyou
 0.0.0.0 rozgrywka-oceniaj.eu
+0.0.0.0 rozliczenie-pradu.net
 0.0.0.0 rozmowywtokku.site
 0.0.0.0 roznerowzzwiazania.club
 0.0.0.0 rozpacz095.rest
@@ -15025,6 +15051,7 @@
 0.0.0.0 terntraveller.com
 0.0.0.0 terpay.net
 0.0.0.0 terradosol.eco.br
+0.0.0.0 terraslice-xyz.preview-domain.com
 0.0.0.0 teruste.wellet.top
 0.0.0.0 teshekure.site
 0.0.0.0 tesl.info.longinves.xyz
@@ -15207,6 +15234,7 @@
 0.0.0.0 topsecureeu.com
 0.0.0.0 topshorka.info
 0.0.0.0 toptarotist.nl
+0.0.0.0 toptradegroup.com
 0.0.0.0 top-daily-profit.com
 0.0.0.0 top-kod.club
 0.0.0.0 top-premium.weebly.com
@@ -15653,6 +15681,7 @@
 0.0.0.0 veronadigital.com
 0.0.0.0 versales.xyz
 0.0.0.0 versonsor.xyz
+0.0.0.0 vertexinvestinc.com
 0.0.0.0 verticalislands.com
 0.0.0.0 vesen.xyz
 0.0.0.0 vestplne.vestpast7.xyz
@@ -16023,6 +16052,7 @@
 0.0.0.0 wmcs.pl
 0.0.0.0 wmiescie24.epizy.com
 0.0.0.0 wmiesciedziejesie.pl
+0.0.0.0 wmiesciefakty24.pl
 0.0.0.0 wmiesciewazne.pl
 0.0.0.0 wmiesciewazne24.pl
 0.0.0.0 wmieszajsiewtoszybko.site
@@ -16170,6 +16200,7 @@
 0.0.0.0 www.abomfartrdsgdf.webcindario.com
 0.0.0.0 www.absolutezeros.duckdns.org
 0.0.0.0 www.abstractway.top
+0.0.0.0 www.acadianfinance.com
 0.0.0.0 www.acanthosisnigricanspedia.com
 0.0.0.0 www.acash.info
 0.0.0.0 www.accidentspedia.com
@@ -16338,6 +16369,7 @@
 0.0.0.0 www.alpainvest.com
 0.0.0.0 www.alphahaul.com
 0.0.0.0 www.alpsmarkets.com
+0.0.0.0 www.altaninvestment.com
 0.0.0.0 www.alternormative.com
 0.0.0.0 www.althairco.com
 0.0.0.0 www.altrabuty.pl
@@ -16348,6 +16380,7 @@
 0.0.0.0 www.amarketingceitu5.info
 0.0.0.0 www.ambrosiaenterprise.biz
 0.0.0.0 www.amichiganavenuemedicalcenter.com
+0.0.0.0 www.amicusinvest.net
 0.0.0.0 www.amirds.xyz
 0.0.0.0 www.amjotiyan.com
 0.0.0.0 www.amonitalia.it
@@ -16381,6 +16414,7 @@
 0.0.0.0 www.antivyruus.xyz
 0.0.0.0 www.antonniklasson.se
 0.0.0.0 www.antonresidential.com
+0.0.0.0 www.antvresinvestment.com
 0.0.0.0 www.antwerk.cz
 0.0.0.0 www.antyszczepionkowo.you2.pl
 0.0.0.0 www.anubandi.com
@@ -16445,6 +16479,7 @@
 0.0.0.0 www.aspenholding.co
 0.0.0.0 www.aspenholding.com
 0.0.0.0 www.assetgroup.io
+0.0.0.0 www.assetholdinglimited.com
 0.0.0.0 www.assets.movievod.pl
 0.0.0.0 www.assyoulike.servequake.com
 0.0.0.0 www.astagileya.com
@@ -16456,6 +16491,7 @@
 0.0.0.0 www.atforum.pl
 0.0.0.0 www.athlete246.com
 0.0.0.0 www.atinybithuge.com
+0.0.0.0 www.atlascryptomanagement.com
 0.0.0.0 www.atleastone.pl
 0.0.0.0 www.atlonium.com
 0.0.0.0 www.atmiyakids.org
@@ -17093,6 +17129,7 @@
 0.0.0.0 www.constructionzone1.com
 0.0.0.0 www.contbox.org
 0.0.0.0 www.contentsleuth.com
+0.0.0.0 www.controlsteamsone.xyz
 0.0.0.0 www.conversebutypl.com
 0.0.0.0 www.conversepolskapl.com
 0.0.0.0 www.converti.pro
@@ -17160,6 +17197,8 @@
 0.0.0.0 www.cryptolegacypro.com
 0.0.0.0 www.cryptopl.life
 0.0.0.0 www.cryptoprofit.pl
+0.0.0.0 www.cryptosmartinvestment.com
+0.0.0.0 www.cryptospacemine.com
 0.0.0.0 www.cryptosworld.trade
 0.0.0.0 www.cryptotrade.capital
 0.0.0.0 www.crysmawatches.com
@@ -19457,6 +19496,7 @@
 0.0.0.0 www.fakty24live.pl
 0.0.0.0 www.fakty24online.pl
 0.0.0.0 www.fakty24onnnline.rf.gd
+0.0.0.0 www.fakty24wmiesice.eu
 0.0.0.0 www.fakty24zaginiony.eu
 0.0.0.0 www.fakty24.warszawa.pl
 0.0.0.0 www.fakty24.you2.pl
@@ -19630,6 +19670,7 @@
 0.0.0.0 www.fkty24info.pl
 0.0.0.0 www.fkty24online.pl
 0.0.0.0 www.fkty24wazne.pl
+0.0.0.0 www.fkty24wmiescie.pl
 0.0.0.0 www.fkty24.pl
 0.0.0.0 www.flaginpocket.com
 0.0.0.0 www.flashplayerpl.top
@@ -19800,6 +19841,7 @@
 0.0.0.0 www.generujkody.com
 0.0.0.0 www.generujkody.me
 0.0.0.0 www.generujkody.net
+0.0.0.0 www.genesismining.uk
 0.0.0.0 www.genievba.ch
 0.0.0.0 www.geogeekgis.com
 0.0.0.0 www.geoxskleponlinepolska.com
@@ -20227,6 +20269,7 @@
 0.0.0.0 www.informacjefakty24.rf.gd
 0.0.0.0 www.informacjegdansk.xyz
 0.0.0.0 www.informacjekielce.xyz
+0.0.0.0 www.informacjeonet.pl
 0.0.0.0 www.informacjeopole.xyz
 0.0.0.0 www.informacjepl24.info.pl
 0.0.0.0 www.informacjepl24.pl
@@ -22621,6 +22664,7 @@
 0.0.0.0 www.pochowanaprawda.quest
 0.0.0.0 www.pocketing.site
 0.0.0.0 www.pocketmyponstar.com
+0.0.0.0 www.pocketoption.com
 0.0.0.0 www.pockztresmde.cabanova.com
 0.0.0.0 www.poczatkibywajatrudne.online
 0.0.0.0 www.poczta24.me
@@ -22764,6 +22808,7 @@
 0.0.0.0 www.pomyslynazzycie.online
 0.0.0.0 www.poolup.io
 0.0.0.0 www.popfilm.pl
+0.0.0.0 www.populartrendingnews.com
 0.0.0.0 www.popweb.info
 0.0.0.0 www.porannnatellewizja.website
 0.0.0.0 www.porannynewsik10.online
@@ -23016,6 +23061,7 @@
 0.0.0.0 www.pycie.com
 0.0.0.0 www.pyhqjc.com
 0.0.0.0 www.pyitetwe2rqqwet75tg.xyz
+0.0.0.0 www.pysznepl.blogspot.com
 0.0.0.0 www.pzutrasyzdrowia.pl
 0.0.0.0 www.qaleel.com
 0.0.0.0 www.qerte.wescapital.xyz
@@ -24100,6 +24146,7 @@
 0.0.0.0 www.topsecureeu.com
 0.0.0.0 www.topshorka.info
 0.0.0.0 www.toptarotist.nl
+0.0.0.0 www.toptradegroup.com
 0.0.0.0 www.top.videos.co.pl
 0.0.0.0 www.tordado.xyz
 0.0.0.0 www.tores.xyz
@@ -24380,6 +24427,7 @@
 0.0.0.0 www.veronadigital.com
 0.0.0.0 www.versales.xyz
 0.0.0.0 www.versonsor.xyz
+0.0.0.0 www.vertexinvestinc.com
 0.0.0.0 www.verticalislands.com
 0.0.0.0 www.vesen.xyz
 0.0.0.0 www.vestplne.vestpast7.xyz
@@ -24635,6 +24683,7 @@
 0.0.0.0 www.wmcs.pl
 0.0.0.0 www.wmiescie24.epizy.com
 0.0.0.0 www.wmiesciedziejesie.pl
+0.0.0.0 www.wmiesciefakty24.pl
 0.0.0.0 www.wmiesciewazne24.pl
 0.0.0.0 www.wmiesciewazne.pl
 0.0.0.0 www.wmieszajsiewtoszybko.site
@@ -25244,6 +25293,7 @@
 0.0.0.0 www.apple.com.sn-id.us
 0.0.0.0 www.app-findmyweb.com
 0.0.0.0 www.app-messenger-lite.com
+0.0.0.0 www.app-trader.biz
 0.0.0.0 www.app.uniswap.info-tokens.com
 0.0.0.0 www.aprove-confrim.000webhostapp.com
 0.0.0.0 www.artykul-gazeta.tokoapril.com
@@ -25686,6 +25736,7 @@
 0.0.0.0 www.cryptomkt-exchange.com
 0.0.0.0 www.crypto-engine.pl
 0.0.0.0 www.crypto-genius.privatecatalog.pro
+0.0.0.0 www.crypto-trust.uk
 0.0.0.0 www.crypto-worldinvestments.com
 0.0.0.0 www.cr.prog-capital1.site
 0.0.0.0 www.cta-ventil.eu
@@ -27561,6 +27612,7 @@
 0.0.0.0 www.pkn-orlen.surge.sh
 0.0.0.0 www.pko-bp.pl
 0.0.0.0 www.pko-invest.club
+0.0.0.0 www.pk-pl.website
 0.0.0.0 www.pl1a.bestshopping-voucher.com
 0.0.0.0 www.pl1budim-newprojekt.info
 0.0.0.0 www.pl1-budim-inv1.info
@@ -28057,6 +28109,7 @@
 0.0.0.0 www.royal-trades.com
 0.0.0.0 www.rozbij-bank.click
 0.0.0.0 www.rozgrywka-oceniaj.eu
+0.0.0.0 www.rozliczenie-pradu.net
 0.0.0.0 www.rozpoznaj-go.gq
 0.0.0.0 www.rozsylajmy-razem.pl
 0.0.0.0 www.run-germany.com
@@ -28326,6 +28379,7 @@
 0.0.0.0 www.termin-odbioru.xyz
 0.0.0.0 www.termin-odbloru.xyz
 0.0.0.0 www.termometr-na-podczerwien-pl.com
+0.0.0.0 www.terraslice-xyz.preview-domain.com
 0.0.0.0 www.teslastock-pl.website
 0.0.0.0 www.teslax-invest.website
 0.0.0.0 www.tesla-pl.website
