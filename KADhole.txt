@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Thu, 07 Oct 2021, 00:49 UTC+02
-# Version: 2021.10.7.0
+# Last modified: Thu, 07 Oct 2021, 01:33 UTC+02
+# Version: 2021.10.7.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -21,7 +21,7 @@
 #
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
-(^|\.)agloclar.com$
+(^|\.)agloclar\.com$
 (^|\.)allegrolokalkie\..*$
 (^|\.)allegrolokalne\..*$
 (^|\.)allegrolokalnie-pl\..*$
