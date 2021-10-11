@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Thu, 07 Oct 2021, 01:33 UTC+02
-# Version: 2021.10.7.1
+# Last modified: Tue, 12 Oct 2021, 00:30 UTC+02
+# Version: 2021.10.12.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -30,6 +30,7 @@
 (^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
 (^|\.)allegro\.pl\..*\.pl$
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
+(^|\.)bestshopping-voucher\.com$
 (^|\.)cache\.server560960\.nazwa\.pl$
 (^|\.)childalertfakt\..*$
 (^|\.)creativego[a-z0-9]{20}\.com$
@@ -173,13 +174,12 @@
 (^|\.).*\.*\.mirsolar\.com\.tr$
 (^|\.)?.?[a-z]+-?polska[0-9]+?-?poczta\..*$
 (^|\.)[0-9]+platnosci?\.online$
+(^|\.)[0-9]+\.adwokat-mk.pl$
 (^|\.)[a-z]+-?poczta(\d+)?-?polska\..*$
 (^|\.)[a-z]+-?pocztex[0-9]+-?(polska)?\..*$
 (^|\.)[a-z]+?-?pocztex.*[0-9]+\..*$
 (^|\.)[a-z]+?-?[0-9]+?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*$
 (^|\.)[a-z]+?\.?poczta-?polska[0-9]+\..*$
-\.bestshopping-voucher\.com$
-\.findprofile\.net\.pl$
 #@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 #
 #
