@@ -5,9 +5,10 @@
 # Version: @version
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Repository: https://github.com/FiltersHeroes/KADhosts
+# Based on: https://github.com/FiltersHeroes/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Maintainer: Filters Heroes
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
@@ -15,23 +16,23 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-@DOMAINSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt KAD/sections/podejrzane_inne_oszustwa.txt
+@DOMAINSinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt KAD/sections/podejrzane_inne_oszustwa.txt
 #
 #
 # Przekierowuja do innych stron z przekretami
-@DOMAINSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt KAD/sections/przekierowujace_do_przekretow.txt
+@DOMAINSinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt KAD/sections/przekierowujace_do_przekretow.txt
 #
 #
 # Szybko wygaszajace
-@DOMAINSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt KAD/sections/szybko_wygaszajace.txt
+@DOMAINSinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt KAD/sections/szybko_wygaszajace.txt
 #
 #
 # Przekrety
-@DOMAINSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt KAD/sections/przekrety.txt
+@DOMAINSinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt KAD/sections/przekrety.txt
 #
 #
 # Blogspot
-@DOMAINSinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt KAD/sections/blogspot.txt
+@DOMAINSinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt KAD/sections/blogspot.txt
 #
 #
 # Dodatki specjalne domenowe
