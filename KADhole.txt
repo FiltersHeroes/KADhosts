@@ -1,12 +1,12 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 12 Oct 2021, 00:31 UTC+02
-# Version: 2021.10.12.1
+# Last modified: Tue, 12 Oct 2021, 13:08 UTC+02
+# Version: 2021.10.12.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Based on: https://github.com/FiltersHeroes/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Maintainer: Filters Heroes
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
@@ -14,13 +14,13 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
 (^|\.)pokolorujfb.*\.glt\.pl$
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
 #
 #
 # Przekrety
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 (^|\.)agloclar\.com$
 (^|\.)allegrolokalkie\..*$
 (^|\.)allegrolokalne\..*$
@@ -180,11 +180,11 @@
 (^|\.)[a-z]+?-?pocztex.*[0-9]+\..*$
 (^|\.)[a-z]+?-?[0-9]+?gwalt(fakty?|news|wiadomosci?|polska|monitoring)\..*$
 (^|\.)[a-z]+?\.?poczta-?polska[0-9]+\..*$
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => Pi-hole RegEx
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => Pi-hole RegEx
 (^|\.)barsy.*\.blogspot\.com$
 (^|\.)czas-na-fb.*\.blogspot\.com$
 (^|\.)fabryka-chinczykow.*\.blogspot\.com$
@@ -215,4 +215,4 @@
 (^|\.).*internet-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-lte-5gb\.blogspot\.com$
 (^|\.).*pakiety-pokemon-go\.blogspot\.com$
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => Pi-hole RegEx
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => Pi-hole RegEx
