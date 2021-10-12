@@ -1,12 +1,13 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 12 Oct 2021, 00:53 UTC+02
-# Version: 2021.10.12.2
+# Last modified: Tue, 12 Oct 2021, 13:08 UTC+02
+# Version: 2021.10.12.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Based on: https://github.com/FiltersHeroes/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Creator: azet12
+# Maintainer: Filters Heroes
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
@@ -14,7 +15,7 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 0.0.0.0 1slo.pl
 0.0.0.0 2easy.pl
 0.0.0.0 3posilki.pl
@@ -3273,11 +3274,11 @@
 0.0.0.0 zsporchowo.pl
 0.0.0.0 zukiewicz.com
 0.0.0.0 z-promo.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 #
 #
 # Przekierowuja do innych stron z przekretami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
 0.0.0.0 0n.click
 0.0.0.0 9dcm.net
 0.0.0.0 34q22.cn
@@ -3662,11 +3663,11 @@
 0.0.0.0 yarlnk.com
 0.0.0.0 yyn.us
 0.0.0.0 zetreview.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
 #
 #
 # Szybko wygaszajace
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => hosts
 0.0.0.0 4ur.click
 0.0.0.0 15b37.skroc.pl
 0.0.0.0 4332.ws
@@ -3855,11 +3856,11 @@
 0.0.0.0 zcontentlocker7gpa8a.xyz
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 0.0.0.0 zgarniij_vouchher.skroc.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => hosts
 #
 #
 # Przekrety
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 00ckpr.cn
 0.0.0.0 0lx.group
@@ -4262,13 +4263,16 @@
 0.0.0.0 allegrou.pl
 0.0.0.0 allegro-agtd.pl-id27855309.xyz
 0.0.0.0 allegro-agtd.pl-id29717846.xyz
+0.0.0.0 allegro-agtd.pl-id67945558.xyz
 0.0.0.0 allegro-ajk.id-4391.me
 0.0.0.0 allegro-conf.pl-id88158684.xyz
 0.0.0.0 allegro-gbjs.pl-id22799899.xyz
 0.0.0.0 allegro-gbjs.pl-id29717846.xyz
 0.0.0.0 allegro-gbjs.pl-id35566670.xyz
 0.0.0.0 allegro-gbjs.pl-id66424107.xyz
+0.0.0.0 allegro-gbjs.pl-id97114735.xyz
 0.0.0.0 allegro-igmr.pl-id56643255.xyz
+0.0.0.0 allegro-igmr.pl-id67945558.xyz
 0.0.0.0 allegro-igmr.pl-id79355131.xyz
 0.0.0.0 allegro-llokallnie.online
 0.0.0.0 allegro-llokalnie.site
@@ -7672,6 +7676,7 @@
 0.0.0.0 dpd-clo.id92405.me
 0.0.0.0 dpd-e.id-4989980.me
 0.0.0.0 dpd-gdy.id293847.me
+0.0.0.0 dpd-hroz.id86-92.me
 0.0.0.0 dpd-info.info
 0.0.0.0 dpd-naz.id-0311.me
 0.0.0.0 dpd-pl-qpuq.ownoffferta.cc
@@ -7950,6 +7955,7 @@
 0.0.0.0 edziennik.xyz
 0.0.0.0 eerotans.com
 0.0.0.0 eero-systems.xyz
+0.0.0.0 effective-bussiness.info
 0.0.0.0 effluvialmayflowers.com
 0.0.0.0 eforsa.pl
 0.0.0.0 efssax.webwave.dev
@@ -7975,6 +7981,7 @@
 0.0.0.0 elaboratedonor.com
 0.0.0.0 elbravocomputer.com
 0.0.0.0 elbroder.com
+0.0.0.0 elecompl.online
 0.0.0.0 electroenchufe.com
 0.0.0.0 electrumltc.org
 0.0.0.0 elektromax-serwis.pl
@@ -8552,6 +8559,7 @@
 0.0.0.0 foxgazeta.waw.pl
 0.0.0.0 foxstarup.com
 0.0.0.0 fpagro.com.pl
+0.0.0.0 fpm1.profitguru.online
 0.0.0.0 fqfqf.com
 0.0.0.0 fraktal-trader.pl
 0.0.0.0 frant.frantinvest.site
@@ -8576,6 +8584,7 @@
 0.0.0.0 freshiuz.com
 0.0.0.0 frex.capitalkorpor.site
 0.0.0.0 frieman.pl
+0.0.0.0 friendica.info.pl
 0.0.0.0 friendlystorewyo.com
 0.0.0.0 frik.capitalfeserd.site
 0.0.0.0 frinblok.site
@@ -9243,6 +9252,8 @@
 0.0.0.0 imnpost.net
 0.0.0.0 imonellipizzeria.pl
 0.0.0.0 impersonatorsjacklights.info
+0.0.0.0 important-business.online
+0.0.0.0 important-bussiness.online
 0.0.0.0 importdopolski.pl
 0.0.0.0 imposedtocheck.site
 0.0.0.0 impresza.pl
@@ -9374,7 +9385,9 @@
 0.0.0.0 info-3.me
 0.0.0.0 info-dla-kazdego.xyz
 0.0.0.0 info-inpost.pl
+0.0.0.0 info-lokalne.waw.pl
 0.0.0.0 info-miastowe24.club
+0.0.0.0 info-obiektyw.waw.pl
 0.0.0.0 info-od-policji.dnsrobotuptime.ru
 0.0.0.0 info-paczka.net
 0.0.0.0 info-prosto-ze-swiata.dnsrobotuptime.ru
@@ -9465,6 +9478,7 @@
 0.0.0.0 inpost-a.id-43980.me
 0.0.0.0 inpost-cde.id5345.me
 0.0.0.0 inpost-cnm.id949449.me
+0.0.0.0 inpost-conf.pl-id09216097.xyz
 0.0.0.0 inpost-conf.pl-id12754996.xyz
 0.0.0.0 inpost-conf.pl-id14597533.xyz
 0.0.0.0 inpost-conf.pl-id25631539.xyz
@@ -9514,6 +9528,7 @@
 0.0.0.0 inpost-igmr.pl-id84566876.xyz
 0.0.0.0 inpost-igmr.pl-id91152350.xyz
 0.0.0.0 inpost-igmr.pl-id92205870.xyz
+0.0.0.0 inpost-igmr.pl-id97114735.xyz
 0.0.0.0 inpost-info.com
 0.0.0.0 inpost-i.id-9843.me
 0.0.0.0 inpost-kody.net
@@ -11832,6 +11847,7 @@
 0.0.0.0 olx-igmr.pl-id48127002.xyz
 0.0.0.0 olx-igmr.pl-id56643255.xyz
 0.0.0.0 olx-igmr.pl-id63139970.xyz
+0.0.0.0 olx-igmr.pl-id67945558.xyz
 0.0.0.0 olx-igmr.pl-id81629291.xyz
 0.0.0.0 olx-igmr.pl-id84566876.xyz
 0.0.0.0 olx-igmr.pl-id85504502.xyz
@@ -12017,6 +12033,7 @@
 0.0.0.0 olx-uzyskiwaniie.pl
 0.0.0.0 olx-vip.com
 0.0.0.0 olx-w.pl
+0.0.0.0 olx-wcnf.id86-92.me
 0.0.0.0 olx-weryfikacja.pl
 0.0.0.0 olx-wplata.cards
 0.0.0.0 olx-wplata.today
@@ -13383,6 +13400,7 @@
 0.0.0.0 plebiscyt-krakow.v00.pl
 0.0.0.0 plebiscyt-warszawa.eu
 0.0.0.0 pledland.com
+0.0.0.0 plera.goodlife.host
 0.0.0.0 pletomak.mypi.co
 0.0.0.0 pleu.geniuspl.site
 0.0.0.0 plfanbudim1inv.info
@@ -14151,6 +14169,7 @@
 0.0.0.0 prodtro.xyz
 0.0.0.0 producent-witaczy.pl
 0.0.0.0 product-pl.site
+0.0.0.0 profclubix.xyz
 0.0.0.0 profibit.club
 0.0.0.0 profionix.site
 0.0.0.0 profit4you-now.life
@@ -14170,6 +14189,7 @@
 0.0.0.0 progformpl.prgrmlvl.site
 0.0.0.0 progplivpl.criptfast.xyz
 0.0.0.0 progpl-subtop.prgrmlvl.site
+0.0.0.0 programm-pat.xyz
 0.0.0.0 program-max.site
 0.0.0.0 progressrules.com
 0.0.0.0 progritro.site
@@ -14230,6 +14250,7 @@
 0.0.0.0 prowizja24.pl
 0.0.0.0 pro-lifemax.xyz
 0.0.0.0 pro-pl.info
+0.0.0.0 pro-soft1.site
 0.0.0.0 pro.pltrade-projekt.xyz
 0.0.0.0 pruszkow2019.pl
 0.0.0.0 prywatna-sesja.eu
@@ -16108,6 +16129,7 @@
 0.0.0.0 uhoklin.xyz
 0.0.0.0 uhztdsyzlca0p.bar
 0.0.0.0 ujecie24telerradio.website
+0.0.0.0 ukrmsscan.info
 0.0.0.0 ukufan.com
 0.0.0.0 uk-stv1street.live
 0.0.0.0 ulhvfy.webwave.dev
@@ -16145,6 +16167,7 @@
 0.0.0.0 unixbroker.com
 0.0.0.0 unixfronch-com.preview-domain.com
 0.0.0.0 unlessyouwill.com
+0.0.0.0 unliftro.info
 0.0.0.0 unlimited.movies.and.series.netflix.afraplants.ir
 0.0.0.0 unlimited.movies.and.series.netflix.irsa-art.ir
 0.0.0.0 unnaboat.com
@@ -16202,6 +16225,8 @@
 0.0.0.0 usterkiwloclawek.za.pl
 0.0.0.0 uswiadomsobiebizznes.site
 0.0.0.0 utarolt.com
+0.0.0.0 utdatekonto.pl
+0.0.0.0 utdate-konto.netofix.info
 0.0.0.0 utecconnections.com
 0.0.0.0 uusms.org
 0.0.0.0 uvar.uno
@@ -19952,6 +19977,7 @@
 0.0.0.0 www.elaboratedonor.com
 0.0.0.0 www.elbravocomputer.com
 0.0.0.0 www.elbroder.com
+0.0.0.0 www.elecompl.online
 0.0.0.0 www.electroenchufe.com
 0.0.0.0 www.electrumltc.org
 0.0.0.0 www.elektronika053497.xyz
@@ -20375,6 +20401,7 @@
 0.0.0.0 www.foxgazeta.waw.pl
 0.0.0.0 www.foxstarup.com
 0.0.0.0 www.fpagro.com.pl
+0.0.0.0 www.fpm1.profitguru.online
 0.0.0.0 www.fqfqf.com
 0.0.0.0 www.frantinvest.site
 0.0.0.0 www.frantto.site
@@ -20395,6 +20422,7 @@
 0.0.0.0 www.freshiuz.com
 0.0.0.0 www.frex.capitalkorpor.site
 0.0.0.0 www.frieman.pl
+0.0.0.0 www.friendica.info.pl
 0.0.0.0 www.friendlystorewyo.com
 0.0.0.0 www.frik.capitalfeserd.site
 0.0.0.0 www.frinblok.site
@@ -23338,6 +23366,7 @@
 0.0.0.0 www.plchromepl.site
 0.0.0.0 www.plcnvz.weebly.com
 0.0.0.0 www.pledland.com
+0.0.0.0 www.plera.goodlife.host
 0.0.0.0 www.pletomak.mypi.co
 0.0.0.0 www.pleu.geniuspl.site
 0.0.0.0 www.plfanbudim1inv.info
@@ -23694,6 +23723,7 @@
 0.0.0.0 www.procze.tech
 0.0.0.0 www.prodailyfx.com
 0.0.0.0 www.prodtro.xyz
+0.0.0.0 www.profclubix.xyz
 0.0.0.0 www.profibit.club
 0.0.0.0 www.profionix.site
 0.0.0.0 www.profitbuy.site
@@ -25087,6 +25117,7 @@
 0.0.0.0 www.uhoklin.xyz
 0.0.0.0 www.uhztdsyzlca0p.bar
 0.0.0.0 www.ujecie24telerradio.website
+0.0.0.0 www.ukrmsscan.info
 0.0.0.0 www.ukufan.com
 0.0.0.0 www.ulhvfy.webwave.dev
 0.0.0.0 www.ulmer.com.pl
@@ -25120,6 +25151,7 @@
 0.0.0.0 www.univexim.pl
 0.0.0.0 www.unixbroker.com
 0.0.0.0 www.unlessyouwill.com
+0.0.0.0 www.unliftro.info
 0.0.0.0 www.unlimited.movies.and.series.netflix.afraplants.ir
 0.0.0.0 www.unnaboat.com
 0.0.0.0 www.unnathimilk.com
@@ -25162,6 +25194,7 @@
 0.0.0.0 www.usterkiwloclawek.za.pl
 0.0.0.0 www.uswiadomsobiebizznes.site
 0.0.0.0 www.utarolt.com
+0.0.0.0 www.utdatekonto.pl
 0.0.0.0 www.utecconnections.com
 0.0.0.0 www.uusms.org
 0.0.0.0 www.uvar.uno
@@ -26049,13 +26082,16 @@
 0.0.0.0 www.allegrolokalnie-pl.id-79949017.site
 0.0.0.0 www.allegro-agtd.pl-id27855309.xyz
 0.0.0.0 www.allegro-agtd.pl-id29717846.xyz
+0.0.0.0 www.allegro-agtd.pl-id67945558.xyz
 0.0.0.0 www.allegro-ajk.id-4391.me
 0.0.0.0 www.allegro-conf.pl-id88158684.xyz
 0.0.0.0 www.allegro-gbjs.pl-id22799899.xyz
 0.0.0.0 www.allegro-gbjs.pl-id29717846.xyz
 0.0.0.0 www.allegro-gbjs.pl-id35566670.xyz
 0.0.0.0 www.allegro-gbjs.pl-id66424107.xyz
+0.0.0.0 www.allegro-gbjs.pl-id97114735.xyz
 0.0.0.0 www.allegro-igmr.pl-id56643255.xyz
+0.0.0.0 www.allegro-igmr.pl-id67945558.xyz
 0.0.0.0 www.allegro-igmr.pl-id79355131.xyz
 0.0.0.0 www.allegro-llokallnie.online
 0.0.0.0 www.allegro-llokalnie.site
@@ -26702,6 +26738,7 @@
 0.0.0.0 www.dpd-clo.id92405.me
 0.0.0.0 www.dpd-e.id-4989980.me
 0.0.0.0 www.dpd-gdy.id293847.me
+0.0.0.0 www.dpd-hroz.id86-92.me
 0.0.0.0 www.dpd-info.info
 0.0.0.0 www.dpd-naz.id-0311.me
 0.0.0.0 www.dpd-pl-qpuq.ownoffferta.cc
@@ -26754,6 +26791,7 @@
 0.0.0.0 www.educ-idea.site
 0.0.0.0 www.educ-lotos.online
 0.0.0.0 www.eero-systems.xyz
+0.0.0.0 www.effective-bussiness.info
 0.0.0.0 www.egazeta-24ee.cleverapps.io
 0.0.0.0 www.egazeta-24ii.cleverapps.io
 0.0.0.0 www.egazeta-24ll.cleverapps.io
@@ -27101,6 +27139,8 @@
 0.0.0.0 www.iidl-plus.com
 0.0.0.0 www.iko-zl.xyz
 0.0.0.0 www.immediate-invest.work
+0.0.0.0 www.important-business.online
+0.0.0.0 www.important-bussiness.online
 0.0.0.0 www.im-sb.com
 0.0.0.0 www.inaz-sklep.com
 0.0.0.0 www.inaz-sport.com
@@ -27152,7 +27192,9 @@
 0.0.0.0 www.info-3.me
 0.0.0.0 www.info-dla-kazdego.xyz
 0.0.0.0 www.info-inpost.pl
+0.0.0.0 www.info-lokalne.waw.pl
 0.0.0.0 www.info-miastowe24.club
+0.0.0.0 www.info-obiektyw.waw.pl
 0.0.0.0 www.info-od-policji.dnsrobotuptime.ru
 0.0.0.0 www.info-paczka.net
 0.0.0.0 www.info-prosto-ze-swiata.dnsrobotuptime.ru
@@ -27182,6 +27224,7 @@
 0.0.0.0 www.inpost-a.id-43980.me
 0.0.0.0 www.inpost-cde.id5345.me
 0.0.0.0 www.inpost-cnm.id949449.me
+0.0.0.0 www.inpost-conf.pl-id09216097.xyz
 0.0.0.0 www.inpost-conf.pl-id12754996.xyz
 0.0.0.0 www.inpost-conf.pl-id14597533.xyz
 0.0.0.0 www.inpost-conf.pl-id25631539.xyz
@@ -27231,6 +27274,7 @@
 0.0.0.0 www.inpost-igmr.pl-id84566876.xyz
 0.0.0.0 www.inpost-igmr.pl-id91152350.xyz
 0.0.0.0 www.inpost-igmr.pl-id92205870.xyz
+0.0.0.0 www.inpost-igmr.pl-id97114735.xyz
 0.0.0.0 www.inpost-info.com
 0.0.0.0 www.inpost-i.id-9843.me
 0.0.0.0 www.inpost-kody.net
@@ -28002,6 +28046,7 @@
 0.0.0.0 www.olx-igmr.pl-id48127002.xyz
 0.0.0.0 www.olx-igmr.pl-id56643255.xyz
 0.0.0.0 www.olx-igmr.pl-id63139970.xyz
+0.0.0.0 www.olx-igmr.pl-id67945558.xyz
 0.0.0.0 www.olx-igmr.pl-id81629291.xyz
 0.0.0.0 www.olx-igmr.pl-id84566876.xyz
 0.0.0.0 www.olx-igmr.pl-id85504502.xyz
@@ -28187,6 +28232,7 @@
 0.0.0.0 www.olx-uzyskiwaniie.pl
 0.0.0.0 www.olx-vip.com
 0.0.0.0 www.olx-w.pl
+0.0.0.0 www.olx-wcnf.id86-92.me
 0.0.0.0 www.olx-weryfikacja.pl
 0.0.0.0 www.olx-wplata.cards
 0.0.0.0 www.olx-wplata.today
@@ -29154,6 +29200,7 @@
 0.0.0.0 www.profit-bussines.website
 0.0.0.0 www.prof.tsla-coin.xyz
 0.0.0.0 www.progpl-subtop.prgrmlvl.site
+0.0.0.0 www.programm-pat.xyz
 0.0.0.0 www.program-max.site
 0.0.0.0 www.prog-acpatrn.prokytne.xyz
 0.0.0.0 www.prog-createpl.prokytne.xyz
@@ -29179,6 +29226,7 @@
 0.0.0.0 www.prove-acces.000webhostapp.com
 0.0.0.0 www.pro-lifemax.xyz
 0.0.0.0 www.pro-pl.info
+0.0.0.0 www.pro-soft1.site
 0.0.0.0 www.pro.pltrade-projekt.xyz
 0.0.0.0 www.prywatna-sesja.eu
 0.0.0.0 www.prywatne-fotki.mywebcommunity.org
@@ -29728,6 +29776,7 @@
 0.0.0.0 www.uslugatopgry.5p.pl
 0.0.0.0 www.uslugitopgry.5p.pl
 0.0.0.0 www.uslugitransportowe-warszawa.pl
+0.0.0.0 www.utdate-konto.netofix.info
 0.0.0.0 www.uwaga-tvn.pl
 0.0.0.0 www.uznanie-pomocy.eu
 0.0.0.0 www.uzyskac-olx.xyz
@@ -30375,11 +30424,11 @@
 0.0.0.0 zyzlk.com
 0.0.0.0 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
 0.0.0.0 z-kraju.co.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => hosts
 0.0.0.0 5gb-internetu-pakiety.blogspot.com
 0.0.0.0 123musicblend.blogspot.com
 0.0.0.0 accelerationlife.blogspot.com
@@ -31002,7 +31051,7 @@
 0.0.0.0 zmien-motyw.blogspot.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 0.0.0.0 zuzu-criss.blogspot.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => hosts
 #
 #
 # Dodatki hosts
