@@ -1,13 +1,14 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 12 Oct 2021, 00:53 UTC+02
-# Version: 2021.10.12.2
+# Last modified: Tue, 12 Oct 2021, 13:08 UTC+02
+# Version: 2021.10.12.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Repository: https://github.com/FiltersHeroes/KADhosts
+# Based on: https://github.com/FiltersHeroes/KAD
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Maintainer: Filters Heroes
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
@@ -15,7 +16,7 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
 1slo.pl
 2easy.pl
 3posilki.pl
@@ -3274,11 +3275,11 @@ zspkoscielec.pl
 zsporchowo.pl
 zukiewicz.com
 z-promo.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => domains
 #
 #
 # Przekierowuja do innych stron z przekretami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
 0n.click
 9dcm.net
 34q22.cn
@@ -3663,11 +3664,11 @@ xtroglobal.com
 yarlnk.com
 yyn.us
 zetreview.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => domains
 #
 #
 # Szybko wygaszajace
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => domains
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => domains
 4ur.click
 15b37.skroc.pl
 37.1.209.213
@@ -3873,11 +3874,11 @@ zbierajnagrody.bo.pl
 zcontentlocker7gpa8a.xyz
 zejrzyj-zdjecia.bo.pl
 zgarniij_vouchher.skroc.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => domains
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => domains
 #
 #
 # Przekrety
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => domains
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => domains
 0b8cc331813049912.temporary.link
 00ckpr.cn
 0lx.group
@@ -4280,13 +4281,16 @@ allegrosmart.net
 allegrou.pl
 allegro-agtd.pl-id27855309.xyz
 allegro-agtd.pl-id29717846.xyz
+allegro-agtd.pl-id67945558.xyz
 allegro-ajk.id-4391.me
 allegro-conf.pl-id88158684.xyz
 allegro-gbjs.pl-id22799899.xyz
 allegro-gbjs.pl-id29717846.xyz
 allegro-gbjs.pl-id35566670.xyz
 allegro-gbjs.pl-id66424107.xyz
+allegro-gbjs.pl-id97114735.xyz
 allegro-igmr.pl-id56643255.xyz
+allegro-igmr.pl-id67945558.xyz
 allegro-igmr.pl-id79355131.xyz
 allegro-llokallnie.online
 allegro-llokalnie.site
@@ -7690,6 +7694,7 @@ dpd-ap.id-3828883.me
 dpd-clo.id92405.me
 dpd-e.id-4989980.me
 dpd-gdy.id293847.me
+dpd-hroz.id86-92.me
 dpd-info.info
 dpd-naz.id-0311.me
 dpd-pl-qpuq.ownoffferta.cc
@@ -7968,6 +7973,7 @@ educ-lotos.online
 edziennik.xyz
 eerotans.com
 eero-systems.xyz
+effective-bussiness.info
 effluvialmayflowers.com
 eforsa.pl
 efssax.webwave.dev
@@ -7993,6 +7999,7 @@ ekspres-sklep.pl
 elaboratedonor.com
 elbravocomputer.com
 elbroder.com
+elecompl.online
 electroenchufe.com
 electrumltc.org
 elektromax-serwis.pl
@@ -8570,6 +8577,7 @@ fowerea.com
 foxgazeta.waw.pl
 foxstarup.com
 fpagro.com.pl
+fpm1.profitguru.online
 fqfqf.com
 fraktal-trader.pl
 frant.frantinvest.site
@@ -8594,6 +8602,7 @@ frenzstores.com
 freshiuz.com
 frex.capitalkorpor.site
 frieman.pl
+friendica.info.pl
 friendlystorewyo.com
 frik.capitalfeserd.site
 frinblok.site
@@ -9261,6 +9270,8 @@ immi360.com
 imnpost.net
 imonellipizzeria.pl
 impersonatorsjacklights.info
+important-business.online
+important-bussiness.online
 importdopolski.pl
 imposedtocheck.site
 impresza.pl
@@ -9392,7 +9403,9 @@ infoswiat.hekko24.pl
 info-3.me
 info-dla-kazdego.xyz
 info-inpost.pl
+info-lokalne.waw.pl
 info-miastowe24.club
+info-obiektyw.waw.pl
 info-od-policji.dnsrobotuptime.ru
 info-paczka.net
 info-prosto-ze-swiata.dnsrobotuptime.ru
@@ -9483,6 +9496,7 @@ inpost-aij.id949449.me
 inpost-a.id-43980.me
 inpost-cde.id5345.me
 inpost-cnm.id949449.me
+inpost-conf.pl-id09216097.xyz
 inpost-conf.pl-id12754996.xyz
 inpost-conf.pl-id14597533.xyz
 inpost-conf.pl-id25631539.xyz
@@ -9532,6 +9546,7 @@ inpost-igmr.pl-id81629291.xyz
 inpost-igmr.pl-id84566876.xyz
 inpost-igmr.pl-id91152350.xyz
 inpost-igmr.pl-id92205870.xyz
+inpost-igmr.pl-id97114735.xyz
 inpost-info.com
 inpost-i.id-9843.me
 inpost-kody.net
@@ -11850,6 +11865,7 @@ olx-igmr.pl-id27855309.xyz
 olx-igmr.pl-id48127002.xyz
 olx-igmr.pl-id56643255.xyz
 olx-igmr.pl-id63139970.xyz
+olx-igmr.pl-id67945558.xyz
 olx-igmr.pl-id81629291.xyz
 olx-igmr.pl-id84566876.xyz
 olx-igmr.pl-id85504502.xyz
@@ -12035,6 +12051,7 @@ olx-uzyskiwanie.pl
 olx-uzyskiwaniie.pl
 olx-vip.com
 olx-w.pl
+olx-wcnf.id86-92.me
 olx-weryfikacja.pl
 olx-wplata.cards
 olx-wplata.today
@@ -13401,6 +13418,7 @@ plebiscyt-krakow.eu
 plebiscyt-krakow.v00.pl
 plebiscyt-warszawa.eu
 pledland.com
+plera.goodlife.host
 pletomak.mypi.co
 pleu.geniuspl.site
 plfanbudim1inv.info
@@ -14169,6 +14187,7 @@ prodailyfx.com
 prodtro.xyz
 producent-witaczy.pl
 product-pl.site
+profclubix.xyz
 profibit.club
 profionix.site
 profit4you-now.life
@@ -14188,6 +14207,7 @@ prof.tsla-coin.xyz
 progformpl.prgrmlvl.site
 progplivpl.criptfast.xyz
 progpl-subtop.prgrmlvl.site
+programm-pat.xyz
 program-max.site
 progressrules.com
 progritro.site
@@ -14248,6 +14268,7 @@ provimedsupplies.com
 prowizja24.pl
 pro-lifemax.xyz
 pro-pl.info
+pro-soft1.site
 pro.pltrade-projekt.xyz
 pruszkow2019.pl
 prywatna-sesja.eu
@@ -16126,6 +16147,7 @@ uhinload-com.preview-domain.com
 uhoklin.xyz
 uhztdsyzlca0p.bar
 ujecie24telerradio.website
+ukrmsscan.info
 ukufan.com
 uk-stv1street.live
 ulhvfy.webwave.dev
@@ -16163,6 +16185,7 @@ univexim.pl
 unixbroker.com
 unixfronch-com.preview-domain.com
 unlessyouwill.com
+unliftro.info
 unlimited.movies.and.series.netflix.afraplants.ir
 unlimited.movies.and.series.netflix.irsa-art.ir
 unnaboat.com
@@ -16220,6 +16243,8 @@ ustawtogdziekolwiek.site
 usterkiwloclawek.za.pl
 uswiadomsobiebizznes.site
 utarolt.com
+utdatekonto.pl
+utdate-konto.netofix.info
 utecconnections.com
 uusms.org
 uvar.uno
@@ -19970,6 +19995,7 @@ www.ekskluzywneapartamenty.com
 www.elaboratedonor.com
 www.elbravocomputer.com
 www.elbroder.com
+www.elecompl.online
 www.electroenchufe.com
 www.electrumltc.org
 www.elektronika053497.xyz
@@ -20393,6 +20419,7 @@ www.fowerea.com
 www.foxgazeta.waw.pl
 www.foxstarup.com
 www.fpagro.com.pl
+www.fpm1.profitguru.online
 www.fqfqf.com
 www.frantinvest.site
 www.frantto.site
@@ -20413,6 +20440,7 @@ www.frenzstores.com
 www.freshiuz.com
 www.frex.capitalkorpor.site
 www.frieman.pl
+www.friendica.info.pl
 www.friendlystorewyo.com
 www.frik.capitalfeserd.site
 www.frinblok.site
@@ -23356,6 +23384,7 @@ www.plbudimnewinv1.info
 www.plchromepl.site
 www.plcnvz.weebly.com
 www.pledland.com
+www.plera.goodlife.host
 www.pletomak.mypi.co
 www.pleu.geniuspl.site
 www.plfanbudim1inv.info
@@ -23712,6 +23741,7 @@ www.procoches.areadirecta.es
 www.procze.tech
 www.prodailyfx.com
 www.prodtro.xyz
+www.profclubix.xyz
 www.profibit.club
 www.profionix.site
 www.profitbuy.site
@@ -25105,6 +25135,7 @@ www.ugurbasak.com
 www.uhoklin.xyz
 www.uhztdsyzlca0p.bar
 www.ujecie24telerradio.website
+www.ukrmsscan.info
 www.ukufan.com
 www.ulhvfy.webwave.dev
 www.ulmer.com.pl
@@ -25138,6 +25169,7 @@ www.unitedproductsllc.net
 www.univexim.pl
 www.unixbroker.com
 www.unlessyouwill.com
+www.unliftro.info
 www.unlimited.movies.and.series.netflix.afraplants.ir
 www.unnaboat.com
 www.unnathimilk.com
@@ -25180,6 +25212,7 @@ www.ustawtogdziekolwiek.site
 www.usterkiwloclawek.za.pl
 www.uswiadomsobiebizznes.site
 www.utarolt.com
+www.utdatekonto.pl
 www.utecconnections.com
 www.uusms.org
 www.uvar.uno
@@ -26067,13 +26100,16 @@ www.allegrolokalnie-pl.id-05498347.pw
 www.allegrolokalnie-pl.id-79949017.site
 www.allegro-agtd.pl-id27855309.xyz
 www.allegro-agtd.pl-id29717846.xyz
+www.allegro-agtd.pl-id67945558.xyz
 www.allegro-ajk.id-4391.me
 www.allegro-conf.pl-id88158684.xyz
 www.allegro-gbjs.pl-id22799899.xyz
 www.allegro-gbjs.pl-id29717846.xyz
 www.allegro-gbjs.pl-id35566670.xyz
 www.allegro-gbjs.pl-id66424107.xyz
+www.allegro-gbjs.pl-id97114735.xyz
 www.allegro-igmr.pl-id56643255.xyz
+www.allegro-igmr.pl-id67945558.xyz
 www.allegro-igmr.pl-id79355131.xyz
 www.allegro-llokallnie.online
 www.allegro-llokalnie.site
@@ -26720,6 +26756,7 @@ www.dpd-ap.id-3828883.me
 www.dpd-clo.id92405.me
 www.dpd-e.id-4989980.me
 www.dpd-gdy.id293847.me
+www.dpd-hroz.id86-92.me
 www.dpd-info.info
 www.dpd-naz.id-0311.me
 www.dpd-pl-qpuq.ownoffferta.cc
@@ -26772,6 +26809,7 @@ www.education-pl.info
 www.educ-idea.site
 www.educ-lotos.online
 www.eero-systems.xyz
+www.effective-bussiness.info
 www.egazeta-24ee.cleverapps.io
 www.egazeta-24ii.cleverapps.io
 www.egazeta-24ll.cleverapps.io
@@ -27119,6 +27157,8 @@ www.id-appie.com
 www.iidl-plus.com
 www.iko-zl.xyz
 www.immediate-invest.work
+www.important-business.online
+www.important-bussiness.online
 www.im-sb.com
 www.inaz-sklep.com
 www.inaz-sport.com
@@ -27170,7 +27210,9 @@ www.inform-sms.pw
 www.info-3.me
 www.info-dla-kazdego.xyz
 www.info-inpost.pl
+www.info-lokalne.waw.pl
 www.info-miastowe24.club
+www.info-obiektyw.waw.pl
 www.info-od-policji.dnsrobotuptime.ru
 www.info-paczka.net
 www.info-prosto-ze-swiata.dnsrobotuptime.ru
@@ -27200,6 +27242,7 @@ www.inpost-aij.id949449.me
 www.inpost-a.id-43980.me
 www.inpost-cde.id5345.me
 www.inpost-cnm.id949449.me
+www.inpost-conf.pl-id09216097.xyz
 www.inpost-conf.pl-id12754996.xyz
 www.inpost-conf.pl-id14597533.xyz
 www.inpost-conf.pl-id25631539.xyz
@@ -27249,6 +27292,7 @@ www.inpost-igmr.pl-id81629291.xyz
 www.inpost-igmr.pl-id84566876.xyz
 www.inpost-igmr.pl-id91152350.xyz
 www.inpost-igmr.pl-id92205870.xyz
+www.inpost-igmr.pl-id97114735.xyz
 www.inpost-info.com
 www.inpost-i.id-9843.me
 www.inpost-kody.net
@@ -28020,6 +28064,7 @@ www.olx-igmr.pl-id27855309.xyz
 www.olx-igmr.pl-id48127002.xyz
 www.olx-igmr.pl-id56643255.xyz
 www.olx-igmr.pl-id63139970.xyz
+www.olx-igmr.pl-id67945558.xyz
 www.olx-igmr.pl-id81629291.xyz
 www.olx-igmr.pl-id84566876.xyz
 www.olx-igmr.pl-id85504502.xyz
@@ -28205,6 +28250,7 @@ www.olx-uzyskiwanie.pl
 www.olx-uzyskiwaniie.pl
 www.olx-vip.com
 www.olx-w.pl
+www.olx-wcnf.id86-92.me
 www.olx-weryfikacja.pl
 www.olx-wplata.cards
 www.olx-wplata.today
@@ -29172,6 +29218,7 @@ www.profit-bussines.site
 www.profit-bussines.website
 www.prof.tsla-coin.xyz
 www.progpl-subtop.prgrmlvl.site
+www.programm-pat.xyz
 www.program-max.site
 www.prog-acpatrn.prokytne.xyz
 www.prog-createpl.prokytne.xyz
@@ -29197,6 +29244,7 @@ www.protego-safe.me
 www.prove-acces.000webhostapp.com
 www.pro-lifemax.xyz
 www.pro-pl.info
+www.pro-soft1.site
 www.pro.pltrade-projekt.xyz
 www.prywatna-sesja.eu
 www.prywatne-fotki.mywebcommunity.org
@@ -29746,6 +29794,7 @@ www.user-paypal.com
 www.uslugatopgry.5p.pl
 www.uslugitopgry.5p.pl
 www.uslugitransportowe-warszawa.pl
+www.utdate-konto.netofix.info
 www.uwaga-tvn.pl
 www.uznanie-pomocy.eu
 www.uzyskac-olx.xyz
@@ -30393,11 +30442,11 @@ zysk-dlyty.xyz
 zyzlk.com
 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
 z-kraju.co.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => domains
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => domains
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => domains
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => domains
 5gb-internetu-pakiety.blogspot.com
 123musicblend.blogspot.com
 accelerationlife.blogspot.com
@@ -31020,7 +31069,7 @@ zmienkolorfejsazafree.blogspot.com
 zmien-motyw.blogspot.com
 zobaczktopodgladaa.blogspot.com
 zuzu-criss.blogspot.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => domains
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => domains
 #
 #
 # Dodatki specjalne domenowe
