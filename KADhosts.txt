@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 14 Oct 2021, 13:08 UTC+02
-# Version: 2021.10.14.2
+# Last modified: Thu, 14 Oct 2021, 17:08 UTC+02
+# Version: 2021.10.14.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5469,11 +5469,15 @@
 0.0.0.0 ciekawesprawy.online
 0.0.0.0 ciekawkapolska.online
 0.0.0.0 ciekawostka082.site
+0.0.0.0 ciekawostka129.site
 0.0.0.0 ciekawostka173.site
+0.0.0.0 ciekawostka306.site
 0.0.0.0 ciekawostka389.site
 0.0.0.0 ciekawostka501.site
 0.0.0.0 ciekawostka692.site
 0.0.0.0 ciekawostka723.site
+0.0.0.0 ciekawostka724.site
+0.0.0.0 ciekawostka903.site
 0.0.0.0 ciezkieczasy.is-best.net
 0.0.0.0 cikelly.com
 0.0.0.0 cinao.shop
@@ -7241,6 +7245,7 @@
 0.0.0.0 davidcandy.website.pl
 0.0.0.0 davidsadventures.com
 0.0.0.0 davinky.com
+0.0.0.0 daw22.pl
 0.0.0.0 daxioma.com
 0.0.0.0 daxkapital.com
 0.0.0.0 daxlnfpwodxh9.cloudfront.net
@@ -8952,6 +8957,7 @@
 0.0.0.0 googlanalyticss.club
 0.0.0.0 googleailesi.com
 0.0.0.0 google-deckoffice.ml
+0.0.0.0 google.com-firewall.online
 0.0.0.0 goonews.unixstorm.eu
 0.0.0.0 goosms.in
 0.0.0.0 gooso.org
@@ -9375,7 +9381,11 @@
 0.0.0.0 inform.legalprod.xyz
 0.0.0.0 informacja.cc
 0.0.0.0 informacja.club
+0.0.0.0 informacja025.site
 0.0.0.0 informacja035.site
+0.0.0.0 informacja208.site
+0.0.0.0 informacja376.site
+0.0.0.0 informacja572.site
 0.0.0.0 informacja733.site
 0.0.0.0 informacja745.site
 0.0.0.0 informacja754.site
@@ -10370,6 +10380,7 @@
 0.0.0.0 kurjerzy-pl.cyou
 0.0.0.0 kurlerowo24.pl
 0.0.0.0 kursjezykowy.eu
+0.0.0.0 kur-jerzy.eu
 0.0.0.0 kuszowka.pl
 0.0.0.0 kvs08a.webwave.dev
 0.0.0.0 kwarantannadomowa.com
@@ -11239,6 +11250,7 @@
 0.0.0.0 myl.name
 0.0.0.0 mymommystruggles.com
 0.0.0.0 mynetcoin.com
+0.0.0.0 mypekaosa.com
 0.0.0.0 myprojekt1-trade.site
 0.0.0.0 myselfgaz.site
 0.0.0.0 myskedu.com
@@ -11554,10 +11566,14 @@
 0.0.0.0 nowina018.site
 0.0.0.0 nowina107.site
 0.0.0.0 nowina112.site
+0.0.0.0 nowina305.site
 0.0.0.0 nowina378.site
 0.0.0.0 nowina545.site
+0.0.0.0 nowina636.site
 0.0.0.0 nowina643.site
+0.0.0.0 nowina699.site
 0.0.0.0 nowinka013.site
+0.0.0.0 nowinka079.site
 0.0.0.0 nowinka096.site
 0.0.0.0 nowinka136.site
 0.0.0.0 nowinka165.site
@@ -11569,7 +11585,12 @@
 0.0.0.0 nowinki.blog-online.eu
 0.0.0.0 nowoczesnemuzeum.pl
 0.0.0.0 nowoffer.top
+0.0.0.0 nowosc002.site
+0.0.0.0 nowosc256.site
 0.0.0.0 nowosc286.site
+0.0.0.0 nowosc302.site
+0.0.0.0 nowosc371.site
+0.0.0.0 nowosc966.site
 0.0.0.0 nowplaymovie.com
 0.0.0.0 no-snore-pl.com
 0.0.0.0 npcvault.com
@@ -11982,6 +12003,7 @@
 0.0.0.0 olx-gbjs.pl-id66424107.xyz
 0.0.0.0 olx-gbjs.pl-id72095199.xyz
 0.0.0.0 olx-gbjs.pl-id81629291.xyz
+0.0.0.0 olx-gbjs.pl-id89869929.xyz
 0.0.0.0 olx-gbjs.pl-id91152350.xyz
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-g.id-43980.me
@@ -12111,6 +12133,7 @@
 0.0.0.0 olx-pl-zff.id-43980.me
 0.0.0.0 olx-pl.3dsellp-r.com
 0.0.0.0 olx-pl.3vd.me
+0.0.0.0 olx-pl.dostawa-safety.art
 0.0.0.0 olx-pl.dostawa-safety.guru
 0.0.0.0 olx-pl.dostawa-safety.quest
 0.0.0.0 olx-pl.eu-pay.site
@@ -13665,6 +13688,7 @@
 0.0.0.0 pl-gopays.work
 0.0.0.0 pl-gotpaid.shop
 0.0.0.0 pl-id737962.info
+0.0.0.0 pl-include-fa.website
 0.0.0.0 pl-info3.site
 0.0.0.0 pl-info-24.pl
 0.0.0.0 pl-inpost.online
@@ -14373,6 +14397,7 @@
 0.0.0.0 project2299805.turbo.site
 0.0.0.0 project2321549.turbo.site
 0.0.0.0 projectcourse.us
+0.0.0.0 projectcourse4.us
 0.0.0.0 project-course2.biz
 0.0.0.0 projektnewonepl.info
 0.0.0.0 projektplfanone.info
@@ -14659,10 +14684,12 @@
 0.0.0.0 reklamapoznan.com.pl
 0.0.0.0 rekrutacjastudenci6.wixsite.com
 0.0.0.0 relacja066.site
+0.0.0.0 relacja148.site
 0.0.0.0 relacja171.site
 0.0.0.0 relacja259.site
 0.0.0.0 relacja316.site
 0.0.0.0 relacja338.site
+0.0.0.0 relacja385.site
 0.0.0.0 relacja733.site
 0.0.0.0 relacja998.site
 0.0.0.0 relativelyheterophony.com
@@ -14702,6 +14729,7 @@
 0.0.0.0 reverent-yalow-e35ac8.netlify.app
 0.0.0.0 reviews-shop.com
 0.0.0.0 revolution-fx.cc
+0.0.0.0 rewelacja015.site
 0.0.0.0 rewelacja027.site
 0.0.0.0 rewelacja123.site
 0.0.0.0 rewelacja371.site
@@ -16768,12 +16796,15 @@
 0.0.0.0 wiadomosc017.rest
 0.0.0.0 wiadomosc178.site
 0.0.0.0 wiadomosc235.site
+0.0.0.0 wiadomosc325.site
 0.0.0.0 wiadomosc339.site
+0.0.0.0 wiadomosc515.site
 0.0.0.0 wiadomosc579.site
 0.0.0.0 wiadomosc580.site
 0.0.0.0 wiadomosc585.site
 0.0.0.0 wiadomosc617.site
 0.0.0.0 wiadomosc642.site
+0.0.0.0 wiadomosc729.site
 0.0.0.0 wiadomosc790.site
 0.0.0.0 wiadomosc918.site
 0.0.0.0 wiadomosc947.site
@@ -16801,14 +16832,17 @@
 0.0.0.0 wiadomosci-teraz5.cleverapps.io
 0.0.0.0 wiadomosci-wroclaw.xyz
 0.0.0.0 wiadomosclokalna.pl
+0.0.0.0 wiadomostka010.site
 0.0.0.0 wiadomostka019.site
 0.0.0.0 wiadomostka037.site
 0.0.0.0 wiadomostka346.site
 0.0.0.0 wiadomostka389.site
+0.0.0.0 wiadomostka430.site
 0.0.0.0 wiadomostka563.site
 0.0.0.0 wiadomostka731.site
 0.0.0.0 wiadomostka744.site
 0.0.0.0 wiadomostka822.site
+0.0.0.0 wiadomostka916.site
 0.0.0.0 wiadomostka979.site
 0.0.0.0 wiado-mosci5.netlify.app
 0.0.0.0 wiado-mosci8.netlify.app
@@ -16833,7 +16867,9 @@
 0.0.0.0 wiesc200.site
 0.0.0.0 wiesc301.site
 0.0.0.0 wiesc388.site
+0.0.0.0 wiesc431.site
 0.0.0.0 wiesc442.site
+0.0.0.0 wiesc469.site
 0.0.0.0 wiesc496.site
 0.0.0.0 wiesc677.site
 0.0.0.0 wieszjakjestrodakku.space
@@ -16919,6 +16955,7 @@
 0.0.0.0 woundred.xyz
 0.0.0.0 wowly.xyz
 0.0.0.0 wow.info247-pl.com
+0.0.0.0 wozek-rok-po-roku-cid88-idm0vps6.id-info295.com
 0.0.0.0 wp24.work
 0.0.0.0 wpad.bi
 0.0.0.0 wpad.bj
@@ -17926,11 +17963,15 @@
 0.0.0.0 www.ciekawesprawy.online
 0.0.0.0 www.ciekawkapolska.online
 0.0.0.0 www.ciekawostka082.site
+0.0.0.0 www.ciekawostka129.site
 0.0.0.0 www.ciekawostka173.site
+0.0.0.0 www.ciekawostka306.site
 0.0.0.0 www.ciekawostka389.site
 0.0.0.0 www.ciekawostka501.site
 0.0.0.0 www.ciekawostka692.site
 0.0.0.0 www.ciekawostka723.site
+0.0.0.0 www.ciekawostka724.site
+0.0.0.0 www.ciekawostka903.site
 0.0.0.0 www.cikelly.com
 0.0.0.0 www.cinao.shop
 0.0.0.0 www.cinema4k.net
@@ -19583,6 +19624,7 @@
 0.0.0.0 www.davidcandy.website.pl
 0.0.0.0 www.davidsadventures.com
 0.0.0.0 www.davinky.com
+0.0.0.0 www.daw22.pl
 0.0.0.0 www.daxioma.com
 0.0.0.0 www.daxkapital.com
 0.0.0.0 www.daxlnfpwodxh9.cloudfront.net
@@ -21189,7 +21231,11 @@
 0.0.0.0 www.infomacjeonline.rf.gd
 0.0.0.0 www.infopodatek.net
 0.0.0.0 www.inforadiogazeta.site
+0.0.0.0 www.informacja025.site
 0.0.0.0 www.informacja035.site
+0.0.0.0 www.informacja208.site
+0.0.0.0 www.informacja376.site
+0.0.0.0 www.informacja572.site
 0.0.0.0 www.informacja733.site
 0.0.0.0 www.informacja745.site
 0.0.0.0 www.informacja754.site
@@ -22372,6 +22418,7 @@
 0.0.0.0 www.myl.name
 0.0.0.0 www.mymommystruggles.com
 0.0.0.0 www.mynetcoin.com
+0.0.0.0 www.mypekaosa.com
 0.0.0.0 www.myselfgaz.site
 0.0.0.0 www.myskedu.com
 0.0.0.0 www.mytraffic.pl
@@ -22607,10 +22654,14 @@
 0.0.0.0 www.nowina018.site
 0.0.0.0 www.nowina107.site
 0.0.0.0 www.nowina112.site
+0.0.0.0 www.nowina305.site
 0.0.0.0 www.nowina378.site
 0.0.0.0 www.nowina545.site
+0.0.0.0 www.nowina636.site
 0.0.0.0 www.nowina643.site
+0.0.0.0 www.nowina699.site
 0.0.0.0 www.nowinka013.site
+0.0.0.0 www.nowinka079.site
 0.0.0.0 www.nowinka096.site
 0.0.0.0 www.nowinka136.site
 0.0.0.0 www.nowinka165.site
@@ -22621,7 +22672,12 @@
 0.0.0.0 www.nowinka977.site
 0.0.0.0 www.nowoczesnemuzeum.pl
 0.0.0.0 www.nowoffer.top
+0.0.0.0 www.nowosc002.site
+0.0.0.0 www.nowosc256.site
 0.0.0.0 www.nowosc286.site
+0.0.0.0 www.nowosc302.site
+0.0.0.0 www.nowosc371.site
+0.0.0.0 www.nowosc966.site
 0.0.0.0 www.nowplaymovie.com
 0.0.0.0 www.npcvault.com
 0.0.0.0 www.ntflixo.pl
@@ -24034,6 +24090,7 @@
 0.0.0.0 www.project2278375.turbo.site
 0.0.0.0 www.project2299805.turbo.site
 0.0.0.0 www.project2321549.turbo.site
+0.0.0.0 www.projectcourse4.us
 0.0.0.0 www.projectcourse.us
 0.0.0.0 www.projektnewonepl.info
 0.0.0.0 www.projektplfanone.info
@@ -24240,10 +24297,12 @@
 0.0.0.0 www.reklamapoznan.com.pl
 0.0.0.0 www.rekrutacjastudenci6.wixsite.com
 0.0.0.0 www.relacja066.site
+0.0.0.0 www.relacja148.site
 0.0.0.0 www.relacja171.site
 0.0.0.0 www.relacja259.site
 0.0.0.0 www.relacja316.site
 0.0.0.0 www.relacja338.site
+0.0.0.0 www.relacja385.site
 0.0.0.0 www.relacja733.site
 0.0.0.0 www.relacja998.site
 0.0.0.0 www.relativelyheterophony.com
@@ -24276,6 +24335,7 @@
 0.0.0.0 www.restricted.pl
 0.0.0.0 www.restybnoy.site
 0.0.0.0 www.retirewellinvestors.com
+0.0.0.0 www.rewelacja015.site
 0.0.0.0 www.rewelacja027.site
 0.0.0.0 www.rewelacja123.site
 0.0.0.0 www.rewelacja371.site
@@ -25753,12 +25813,15 @@
 0.0.0.0 www.wiadomosc017.rest
 0.0.0.0 www.wiadomosc178.site
 0.0.0.0 www.wiadomosc235.site
+0.0.0.0 www.wiadomosc325.site
 0.0.0.0 www.wiadomosc339.site
+0.0.0.0 www.wiadomosc515.site
 0.0.0.0 www.wiadomosc579.site
 0.0.0.0 www.wiadomosc580.site
 0.0.0.0 www.wiadomosc585.site
 0.0.0.0 www.wiadomosc617.site
 0.0.0.0 www.wiadomosc642.site
+0.0.0.0 www.wiadomosc729.site
 0.0.0.0 www.wiadomosc790.site
 0.0.0.0 www.wiadomosc918.site
 0.0.0.0 www.wiadomosc947.site
@@ -25770,14 +25833,17 @@
 0.0.0.0 www.wiadomoscizkraju.site
 0.0.0.0 www.wiadomoscizkraju.xyz
 0.0.0.0 www.wiadomosclokalna.pl
+0.0.0.0 www.wiadomostka010.site
 0.0.0.0 www.wiadomostka019.site
 0.0.0.0 www.wiadomostka037.site
 0.0.0.0 www.wiadomostka346.site
 0.0.0.0 www.wiadomostka389.site
+0.0.0.0 www.wiadomostka430.site
 0.0.0.0 www.wiadomostka563.site
 0.0.0.0 www.wiadomostka731.site
 0.0.0.0 www.wiadomostka744.site
 0.0.0.0 www.wiadomostka822.site
+0.0.0.0 www.wiadomostka916.site
 0.0.0.0 www.wiadomostka979.site
 0.0.0.0 www.wideleced.icu
 0.0.0.0 www.widelec.icu
@@ -25797,7 +25863,9 @@
 0.0.0.0 www.wiesc200.site
 0.0.0.0 www.wiesc301.site
 0.0.0.0 www.wiesc388.site
+0.0.0.0 www.wiesc431.site
 0.0.0.0 www.wiesc442.site
+0.0.0.0 www.wiesc469.site
 0.0.0.0 www.wiesc496.site
 0.0.0.0 www.wiesc677.site
 0.0.0.0 www.wieszjakjestrodakku.space
@@ -25968,12 +26036,14 @@
 0.0.0.0 www.wyzwanie.one
 0.0.0.0 www.wyzwani.biz
 0.0.0.0 www.wzabrzu.xyz
+0.0.0.0 www.wzmianka049.site
 0.0.0.0 www.wzmianka137.site
 0.0.0.0 www.wzmianka143.site
 0.0.0.0 www.wzmianka444.site
 0.0.0.0 www.wzmianka540.site
 0.0.0.0 www.wzmianka683.site
 0.0.0.0 www.wzmianka730.site
+0.0.0.0 www.wzmianka819.site
 0.0.0.0 www.wzmianka994.site
 0.0.0.0 www.wzordonassladowania.online
 0.0.0.0 www.w.gazrosnew.xyz
@@ -26069,11 +26139,15 @@
 0.0.0.0 www.zaszczepionakobieta.co.pl
 0.0.0.0 www.zatorenergylandia.waw.pl
 0.0.0.0 www.zaufajnam.space
+0.0.0.0 www.zawiadomienie109.site
 0.0.0.0 www.zawiadomienie141.site
+0.0.0.0 www.zawiadomienie196.site
+0.0.0.0 www.zawiadomienie226.site
 0.0.0.0 www.zawiadomienie354.site
 0.0.0.0 www.zawiadomienie437.site
 0.0.0.0 www.zawiadomienie463.site
 0.0.0.0 www.zawiadomienie466.site
+0.0.0.0 www.zawiadomienie468.site
 0.0.0.0 www.zawiadomienie480.site
 0.0.0.0 www.zawiadomienie520.site
 0.0.0.0 www.zawiadomienie924.site
@@ -26105,14 +26179,19 @@
 0.0.0.0 www.zgcslam.apnet.pl
 0.0.0.0 www.zgliwic.xyz
 0.0.0.0 www.zgloszenie186.site
+0.0.0.0 www.zgloszenie212.site
+0.0.0.0 www.zgloszenie260.site
 0.0.0.0 www.zgloszenie298.site
 0.0.0.0 www.zgloszenie304.site
+0.0.0.0 www.zgloszenie426.site
 0.0.0.0 www.zgloszenie433.site
 0.0.0.0 www.zgloszenie535.site
 0.0.0.0 www.zgloszenie601.site
+0.0.0.0 www.zgloszenie728.site
 0.0.0.0 www.zgloszenie812.site
 0.0.0.0 www.zgloszenie873.site
 0.0.0.0 www.zgloszenie890.site
+0.0.0.0 www.zgloszenie899.site
 0.0.0.0 www.zgloszenie980.site
 0.0.0.0 www.zhaoyouxiu.com
 0.0.0.0 www.zheldut.com
@@ -27417,6 +27496,7 @@
 0.0.0.0 www.gold-barber.pl
 0.0.0.0 www.good-business.online
 0.0.0.0 www.google-deckoffice.ml
+0.0.0.0 www.google.com-firewall.online
 0.0.0.0 www.gospodarstwo-rolne.com.pl
 0.0.0.0 www.gossip-round.com
 0.0.0.0 www.govmexx-govproject.info
@@ -27957,6 +28037,7 @@
 0.0.0.0 www.kurier-plata.digital
 0.0.0.0 www.kurier-wpiata.online
 0.0.0.0 www.kurjerzy-pl.cyou
+0.0.0.0 www.kur-jerzy.eu
 0.0.0.0 www.kwarantanna-domowa.com
 0.0.0.0 www.k-filmy.pl
 0.0.0.0 www.l77427-926984.us-south.cf.appdomain.cloud
@@ -28416,6 +28497,7 @@
 0.0.0.0 www.olx-gbjs.pl-id66424107.xyz
 0.0.0.0 www.olx-gbjs.pl-id72095199.xyz
 0.0.0.0 www.olx-gbjs.pl-id81629291.xyz
+0.0.0.0 www.olx-gbjs.pl-id89869929.xyz
 0.0.0.0 www.olx-gbjs.pl-id91152350.xyz
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-g.id-43980.me
@@ -28545,6 +28627,7 @@
 0.0.0.0 www.olx-pl-zff.id-43980.me
 0.0.0.0 www.olx-pl.3dsellp-r.com
 0.0.0.0 www.olx-pl.3vd.me
+0.0.0.0 www.olx-pl.dostawa-safety.art
 0.0.0.0 www.olx-pl.dostawa-safety.guru
 0.0.0.0 www.olx-pl.dostawa-safety.quest
 0.0.0.0 www.olx-pl.eu-pay.site
@@ -29250,6 +29333,7 @@
 0.0.0.0 www.pl-gopays.work
 0.0.0.0 www.pl-gotpaid.shop
 0.0.0.0 www.pl-id737962.info
+0.0.0.0 www.pl-include-fa.website
 0.0.0.0 www.pl-info3.site
 0.0.0.0 www.pl-info-24.pl
 0.0.0.0 www.pl-inpost.online
@@ -30318,6 +30402,7 @@
 0.0.0.0 www.world-flags.cn
 0.0.0.0 www.world-leader.website
 0.0.0.0 www.wow.info247-pl.com
+0.0.0.0 www.wozek-rok-po-roku-cid88-idm0vps6.id-info295.com
 0.0.0.0 www.wpiata-paczkomat.host
 0.0.0.0 www.wpisy-wynikow.eu
 0.0.0.0 www.wplata-inpost.cyou
@@ -30547,12 +30632,14 @@
 0.0.0.0 wyzwani.biz
 0.0.0.0 wyzwanie.one
 0.0.0.0 wzabrzu.xyz
+0.0.0.0 wzmianka049.site
 0.0.0.0 wzmianka137.site
 0.0.0.0 wzmianka143.site
 0.0.0.0 wzmianka444.site
 0.0.0.0 wzmianka540.site
 0.0.0.0 wzmianka683.site
 0.0.0.0 wzmianka730.site
+0.0.0.0 wzmianka819.site
 0.0.0.0 wzmianka994.site
 0.0.0.0 wzmianka-duza.eu
 0.0.0.0 wzordonassladowania.online
@@ -30721,11 +30808,15 @@
 0.0.0.0 zatorenergylandia.waw.pl
 0.0.0.0 zator-energlanndia.waw.pl
 0.0.0.0 zaufajnam.space
+0.0.0.0 zawiadomienie109.site
 0.0.0.0 zawiadomienie141.site
+0.0.0.0 zawiadomienie196.site
+0.0.0.0 zawiadomienie226.site
 0.0.0.0 zawiadomienie354.site
 0.0.0.0 zawiadomienie437.site
 0.0.0.0 zawiadomienie463.site
 0.0.0.0 zawiadomienie466.site
+0.0.0.0 zawiadomienie468.site
 0.0.0.0 zawiadomienie480.site
 0.0.0.0 zawiadomienie520.site
 0.0.0.0 zawiadomienie924.site
@@ -30769,14 +30860,19 @@
 0.0.0.0 zgcslam.apnet.pl
 0.0.0.0 zgliwic.xyz
 0.0.0.0 zgloszenie186.site
+0.0.0.0 zgloszenie212.site
+0.0.0.0 zgloszenie260.site
 0.0.0.0 zgloszenie298.site
 0.0.0.0 zgloszenie304.site
+0.0.0.0 zgloszenie426.site
 0.0.0.0 zgloszenie433.site
 0.0.0.0 zgloszenie535.site
 0.0.0.0 zgloszenie601.site
+0.0.0.0 zgloszenie728.site
 0.0.0.0 zgloszenie812.site
 0.0.0.0 zgloszenie873.site
 0.0.0.0 zgloszenie890.site
+0.0.0.0 zgloszenie899.site
 0.0.0.0 zgloszenie980.site
 0.0.0.0 zhaoyouxiu.com
 0.0.0.0 zheldut.com
