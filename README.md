@@ -18,9 +18,7 @@ Jeżeli korzystasz z **Pi-hole**, to polecamy również zainstalować dodatkową
 
 # Używanie listy HOSTS z pomocą DNS
 
-Niektóre DNS-y używają naszej listy **KADhosts** i można je alternatywnie używać (np. na urządzeniach mobilnych). Są to między innymi:
+Niektóre DNS-y używają naszych list **KAD** w formacie hosts oraz domenowym i można je alternatywnie używać (np. na urządzeniach mobilnych). Są to między innymi:
 
-* https://nextdns.io/ (zawiera bezpośrednio listę KAD w domyślnej konfiguracji - [StevenBlack/hosts](https://github.com/StevenBlack/hosts))<!-- * https://dnscrypt.pl/ (wersja `dnscrypt.pl-armada`) -->
-* https://libredns.gr/ (wersja z adblockiem*, bazuje na StevenBlack hosts)
-* https://ahadns.com/ (bazuje na **oisd.nl**)
-* https://adhole.org/ (bazuje na **oisd.nl**)
+* [nextdns.io](https://nextdns.io/) (zawiera bezpośrednio listę **KADomeny** w domyślnej konfiguracji, opcjonalnie można włączyć „blokowanie nowo zarejestrowanych domen (NRD)”),
+* [libredns.gr](https://libredns.gr/) (wersja z aktywnym adblockiem, bazuje na [StevenBlack hosts](https://github.com/StevenBlack/hosts).
