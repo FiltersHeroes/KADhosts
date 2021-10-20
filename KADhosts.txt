@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 20 Oct 2021, 13:09 UTC+02
-# Version: 2021.10.20.0
+# Last modified: Wed, 20 Oct 2021, 17:09 UTC+02
+# Version: 2021.10.20.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -242,6 +242,7 @@
 0.0.0.0 butyskecherspolska.com
 0.0.0.0 butysklepnkpl.com
 0.0.0.0 butysorelpolska.com
+0.0.0.0 butysportowepl.pl
 0.0.0.0 butysportowepolska.pl
 0.0.0.0 butysportpl.com
 0.0.0.0 butysuprassklep.com
@@ -706,6 +707,7 @@
 0.0.0.0 kayastylowetorebki.pl
 0.0.0.0 kedsbuty.top
 0.0.0.0 kedspolska.com
+0.0.0.0 keentrekkingi.com
 0.0.0.0 keepitavocado.com
 0.0.0.0 kennethcolebuty.com
 0.0.0.0 kennethcolepolska.com
@@ -851,6 +853,7 @@
 0.0.0.0 martens1460.top
 0.0.0.0 martensbuty.top
 0.0.0.0 martensbutysklep.com
+0.0.0.0 martenssklepy.com
 0.0.0.0 marzectoyoty.pl
 0.0.0.0 masazstarogard.com.pl
 0.0.0.0 maseczki.org
@@ -980,6 +983,7 @@
 0.0.0.0 nonansklep.pl
 0.0.0.0 noozy-led.com
 0.0.0.0 northfacepolska.pl
+0.0.0.0 northfacesklepy.com
 0.0.0.0 northfacespromocja.com
 0.0.0.0 northfacewyprzedaz.com
 0.0.0.0 northfacewyprzedaz.org
@@ -1345,6 +1349,7 @@
 0.0.0.0 spluczto.pl
 0.0.0.0 spokeo.pl
 0.0.0.0 sportinpro.com
+0.0.0.0 sportowebutyad.pl
 0.0.0.0 sportshops.pl
 0.0.0.0 spotlessweb.com
 0.0.0.0 sprawdzianyodpowiedzi.pl
@@ -1779,6 +1784,7 @@
 0.0.0.0 www.butyskecherspolska.com
 0.0.0.0 www.butysklepnkpl.com
 0.0.0.0 www.butysorelpolska.com
+0.0.0.0 www.butysportowepl.pl
 0.0.0.0 www.butysportowepolska.pl
 0.0.0.0 www.butysportpl.com
 0.0.0.0 www.butysuprassklep.com
@@ -2167,6 +2173,7 @@
 0.0.0.0 www.kayastylowetorebki.pl
 0.0.0.0 www.kedsbuty.top
 0.0.0.0 www.kedspolska.com
+0.0.0.0 www.keentrekkingi.com
 0.0.0.0 www.keepitavocado.com
 0.0.0.0 www.kennethcolebuty.com
 0.0.0.0 www.kennethcolepolska.com
@@ -2298,6 +2305,7 @@
 0.0.0.0 www.martens1460.top
 0.0.0.0 www.martensbutysklep.com
 0.0.0.0 www.martensbuty.top
+0.0.0.0 www.martenssklepy.com
 0.0.0.0 www.marzectoyoty.pl
 0.0.0.0 www.masazstarogard.com.pl
 0.0.0.0 www.maseczki.org
@@ -2414,6 +2422,7 @@
 0.0.0.0 www.nodiotel.com
 0.0.0.0 www.nonansklep.pl
 0.0.0.0 www.northfacepolska.pl
+0.0.0.0 www.northfacesklepy.com
 0.0.0.0 www.northfacespromocja.com
 0.0.0.0 www.northfacewyprzedaz.com
 0.0.0.0 www.northfacewyprzedaz.org
@@ -2727,6 +2736,7 @@
 0.0.0.0 www.spluczto.pl
 0.0.0.0 www.spokeo.pl
 0.0.0.0 www.sportinpro.com
+0.0.0.0 www.sportowebutyad.pl
 0.0.0.0 www.sportshops.pl
 0.0.0.0 www.spotlessweb.com
 0.0.0.0 www.sprawdzianyodpowiedzi.pl
@@ -4586,6 +4596,7 @@
 0.0.0.0 az5sdu.webwave.dev
 0.0.0.0 azawebspace.com
 0.0.0.0 azcybersec.com
+0.0.0.0 azizr.ml
 0.0.0.0 a-liep.org
 0.0.0.0 b2berlin.se
 0.0.0.0 b2meguy.com
@@ -5356,6 +5367,7 @@
 0.0.0.0 cache.server560960.nazwa.pl
 0.0.0.0 caeiriolskiaopazertyiop.xyz
 0.0.0.0 cagreeninvest.com
+0.0.0.0 caidiseya.com
 0.0.0.0 cakepress.es
 0.0.0.0 caldai.com
 0.0.0.0 callandget.co.in
@@ -7704,6 +7716,7 @@
 0.0.0.0 dobresformulowannie24.site
 0.0.0.0 dobrezpokazanaredakcja.cyou
 0.0.0.0 dobre-filmy.pl
+0.0.0.0 dobre-porady.waw.pl
 0.0.0.0 dobrydzien.xyz
 0.0.0.0 dobrywpllywnato24.site
 0.0.0.0 dobry-biznes-onet.tokoapril.com
@@ -8160,11 +8173,13 @@
 0.0.0.0 elektronika983510.xyz
 0.0.0.0 elektronika984981.xyz
 0.0.0.0 elememory.com
+0.0.0.0 elementsxp.com
 0.0.0.0 eletrics.host
 0.0.0.0 elijahpashby.com
 0.0.0.0 elitefitzone.com
 0.0.0.0 elitegadgetinsider.com
 0.0.0.0 elixica.com
+0.0.0.0 elizapet.com
 0.0.0.0 ellise.pl
 0.0.0.0 elon21.net
 0.0.0.0 elophean.com
@@ -8419,6 +8434,7 @@
 0.0.0.0 fajny-bon.click
 0.0.0.0 fakenews-app.com
 0.0.0.0 faksowy.is-best.net
+0.0.0.0 fakt.pisz.pl
 0.0.0.0 fakt11.seohost.com.pl
 0.0.0.0 fakt24.com.pl
 0.0.0.0 fakt24informacje.pl
@@ -8700,6 +8716,7 @@
 0.0.0.0 fkty24miasto.pl
 0.0.0.0 fkty24miastowe.pl
 0.0.0.0 fkty24miastowo.pl
+0.0.0.0 fktymiasto24.pl
 0.0.0.0 fl.sv
 0.0.0.0 flaginpocket.com
 0.0.0.0 flashplayerpl.top
@@ -9664,6 +9681,9 @@
 0.0.0.0 ingpl.eu
 0.0.0.0 ing-ll.pl
 0.0.0.0 ini1.pl
+0.0.0.0 ini2.pl
+0.0.0.0 ini3.pl
+0.0.0.0 ini4.pl
 0.0.0.0 iniciuj-pomoc.eu
 0.0.0.0 ininnoetofe.ml
 0.0.0.0 inipost.net
@@ -9839,6 +9859,7 @@
 0.0.0.0 inpost-pl.joyregbuyitem.pw
 0.0.0.0 inpost-pl.net
 0.0.0.0 inpost-pl.offeringpay.icu
+0.0.0.0 inpost-pl.offertopay.icu
 0.0.0.0 inpost-pl.online
 0.0.0.0 inpost-pl.payoffering.icu
 0.0.0.0 inpost-pl.payregisway.pw
@@ -9857,8 +9878,10 @@
 0.0.0.0 inpost-pl-ptb.id-4989980.me
 0.0.0.0 inpost-pl-px.id98325.me
 0.0.0.0 inpost-pl-ta.id-4365.me
+0.0.0.0 inpost-pl-th.id-info43.me
 0.0.0.0 inpost-pl-vs.id94835.me
 0.0.0.0 inpost-pl.58732.space
+0.0.0.0 inpost-pl.306583.space
 0.0.0.0 inpost-pl.545894.xyz
 0.0.0.0 inpost-pl.delivery-orders.icu
 0.0.0.0 inpost-pl.dostawa-safety.art
@@ -9935,6 +9958,7 @@
 0.0.0.0 inpost.pl-hold.club
 0.0.0.0 inpost.pl-holdorder.club
 0.0.0.0 inpost.pl-holdorders.club
+0.0.0.0 inpost.pl-id49549138.xyz
 0.0.0.0 inpost.pl-info-konto-konto.site
 0.0.0.0 inpost.pl-info-odbior.site
 0.0.0.0 inpost.pl-kontos-oferta.club
@@ -11578,6 +11602,7 @@
 0.0.0.0 napierdzielanki.pl
 0.0.0.0 napoczatekpopatrztutaj.club
 0.0.0.0 napompowanebizznesy24.space
+0.0.0.0 napowaznie.waw.pl
 0.0.0.0 naprawdesiedzieje.space
 0.0.0.0 naprawdetozmienn.club
 0.0.0.0 naprzeciwkoludziom.online
@@ -12438,6 +12463,7 @@
 0.0.0.0 olx-pl-zff.id-43980.me
 0.0.0.0 olx-pl.3dsellp-r.com
 0.0.0.0 olx-pl.3vd.me
+0.0.0.0 olx-pl.306583.space
 0.0.0.0 olx-pl.545894.xyz
 0.0.0.0 olx-pl.dostawa-safety.art
 0.0.0.0 olx-pl.dostawa-safety.guru
@@ -15464,6 +15490,7 @@
 0.0.0.0 server589251.nazwa.pl
 0.0.0.0 server638018.nazwa.pl
 0.0.0.0 server642307.nazwa.pl
+0.0.0.0 server652231.nazwa.pl
 0.0.0.0 server669725.nazwa.pl
 0.0.0.0 server726466.nazwa.pl
 0.0.0.0 server730135.nazwa.pl
@@ -15727,6 +15754,7 @@
 0.0.0.0 sms-secure.one
 0.0.0.0 sms-za-darmo.pl
 0.0.0.0 smushgame.com
+0.0.0.0 snbox.org
 0.0.0.0 sne.bydgoszcz.pl
 0.0.0.0 sneakerspace.pl
 0.0.0.0 sneakerz2020.com
@@ -17896,6 +17924,7 @@
 0.0.0.0 www.az5sdu.webwave.dev
 0.0.0.0 www.azawebspace.com
 0.0.0.0 www.azcybersec.com
+0.0.0.0 www.azizr.ml
 0.0.0.0 www.b2berlin.se
 0.0.0.0 www.b2meguy.com
 0.0.0.0 www.b2work.pl
@@ -18351,6 +18380,7 @@
 0.0.0.0 www.cache.server560960.nazwa.pl
 0.0.0.0 www.caeiriolskiaopazertyiop.xyz
 0.0.0.0 www.cagreeninvest.com
+0.0.0.0 www.caidiseya.com
 0.0.0.0 www.cakepress.es
 0.0.0.0 www.caldai.com
 0.0.0.0 www.callandget.co.in
@@ -20815,11 +20845,13 @@
 0.0.0.0 www.elektronika983510.xyz
 0.0.0.0 www.elektronika984981.xyz
 0.0.0.0 www.elememory.com
+0.0.0.0 www.elementsxp.com
 0.0.0.0 www.eletrics.host
 0.0.0.0 www.elijahpashby.com
 0.0.0.0 www.elitefitzone.com
 0.0.0.0 www.elitegadgetinsider.com
 0.0.0.0 www.elixica.com
+0.0.0.0 www.elizapet.com
 0.0.0.0 www.ellise.pl
 0.0.0.0 www.elon21.net
 0.0.0.0 www.elophean.com
@@ -21021,6 +21053,7 @@
 0.0.0.0 www.fakty24.you2.pl
 0.0.0.0 www.faktyiinfo24.pl
 0.0.0.0 www.faktyinfo24.pl
+0.0.0.0 www.fakt.pisz.pl
 0.0.0.0 www.falconoption.com
 0.0.0.0 www.falconpeons.com
 0.0.0.0 www.famecala.com
@@ -21210,6 +21243,7 @@
 0.0.0.0 www.fkty24miastowe.pl
 0.0.0.0 www.fkty24miastowo.pl
 0.0.0.0 www.fkty24miasto.pl
+0.0.0.0 www.fktymiasto24.pl
 0.0.0.0 www.flaginpocket.com
 0.0.0.0 www.flashplayerpl.top
 0.0.0.0 www.flashupdate.digital
@@ -21892,6 +21926,9 @@
 0.0.0.0 www.ingpl.eu
 0.0.0.0 www.ing.pl.proxy.c7s.io
 0.0.0.0 www.ini1.pl
+0.0.0.0 www.ini2.pl
+0.0.0.0 www.ini3.pl
+0.0.0.0 www.ini4.pl
 0.0.0.0 www.ininnoetofe.ml
 0.0.0.0 www.inipost.net
 0.0.0.0 www.inipoy.net
@@ -23099,6 +23136,7 @@
 0.0.0.0 www.napierdzielanki.pl
 0.0.0.0 www.napoczatekpopatrztutaj.club
 0.0.0.0 www.napompowanebizznesy24.space
+0.0.0.0 www.napowaznie.waw.pl
 0.0.0.0 www.naprawdesiedzieje.space
 0.0.0.0 www.naprawdetozmienn.club
 0.0.0.0 www.naprzeciwkoludziom.online
@@ -25282,6 +25320,7 @@
 0.0.0.0 www.server589251.nazwa.pl
 0.0.0.0 www.server638018.nazwa.pl
 0.0.0.0 www.server642307.nazwa.pl
+0.0.0.0 www.server652231.nazwa.pl
 0.0.0.0 www.server669725.nazwa.pl
 0.0.0.0 www.server726466.nazwa.pl
 0.0.0.0 www.server730135.nazwa.pl
@@ -25479,6 +25518,7 @@
 0.0.0.0 www.smszz.in
 0.0.0.0 www.sms.mba
 0.0.0.0 www.smushgame.com
+0.0.0.0 www.snbox.org
 0.0.0.0 www.sneakerspace.pl
 0.0.0.0 www.sneakerz2020.com
 0.0.0.0 www.sne.bydgoszcz.pl
@@ -27894,6 +27934,7 @@
 0.0.0.0 www.dobierajmy-wygranych.eu
 0.0.0.0 www.dobra-bramka-sms.pl
 0.0.0.0 www.dobre-filmy.pl
+0.0.0.0 www.dobre-porady.waw.pl
 0.0.0.0 www.dobry-biznes-onet.tokoapril.com
 0.0.0.0 www.dobry-biznes-pudelek.tokoapril.com
 0.0.0.0 www.dobry-biznes-wp.tokoapril.com
@@ -28562,6 +28603,7 @@
 0.0.0.0 www.inpost-pl.joyregbuyitem.pw
 0.0.0.0 www.inpost-pl.net
 0.0.0.0 www.inpost-pl.offeringpay.icu
+0.0.0.0 www.inpost-pl.offertopay.icu
 0.0.0.0 www.inpost-pl.online
 0.0.0.0 www.inpost-pl.payoffering.icu
 0.0.0.0 www.inpost-pl.payregisway.pw
@@ -28580,8 +28622,10 @@
 0.0.0.0 www.inpost-pl-ptb.id-4989980.me
 0.0.0.0 www.inpost-pl-px.id98325.me
 0.0.0.0 www.inpost-pl-ta.id-4365.me
+0.0.0.0 www.inpost-pl-th.id-info43.me
 0.0.0.0 www.inpost-pl-vs.id94835.me
 0.0.0.0 www.inpost-pl.58732.space
+0.0.0.0 www.inpost-pl.306583.space
 0.0.0.0 www.inpost-pl.545894.xyz
 0.0.0.0 www.inpost-pl.delivery-orders.icu
 0.0.0.0 www.inpost-pl.dostawa-safety.art
@@ -28658,6 +28702,7 @@
 0.0.0.0 www.inpost.pl-hold.club
 0.0.0.0 www.inpost.pl-holdorder.club
 0.0.0.0 www.inpost.pl-holdorders.club
+0.0.0.0 www.inpost.pl-id49549138.xyz
 0.0.0.0 www.inpost.pl-info-konto-konto.site
 0.0.0.0 www.inpost.pl-info-odbior.site
 0.0.0.0 www.inpost.pl-kontos-oferta.club
@@ -29507,6 +29552,7 @@
 0.0.0.0 www.olx-pl-zff.id-43980.me
 0.0.0.0 www.olx-pl.3dsellp-r.com
 0.0.0.0 www.olx-pl.3vd.me
+0.0.0.0 www.olx-pl.306583.space
 0.0.0.0 www.olx-pl.545894.xyz
 0.0.0.0 www.olx-pl.dostawa-safety.art
 0.0.0.0 www.olx-pl.dostawa-safety.guru
