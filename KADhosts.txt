@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 05 Nov 2021, 12:09 UTC+01
-# Version: 2021.11.5.0
+# Last modified: Fri, 05 Nov 2021, 16:09 UTC+01
+# Version: 2021.11.5.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -9756,6 +9756,7 @@
 0.0.0.0 inpost-pl-safe.id-safety.store
 0.0.0.0 inpost-pl-secure.id-safety.sbs
 0.0.0.0 inpost-pl-secure.id-safety.shop
+0.0.0.0 inpost-pl-ssl.id-safety.sbs
 0.0.0.0 inpost-pl-ta.id-4365.me
 0.0.0.0 inpost-pl.58732.space
 0.0.0.0 inpost-pl.74882.space
@@ -9766,7 +9767,9 @@
 0.0.0.0 inpost-pl.725031.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 inpost-pl.855523.space
+0.0.0.0 inpost-pl.2653356-offerts.xyz
 0.0.0.0 inpost-pl.5476128-order.xyz
+0.0.0.0 inpost-pl.6235482-bill-order.xyz
 0.0.0.0 inpost-pl.6352915-offerts.xyz
 0.0.0.0 inpost-pl.7758473.space
 0.0.0.0 inpost-pl.id-safety.store
@@ -9788,6 +9791,7 @@
 0.0.0.0 inpost.my-dostawa.bar
 0.0.0.0 inpost.my-dostawa.club
 0.0.0.0 inpost.order-pl.art
+0.0.0.0 inpost.pay-order-safe.site
 0.0.0.0 inpost.pl-basederecom.pw
 0.0.0.0 inpost.pl-c.cf
 0.0.0.0 inpost.pl-dostawa-id653213.xyz
@@ -28174,6 +28178,7 @@
 0.0.0.0 www.inpost-pl-safe.id-safety.store
 0.0.0.0 www.inpost-pl-secure.id-safety.sbs
 0.0.0.0 www.inpost-pl-secure.id-safety.shop
+0.0.0.0 www.inpost-pl-ssl.id-safety.sbs
 0.0.0.0 www.inpost-pl-ta.id-4365.me
 0.0.0.0 www.inpost-pl.58732.space
 0.0.0.0 www.inpost-pl.74882.space
@@ -28184,7 +28189,9 @@
 0.0.0.0 www.inpost-pl.725031.space
 0.0.0.0 www.inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.855523.space
+0.0.0.0 www.inpost-pl.2653356-offerts.xyz
 0.0.0.0 www.inpost-pl.5476128-order.xyz
+0.0.0.0 www.inpost-pl.6235482-bill-order.xyz
 0.0.0.0 www.inpost-pl.6352915-offerts.xyz
 0.0.0.0 www.inpost-pl.7758473.space
 0.0.0.0 www.inpost-pl.id-safety.store
@@ -28206,6 +28213,7 @@
 0.0.0.0 www.inpost.my-dostawa.bar
 0.0.0.0 www.inpost.my-dostawa.club
 0.0.0.0 www.inpost.order-pl.art
+0.0.0.0 www.inpost.pay-order-safe.site
 0.0.0.0 www.inpost.pl-basederecom.pw
 0.0.0.0 www.inpost.pl-c.cf
 0.0.0.0 www.inpost.pl-dostawa-id653213.xyz
