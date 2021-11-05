@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 05 Nov 2021, 20:37 UTC+01
-# Version: 2021.11.5.2
+# Last modified: Fri, 05 Nov 2021, 23:08 UTC+01
+# Version: 2021.11.5.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -282,6 +282,7 @@
 0.0.0.0 cairn-westie.com.pl
 0.0.0.0 calcionostra.pl
 0.0.0.0 calistenix.pl
+0.0.0.0 calvinkleinsklep.pl
 0.0.0.0 calzini.org
 0.0.0.0 camiliana.pl
 0.0.0.0 camperpolskasklep.com
@@ -591,6 +592,7 @@
 0.0.0.0 glinkss.com
 0.0.0.0 gmagazyn.pl
 0.0.0.0 gnibrinfgoy.com
+0.0.0.0 gnootel.com
 0.0.0.0 gojiberry500.pl
 0.0.0.0 gokano.com
 0.0.0.0 goldenrelations.pl
@@ -1523,6 +1525,7 @@
 0.0.0.0 uggoutlet.pl
 0.0.0.0 uggpolskasklep.com
 0.0.0.0 uggwyprzedaz.pl
+0.0.0.0 uksale.pl
 0.0.0.0 ukskrokus.pl
 0.0.0.0 ukssvida.pl
 0.0.0.0 ultracolors.pl
@@ -1855,6 +1858,7 @@
 0.0.0.0 www.caffeepolit.pl
 0.0.0.0 www.calcionostra.pl
 0.0.0.0 www.calistenix.pl
+0.0.0.0 www.calvinkleinsklep.pl
 0.0.0.0 www.calzini.org
 0.0.0.0 www.camiliana.pl
 0.0.0.0 www.camperpolskasklep.com
@@ -2115,6 +2119,7 @@
 0.0.0.0 www.glinkss.com
 0.0.0.0 www.gmagazyn.pl
 0.0.0.0 www.gnibrinfgoy.com
+0.0.0.0 www.gnootel.com
 0.0.0.0 www.gojiberry500.pl
 0.0.0.0 www.gokano.com
 0.0.0.0 www.goldenrelations.pl
@@ -2917,6 +2922,7 @@
 0.0.0.0 www.uggoutlet.pl
 0.0.0.0 www.uggpolskasklep.com
 0.0.0.0 www.uggwyprzedaz.pl
+0.0.0.0 www.uksale.pl
 0.0.0.0 www.ukskrokus.pl
 0.0.0.0 www.ukssvida.pl
 0.0.0.0 www.ultracolors.pl
@@ -8417,9 +8423,11 @@
 0.0.0.0 faktyyy24.pl
 0.0.0.0 fakty-24-pl.com.pl
 0.0.0.0 fakty-24-pl.pl
+0.0.0.0 fakty-24-wydarzenia.pl
 0.0.0.0 fakty-informacje24.you2.pl
 0.0.0.0 fakty-polska24.eu
 0.0.0.0 fakty-po-faktach.pl
+0.0.0.0 fakt-24-wydarzenia.pl
 0.0.0.0 fakt-online.waw.pl
 0.0.0.0 falconoption.com
 0.0.0.0 falconpeons.com
@@ -12036,6 +12044,7 @@
 0.0.0.0 olx.pl.oferta.cyou
 0.0.0.0 olx.pl.topaybbitfor.pw
 0.0.0.0 olx.pl.transbuyingite.pw
+0.0.0.0 olx.pl.wysylka.me
 0.0.0.0 olx.pl.wysylka.net
 0.0.0.0 olx.pl.wysylka.shop
 0.0.0.0 olx.przewiezienie.pl
@@ -13455,6 +13464,7 @@
 0.0.0.0 pieklodlakobiet.podpisz-petycje.eu
 0.0.0.0 pieklokobiet.podpisz-petycje.eu
 0.0.0.0 pieklo-kobiet.podpisz-petycje.eu
+0.0.0.0 pieknebajki.pl
 0.0.0.0 piekne.bloguje-teraz.eu
 0.0.0.0 piekniludzie.live
 0.0.0.0 pieknozywicy.pl
@@ -13708,6 +13718,9 @@
 0.0.0.0 pl-dostawa.top
 0.0.0.0 pl-dpd-dostawa.30997.space
 0.0.0.0 pl-fakt24.pl
+0.0.0.0 pl-fakty-24-wydarzenia.pl
+0.0.0.0 pl-fakty-wydarzenia.pl
+0.0.0.0 pl-fakt-24-wydarzenia.pl
 0.0.0.0 pl-gazeta.osc-fr1.scalingo.io
 0.0.0.0 pl-getcash.club
 0.0.0.0 pl-getcash.xyz
@@ -14291,6 +14304,7 @@
 0.0.0.0 pozostalospoorroczasu.cyou
 0.0.0.0 pozyczkiwroclaw.com.pl
 0.0.0.0 po-covid19.waw.pl
+0.0.0.0 po-szczepieniu.pl
 0.0.0.0 ppay.site
 0.0.0.0 ppdos.capitalnoster.site
 0.0.0.0 ppl-puls.gloryft.com
@@ -15815,6 +15829,8 @@
 0.0.0.0 szczepieniebezigly.info
 0.0.0.0 szczepieniebezigly.la
 0.0.0.0 szczepienieprzeciwcovid.co.pl
+0.0.0.0 szczepimysie.org.pl
+0.0.0.0 szczepionki0.pl
 0.0.0.0 szczepionki24.you2.pl
 0.0.0.0 szczepionki.000webhostapp.com
 0.0.0.0 szczesliwe-zakupy.click
@@ -15848,6 +15864,7 @@
 0.0.0.0 szukamyjej.rest
 0.0.0.0 szukamypl.rest
 0.0.0.0 szukamyteraz.rest
+0.0.0.0 szukaszsiebie.pl
 0.0.0.0 szybcyiwscielki7.wordpress.com
 0.0.0.0 szybka7demka24h7.click
 0.0.0.0 szybka-dostawa.pl
@@ -23291,6 +23308,7 @@
 0.0.0.0 www.olx.pl.oferta.cyou
 0.0.0.0 www.olx.pl.topaybbitfor.pw
 0.0.0.0 www.olx.pl.transbuyingite.pw
+0.0.0.0 www.olx.pl.wysylka.me
 0.0.0.0 www.olx.pl.wysylka.net
 0.0.0.0 www.olx.pl.wysylka.shop
 0.0.0.0 www.olx.przewiezienie.pl
@@ -24016,6 +24034,7 @@
 0.0.0.0 www.picslab.co.za
 0.0.0.0 www.pidepk.org
 0.0.0.0 www.pieepisodes.info
+0.0.0.0 www.pieknebajki.pl
 0.0.0.0 www.piekniludzie.live
 0.0.0.0 www.pieknozywicy.pl
 0.0.0.0 www.pieknykraj.icu
@@ -25521,6 +25540,8 @@
 0.0.0.0 www.szczepieniebezigly.info
 0.0.0.0 www.szczepieniebezigly.la
 0.0.0.0 www.szczepienieprzeciwcovid.co.pl
+0.0.0.0 www.szczepimysie.org.pl
+0.0.0.0 www.szczepionki0.pl
 0.0.0.0 www.szczepionki24.you2.pl
 0.0.0.0 www.szkjpackaging.com
 0.0.0.0 www.szklarnie170.com
@@ -25548,6 +25569,7 @@
 0.0.0.0 www.szukamyjej.rest
 0.0.0.0 www.szukamypl.rest
 0.0.0.0 www.szukamyteraz.rest
+0.0.0.0 www.szukaszsiebie.pl
 0.0.0.0 www.szybcyiwscielki7.wordpress.com
 0.0.0.0 www.szybka7demka24h7.click
 0.0.0.0 www.szybkiezycie1.online
@@ -26810,6 +26832,7 @@
 0.0.0.0 www.zweryfikuj.ga
 0.0.0.0 www.zwiazekbankowpolskich.com
 0.0.0.0 www.zwierzoszop.com
+0.0.0.0 www.zwyklyspacer.pl
 0.0.0.0 www.zycienieuslaneluksusem.website
 0.0.0.0 www.zyciezdnianadzien.cyou
 0.0.0.0 www.zyciezycie.cam
@@ -27807,9 +27830,11 @@
 0.0.0.0 www.faktynews-online24.eu
 0.0.0.0 www.fakty-24-pl.com.pl
 0.0.0.0 www.fakty-24-pl.pl
+0.0.0.0 www.fakty-24-wydarzenia.pl
 0.0.0.0 www.fakty-informacje24.you2.pl
 0.0.0.0 www.fakty-polska24.eu
 0.0.0.0 www.fakty-po-faktach.pl
+0.0.0.0 www.fakt-24-wydarzenia.pl
 0.0.0.0 www.fakt-online.waw.pl
 0.0.0.0 www.fanplplpgeinv1-tech.info
 0.0.0.0 www.fanwestpge-pl1.info
@@ -29640,6 +29665,9 @@
 0.0.0.0 www.pl-dostawa.top
 0.0.0.0 www.pl-dpd-dostawa.30997.space
 0.0.0.0 www.pl-fakt24.pl
+0.0.0.0 www.pl-fakty-24-wydarzenia.pl
+0.0.0.0 www.pl-fakty-wydarzenia.pl
+0.0.0.0 www.pl-fakt-24-wydarzenia.pl
 0.0.0.0 www.pl-gazeta.osc-fr1.scalingo.io
 0.0.0.0 www.pl-getcash.club
 0.0.0.0 www.pl-getcash.xyz
@@ -29941,6 +29969,7 @@
 0.0.0.0 www.potwierdzenie.wp-pl.eu
 0.0.0.0 www.potwierdz-wiek.ml
 0.0.0.0 www.po-covid19.waw.pl
+0.0.0.0 www.po-szczepieniu.pl
 0.0.0.0 www.ppl-puls.gloryft.com
 0.0.0.0 www.praca-logowanie-4.ct8.pl
 0.0.0.0 www.praca-zaloguj.ct8.pl
@@ -31245,6 +31274,7 @@
 0.0.0.0 zwiazekbankowpolskich.com
 0.0.0.0 zwierzeta-olx.pl
 0.0.0.0 zwierzoszop.com
+0.0.0.0 zwyklyspacer.pl
 0.0.0.0 zycienieuslaneluksusem.website
 0.0.0.0 zyciezdnianadzien.cyou
 0.0.0.0 zyciezycie.cam
