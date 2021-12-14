@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 02 Nov 2021, 22:59 UTC+01
-# Version: 2021.11.2.0
+# Last modified: Tue, 14 Dec 2021, 12:11 UTC+01
+# Version: 2021.12.14.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -22,8 +22,6 @@
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + hole_przekrety.txt => Pi-hole RegEx
 (^|\.)agloclar\.com$
-(^|\.)allegrolokalkie\..*$
-(^|\.)allegrolokalne\..*$
 (^|\.)allegroloklinie-oferta.*\.xyz$
 (^|\.)allegro(finanse)?[0-9]+\.pl$
 (^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
@@ -31,38 +29,19 @@
 (^|\.)apple-.*\.deviceoffergiveaways\.icu$
 (^|\.)bestshopping-voucher\.com$
 (^|\.)cache\.server560960\.nazwa\.pl$
-(^|\.)childalertfakt\..*$
 (^|\.)creativego[a-z0-9]{20}\.com$
 (^|\.)dates-here-now.*\.com$
 (^|\.)dating-4-adults.*\.com$
 (^|\.)dating-heart.*\.com$
-(^|\.)delivery\.olx-pl\..*$
-(^|\.)delivery\.olx\.oferta\..*$
 (^|\.)distracted-babbage-.*\.netlify\.app$
 (^|\.)dobrapraca.*\.ct8\.pl$
-(^|\.)dostawa-olx-pl\..*$
-(^|\.)dostawa-olx\..*$
 (^|\.)dreamwoman-finder.*\.com$
-(^|\.)dworzecfakt\..*$
-(^|\.)dworzecporwanie\..*$
-(^|\.)dzieckoalert\..*$
-(^|\.)eporwanienatalki\..*$
-(^|\.)e-childalert\..*$
-(^|\.)e-polskaporwania\..*$
-(^|\.)e-porwanienatalki\..*$
-(^|\.)e-poszukiwania\..*$
-(^|\.)e-poszukiwanie\..*$
 (^|\.)faccebook.*\.5v\.pl$
-(^|\.)facebbooc\..*$
 (^|\.)facebbook.*\.5v\.pl$
-(^|\.)faceboobko\..*\.*$
 (^|\.)facebook.*\.5v\.pl$
 (^|\.)facebook.*\.7m\.pl$
-(^|\.)facebook\.podpisz-petycje\..*$
 (^|\.)faktury[0-9]+\.org$
 (^|\.)faktypolska.*\.b-cdn\.net$
-(^|\.)faktyzaginiecie24\..*$
-(^|\.)fakty-onet48\..*$
 (^|\.)fakt.*\.is-best\.net$
 (^|\.)fb-service-login.*\.you2\.pl$
 (^|\.)findyourlovenow.*\.com$
@@ -72,47 +51,21 @@
 (^|\.)historieludzkie.*\.online$
 (^|\.)inform.*\.is-best\.net$
 (^|\.)instasexlocator.*\.com$
-(^|\.)ionetporwanie\..*$
-(^|\.)iporwaniedziecka24\..*$
 (^|\.)kartliew\.com$
 (^|\.)komornik.*-gov\.tk$
 (^|\.)lifehack[0-9]+\.wikmostwantedxc\.pl$
 (^|\.)localdates.*\.com$
 (^|\.)lokalneinformacje.*\.vot\.pl$
-(^|\.)millensbank\..*$
-(^|\.)millensbannk\..*$
-(^|\.)millensbbannk\..*$
 (^|\.)mobile-app-market-here.*\.life$
 (^|\.)money-for-you-.*\.ru$
 (^|\.)mysexdating.*\.club$
-(^|\.)nazwapaiement-pl-.*\.*\.*$
-(^|\.)nazwapay-pl-.*\.*\.*$
 (^|\.)newsy.*\.pro-linuxpl\.com$
 (^|\.)nvisionpropl.*\.com$
-(^|\.)ogarnij-zdjecia\..*$
-(^|\.)ogloszenie-elektronika\..*$
-(^|\.)ogloszenie-kupteraz-.*\.*$
-(^|\.)ogloszeniie-kupteraz-pl-.*\.*$
-(^|\.)oglosznie-elektroniczne\..*$
-(^|\.)onetporwanie\..*$
-(^|\.)onetposzukiwani\..*$
-(^|\.)paczpocztex\..*$
-(^|\.)paiementhome-pl-.*\.*\.*$
-(^|\.)paiementnazwa-pl-.*\.*\.*$
-(^|\.)payhome-pl-.*\.*\.*$
-(^|\.)paynazwa-pl-.*\.*\.*$
-(^|\.)pay-home-.*\.*\.*$
 (^|\.)platnik.*\.online$
 (^|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
-(^|\.)pocztexpolska\..*$
 (^|\.)polityka[0-9]+\.mobiklivestmox\.pl$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
-(^|\.)polskaporwania\..*$
 (^|\.)polska-teraz.*\.idl\.pl$
-(^|\.)pomagajmypl\..*$
-(^|\.)porwaniadzieci.*\.*$
-(^|\.)porwaniedziecki.*\.*$
-(^|\.)porwanienatalki\..*$
 (^|\.)poszukiwania.*\.com\.pl$
 (^|\.)procars-shoppl.*\.com$
 (^|\.)pulsoksymetr.*pl\.com$
@@ -125,23 +78,16 @@
 (^|\.)sprnr.*\.net$
 (^|\.)superchance-forwin.*\.life$
 (^|\.)tvp-informacyjna.*\.eu$
-(^|\.)twojkurier-dhl\..*$
 (^|\.)update\..*sf*\.online$
 (^|\.)wp\.[0-9]+\.top$
-(^|\.)xn--faktygwat-xub\..*$
-(^|\.)xn--onetgwat-.*\.*$
-(^|\.)xn--polskagwat24-.*\.*$
-(^|\.)xn.*gwatpolska24*\.*$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.life$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.live$
 (^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
 (^|\.)youtube.com\.[0-9a-z-]+\.[0-9a-z-]+\.com$
-(^|\.)zaglosuj-teraz\..*$
 (^|\.)zaplata.*\.tk$
 (^|\.)zdjecie-facebook-.*\.dkonto\.pl$
-(^|\.)zgwalconadziewczyna\..*$
 (^|\.)(info-onet|informujemy)[0-9]+?\.pl$
 (^|\.)(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)[a-z]+?[0-9]+\.(site|space)$
 (^|\.)(probablerootport)-?[0-9]+\.live$
