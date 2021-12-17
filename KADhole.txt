@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 14 Dec 2021, 12:11 UTC+01
-# Version: 2021.12.14.0
+# Last modified: Fri, 17 Dec 2021, 20:33 UTC+01
+# Version: 2021.12.17.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -74,6 +74,7 @@
 (^|\.)sharefoto-.*\.idl\.pl$
 (^|\.)sharefoto-.*\.vot\.pl$
 (^|\.)shop.*\.suaposales\.com$
+(^|\.)shop[0-9]+\.onlinediscount2021\.ru$
 (^|\.)shop[0-9]+\.onlineshops2021\.ru$
 (^|\.)sprnr.*\.net$
 (^|\.)superchance-forwin.*\.life$
