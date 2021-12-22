@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 22 Dec 2021, 20:10 UTC+01
-# Version: 2021.12.22.2
+# Last modified: Wed, 22 Dec 2021, 23:10 UTC+01
+# Version: 2021.12.22.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4337,6 +4337,7 @@
 0.0.0.0 allegrolokalnie-pl-3dsafe.notification-sender.xyz
 0.0.0.0 allegrolokalnie-pl-3dsecure.dostawa-id.live
 0.0.0.0 allegrolokalnie-pl-3dsecure.id-safety.eu
+0.0.0.0 allegrolokalnie-pl-3dsec.clear-dostawa.xyz
 0.0.0.0 allegrolokalnie-pl-3dsec.clear-id.xyz
 0.0.0.0 allegrolokalnie-pl-3dsec.dostawa-ids.xyz
 0.0.0.0 allegrolokalnie-pl-3dseif.clear-id.xyz
@@ -8177,6 +8178,7 @@
 0.0.0.0 dpd-s.id-9431.me
 0.0.0.0 dpd.756347.space
 0.0.0.0 dpd.orderingpl-meinfo.xyz
+0.0.0.0 dpd.packageinfo-money.xyz
 0.0.0.0 dpejwyk5eyul1.cloudfront.net
 0.0.0.0 dpkb8wsd5bmct.cloudfront.net
 0.0.0.0 dppn96depxyay.cloudfront.net
@@ -10541,6 +10543,7 @@
 0.0.0.0 inpost-pl-3dsafe.id-safety.eu
 0.0.0.0 inpost-pl-3dsecure.clear-id.xyz
 0.0.0.0 inpost-pl-3dsecure.dostawa-id.live
+0.0.0.0 inpost-pl-3dsec.clear-dostawa.xyz
 0.0.0.0 inpost-pl-3dsec.dostawa-id.live
 0.0.0.0 inpost-pl-3dsec.id-safety.eu
 0.0.0.0 inpost-pl-3dsec.notification-sender.xyz
@@ -13647,6 +13650,7 @@
 0.0.0.0 olx-pl.serwis-szybki5512.icu
 0.0.0.0 olx-pl.szybkiodbior-pieniadz.work
 0.0.0.0 olx-pl.trens-po512.pro
+0.0.0.0 olx-pl.ustawienie-dostawy.sbs
 0.0.0.0 olx-pl.zakupy-internetowe.click
 0.0.0.0 olx-pl.zlozenie-dostawy.pro
 0.0.0.0 olx-poland.app
@@ -13700,6 +13704,7 @@
 0.0.0.0 olx.657448.space
 0.0.0.0 olx.9494854.space
 0.0.0.0 olx.com-id381949.xyz
+0.0.0.0 olx.custom-packageinfobiz.space
 0.0.0.0 olx.dostawa-orders.casa
 0.0.0.0 olx.dostawa-secure.com
 0.0.0.0 olx.get-pl.shop
@@ -16276,6 +16281,7 @@
 0.0.0.0 radnost-com.preview-domain.com
 0.0.0.0 radykalnywolowina.site
 0.0.0.0 rafpolco.pl
+0.0.0.0 raiderdrama.com
 0.0.0.0 rajska-wyspa.click
 0.0.0.0 rakingautotypy.positivisticrivalling.com
 0.0.0.0 ralphlauren-polska.pl
@@ -28104,6 +28110,7 @@
 0.0.0.0 www.radiorodzinnypolska.site
 0.0.0.0 www.radykalnywolowina.site
 0.0.0.0 www.rafpolco.pl
+0.0.0.0 www.raiderdrama.com
 0.0.0.0 www.rakingautotypy.positivisticrivalling.com
 0.0.0.0 www.randewoo.ir
 0.0.0.0 www.randkiero.date
@@ -31178,6 +31185,7 @@
 0.0.0.0 www.allegrolokalnie-pl-3dsafe.notification-sender.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dsecure.dostawa-id.live
 0.0.0.0 www.allegrolokalnie-pl-3dsecure.id-safety.eu
+0.0.0.0 www.allegrolokalnie-pl-3dsec.clear-dostawa.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dsec.clear-id.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dsec.dostawa-ids.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dseif.clear-id.xyz
@@ -31809,6 +31817,7 @@
 0.0.0.0 www.dpd-s.id-9431.me
 0.0.0.0 www.dpd.756347.space
 0.0.0.0 www.dpd.orderingpl-meinfo.xyz
+0.0.0.0 www.dpd.packageinfo-money.xyz
 0.0.0.0 www.dreams-business.info
 0.0.0.0 www.dreams-business.site
 0.0.0.0 www.dreams-invest.info
@@ -32473,6 +32482,7 @@
 0.0.0.0 www.inpost-pl-3dsafe.id-safety.eu
 0.0.0.0 www.inpost-pl-3dsecure.clear-id.xyz
 0.0.0.0 www.inpost-pl-3dsecure.dostawa-id.live
+0.0.0.0 www.inpost-pl-3dsec.clear-dostawa.xyz
 0.0.0.0 www.inpost-pl-3dsec.dostawa-id.live
 0.0.0.0 www.inpost-pl-3dsec.id-safety.eu
 0.0.0.0 www.inpost-pl-3dsec.notification-sender.xyz
@@ -33521,6 +33531,7 @@
 0.0.0.0 www.olx-pl.serwis-szybki5512.icu
 0.0.0.0 www.olx-pl.szybkiodbior-pieniadz.work
 0.0.0.0 www.olx-pl.trens-po512.pro
+0.0.0.0 www.olx-pl.ustawienie-dostawy.sbs
 0.0.0.0 www.olx-pl.zakupy-internetowe.click
 0.0.0.0 www.olx-pl.zlozenie-dostawy.pro
 0.0.0.0 www.olx-poland.app
@@ -33574,6 +33585,7 @@
 0.0.0.0 www.olx.657448.space
 0.0.0.0 www.olx.9494854.space
 0.0.0.0 www.olx.com-id381949.xyz
+0.0.0.0 www.olx.custom-packageinfobiz.space
 0.0.0.0 www.olx.dostawa-orders.casa
 0.0.0.0 www.olx.dostawa-secure.com
 0.0.0.0 www.olx.get-pl.shop
