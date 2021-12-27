@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 27 Dec 2021, 20:09 UTC+01
-# Version: 2021.12.27.3
+# Last modified: Mon, 27 Dec 2021, 23:09 UTC+01
+# Version: 2021.12.27.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -17,16 +17,29 @@
 # Podejrzane i/lub strony polaczone z innymi oszustwami
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 0.0.0.0 1slo.pl
+0.0.0.0 1vulkanvegas.com
 0.0.0.0 2easy.pl
 0.0.0.0 3posilki.pl
+0.0.0.0 3vulkanvegas.com
 0.0.0.0 4ksport.pl
 0.0.0.0 4life.com
 0.0.0.0 4madesigngallerie.com.pl
 0.0.0.0 4shoes.pl
+0.0.0.0 4vulkanvegas.com
+0.0.0.0 5vulkanvegas.com
+0.0.0.0 6vulkanvegas.com
 0.0.0.0 7tools.eu
+0.0.0.0 7vulkanvegas.com
 0.0.0.0 7vulkanvegas37.com
+0.0.0.0 8vulkanvegas.com
 0.0.0.0 9print.pl
+0.0.0.0 23vulkanvegas.com
+0.0.0.0 24vulkanvegas.com
 0.0.0.0 24-sklep.pl
+0.0.0.0 25vulkanvegas.com
+0.0.0.0 26vulkanvegas.com
+0.0.0.0 27vulkanvegas.com
+0.0.0.0 28vulkanvegas.com
 0.0.0.0 201vulkanvegas.com
 0.0.0.0 a1a.pl
 0.0.0.0 a2multimedia.pl
@@ -1107,6 +1120,7 @@
 0.0.0.0 playmax.co
 0.0.0.0 playweez.pl
 0.0.0.0 play-cda.pl
+0.0.0.0 play-vulkan-vegas.online
 0.0.0.0 plecakfjallravenkanken.com
 0.0.0.0 plik-pobierz.pl
 0.0.0.0 plusmedia.pl
@@ -1559,6 +1573,45 @@
 0.0.0.0 vulcan-vegas.pl
 0.0.0.0 vulkan7.bet
 0.0.0.0 vulkanvegas.com
+0.0.0.0 vulkanvegas1.com
+0.0.0.0 vulkanvegas3.com
+0.0.0.0 vulkanvegas5.com
+0.0.0.0 vulkanvegas6.com
+0.0.0.0 vulkanvegas7.com
+0.0.0.0 vulkanvegas8.com
+0.0.0.0 vulkanvegas9.com
+0.0.0.0 vulkanvegas23.com
+0.0.0.0 vulkanvegas25.com
+0.0.0.0 vulkanvegas26.com
+0.0.0.0 vulkanvegas27.com
+0.0.0.0 vulkanvegas28.com
+0.0.0.0 vulkanvegas29.com
+0.0.0.0 vulkanvegas30.com
+0.0.0.0 vulkanvegas31.com
+0.0.0.0 vulkanvegas32.com
+0.0.0.0 vulkanvegas33.com
+0.0.0.0 vulkanvegas34.com
+0.0.0.0 vulkanvegas35.com
+0.0.0.0 vulkanvegas36.com
+0.0.0.0 vulkanvegas37.com
+0.0.0.0 vulkanvegas38.com
+0.0.0.0 vulkanvegas39.com
+0.0.0.0 vulkanvegas40.com
+0.0.0.0 vulkanvegas41.com
+0.0.0.0 vulkanvegas42.com
+0.0.0.0 vulkanvegas43.com
+0.0.0.0 vulkanvegas44.com
+0.0.0.0 vulkanvegas45.com
+0.0.0.0 vulkanvegas46.com
+0.0.0.0 vulkanvegas47.com
+0.0.0.0 vulkanvegas48.com
+0.0.0.0 vulkanvegas49.com
+0.0.0.0 vulkanvegas50.com
+0.0.0.0 vulkanvegas51.com
+0.0.0.0 vulkanvegas52.com
+0.0.0.0 vulkanvegas53.com
+0.0.0.0 vulkanvegas54.com
+0.0.0.0 vulkanvegas55.com
 0.0.0.0 vulkanvegas105.com
 0.0.0.0 vulkanvegas301.com
 0.0.0.0 vulkanvegas-24.com
@@ -2938,6 +2991,45 @@
 0.0.0.0 www.vseobuch.ru
 0.0.0.0 www.vubu.pl
 0.0.0.0 www.vulkan7.bet
+0.0.0.0 www.vulkanvegas1.com
+0.0.0.0 www.vulkanvegas3.com
+0.0.0.0 www.vulkanvegas5.com
+0.0.0.0 www.vulkanvegas6.com
+0.0.0.0 www.vulkanvegas7.com
+0.0.0.0 www.vulkanvegas8.com
+0.0.0.0 www.vulkanvegas9.com
+0.0.0.0 www.vulkanvegas23.com
+0.0.0.0 www.vulkanvegas25.com
+0.0.0.0 www.vulkanvegas26.com
+0.0.0.0 www.vulkanvegas27.com
+0.0.0.0 www.vulkanvegas28.com
+0.0.0.0 www.vulkanvegas29.com
+0.0.0.0 www.vulkanvegas30.com
+0.0.0.0 www.vulkanvegas31.com
+0.0.0.0 www.vulkanvegas32.com
+0.0.0.0 www.vulkanvegas33.com
+0.0.0.0 www.vulkanvegas34.com
+0.0.0.0 www.vulkanvegas35.com
+0.0.0.0 www.vulkanvegas36.com
+0.0.0.0 www.vulkanvegas37.com
+0.0.0.0 www.vulkanvegas38.com
+0.0.0.0 www.vulkanvegas39.com
+0.0.0.0 www.vulkanvegas40.com
+0.0.0.0 www.vulkanvegas41.com
+0.0.0.0 www.vulkanvegas42.com
+0.0.0.0 www.vulkanvegas43.com
+0.0.0.0 www.vulkanvegas44.com
+0.0.0.0 www.vulkanvegas45.com
+0.0.0.0 www.vulkanvegas46.com
+0.0.0.0 www.vulkanvegas47.com
+0.0.0.0 www.vulkanvegas48.com
+0.0.0.0 www.vulkanvegas49.com
+0.0.0.0 www.vulkanvegas50.com
+0.0.0.0 www.vulkanvegas51.com
+0.0.0.0 www.vulkanvegas52.com
+0.0.0.0 www.vulkanvegas53.com
+0.0.0.0 www.vulkanvegas54.com
+0.0.0.0 www.vulkanvegas55.com
 0.0.0.0 www.vulkanvegas105.com
 0.0.0.0 www.vulkanvegas301.com
 0.0.0.0 www.vulkanvegas.com
@@ -3036,16 +3128,29 @@
 0.0.0.0 www.zsporchowo.pl
 0.0.0.0 www.zukiewicz.com
 0.0.0.0 www.1slo.pl
+0.0.0.0 www.1vulkanvegas.com
 0.0.0.0 www.2easy.pl
 0.0.0.0 www.3posilki.pl
+0.0.0.0 www.3vulkanvegas.com
 0.0.0.0 www.4ksport.pl
 0.0.0.0 www.4life.com
 0.0.0.0 www.4madesigngallerie.com.pl
 0.0.0.0 www.4shoes.pl
+0.0.0.0 www.4vulkanvegas.com
+0.0.0.0 www.5vulkanvegas.com
+0.0.0.0 www.6vulkanvegas.com
 0.0.0.0 www.7tools.eu
+0.0.0.0 www.7vulkanvegas.com
 0.0.0.0 www.7vulkanvegas37.com
+0.0.0.0 www.8vulkanvegas.com
 0.0.0.0 www.9print.pl
+0.0.0.0 www.23vulkanvegas.com
+0.0.0.0 www.24vulkanvegas.com
 0.0.0.0 www.24-sklep.pl
+0.0.0.0 www.25vulkanvegas.com
+0.0.0.0 www.26vulkanvegas.com
+0.0.0.0 www.27vulkanvegas.com
+0.0.0.0 www.28vulkanvegas.com
 0.0.0.0 www.201vulkanvegas.com
 0.0.0.0 www.adblock-listefr.com
 0.0.0.0 www.ag-agency.pl
@@ -3186,6 +3291,7 @@
 0.0.0.0 www.pixel-vest.pl
 0.0.0.0 www.plastikon-kratki.pl
 0.0.0.0 www.play-cda.pl
+0.0.0.0 www.play-vulkan-vegas.online
 0.0.0.0 www.plik-pobierz.pl
 0.0.0.0 www.plus-finanse.pl
 0.0.0.0 www.pl-huda.myshopify.com
@@ -10550,6 +10656,7 @@
 0.0.0.0 inpost.formularz.club
 0.0.0.0 inpost.formularz.ml
 0.0.0.0 inpost.generujkod.com
+0.0.0.0 inpost.id725251.space
 0.0.0.0 inpost.id4756483.me
 0.0.0.0 inpost.id6375285.space
 0.0.0.0 inpost.life
@@ -10767,6 +10874,7 @@
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpost.28636.space
 0.0.0.0 inpost.47759.space
+0.0.0.0 inpost.51566.site
 0.0.0.0 inpost.63547.space
 0.0.0.0 inpost.66645.space
 0.0.0.0 inpost.78790.space
@@ -13382,6 +13490,7 @@
 0.0.0.0 odbydgoszcz.xyz
 0.0.0.0 odbytom.xyz
 0.0.0.0 odchelm.xyz
+0.0.0.0 oddajemy-wszystko.pl
 0.0.0.0 oddaje-psa.pl
 0.0.0.0 oddaje-yorka.dnsrobotuptime.ru
 0.0.0.0 oddajmy-glosy.eu
@@ -13839,6 +13948,7 @@
 0.0.0.0 olx.57849.space
 0.0.0.0 olx.75468.space
 0.0.0.0 olx.78790.space
+0.0.0.0 olx.91791.site
 0.0.0.0 olx.657448.space
 0.0.0.0 olx.9494854.space
 0.0.0.0 olx.com-id381949.xyz
@@ -24690,6 +24800,7 @@
 0.0.0.0 www.inpost.formularz.club
 0.0.0.0 www.inpost.formularz.ml
 0.0.0.0 www.inpost.generujkod.com
+0.0.0.0 www.inpost.id725251.space
 0.0.0.0 www.inpost.id4756483.me
 0.0.0.0 www.inpost.id6375285.space
 0.0.0.0 www.inpost.life
@@ -32799,6 +32910,7 @@
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpost.28636.space
 0.0.0.0 www.inpost.47759.space
+0.0.0.0 www.inpost.51566.site
 0.0.0.0 www.inpost.63547.space
 0.0.0.0 www.inpost.66645.space
 0.0.0.0 www.inpost.78790.space
@@ -33511,6 +33623,7 @@
 0.0.0.0 www.odbierz-paczke.bid
 0.0.0.0 www.odbierz-paczke.host
 0.0.0.0 www.odbierz.1549550.xyz
+0.0.0.0 www.oddajemy-wszystko.pl
 0.0.0.0 www.oddaje-psa.pl
 0.0.0.0 www.oddaje-yorka.dnsrobotuptime.ru
 0.0.0.0 www.oddajmy-glosy.eu
@@ -33799,6 +33912,7 @@
 0.0.0.0 www.olx.57849.space
 0.0.0.0 www.olx.75468.space
 0.0.0.0 www.olx.78790.space
+0.0.0.0 www.olx.91791.site
 0.0.0.0 www.olx.657448.space
 0.0.0.0 www.olx.9494854.space
 0.0.0.0 www.olx.com-id381949.xyz
