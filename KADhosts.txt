@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 13 Feb 2022, 01:09 UTC+01
-# Version: 2022.2.13.0
+# Last modified: Sun, 13 Feb 2022, 09:09 UTC+01
+# Version: 2022.2.13.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4383,6 +4383,9 @@
 0.0.0.0 24infolive.rf.gd
 0.0.0.0 24livenewsuk.com
 0.0.0.0 24ogloszenie-lokalne.pl
+0.0.0.0 24p.news
+0.0.0.0 24p.online
+0.0.0.0 24p.reviews
 0.0.0.0 24podatnik.com
 0.0.0.0 24swiat.pl
 0.0.0.0 24tradespace.com
@@ -14927,6 +14930,7 @@
 0.0.0.0 mitoteam.com
 0.0.0.0 miutro.com
 0.0.0.0 mixiaomi.ru.com
+0.0.0.0 mixoan.site
 0.0.0.0 mixturedon.com
 0.0.0.0 mix-projects.online
 0.0.0.0 mix-projects.space
@@ -17293,6 +17297,7 @@
 0.0.0.0 p0dpf6.webwave.dev
 0.0.0.0 p1-inp0st.getinformation.xyz
 0.0.0.0 p8dfy0.webwave.dev
+0.0.0.0 p24.live
 0.0.0.0 paarla.com
 0.0.0.0 pacificinvestmentsltd.com
 0.0.0.0 pacseanet.com
@@ -31081,6 +31086,7 @@
 0.0.0.0 www.mitoteam.com
 0.0.0.0 www.miutro.com
 0.0.0.0 www.mixiaomi.ru.com
+0.0.0.0 www.mixoan.site
 0.0.0.0 www.mixturedon.com
 0.0.0.0 www.mizerek.pl
 0.0.0.0 www.mke2morrow.com
@@ -32484,6 +32490,7 @@
 0.0.0.0 www.ozzywebsites.com
 0.0.0.0 www.p0dpf6.webwave.dev
 0.0.0.0 www.p8dfy0.webwave.dev
+0.0.0.0 www.p24.live
 0.0.0.0 www.paarla.com
 0.0.0.0 www.pacificinvestmentsltd.com
 0.0.0.0 www.pacseanet.com
@@ -37031,6 +37038,9 @@
 0.0.0.0 www.24infolive.rf.gd
 0.0.0.0 www.24livenewsuk.com
 0.0.0.0 www.24ogloszenie-lokalne.pl
+0.0.0.0 www.24p.news
+0.0.0.0 www.24p.online
+0.0.0.0 www.24p.reviews
 0.0.0.0 www.24podatnik.com
 0.0.0.0 www.24swiat.pl
 0.0.0.0 www.24tradespace.com
