@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 13 Feb 2022, 09:09 UTC+01
-# Version: 2022.2.13.1
+# Last modified: Sun, 13 Feb 2022, 13:10 UTC+01
+# Version: 2022.2.13.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4383,6 +4383,8 @@
 0.0.0.0 24infolive.rf.gd
 0.0.0.0 24livenewsuk.com
 0.0.0.0 24ogloszenie-lokalne.pl
+0.0.0.0 24p.fyi
+0.0.0.0 24p.link
 0.0.0.0 24p.news
 0.0.0.0 24p.online
 0.0.0.0 24p.reviews
@@ -9407,6 +9409,7 @@
 0.0.0.0 dpd-pl.zxk-kl73t.xyz
 0.0.0.0 dpd-polska-dq.10582992.me
 0.0.0.0 dpd-polska-jgi.10494929.me
+0.0.0.0 dpd-polska-pzi.29495939.me
 0.0.0.0 dpd-polska-tpe.10582902.me
 0.0.0.0 dpd-polska-wro.10581085.me
 0.0.0.0 dpd-polska-wsn.40583929.me
@@ -10412,6 +10415,7 @@
 0.0.0.0 filivod.pl
 0.0.0.0 fili-cc.tv
 0.0.0.0 fillmorecentral.instructure.com
+0.0.0.0 fillnort.xyz
 0.0.0.0 filmanteria.pl
 0.0.0.0 filmasyhd.pl
 0.0.0.0 filmbest.video.blog
@@ -12552,10 +12556,12 @@
 0.0.0.0 inpost-pl.trackcode-info-id894763.xyz
 0.0.0.0 inpost-pl.trackcode-info-id986453.xyz
 0.0.0.0 inpost-polska-ao.104929.me
+0.0.0.0 inpost-polska-ay.30584929.me
 0.0.0.0 inpost-polska-cic.20493902.me
 0.0.0.0 inpost-polska-dab.40583929.me
 0.0.0.0 inpost-polska-dv.10494992.me
 0.0.0.0 inpost-polska-eww.48583829.me
+0.0.0.0 inpost-polska-ezu.29495939.me
 0.0.0.0 inpost-polska-hce.4848292.me
 0.0.0.0 inpost-polska-ht.4839194.me
 0.0.0.0 inpost-polska-hw.20493902.me
@@ -15911,6 +15917,10 @@
 0.0.0.0 oczekujacy700.site
 0.0.0.0 oczywisty861.site
 0.0.0.0 odaokmdoiamfiamfamo.bar
+0.0.0.0 odbierz.fyi
+0.0.0.0 odbierz.link
+0.0.0.0 odbierz.live
+0.0.0.0 odbierz.online
 0.0.0.0 odbierz-kod.com
 0.0.0.0 odbierz-paczke.bid
 0.0.0.0 odbierz.1549550.xyz
@@ -17298,6 +17308,8 @@
 0.0.0.0 p1-inp0st.getinformation.xyz
 0.0.0.0 p8dfy0.webwave.dev
 0.0.0.0 p24.live
+0.0.0.0 p24.reviews
+0.0.0.0 p24.studio
 0.0.0.0 paarla.com
 0.0.0.0 pacificinvestmentsltd.com
 0.0.0.0 pacseanet.com
@@ -21306,6 +21318,7 @@
 0.0.0.0 stermccommunitty.ru
 0.0.0.0 stertashake.site
 0.0.0.0 stevemadenpolska.com
+0.0.0.0 steviexanat.photography
 0.0.0.0 stewaveg.xyz
 0.0.0.0 stg.charoll.org
 0.0.0.0 stickycrown.com
@@ -21603,6 +21616,7 @@
 0.0.0.0 szukaj298.rest
 0.0.0.0 szukaj647.rest
 0.0.0.0 szukajmysie.eu
+0.0.0.0 szukaj-24.azureedge.net
 0.0.0.0 szukammysuckesu.online
 0.0.0.0 szukamy082.rest
 0.0.0.0 szukamy476.rest
@@ -28245,6 +28259,7 @@
 0.0.0.0 www.fili.nojo.tv
 0.0.0.0 www.fili.tube
 0.0.0.0 www.fillmorecentral.instructure.com
+0.0.0.0 www.fillnort.xyz
 0.0.0.0 www.filmanteria.pl
 0.0.0.0 www.filmasyhd.pl
 0.0.0.0 www.filmbest.video.blog
@@ -31836,6 +31851,10 @@
 0.0.0.0 www.oczekujacy700.site
 0.0.0.0 www.oczywisty861.site
 0.0.0.0 www.odaokmdoiamfiamfamo.bar
+0.0.0.0 www.odbierz.fyi
+0.0.0.0 www.odbierz.link
+0.0.0.0 www.odbierz.live
+0.0.0.0 www.odbierz.online
 0.0.0.0 www.odbijacaspirujacy.site
 0.0.0.0 www.odbior24.online
 0.0.0.0 www.odblokuj945821.net
@@ -32491,6 +32510,8 @@
 0.0.0.0 www.p0dpf6.webwave.dev
 0.0.0.0 www.p8dfy0.webwave.dev
 0.0.0.0 www.p24.live
+0.0.0.0 www.p24.reviews
+0.0.0.0 www.p24.studio
 0.0.0.0 www.paarla.com
 0.0.0.0 www.pacificinvestmentsltd.com
 0.0.0.0 www.pacseanet.com
@@ -34784,6 +34805,7 @@
 0.0.0.0 www.stermccommunitty.ru
 0.0.0.0 www.stertashake.site
 0.0.0.0 www.stevemadenpolska.com
+0.0.0.0 www.steviexanat.photography
 0.0.0.0 www.stewaveg.xyz
 0.0.0.0 www.stg.charoll.org
 0.0.0.0 www.stickycrown.com
@@ -37038,6 +37060,8 @@
 0.0.0.0 www.24infolive.rf.gd
 0.0.0.0 www.24livenewsuk.com
 0.0.0.0 www.24ogloszenie-lokalne.pl
+0.0.0.0 www.24p.fyi
+0.0.0.0 www.24p.link
 0.0.0.0 www.24p.news
 0.0.0.0 www.24p.online
 0.0.0.0 www.24p.reviews
@@ -38226,6 +38250,7 @@
 0.0.0.0 www.dpd-pl.zxk-kl73t.xyz
 0.0.0.0 www.dpd-polska-dq.10582992.me
 0.0.0.0 www.dpd-polska-jgi.10494929.me
+0.0.0.0 www.dpd-polska-pzi.29495939.me
 0.0.0.0 www.dpd-polska-tpe.10582902.me
 0.0.0.0 www.dpd-polska-wro.10581085.me
 0.0.0.0 www.dpd-polska-wsn.40583929.me
@@ -39355,10 +39380,12 @@
 0.0.0.0 www.inpost-pl.trackcode-info-id894763.xyz
 0.0.0.0 www.inpost-pl.trackcode-info-id986453.xyz
 0.0.0.0 www.inpost-polska-ao.104929.me
+0.0.0.0 www.inpost-polska-ay.30584929.me
 0.0.0.0 www.inpost-polska-cic.20493902.me
 0.0.0.0 www.inpost-polska-dab.40583929.me
 0.0.0.0 www.inpost-polska-dv.10494992.me
 0.0.0.0 www.inpost-polska-eww.48583829.me
+0.0.0.0 www.inpost-polska-ezu.29495939.me
 0.0.0.0 www.inpost-polska-hce.4848292.me
 0.0.0.0 www.inpost-polska-ht.4839194.me
 0.0.0.0 www.inpost-polska-hw.20493902.me
@@ -42877,6 +42904,7 @@
 0.0.0.0 www.szklarnie-ogrodowe.com
 0.0.0.0 www.szklarnie-shop.com
 0.0.0.0 www.szpital-covid.waw.pl
+0.0.0.0 www.szukaj-24.azureedge.net
 0.0.0.0 www.szukamy-podejrzanych.eu
 0.0.0.0 www.szybka-dostawa.pl
 0.0.0.0 www.szybka-pomoc.eu
