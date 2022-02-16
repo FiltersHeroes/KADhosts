@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 16 Feb 2022, 09:08 UTC+01
-# Version: 2022.2.16.0
+# Last modified: Wed, 16 Feb 2022, 13:11 UTC+01
+# Version: 2022.2.16.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -9382,6 +9382,7 @@
 0.0.0.0 dpdpl-info.informationabout-parcelpl.xyz
 0.0.0.0 dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 dpdpl-lnfo.usermaintenance.xyz
+0.0.0.0 dpdpl-receipt.xyz
 0.0.0.0 dpdpl.dostawa-obdior-9874536.xyz
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 dpdpoland.orderingdlvry-courierpoland.xyz
@@ -11789,6 +11790,7 @@
 0.0.0.0 ichiziku.com
 0.0.0.0 icioud.co
 0.0.0.0 icioud.co.cm
+0.0.0.0 icloud.com.bz
 0.0.0.0 icloud.ru.com
 0.0.0.0 icloud-app-services.co
 0.0.0.0 icloud-find.co
@@ -12592,6 +12594,7 @@
 0.0.0.0 inpost-pl.897643.xyz
 0.0.0.0 inpost-pl.901114.space
 0.0.0.0 inpost-pl.901145.xyz
+0.0.0.0 inpost-pl.901723.xyz
 0.0.0.0 inpost-pl.902344.xyz
 0.0.0.0 inpost-pl.934293.xyz
 0.0.0.0 inpost-pl.934728.space
@@ -14140,6 +14143,7 @@
 0.0.0.0 lnpostpl.obdior-dostawa-7854463.xyz
 0.0.0.0 lnpostpl.order-dostawa-64738213.xyz
 0.0.0.0 lnpostpl.polska-dostawa-7654813.xyz
+0.0.0.0 lnpost-1nfo.data-request.xyz
 0.0.0.0 lnpost-app.com
 0.0.0.0 lnpost-delivery.xyz
 0.0.0.0 lnpost-kod.com
@@ -15544,6 +15548,7 @@
 0.0.0.0 nem17.avistaserver.com
 0.0.0.0 nematrod-com.preview-domain.com
 0.0.0.0 nemci.capitalredf.site
+0.0.0.0 nemsory.link
 0.0.0.0 neon81552.site
 0.0.0.0 neontool.com
 0.0.0.0 neotrade.io
@@ -16538,9 +16543,12 @@
 0.0.0.0 olx-pl.735923.site
 0.0.0.0 olx-pl.742853.space
 0.0.0.0 olx-pl.743366.space
+0.0.0.0 olx-pl.748535.xyz
+0.0.0.0 olx-pl.784522.xyz
 0.0.0.0 olx-pl.871345.xyz
 0.0.0.0 olx-pl.876127.xyz
 0.0.0.0 olx-pl.897144.xyz
+0.0.0.0 olx-pl.897643.xyz
 0.0.0.0 olx-pl.968985.space
 0.0.0.0 olx-pl.1244523.shop
 0.0.0.0 olx-pl.4325453.website
@@ -17867,6 +17875,7 @@
 0.0.0.0 payu.id3858951.xyz
 0.0.0.0 payu.id27394942.xyz
 0.0.0.0 payu.id49692215.xyz
+0.0.0.0 payu.pl.agroindyuto.com.ar
 0.0.0.0 payu.space
 0.0.0.0 payu24.top
 0.0.0.0 payu24-pl.top
@@ -19078,16 +19087,20 @@
 0.0.0.0 polska-investor.firebaseapp.com
 0.0.0.0 polska-investor.web.app
 0.0.0.0 polska-lnpost.id457434.space
+0.0.0.0 polska-lnpost.334516.xyz
 0.0.0.0 polska-lnpost.order-id342846.xyz
 0.0.0.0 polska-lnpost.order-id374676.xyz
+0.0.0.0 polska-lnpost.order-id453758.xyz
 0.0.0.0 polska-lnpost.order-id864878.xyz
 0.0.0.0 polska-lts.site
 0.0.0.0 polska-nasze-info24.x9.eu
 0.0.0.0 polska-oferla.club
 0.0.0.0 polska-oferla.shop
+0.0.0.0 polska-ollx.334516.xyz
 0.0.0.0 polska-ollx.order-id264738.xyz
 0.0.0.0 polska-olx.pl
 0.0.0.0 polska-olx.74256.xyz
+0.0.0.0 polska-olx.783843.xyz
 0.0.0.0 polska-olx.order-926468.space
 0.0.0.0 polska-olx.order-id10743.space
 0.0.0.0 polska-olx.order-id48392.xyz
@@ -19901,6 +19914,7 @@
 0.0.0.0 qioknibacond.com
 0.0.0.0 qjh43q.webwave.dev
 0.0.0.0 qolx.pl
+0.0.0.0 qordas.host
 0.0.0.0 qotoplus.site
 0.0.0.0 qotybenor-online.preview-domain.com
 0.0.0.0 qqqqttt.weebly.com
@@ -29481,6 +29495,7 @@
 0.0.0.0 www.ichiziku.com
 0.0.0.0 www.icioud.co
 0.0.0.0 www.icioud.co.cm
+0.0.0.0 www.icloud.com.bz
 0.0.0.0 www.icloud.ru.com
 0.0.0.0 www.icrumbfromalanddownunder.com
 0.0.0.0 www.id4980472.xyz
@@ -31769,6 +31784,7 @@
 0.0.0.0 www.nekstra.com
 0.0.0.0 www.nem17.avistaserver.com
 0.0.0.0 www.nemci.capitalredf.site
+0.0.0.0 www.nemsory.link
 0.0.0.0 www.nem.capitalloredfd.site
 0.0.0.0 www.neon81552.site
 0.0.0.0 www.neontool.com
@@ -33037,6 +33053,7 @@
 0.0.0.0 www.payu.id3858951.xyz
 0.0.0.0 www.payu.id27394942.xyz
 0.0.0.0 www.payu.id49692215.xyz
+0.0.0.0 www.payu.pl.agroindyuto.com.ar
 0.0.0.0 www.payu.space
 0.0.0.0 www.paywash.se
 0.0.0.0 www.pay.pocztapolska24.org
@@ -33960,6 +33977,7 @@
 0.0.0.0 www.qioknibacond.com
 0.0.0.0 www.qjh43q.webwave.dev
 0.0.0.0 www.qolx.pl
+0.0.0.0 www.qordas.host
 0.0.0.0 www.qotoplus.site
 0.0.0.0 www.qqqqttt.weebly.com
 0.0.0.0 www.qqsms.in
@@ -38570,6 +38588,7 @@
 0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
 0.0.0.0 www.dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 www.dpdpl-lnfo.usermaintenance.xyz
+0.0.0.0 www.dpdpl-receipt.xyz
 0.0.0.0 www.dpdpl.dostawa-obdior-9874536.xyz
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpoland.orderingdlvry-courierpoland.xyz
@@ -39740,6 +39759,7 @@
 0.0.0.0 www.inpost-pl.897643.xyz
 0.0.0.0 www.inpost-pl.901114.space
 0.0.0.0 www.inpost-pl.901145.xyz
+0.0.0.0 www.inpost-pl.901723.xyz
 0.0.0.0 www.inpost-pl.902344.xyz
 0.0.0.0 www.inpost-pl.934293.xyz
 0.0.0.0 www.inpost-pl.934728.space
@@ -40355,6 +40375,7 @@
 0.0.0.0 www.lnpostpl.obdior-dostawa-7854463.xyz
 0.0.0.0 www.lnpostpl.order-dostawa-64738213.xyz
 0.0.0.0 www.lnpostpl.polska-dostawa-7654813.xyz
+0.0.0.0 www.lnpost-1nfo.data-request.xyz
 0.0.0.0 www.lnpost-app.com
 0.0.0.0 www.lnpost-delivery.xyz
 0.0.0.0 www.lnpost-kod.com
@@ -41201,9 +41222,12 @@
 0.0.0.0 www.olx-pl.735923.site
 0.0.0.0 www.olx-pl.742853.space
 0.0.0.0 www.olx-pl.743366.space
+0.0.0.0 www.olx-pl.748535.xyz
+0.0.0.0 www.olx-pl.784522.xyz
 0.0.0.0 www.olx-pl.871345.xyz
 0.0.0.0 www.olx-pl.876127.xyz
 0.0.0.0 www.olx-pl.897144.xyz
+0.0.0.0 www.olx-pl.897643.xyz
 0.0.0.0 www.olx-pl.968985.space
 0.0.0.0 www.olx-pl.1244523.shop
 0.0.0.0 www.olx-pl.4325453.website
@@ -42523,16 +42547,20 @@
 0.0.0.0 www.polska-investor.firebaseapp.com
 0.0.0.0 www.polska-investor.web.app
 0.0.0.0 www.polska-lnpost.id457434.space
+0.0.0.0 www.polska-lnpost.334516.xyz
 0.0.0.0 www.polska-lnpost.order-id342846.xyz
 0.0.0.0 www.polska-lnpost.order-id374676.xyz
+0.0.0.0 www.polska-lnpost.order-id453758.xyz
 0.0.0.0 www.polska-lnpost.order-id864878.xyz
 0.0.0.0 www.polska-lts.site
 0.0.0.0 www.polska-nasze-info24.x9.eu
 0.0.0.0 www.polska-oferla.club
 0.0.0.0 www.polska-oferla.shop
+0.0.0.0 www.polska-ollx.334516.xyz
 0.0.0.0 www.polska-ollx.order-id264738.xyz
 0.0.0.0 www.polska-olx.pl
 0.0.0.0 www.polska-olx.74256.xyz
+0.0.0.0 www.polska-olx.783843.xyz
 0.0.0.0 www.polska-olx.order-926468.space
 0.0.0.0 www.polska-olx.order-id10743.space
 0.0.0.0 www.polska-olx.order-id48392.xyz
