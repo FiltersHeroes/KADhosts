@@ -9,6 +9,8 @@ jobs:
     container: ghcr.io/filtersheroes/vichs_image:2.26.8
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Aktualizacja całej listy
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
