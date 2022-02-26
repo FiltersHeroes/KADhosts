@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 26 Feb 2022, 13:30 UTC+01
-# Version: 2022.2.26.1
+# Last modified: Sat, 26 Feb 2022, 17:27 UTC+01
+# Version: 2022.2.26.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5066,6 +5066,7 @@
 0.0.0.0 appleid-account.com
 0.0.0.0 appleid-map.com
 0.0.0.0 appleid.com-local-id.com
+0.0.0.0 appleinfo.support
 0.0.0.0 appleking.pl
 0.0.0.0 appleservicess.live
 0.0.0.0 applesofgoldretail.com
@@ -11893,6 +11894,7 @@
 0.0.0.0 inpostpl.dhej-holy.xyz
 0.0.0.0 inpostpl.domoy-dost.com
 0.0.0.0 inpostpl.foiuq-iq.com
+0.0.0.0 inpostpl.fun-dusz.com
 0.0.0.0 inpostpl.gwart1ja-dos1t2awy.com
 0.0.0.0 inpostpl.konto24-serwis.space
 0.0.0.0 inpostpl.konto-klasyczne.sbs
@@ -12000,6 +12002,7 @@
 0.0.0.0 inpost-pl.534673.xyz
 0.0.0.0 inpost-pl.548131.xyz
 0.0.0.0 inpost-pl.623141.xyz
+0.0.0.0 inpost-pl.643512.space
 0.0.0.0 inpost-pl.651534.xyz
 0.0.0.0 inpost-pl.682367.live
 0.0.0.0 inpost-pl.713262.xyz
@@ -14859,6 +14862,7 @@
 0.0.0.0 newsy-onet-74457966795.azureedge.net
 0.0.0.0 newsy-onet-79807026429.azureedge.net
 0.0.0.0 newsy-tygodnia.waw.pl
+0.0.0.0 newsy-wp-82730712497.azureedge.net
 0.0.0.0 news-biznes.waw.pl
 0.0.0.0 news-bussnse.info
 0.0.0.0 news-deck.at
@@ -14867,6 +14871,7 @@
 0.0.0.0 news-l.info
 0.0.0.0 news-ltspl.info
 0.0.0.0 news-newsweek-35675452855.azureedge.net
+0.0.0.0 news-o2-41886677262.azureedge.net
 0.0.0.0 news-onet.pl
 0.0.0.0 news-orlen.biz
 0.0.0.0 news-orlen.us
@@ -20673,6 +20678,7 @@
 0.0.0.0 teasvoi.online
 0.0.0.0 teatrkuffer.pl
 0.0.0.0 tecchgigo.com
+0.0.0.0 techalyans.ru
 0.0.0.0 techcentretraining.com
 0.0.0.0 techepedia.com
 0.0.0.0 techiwant.com
@@ -23081,6 +23087,7 @@
 0.0.0.0 www.append.pl
 0.0.0.0 www.appguruspot.online
 0.0.0.0 www.appiq.mobi
+0.0.0.0 www.appleinfo.support
 0.0.0.0 www.appleking.pl
 0.0.0.0 www.appleservicess.live
 0.0.0.0 www.applesofgoldretail.com
@@ -33748,6 +33755,7 @@
 0.0.0.0 www.teasvoi.online
 0.0.0.0 www.teatrkuffer.pl
 0.0.0.0 www.tecchgigo.com
+0.0.0.0 www.techalyans.ru
 0.0.0.0 www.techcentretraining.com
 0.0.0.0 www.techepedia.com
 0.0.0.0 www.techiwant.com
@@ -37543,6 +37551,7 @@
 0.0.0.0 www.inpostpl.dhej-holy.xyz
 0.0.0.0 www.inpostpl.domoy-dost.com
 0.0.0.0 www.inpostpl.foiuq-iq.com
+0.0.0.0 www.inpostpl.fun-dusz.com
 0.0.0.0 www.inpostpl.gwart1ja-dos1t2awy.com
 0.0.0.0 www.inpostpl.konto24-serwis.space
 0.0.0.0 www.inpostpl.konto-klasyczne.sbs
@@ -37650,6 +37659,7 @@
 0.0.0.0 www.inpost-pl.534673.xyz
 0.0.0.0 www.inpost-pl.548131.xyz
 0.0.0.0 www.inpost-pl.623141.xyz
+0.0.0.0 www.inpost-pl.643512.space
 0.0.0.0 www.inpost-pl.651534.xyz
 0.0.0.0 www.inpost-pl.682367.live
 0.0.0.0 www.inpost-pl.713262.xyz
@@ -38603,6 +38613,7 @@
 0.0.0.0 www.newsy-onet-74457966795.azureedge.net
 0.0.0.0 www.newsy-onet-79807026429.azureedge.net
 0.0.0.0 www.newsy-tygodnia.waw.pl
+0.0.0.0 www.newsy-wp-82730712497.azureedge.net
 0.0.0.0 www.news-biznes.waw.pl
 0.0.0.0 www.news-bussnse.info
 0.0.0.0 www.news-deck.at
@@ -38611,6 +38622,7 @@
 0.0.0.0 www.news-l.info
 0.0.0.0 www.news-ltspl.info
 0.0.0.0 www.news-newsweek-35675452855.azureedge.net
+0.0.0.0 www.news-o2-41886677262.azureedge.net
 0.0.0.0 www.news-onet.pl
 0.0.0.0 www.news-orlen.biz
 0.0.0.0 www.news-orlen.us
