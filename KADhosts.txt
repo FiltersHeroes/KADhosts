@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 24 Mar 2022, 17:29 UTC+01
-# Version: 2022.3.24.2
+# Last modified: Thu, 24 Mar 2022, 21:22 UTC+01
+# Version: 2022.3.24.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4175,6 +4175,7 @@
 0.0.0.0 1npost.656577.xyz
 0.0.0.0 1npost.deliveryinfo-956.xyz
 0.0.0.0 1npost.delivery-51265.xyz
+0.0.0.0 1npos-t.deliveryinfo-9865.xyz
 0.0.0.0 1npo-st.sendgoodsinfo.xyz
 0.0.0.0 1np-ost.699854.xyz
 0.0.0.0 1np-ost.delivery-28451.xyz
@@ -6379,6 +6380,10 @@
 0.0.0.0 cheapuggssaleonline.net
 0.0.0.0 cheburashka53.ru
 0.0.0.0 checkmaildetail1.validatehbk.repl.co
+0.0.0.0 checkmaildetail2.validatehbk.repl.co
+0.0.0.0 checkmaildetail3.validatehbk.repl.co
+0.0.0.0 checkmaildetail4.validatehbk.repl.co
+0.0.0.0 checkmaildetail5.validatehbk.repl.co
 0.0.0.0 checkmaildetail6.validatehbk.repl.co
 0.0.0.0 checkmaildetail13.validatehbk5.repl.co
 0.0.0.0 checkmaildetail14.validatehbk5.repl.co
@@ -6394,7 +6399,10 @@
 0.0.0.0 checkmaildetail24.validatehbk3.repl.co
 0.0.0.0 checkmaildetail25.validatehbk4.repl.co
 0.0.0.0 checkmaildetail26.validatehbk4.repl.co
+0.0.0.0 checkmaildetail27.validatehbk4.repl.co
 0.0.0.0 checkmaildetail28.validatehbk4.repl.co
+0.0.0.0 checkmaildetail29.validatehbk4.repl.co
+0.0.0.0 checkmaildetail30.validatehbk4.repl.co
 0.0.0.0 checkoutwins.com
 0.0.0.0 check-pay.site
 0.0.0.0 cheese-forest.com
@@ -9684,6 +9692,19 @@
 0.0.0.0 emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
 0.0.0.0 emailhostingservices9.web.app
 0.0.0.0 emailhostingservices122.web.app
+0.0.0.0 email-checkdomainmailbox1.authenticator.repl.co
+0.0.0.0 email-checkdomainmailbox2.authenticator.repl.co
+0.0.0.0 email-checkdomainmailbox6.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox7.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox8.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox9.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox10.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox11.endorsement1.repl.co
+0.0.0.0 email-checkdomainmailbox12.endorsement1.repl.co
+0.0.0.0 email-checkdomainmailbox13.endorsement1.repl.co
+0.0.0.0 email-checkdomainmailbox14.endorsement1.repl.co
+0.0.0.0 email-checkdomainmailbox25.endorsement.repl.co
+0.0.0.0 email-checkdomainmailbox29.endorsement4.repl.co
 0.0.0.0 email.molly-1446.me
 0.0.0.0 email.molly-5371.me
 0.0.0.0 email.molly-8572.me
@@ -12004,8 +12025,10 @@
 0.0.0.0 inpostpl.id05181516075.shop
 0.0.0.0 inpostpl.id05651384088.live
 0.0.0.0 inpostpl.id06890473946.click
+0.0.0.0 inpostpl.id07413645196.live
 0.0.0.0 inpostpl.id08468456189.xyz
 0.0.0.0 inpostpl.id09661800934.info
+0.0.0.0 inpostpl.id067413645614.click
 0.0.0.0 inpostpl.kerek.icu
 0.0.0.0 inpostpl.mkazo01pwer.com
 0.0.0.0 inpostpl.rikod8gjjm.live
@@ -12208,18 +12231,22 @@
 0.0.0.0 inpost-polska-asp.order123.me
 0.0.0.0 inpost-polska-by.2847482929.me
 0.0.0.0 inpost-polska-fc.756887553.me
+0.0.0.0 inpost-polska-fj.order382919.me
 0.0.0.0 inpost-polska-gif.555224.me
 0.0.0.0 inpost-polska-gk.order8851.me
 0.0.0.0 inpost-polska-gz.123441.me
 0.0.0.0 inpost-polska-jdw.order999.me
 0.0.0.0 inpost-polska-jy.756887553.me
 0.0.0.0 inpost-polska-khn.order20493.me
+0.0.0.0 inpost-polska-kjm.order468854.me
 0.0.0.0 inpost-polska-kpo.order74764.me
 0.0.0.0 inpost-polska-mi.order6457.me
 0.0.0.0 inpost-polska-mts.order294820.me
 0.0.0.0 inpost-polska-nv.123441.me
 0.0.0.0 inpost-polska-oe.order384910.me
 0.0.0.0 inpost-polska-owa.39584929.me
+0.0.0.0 inpost-polska-pqi.order468854.me
+0.0.0.0 inpost-polska-sm.order382919.me
 0.0.0.0 inpost-polska-teq.progress228.me
 0.0.0.0 inpost-polska-tjo.order28383.me
 0.0.0.0 inpost-polska-um.order87373.me
@@ -13938,17 +13965,27 @@
 0.0.0.0 mailserverhosting3.servicechckmail.repl.co
 0.0.0.0 mailserverhosting4.servicechckmail.repl.co
 0.0.0.0 mailserverhosting5.servicechckmail.repl.co
+0.0.0.0 mailserverhosting7.hostingserver.repl.co
 0.0.0.0 mailserverhosting10.hostingserver.repl.co
 0.0.0.0 mailserverhosting11.mailservercheck.repl.co
 0.0.0.0 mailserverhosting12.mailservercheck.repl.co
 0.0.0.0 mailserverhosting13.mailservercheck.repl.co
 0.0.0.0 mailserverhosting14.mailservercheck.repl.co
 0.0.0.0 mailserverhosting15.mailservercheck.repl.co
+0.0.0.0 mailserverhosting16.domainhosting.repl.co
+0.0.0.0 mailserverhosting17.domainhosting.repl.co
 0.0.0.0 mailserverhosting18.domainhosting.repl.co
+0.0.0.0 mailserverhosting19.domainhosting.repl.co
 0.0.0.0 mailserverhosting20.domainhosting.repl.co
+0.0.0.0 mailserverhosting21.webserverdomain.repl.co
+0.0.0.0 mailserverhosting22.webserverdomain.repl.co
+0.0.0.0 mailserverhosting23.webserverdomain.repl.co
 0.0.0.0 mailserverhosting24.webserverdomain.repl.co
+0.0.0.0 mailserverhosting25.webserverdomain.repl.co
+0.0.0.0 mailserverhosting26.emailserverchec.repl.co
 0.0.0.0 mailserverhosting27.emailserverchec.repl.co
 0.0.0.0 mailserverhosting28.emailserverchec.repl.co
+0.0.0.0 mailserverhosting29.emailserverchec.repl.co
 0.0.0.0 mailserverhosting30.emailserverchec.repl.co
 0.0.0.0 mailservernotificationerror2.web.app
 0.0.0.0 mailservernotificationerror20.web.app
@@ -22116,6 +22153,7 @@
 0.0.0.0 vinted-obc.id98325.me
 0.0.0.0 vinted-pl.buyitbutpay.site
 0.0.0.0 vinted-pl.bvvkkj12z1.com
+0.0.0.0 vinted-pl.id067413645614.click
 0.0.0.0 vinted-pl.izuy612xty.me
 0.0.0.0 vinted-pl.joska2za.com
 0.0.0.0 vinted-pl.online
@@ -24325,6 +24363,10 @@
 0.0.0.0 www.cheapuggssaleonline.net
 0.0.0.0 www.cheburashka53.ru
 0.0.0.0 www.checkmaildetail1.validatehbk.repl.co
+0.0.0.0 www.checkmaildetail2.validatehbk.repl.co
+0.0.0.0 www.checkmaildetail3.validatehbk.repl.co
+0.0.0.0 www.checkmaildetail4.validatehbk.repl.co
+0.0.0.0 www.checkmaildetail5.validatehbk.repl.co
 0.0.0.0 www.checkmaildetail6.validatehbk.repl.co
 0.0.0.0 www.checkmaildetail13.validatehbk5.repl.co
 0.0.0.0 www.checkmaildetail14.validatehbk5.repl.co
@@ -24340,7 +24382,10 @@
 0.0.0.0 www.checkmaildetail24.validatehbk3.repl.co
 0.0.0.0 www.checkmaildetail25.validatehbk4.repl.co
 0.0.0.0 www.checkmaildetail26.validatehbk4.repl.co
+0.0.0.0 www.checkmaildetail27.validatehbk4.repl.co
 0.0.0.0 www.checkmaildetail28.validatehbk4.repl.co
+0.0.0.0 www.checkmaildetail29.validatehbk4.repl.co
+0.0.0.0 www.checkmaildetail30.validatehbk4.repl.co
 0.0.0.0 www.checkoutwins.com
 0.0.0.0 www.chefeladlevi.com
 0.0.0.0 www.chelnokov.ru
@@ -28661,8 +28706,10 @@
 0.0.0.0 www.inpostpl.id05181516075.shop
 0.0.0.0 www.inpostpl.id05651384088.live
 0.0.0.0 www.inpostpl.id06890473946.click
+0.0.0.0 www.inpostpl.id07413645196.live
 0.0.0.0 www.inpostpl.id08468456189.xyz
 0.0.0.0 www.inpostpl.id09661800934.info
+0.0.0.0 www.inpostpl.id067413645614.click
 0.0.0.0 www.inpostpl.kerek.icu
 0.0.0.0 www.inpostpl.mkazo01pwer.com
 0.0.0.0 www.inpostpl.rikod8gjjm.live
@@ -29767,17 +29814,27 @@
 0.0.0.0 www.mailserverhosting3.servicechckmail.repl.co
 0.0.0.0 www.mailserverhosting4.servicechckmail.repl.co
 0.0.0.0 www.mailserverhosting5.servicechckmail.repl.co
+0.0.0.0 www.mailserverhosting7.hostingserver.repl.co
 0.0.0.0 www.mailserverhosting10.hostingserver.repl.co
 0.0.0.0 www.mailserverhosting11.mailservercheck.repl.co
 0.0.0.0 www.mailserverhosting12.mailservercheck.repl.co
 0.0.0.0 www.mailserverhosting13.mailservercheck.repl.co
 0.0.0.0 www.mailserverhosting14.mailservercheck.repl.co
 0.0.0.0 www.mailserverhosting15.mailservercheck.repl.co
+0.0.0.0 www.mailserverhosting16.domainhosting.repl.co
+0.0.0.0 www.mailserverhosting17.domainhosting.repl.co
 0.0.0.0 www.mailserverhosting18.domainhosting.repl.co
+0.0.0.0 www.mailserverhosting19.domainhosting.repl.co
 0.0.0.0 www.mailserverhosting20.domainhosting.repl.co
+0.0.0.0 www.mailserverhosting21.webserverdomain.repl.co
+0.0.0.0 www.mailserverhosting22.webserverdomain.repl.co
+0.0.0.0 www.mailserverhosting23.webserverdomain.repl.co
 0.0.0.0 www.mailserverhosting24.webserverdomain.repl.co
+0.0.0.0 www.mailserverhosting25.webserverdomain.repl.co
+0.0.0.0 www.mailserverhosting26.emailserverchec.repl.co
 0.0.0.0 www.mailserverhosting27.emailserverchec.repl.co
 0.0.0.0 www.mailserverhosting28.emailserverchec.repl.co
+0.0.0.0 www.mailserverhosting29.emailserverchec.repl.co
 0.0.0.0 www.mailserverhosting30.emailserverchec.repl.co
 0.0.0.0 www.mailservernotificationerror2.web.app
 0.0.0.0 www.mailservernotificationerror20.web.app
@@ -35985,6 +36042,7 @@
 0.0.0.0 www.1npost.656577.xyz
 0.0.0.0 www.1npost.deliveryinfo-956.xyz
 0.0.0.0 www.1npost.delivery-51265.xyz
+0.0.0.0 www.1npos-t.deliveryinfo-9865.xyz
 0.0.0.0 www.1npo-st.sendgoodsinfo.xyz
 0.0.0.0 www.1np-ost.699854.xyz
 0.0.0.0 www.1np-ost.delivery-28451.xyz
@@ -37343,6 +37401,19 @@
 0.0.0.0 www.elotos-finance.website
 0.0.0.0 www.elotos-inv.website
 0.0.0.0 www.emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
+0.0.0.0 www.email-checkdomainmailbox1.authenticator.repl.co
+0.0.0.0 www.email-checkdomainmailbox2.authenticator.repl.co
+0.0.0.0 www.email-checkdomainmailbox6.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox7.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox8.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox9.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox10.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox11.endorsement1.repl.co
+0.0.0.0 www.email-checkdomainmailbox12.endorsement1.repl.co
+0.0.0.0 www.email-checkdomainmailbox13.endorsement1.repl.co
+0.0.0.0 www.email-checkdomainmailbox14.endorsement1.repl.co
+0.0.0.0 www.email-checkdomainmailbox25.endorsement.repl.co
+0.0.0.0 www.email-checkdomainmailbox29.endorsement4.repl.co
 0.0.0.0 www.email.molly-1446.me
 0.0.0.0 www.email.molly-5371.me
 0.0.0.0 www.email.molly-8572.me
@@ -38244,18 +38315,22 @@
 0.0.0.0 www.inpost-polska-asp.order123.me
 0.0.0.0 www.inpost-polska-by.2847482929.me
 0.0.0.0 www.inpost-polska-fc.756887553.me
+0.0.0.0 www.inpost-polska-fj.order382919.me
 0.0.0.0 www.inpost-polska-gif.555224.me
 0.0.0.0 www.inpost-polska-gk.order8851.me
 0.0.0.0 www.inpost-polska-gz.123441.me
 0.0.0.0 www.inpost-polska-jdw.order999.me
 0.0.0.0 www.inpost-polska-jy.756887553.me
 0.0.0.0 www.inpost-polska-khn.order20493.me
+0.0.0.0 www.inpost-polska-kjm.order468854.me
 0.0.0.0 www.inpost-polska-kpo.order74764.me
 0.0.0.0 www.inpost-polska-mi.order6457.me
 0.0.0.0 www.inpost-polska-mts.order294820.me
 0.0.0.0 www.inpost-polska-nv.123441.me
 0.0.0.0 www.inpost-polska-oe.order384910.me
 0.0.0.0 www.inpost-polska-owa.39584929.me
+0.0.0.0 www.inpost-polska-pqi.order468854.me
+0.0.0.0 www.inpost-polska-sm.order382919.me
 0.0.0.0 www.inpost-polska-teq.progress228.me
 0.0.0.0 www.inpost-polska-tjo.order28383.me
 0.0.0.0 www.inpost-polska-um.order87373.me
@@ -41833,6 +41908,7 @@
 0.0.0.0 www.vinted-obc.id98325.me
 0.0.0.0 www.vinted-pl.buyitbutpay.site
 0.0.0.0 www.vinted-pl.bvvkkj12z1.com
+0.0.0.0 www.vinted-pl.id067413645614.click
 0.0.0.0 www.vinted-pl.izuy612xty.me
 0.0.0.0 www.vinted-pl.joska2za.com
 0.0.0.0 www.vinted-pl.online
