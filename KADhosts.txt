@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 12 Apr 2022, 14:35 UTC+02
-# Version: 2022.4.12.1
+# Last modified: Tue, 12 Apr 2022, 18:31 UTC+02
+# Version: 2022.4.12.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -9653,6 +9653,7 @@
 0.0.0.0 dpd.product-departurepage.xyz
 0.0.0.0 dpd.sendingpage-85945.xyz
 0.0.0.0 dpd.shipment-payinfo.xyz
+0.0.0.0 dpd.site-goodsshipment.xyz
 0.0.0.0 dpejwyk5eyul1.cloudfront.net
 0.0.0.0 dpkb8wsd5bmct.cloudfront.net
 0.0.0.0 dplpging.web.app
@@ -12221,6 +12222,7 @@
 0.0.0.0 informator-interia-40201195369.azureedge.net
 0.0.0.0 informator-interia-60150661087.azureedge.net
 0.0.0.0 informator-onet-91941033371.azureedge.net
+0.0.0.0 informator-polsat-32026487069.azureedge.net
 0.0.0.0 informator-polsat-75413753516.azureedge.net
 0.0.0.0 informator-wp-40137326980.azureedge.net
 0.0.0.0 informator-wp-41754175087.azureedge.net
@@ -12342,6 +12344,7 @@
 0.0.0.0 inp0st-datautilization.xyz
 0.0.0.0 inp0st.71256.xyz
 0.0.0.0 inp0st.deliveryinfo-74124.xyz
+0.0.0.0 inp0st.dispatchinfo-21051.xyz
 0.0.0.0 inp0st.sendinggoods-6598.xyz
 0.0.0.0 inpost.bond
 0.0.0.0 inpost.casa
@@ -12414,6 +12417,7 @@
 0.0.0.0 inpostpl.mojid074394308.xyz
 0.0.0.0 inpostpl.mojid079865651.top
 0.0.0.0 inpostpl.mojid05236941675.buzz
+0.0.0.0 inpostpl.mojid064796346854.click
 0.0.0.0 inpostpl.numerid05693472.top
 0.0.0.0 inpostpl.numerid0346821675.click
 0.0.0.0 inpostpl.numerid0376428976.shop
@@ -12683,6 +12687,7 @@
 0.0.0.0 inpost-polska-ja.order483829.me
 0.0.0.0 inpost-polska-jcw.orders8851.me
 0.0.0.0 inpost-polska-jdw.order999.me
+0.0.0.0 inpost-polska-jmq.orders993.info
 0.0.0.0 inpost-polska-jm.367832808.me
 0.0.0.0 inpost-polska-jy.756887553.me
 0.0.0.0 inpost-polska-khn.order20493.me
@@ -12704,6 +12709,7 @@
 0.0.0.0 inpost-polska-pc.ordernew483819.me
 0.0.0.0 inpost-polska-por.orders993.info
 0.0.0.0 inpost-polska-pqi.order468854.me
+0.0.0.0 inpost-polska-qga.orders143.info
 0.0.0.0 inpost-polska-rdg.order88513.me
 0.0.0.0 inpost-polska-scu.order8859.me
 0.0.0.0 inpost-polska-sh.orders993.info
@@ -12713,6 +12719,7 @@
 0.0.0.0 inpost-polska-sm.order382919.me
 0.0.0.0 inpost-polska-so.orders0915.info
 0.0.0.0 inpost-polska-sos.ordernew482829.me
+0.0.0.0 inpost-polska-sqh.orders143.info
 0.0.0.0 inpost-polska-srl.ordernew482829.me
 0.0.0.0 inpost-polska-teq.progress228.me
 0.0.0.0 inpost-polska-tjo.order28383.me
@@ -12735,6 +12742,7 @@
 0.0.0.0 inpost-polska.623141.xyz
 0.0.0.0 inpost-polska.637685.xyz
 0.0.0.0 inpost-polska.938347.space
+0.0.0.0 inpost-polska.954173.space
 0.0.0.0 inpost-polska.986956.xyz
 0.0.0.0 inpost-polska.buy-id498198.xyz
 0.0.0.0 inpost-polska.ggergewgewrg-487585.space
@@ -12809,6 +12817,7 @@
 0.0.0.0 inpost.post-dostawa.com
 0.0.0.0 inpost.ua-dostawka.xyz
 0.0.0.0 inpo-st.dellvery-cargo.xyz
+0.0.0.0 inpo-st.page-dispatchinfo.xyz
 0.0.0.0 inp-ost.dispatchpage-23562.xyz
 0.0.0.0 inq-login.com
 0.0.0.0 insectstate.com
@@ -15051,6 +15060,7 @@
 0.0.0.0 mke2morrow.com
 0.0.0.0 mkls.pl
 0.0.0.0 mlekopochimu-online.preview-domain.com
+0.0.0.0 mlnwestor-mbaank.pl
 0.0.0.0 mlteadoms.website
 0.0.0.0 mmc-softwareoplossingen.com
 0.0.0.0 mme7bmsjc.newsy.auto.pl
@@ -15632,6 +15642,7 @@
 0.0.0.0 newsy-tygodnia.waw.pl
 0.0.0.0 newsy-wazne-97870590135.azureedge.net
 0.0.0.0 news-24h-62131924998.azureedge.net
+0.0.0.0 news-24h-81893053079.azureedge.net
 0.0.0.0 news-biznes.waw.pl
 0.0.0.0 news-bussnse.info
 0.0.0.0 news-deck.at
@@ -15639,6 +15650,16 @@
 0.0.0.0 news-krajowy.waw.pl
 0.0.0.0 news-l.info
 0.0.0.0 news-ltspl.info
+0.0.0.0 news-newsweek-11869500562.azureedge.net
+0.0.0.0 news-newsweek-15573090781.azureedge.net
+0.0.0.0 news-newsweek-19291984325.azureedge.net
+0.0.0.0 news-newsweek-24766808088.azureedge.net
+0.0.0.0 news-newsweek-41836912851.azureedge.net
+0.0.0.0 news-newsweek-55471996487.azureedge.net
+0.0.0.0 news-newsweek-58397074306.azureedge.net
+0.0.0.0 news-newsweek-71361823459.azureedge.net
+0.0.0.0 news-newsweek-73873235141.azureedge.net
+0.0.0.0 news-newsweek-87114780490.azureedge.net
 0.0.0.0 news-orlen.biz
 0.0.0.0 news-orlen.us
 0.0.0.0 news-pgeprojektpl.info
@@ -16396,6 +16417,7 @@
 0.0.0.0 olx-pl.3dpay.shop
 0.0.0.0 olx-pl.3dsellp-r.com
 0.0.0.0 olx-pl.166dzxdss-41.com
+0.0.0.0 olx-pl.041726.space
 0.0.0.0 olx-pl.44112-online.sbs
 0.0.0.0 olx-pl.113349.xyz
 0.0.0.0 olx-pl.118845.space
@@ -21266,6 +21288,8 @@
 0.0.0.0 supercoilingcriticised.info
 0.0.0.0 supercoilingdesignate.info
 0.0.0.0 supercoilingwaxworks.info
+0.0.0.0 superfakt-newsweek-30918666978.azureedge.net
+0.0.0.0 superfakt-newsweek-88243666832.azureedge.net
 0.0.0.0 supergra2020.wixsite.com
 0.0.0.0 superhistoria.is-best.net
 0.0.0.0 superioritiesbaptismally.pl
@@ -22019,6 +22043,7 @@
 0.0.0.0 tpro3.ptrn-official.xyz
 0.0.0.0 tr12boncroffer.site
 0.0.0.0 track.dhlexpress.site
+0.0.0.0 tracking-dpd-polska.ddns.mobi
 0.0.0.0 trade360.com
 0.0.0.0 tradebaionics.com
 0.0.0.0 tradebitedge.com
@@ -22151,6 +22176,7 @@
 0.0.0.0 troutlet.buzz
 0.0.0.0 troycomp.xyz
 0.0.0.0 trsmarkets.com
+0.0.0.0 truckmyparcell.mymom.info
 0.0.0.0 trudnedrzenie.site
 0.0.0.0 trudneokreslenie.site
 0.0.0.0 trudnytresc.site
@@ -29209,6 +29235,7 @@
 0.0.0.0 www.inpostpl.mojid074394308.xyz
 0.0.0.0 www.inpostpl.mojid079865651.top
 0.0.0.0 www.inpostpl.mojid05236941675.buzz
+0.0.0.0 www.inpostpl.mojid064796346854.click
 0.0.0.0 www.inpostpl.numerid05693472.top
 0.0.0.0 www.inpostpl.numerid0346821675.click
 0.0.0.0 www.inpostpl.numerid0376428976.shop
@@ -35055,6 +35082,7 @@
 0.0.0.0 www.troycomp.xyz
 0.0.0.0 www.tro.bordaaw.xyz
 0.0.0.0 www.trsmarkets.com
+0.0.0.0 www.truckmyparcell.mymom.info
 0.0.0.0 www.trudnedrzenie.site
 0.0.0.0 www.trudneokreslenie.site
 0.0.0.0 www.trudnytresc.site
@@ -37718,6 +37746,7 @@
 0.0.0.0 www.dpd.product-departurepage.xyz
 0.0.0.0 www.dpd.sendingpage-85945.xyz
 0.0.0.0 www.dpd.shipment-payinfo.xyz
+0.0.0.0 www.dpd.site-goodsshipment.xyz
 0.0.0.0 www.dp.ptrn-official.xyz
 0.0.0.0 www.dreams-business.info
 0.0.0.0 www.dreams-business.site
@@ -38484,6 +38513,7 @@
 0.0.0.0 www.informator-interia-40201195369.azureedge.net
 0.0.0.0 www.informator-interia-60150661087.azureedge.net
 0.0.0.0 www.informator-onet-91941033371.azureedge.net
+0.0.0.0 www.informator-polsat-32026487069.azureedge.net
 0.0.0.0 www.informator-polsat-75413753516.azureedge.net
 0.0.0.0 www.informator-wp-40137326980.azureedge.net
 0.0.0.0 www.informator-wp-41754175087.azureedge.net
@@ -38541,6 +38571,7 @@
 0.0.0.0 www.inp0st-datautilization.xyz
 0.0.0.0 www.inp0st.71256.xyz
 0.0.0.0 www.inp0st.deliveryinfo-74124.xyz
+0.0.0.0 www.inp0st.dispatchinfo-21051.xyz
 0.0.0.0 www.inp0st.sendinggoods-6598.xyz
 0.0.0.0 www.inposta-getcash.pw
 0.0.0.0 www.inposta-info.pw
@@ -38788,6 +38819,7 @@
 0.0.0.0 www.inpost-polska-ja.order483829.me
 0.0.0.0 www.inpost-polska-jcw.orders8851.me
 0.0.0.0 www.inpost-polska-jdw.order999.me
+0.0.0.0 www.inpost-polska-jmq.orders993.info
 0.0.0.0 www.inpost-polska-jm.367832808.me
 0.0.0.0 www.inpost-polska-jy.756887553.me
 0.0.0.0 www.inpost-polska-khn.order20493.me
@@ -38809,6 +38841,7 @@
 0.0.0.0 www.inpost-polska-pc.ordernew483819.me
 0.0.0.0 www.inpost-polska-por.orders993.info
 0.0.0.0 www.inpost-polska-pqi.order468854.me
+0.0.0.0 www.inpost-polska-qga.orders143.info
 0.0.0.0 www.inpost-polska-rdg.order88513.me
 0.0.0.0 www.inpost-polska-scu.order8859.me
 0.0.0.0 www.inpost-polska-sh.orders993.info
@@ -38818,6 +38851,7 @@
 0.0.0.0 www.inpost-polska-sm.order382919.me
 0.0.0.0 www.inpost-polska-so.orders0915.info
 0.0.0.0 www.inpost-polska-sos.ordernew482829.me
+0.0.0.0 www.inpost-polska-sqh.orders143.info
 0.0.0.0 www.inpost-polska-srl.ordernew482829.me
 0.0.0.0 www.inpost-polska-teq.progress228.me
 0.0.0.0 www.inpost-polska-tjo.order28383.me
@@ -38840,6 +38874,7 @@
 0.0.0.0 www.inpost-polska.623141.xyz
 0.0.0.0 www.inpost-polska.637685.xyz
 0.0.0.0 www.inpost-polska.938347.space
+0.0.0.0 www.inpost-polska.954173.space
 0.0.0.0 www.inpost-polska.986956.xyz
 0.0.0.0 www.inpost-polska.buy-id498198.xyz
 0.0.0.0 www.inpost-polska.ggergewgewrg-487585.space
@@ -38914,6 +38949,7 @@
 0.0.0.0 www.inpost.post-dostawa.com
 0.0.0.0 www.inpost.ua-dostawka.xyz
 0.0.0.0 www.inpo-st.dellvery-cargo.xyz
+0.0.0.0 www.inpo-st.page-dispatchinfo.xyz
 0.0.0.0 www.inp-ost.dispatchpage-23562.xyz
 0.0.0.0 www.inq-login.com
 0.0.0.0 www.inspace-lineproject.com
@@ -39658,6 +39694,7 @@
 0.0.0.0 www.mix-projects.online
 0.0.0.0 www.mix-projects.space
 0.0.0.0 www.mlekopochimu-online.preview-domain.com
+0.0.0.0 www.mlnwestor-mbaank.pl
 0.0.0.0 www.mmc-softwareoplossingen.com
 0.0.0.0 www.mobile-allegrolokalnie.shop
 0.0.0.0 www.modal-sklep.pl
@@ -39824,6 +39861,7 @@
 0.0.0.0 www.newsy-tygodnia.waw.pl
 0.0.0.0 www.newsy-wazne-97870590135.azureedge.net
 0.0.0.0 www.news-24h-62131924998.azureedge.net
+0.0.0.0 www.news-24h-81893053079.azureedge.net
 0.0.0.0 www.news-biznes.waw.pl
 0.0.0.0 www.news-bussnse.info
 0.0.0.0 www.news-deck.at
@@ -39831,6 +39869,16 @@
 0.0.0.0 www.news-krajowy.waw.pl
 0.0.0.0 www.news-l.info
 0.0.0.0 www.news-ltspl.info
+0.0.0.0 www.news-newsweek-11869500562.azureedge.net
+0.0.0.0 www.news-newsweek-15573090781.azureedge.net
+0.0.0.0 www.news-newsweek-19291984325.azureedge.net
+0.0.0.0 www.news-newsweek-24766808088.azureedge.net
+0.0.0.0 www.news-newsweek-41836912851.azureedge.net
+0.0.0.0 www.news-newsweek-55471996487.azureedge.net
+0.0.0.0 www.news-newsweek-58397074306.azureedge.net
+0.0.0.0 www.news-newsweek-71361823459.azureedge.net
+0.0.0.0 www.news-newsweek-73873235141.azureedge.net
+0.0.0.0 www.news-newsweek-87114780490.azureedge.net
 0.0.0.0 www.news-orlen.biz
 0.0.0.0 www.news-orlen.us
 0.0.0.0 www.news-pgeprojektpl.info
@@ -40121,6 +40169,7 @@
 0.0.0.0 www.olx-pl.3dpay.shop
 0.0.0.0 www.olx-pl.3dsellp-r.com
 0.0.0.0 www.olx-pl.166dzxdss-41.com
+0.0.0.0 www.olx-pl.041726.space
 0.0.0.0 www.olx-pl.44112-online.sbs
 0.0.0.0 www.olx-pl.113349.xyz
 0.0.0.0 www.olx-pl.118845.space
@@ -42190,6 +42239,8 @@
 0.0.0.0 www.sub.gyt-ti.online
 0.0.0.0 www.success-jezyki.pl
 0.0.0.0 www.sunlokki-uno.preview-domain.com
+0.0.0.0 www.superfakt-newsweek-30918666978.azureedge.net
+0.0.0.0 www.superfakt-newsweek-88243666832.azureedge.net
 0.0.0.0 www.superhistoria.is-best.net
 0.0.0.0 www.supermakler-login.com
 0.0.0.0 www.supermakler-logowanie.org
@@ -42378,6 +42429,7 @@
 0.0.0.0 www.tpay.order-received.online
 0.0.0.0 www.tpay.pl-order-received.online
 0.0.0.0 www.tpro3.ptrn-official.xyz
+0.0.0.0 www.tracking-dpd-polska.ddns.mobi
 0.0.0.0 www.trade-labs.com
 0.0.0.0 www.trade-olx.pl
 0.0.0.0 www.tragedia-gogglebox.pl
