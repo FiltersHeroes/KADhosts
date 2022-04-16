@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 16 Apr 2022, 14:35 UTC+02
-# Version: 2022.4.16.1
+# Last modified: Sat, 16 Apr 2022, 18:29 UTC+02
+# Version: 2022.4.16.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -12642,6 +12642,7 @@
 0.0.0.0 inpost-polska-axu.orders9484.info
 0.0.0.0 inpost-polska-bnt.order468975.me
 0.0.0.0 inpost-polska-boi.orders091.info
+0.0.0.0 inpost-polska-bol.orders8821.info
 0.0.0.0 inpost-polska-bp.orders0094.info
 0.0.0.0 inpost-polska-btp.ordernew482829.me
 0.0.0.0 inpost-polska-by.2847482929.me
@@ -12651,10 +12652,12 @@
 0.0.0.0 inpost-polska-cym.order9t2035.info
 0.0.0.0 inpost-polska-cz.ordernew472818.me
 0.0.0.0 inpost-polska-dg.ordernew472818.me
+0.0.0.0 inpost-polska-due.orders8821.info
 0.0.0.0 inpost-polska-dvv.order9t2035.info
 0.0.0.0 inpost-polska-ekg.order88513.me
 0.0.0.0 inpost-polska-em.orders0094.info
 0.0.0.0 inpost-polska-ep.order9t2035.info
+0.0.0.0 inpost-polska-ev.orders8821.info
 0.0.0.0 inpost-polska-fc.756887553.me
 0.0.0.0 inpost-polska-fj.order382919.me
 0.0.0.0 inpost-polska-flo.orders0915.info
@@ -12714,6 +12717,7 @@
 0.0.0.0 inpost-polska-teq.progress228.me
 0.0.0.0 inpost-polska-tjo.order28383.me
 0.0.0.0 inpost-polska-twh.orders8821.info
+0.0.0.0 inpost-polska-ub.orders8821.info
 0.0.0.0 inpost-polska-ue.orders0094.info
 0.0.0.0 inpost-polska-um.order87373.me
 0.0.0.0 inpost-polska-uub.order35923.info
@@ -14150,6 +14154,7 @@
 0.0.0.0 lnpos-t.infodelivery-124453.xyz
 0.0.0.0 lnpo-st.deliveryinfo-6598.xyz
 0.0.0.0 lnpo-st.shipping-information.xyz
+0.0.0.0 lnpo-st.site-goodsdispatch.xyz
 0.0.0.0 lnp-ost.infoproductdispatch.xyz
 0.0.0.0 lnstagram.pp.ru
 0.0.0.0 lnstahelp.com
@@ -18690,6 +18695,7 @@
 0.0.0.0 polska-lnpost.301947.space
 0.0.0.0 polska-lnpost.305271.space
 0.0.0.0 polska-lnpost.347843.space
+0.0.0.0 polska-lnpost.355754.space
 0.0.0.0 polska-lnpost.356785.space
 0.0.0.0 polska-lnpost.381945.site
 0.0.0.0 polska-lnpost.410528.xyz
@@ -38773,6 +38779,7 @@
 0.0.0.0 www.inpost-polska-axu.orders9484.info
 0.0.0.0 www.inpost-polska-bnt.order468975.me
 0.0.0.0 www.inpost-polska-boi.orders091.info
+0.0.0.0 www.inpost-polska-bol.orders8821.info
 0.0.0.0 www.inpost-polska-bp.orders0094.info
 0.0.0.0 www.inpost-polska-btp.ordernew482829.me
 0.0.0.0 www.inpost-polska-by.2847482929.me
@@ -38782,10 +38789,12 @@
 0.0.0.0 www.inpost-polska-cym.order9t2035.info
 0.0.0.0 www.inpost-polska-cz.ordernew472818.me
 0.0.0.0 www.inpost-polska-dg.ordernew472818.me
+0.0.0.0 www.inpost-polska-due.orders8821.info
 0.0.0.0 www.inpost-polska-dvv.order9t2035.info
 0.0.0.0 www.inpost-polska-ekg.order88513.me
 0.0.0.0 www.inpost-polska-em.orders0094.info
 0.0.0.0 www.inpost-polska-ep.order9t2035.info
+0.0.0.0 www.inpost-polska-ev.orders8821.info
 0.0.0.0 www.inpost-polska-fc.756887553.me
 0.0.0.0 www.inpost-polska-fj.order382919.me
 0.0.0.0 www.inpost-polska-flo.orders0915.info
@@ -38845,6 +38854,7 @@
 0.0.0.0 www.inpost-polska-teq.progress228.me
 0.0.0.0 www.inpost-polska-tjo.order28383.me
 0.0.0.0 www.inpost-polska-twh.orders8821.info
+0.0.0.0 www.inpost-polska-ub.orders8821.info
 0.0.0.0 www.inpost-polska-ue.orders0094.info
 0.0.0.0 www.inpost-polska-um.order87373.me
 0.0.0.0 www.inpost-polska-uub.order35923.info
@@ -39415,6 +39425,7 @@
 0.0.0.0 www.lnpos-t.infodelivery-124453.xyz
 0.0.0.0 www.lnpo-st.deliveryinfo-6598.xyz
 0.0.0.0 www.lnpo-st.shipping-information.xyz
+0.0.0.0 www.lnpo-st.site-goodsdispatch.xyz
 0.0.0.0 www.lnp-ost.infoproductdispatch.xyz
 0.0.0.0 www.lnw-superslot.com
 0.0.0.0 www.ln-p0st.delivery-95682.xyz
@@ -41347,6 +41358,7 @@
 0.0.0.0 www.polska-lnpost.301947.space
 0.0.0.0 www.polska-lnpost.305271.space
 0.0.0.0 www.polska-lnpost.347843.space
+0.0.0.0 www.polska-lnpost.355754.space
 0.0.0.0 www.polska-lnpost.356785.space
 0.0.0.0 www.polska-lnpost.381945.site
 0.0.0.0 www.polska-lnpost.410528.xyz
