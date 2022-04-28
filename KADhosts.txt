@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 28 Apr 2022, 10:28 UTC+02
-# Version: 2022.4.28.0
+# Last modified: Thu, 28 Apr 2022, 14:43 UTC+02
+# Version: 2022.4.28.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7182,6 +7182,7 @@
 0.0.0.0 bundle-deals.com
 0.0.0.0 bunskil-site.preview-domain.com
 0.0.0.0 buntownik527.site
+0.0.0.0 burist.xyz
 0.0.0.0 buroch.online
 0.0.0.0 buscorrespond.com
 0.0.0.0 buseltrop.com
@@ -10270,6 +10271,7 @@
 0.0.0.0 dpd.8956-deliverygoods.xyz
 0.0.0.0 dpd.deliveryinfo-2365.xyz
 0.0.0.0 dpd.deliveryuser-ptr.xyz
+0.0.0.0 dpd.delivery-userinform.xyz
 0.0.0.0 dpd.dispatchproduct-659.xyz
 0.0.0.0 dpd.ip-648342.pw
 0.0.0.0 dpd.lnfodelivery-page.xyz
@@ -13273,10 +13275,12 @@
 0.0.0.0 inpost-polska-gpp.order46899.me
 0.0.0.0 inpost-polska-gz.123441.me
 0.0.0.0 inpost-polska-hco.order88513.me
+0.0.0.0 inpost-polska-hr.order9351.info
 0.0.0.0 inpost-polska-hy.order9351.info
 0.0.0.0 inpost-polska-icp.order9351.info
 0.0.0.0 inpost-polska-ifd.order469854.me
 0.0.0.0 inpost-polska-ip.order9t2035.info
+0.0.0.0 inpost-polska-iql.order9351.info
 0.0.0.0 inpost-polska-isu.orders143.info
 0.0.0.0 inpost-polska-ja.order483829.me
 0.0.0.0 inpost-polska-jcw.orders8851.me
@@ -13290,6 +13294,7 @@
 0.0.0.0 inpost-polska-kj.orders993.info
 0.0.0.0 inpost-polska-kjm.order468854.me
 0.0.0.0 inpost-polska-kpo.order74764.me
+0.0.0.0 inpost-polska-kvr.order9351.info
 0.0.0.0 inpost-polska-lfp.order9351.info
 0.0.0.0 inpost-polska-lls.order4939292.me
 0.0.0.0 inpost-polska-lod.orders993.info
@@ -13314,6 +13319,8 @@
 0.0.0.0 inpost-polska-pnd.order9t2035.info
 0.0.0.0 inpost-polska-por.orders993.info
 0.0.0.0 inpost-polska-pqi.order468854.me
+0.0.0.0 inpost-polska-prg.order9351.info
+0.0.0.0 inpost-polska-pui.order9351.info
 0.0.0.0 inpost-polska-puy.order9351.info
 0.0.0.0 inpost-polska-qei.order9351.info
 0.0.0.0 inpost-polska-qga.orders143.info
@@ -13370,6 +13377,7 @@
 0.0.0.0 inpost-polska-yue.orders993.info
 0.0.0.0 inpost-polska-zcs.orders8821.info
 0.0.0.0 inpost-polska-zql.order4678.me
+0.0.0.0 inpost-polska-zsg.order9351.info
 0.0.0.0 inpost-polska-zub.orders0094.info
 0.0.0.0 inpost-polska.623141.xyz
 0.0.0.0 inpost-polska.637685.xyz
@@ -13895,6 +13903,7 @@
 0.0.0.0 jnpost.productsendlng-user.xyz
 0.0.0.0 jnpos-t.9754-deliveryform.xyz
 0.0.0.0 jnpos-t.shipmentcargo-2451.xyz
+0.0.0.0 jnpos-t.usersend-product.xyz
 0.0.0.0 joanliew.com
 0.0.0.0 jobalti.xyz
 0.0.0.0 jodhsvilmalna.tk
@@ -15023,6 +15032,7 @@
 0.0.0.0 m4rkt.com
 0.0.0.0 maadlen.pl
 0.0.0.0 maaxi-pl1.site
+0.0.0.0 mabanquebnpparibas.gr
 0.0.0.0 mabanque-bnpparibas-ref-31-fr.web.app
 0.0.0.0 mabanque-bnpparibas-ref-34-fr.web.app
 0.0.0.0 mac.ralt.site
@@ -15651,6 +15661,7 @@
 0.0.0.0 moaythink.pl
 0.0.0.0 mob.beeps.digital
 0.0.0.0 mobgames.mobi
+0.0.0.0 mobilaktywpl.pw
 0.0.0.0 mobilefineart.com
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobile-allegrolokalnie.shop
@@ -19240,6 +19251,7 @@
 0.0.0.0 polska-lnpost.305271.space
 0.0.0.0 polska-lnpost.314878.xyz
 0.0.0.0 polska-lnpost.324543.space
+0.0.0.0 polska-lnpost.334565.fun
 0.0.0.0 polska-lnpost.347843.space
 0.0.0.0 polska-lnpost.355754.space
 0.0.0.0 polska-lnpost.356785.space
@@ -19326,6 +19338,7 @@
 0.0.0.0 polska-olx.order-id874568.xyz
 0.0.0.0 polska-olx.paying-435654.xyz
 0.0.0.0 polska-olx.pay-id63524.top
+0.0.0.0 polska-pay-dpd.442443.pw
 0.0.0.0 polska-pay-lnpost.726310.site
 0.0.0.0 polska-pay-olx.381945.site
 0.0.0.0 polska-pay-olx.563485.space
@@ -20132,6 +20145,7 @@
 0.0.0.0 quantro.xyz
 0.0.0.0 quantummarket.net
 0.0.0.0 quantums-trade.com
+0.0.0.0 quantum-pl.space
 0.0.0.0 quartexindustries.com
 0.0.0.0 quatebirding.com
 0.0.0.0 qubble.com
@@ -20900,6 +20914,7 @@
 0.0.0.0 secure.xn--gtinhnk-g1c0176d.com
 0.0.0.0 security-doge.com
 0.0.0.0 see4ukm.bni-ecollection.com
+0.0.0.0 seerskol-site.preview-domain.com
 0.0.0.0 seertikoler-xyz.preview-domain.com
 0.0.0.0 seimor.website
 0.0.0.0 sekcja590.rest
@@ -23257,6 +23272,9 @@
 0.0.0.0 vinted-pl.buyitbutpay.site
 0.0.0.0 vinted-pl.bvvkkj12z1.com
 0.0.0.0 vinted-pl.dost59495563.buzz
+0.0.0.0 vinted-pl.dostaw.buzz
+0.0.0.0 vinted-pl.dostaw.life
+0.0.0.0 vinted-pl.dostaw.xyz
 0.0.0.0 vinted-pl.id05608948965.info
 0.0.0.0 vinted-pl.id067413645614.click
 0.0.0.0 vinted-pl.izuy612xty.me
@@ -25188,6 +25206,7 @@
 0.0.0.0 www.bullsbearstrades.com
 0.0.0.0 www.bullshotsroman.info
 0.0.0.0 www.buntownik527.site
+0.0.0.0 www.burist.xyz
 0.0.0.0 www.buroch.online
 0.0.0.0 www.buscorrespond.com
 0.0.0.0 www.buseltrop.com
@@ -30567,6 +30586,7 @@
 0.0.0.0 www.lz4l82l7e.newsy.auto.pl
 0.0.0.0 www.m4rkt.com
 0.0.0.0 www.maadlen.pl
+0.0.0.0 www.mabanquebnpparibas.gr
 0.0.0.0 www.maccash.fun
 0.0.0.0 www.maceju.com
 0.0.0.0 www.machinerydevelop.com
@@ -31045,6 +31065,7 @@
 0.0.0.0 www.mnmjunfamfam.bar
 0.0.0.0 www.moaythink.pl
 0.0.0.0 www.mobgames.mobi
+0.0.0.0 www.mobilaktywpl.pw
 0.0.0.0 www.mobilefineart.com
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.mobiljobb.se
@@ -37779,6 +37800,7 @@
 0.0.0.0 www.dpd.8956-deliverygoods.xyz
 0.0.0.0 www.dpd.deliveryinfo-2365.xyz
 0.0.0.0 www.dpd.deliveryuser-ptr.xyz
+0.0.0.0 www.dpd.delivery-userinform.xyz
 0.0.0.0 www.dpd.dispatchproduct-659.xyz
 0.0.0.0 www.dpd.ip-648342.pw
 0.0.0.0 www.dpd.lnfodelivery-page.xyz
@@ -38903,10 +38925,12 @@
 0.0.0.0 www.inpost-polska-gpp.order46899.me
 0.0.0.0 www.inpost-polska-gz.123441.me
 0.0.0.0 www.inpost-polska-hco.order88513.me
+0.0.0.0 www.inpost-polska-hr.order9351.info
 0.0.0.0 www.inpost-polska-hy.order9351.info
 0.0.0.0 www.inpost-polska-icp.order9351.info
 0.0.0.0 www.inpost-polska-ifd.order469854.me
 0.0.0.0 www.inpost-polska-ip.order9t2035.info
+0.0.0.0 www.inpost-polska-iql.order9351.info
 0.0.0.0 www.inpost-polska-isu.orders143.info
 0.0.0.0 www.inpost-polska-ja.order483829.me
 0.0.0.0 www.inpost-polska-jcw.orders8851.me
@@ -38920,6 +38944,7 @@
 0.0.0.0 www.inpost-polska-kj.orders993.info
 0.0.0.0 www.inpost-polska-kjm.order468854.me
 0.0.0.0 www.inpost-polska-kpo.order74764.me
+0.0.0.0 www.inpost-polska-kvr.order9351.info
 0.0.0.0 www.inpost-polska-lfp.order9351.info
 0.0.0.0 www.inpost-polska-lls.order4939292.me
 0.0.0.0 www.inpost-polska-lod.orders993.info
@@ -38944,6 +38969,8 @@
 0.0.0.0 www.inpost-polska-pnd.order9t2035.info
 0.0.0.0 www.inpost-polska-por.orders993.info
 0.0.0.0 www.inpost-polska-pqi.order468854.me
+0.0.0.0 www.inpost-polska-prg.order9351.info
+0.0.0.0 www.inpost-polska-pui.order9351.info
 0.0.0.0 www.inpost-polska-puy.order9351.info
 0.0.0.0 www.inpost-polska-qei.order9351.info
 0.0.0.0 www.inpost-polska-qga.orders143.info
@@ -39000,6 +39027,7 @@
 0.0.0.0 www.inpost-polska-yue.orders993.info
 0.0.0.0 www.inpost-polska-zcs.orders8821.info
 0.0.0.0 www.inpost-polska-zql.order4678.me
+0.0.0.0 www.inpost-polska-zsg.order9351.info
 0.0.0.0 www.inpost-polska-zub.orders0094.info
 0.0.0.0 www.inpost-polska.623141.xyz
 0.0.0.0 www.inpost-polska.637685.xyz
@@ -39281,6 +39309,7 @@
 0.0.0.0 www.jnpost.productsendlng-user.xyz
 0.0.0.0 www.jnpos-t.9754-deliveryform.xyz
 0.0.0.0 www.jnpos-t.shipmentcargo-2451.xyz
+0.0.0.0 www.jnpos-t.usersend-product.xyz
 0.0.0.0 www.jolly-hypatia-573e73.netlify.app
 0.0.0.0 www.jondir-com.preview-domain.com
 0.0.0.0 www.jonerdo-com.preview-domain.com
@@ -41527,6 +41556,7 @@
 0.0.0.0 www.polska-lnpost.305271.space
 0.0.0.0 www.polska-lnpost.314878.xyz
 0.0.0.0 www.polska-lnpost.324543.space
+0.0.0.0 www.polska-lnpost.334565.fun
 0.0.0.0 www.polska-lnpost.347843.space
 0.0.0.0 www.polska-lnpost.355754.space
 0.0.0.0 www.polska-lnpost.356785.space
@@ -41613,6 +41643,7 @@
 0.0.0.0 www.polska-olx.order-id874568.xyz
 0.0.0.0 www.polska-olx.paying-435654.xyz
 0.0.0.0 www.polska-olx.pay-id63524.top
+0.0.0.0 www.polska-pay-dpd.442443.pw
 0.0.0.0 www.polska-pay-lnpost.726310.site
 0.0.0.0 www.polska-pay-olx.381945.site
 0.0.0.0 www.polska-pay-olx.563485.space
@@ -42014,6 +42045,7 @@
 0.0.0.0 www.qtesl.ptrn-official.xyz
 0.0.0.0 www.qtw48hryu7-rjbsghd-neghj-0nqwep4jdn.ey-gsh-839hj-sh73bdu8-ns627.repl.co
 0.0.0.0 www.quantums-trade.com
+0.0.0.0 www.quantum-pl.space
 0.0.0.0 www.quize-quick.com
 0.0.0.0 www.quize-sale.net
 0.0.0.0 www.quizteslxpl.1.newsoftware.live
@@ -42277,6 +42309,7 @@
 0.0.0.0 www.secure.xn--gtinhnk-g1c0176d.com
 0.0.0.0 www.security-doge.com
 0.0.0.0 www.see4ukm.bni-ecollection.com
+0.0.0.0 www.seerskol-site.preview-domain.com
 0.0.0.0 www.seertikoler-xyz.preview-domain.com
 0.0.0.0 www.seks-telefon.com
 0.0.0.0 www.seletor-xyz.preview-domain.com
@@ -42936,6 +42969,9 @@
 0.0.0.0 www.vinted-pl.buyitbutpay.site
 0.0.0.0 www.vinted-pl.bvvkkj12z1.com
 0.0.0.0 www.vinted-pl.dost59495563.buzz
+0.0.0.0 www.vinted-pl.dostaw.buzz
+0.0.0.0 www.vinted-pl.dostaw.life
+0.0.0.0 www.vinted-pl.dostaw.xyz
 0.0.0.0 www.vinted-pl.id05608948965.info
 0.0.0.0 www.vinted-pl.id067413645614.click
 0.0.0.0 www.vinted-pl.izuy612xty.me
@@ -43334,6 +43370,7 @@
 0.0.0.0 www.xn--789-pkl3a7k8a6g9f.com
 0.0.0.0 www.xn--999-dkl4k8g.com
 0.0.0.0 www.xn--allegrolokalne-xlb.com
+0.0.0.0 www.xn--allegrolokaln-gp2g.com
 0.0.0.0 www.xn--allgrolokaln-3d6fja.com
 0.0.0.0 www.xn--allqrolokalnie-7z8g.com
 0.0.0.0 www.xn--badrumsrenovering-gteborg-hsc.se
@@ -43670,6 +43707,7 @@
 0.0.0.0 xn--789-pkl3a7k8a6g9f.com
 0.0.0.0 xn--999-dkl4k8g.com
 0.0.0.0 xn--allegrolokalne-xlb.com
+0.0.0.0 xn--allegrolokaln-gp2g.com
 0.0.0.0 xn--allgrolokaln-3d6fja.com
 0.0.0.0 xn--allqrolokalnie-7z8g.com
 0.0.0.0 xn--badrumsrenovering-gteborg-hsc.se
