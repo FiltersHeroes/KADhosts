@@ -15,4 +15,5 @@ jobs:
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
