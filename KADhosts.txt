@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 06 May 2022, 14:39 UTC+02
-# Version: 2022.5.6.1
+# Last modified: Fri, 06 May 2022, 18:32 UTC+02
+# Version: 2022.5.6.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5538,6 +5538,7 @@
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0boronka.xyz
+0.0.0.0 0lx.70845.xyz
 0.0.0.0 0lx.deliveryinform-user.xyz
 0.0.0.0 00ooo.xyz
 0.0.0.0 0oooo.xyz
@@ -11531,6 +11532,7 @@
 0.0.0.0 fastshorka.info
 0.0.0.0 fastteh.net
 0.0.0.0 fasyin.site
+0.0.0.0 fatlyint.pl
 0.0.0.0 faulall.pl
 0.0.0.0 fauligenz.de
 0.0.0.0 fau-syndikat.org
@@ -12315,6 +12317,7 @@
 0.0.0.0 gologfbb.tcp4.me
 0.0.0.0 golot.com.cn
 0.0.0.0 golovne.xyz
+0.0.0.0 gomasil.xyz
 0.0.0.0 gomaxits.com
 0.0.0.0 gomboapp.com
 0.0.0.0 gomobile24.net
@@ -13464,6 +13467,7 @@
 0.0.0.0 inpostpl.mojid684394657.shop
 0.0.0.0 inpostpl.numer6749163.xyz
 0.0.0.0 inpostpl.numerid057206943.top
+0.0.0.0 inpostpl.przelew674935.life
 0.0.0.0 inpostpl.rikod8gjjm.live
 0.0.0.0 inpostpl.snas512.com
 0.0.0.0 inpostpl.sprzedaz5719364.shop
@@ -13544,6 +13548,7 @@
 0.0.0.0 inpost-gbjs.pl-id66424107.xyz
 0.0.0.0 inpost-gdql.order131313.info
 0.0.0.0 inpost-ghm.id-9467.com
+0.0.0.0 inpost-gpui.order12561361.info
 0.0.0.0 inpost-g.id-3489.me
 0.0.0.0 inpost-g.id-43980.me
 0.0.0.0 inpost-g.id-59877.me
@@ -13736,6 +13741,7 @@
 0.0.0.0 inpost-polska-ja.order1191966.info
 0.0.0.0 inpost-polska-jbk.order1191966.info
 0.0.0.0 inpost-polska-jg.order9351.info
+0.0.0.0 inpost-polska-ji.order12561361.info
 0.0.0.0 inpost-polska-jmq.orders993.info
 0.0.0.0 inpost-polska-jmz.order1191966.info
 0.0.0.0 inpost-polska-jsl.order9351.info
@@ -13862,6 +13868,7 @@
 0.0.0.0 inpost-zbkv.order9351.info
 0.0.0.0 inpost-zpiu.order161516.info
 0.0.0.0 inpost-zpnq.order161516.info
+0.0.0.0 inpost-zukf.order12561361.info
 0.0.0.0 inpost.08124.xyz
 0.0.0.0 inpost.47464.pw
 0.0.0.0 inpost.642649.top
@@ -18246,6 +18253,7 @@
 0.0.0.0 onlinehd.pl
 0.0.0.0 onlinekino.pl
 0.0.0.0 onlineluck.net
+0.0.0.0 onlinenews32.com
 0.0.0.0 onlineparibas.us
 0.0.0.0 onlineparibas.xyz
 0.0.0.0 onlineplcenter.site
@@ -20255,6 +20263,7 @@
 0.0.0.0 polska-lnpost.6578342.xyz
 0.0.0.0 polska-lnpost.8679456.space
 0.0.0.0 polska-lnpost.id-515561.pw
+0.0.0.0 polska-lnpost.id-834691.fun
 0.0.0.0 polska-lnpost.id-854656.xyz
 0.0.0.0 polska-lnpost.id-5748966.space
 0.0.0.0 polska-lnpost.order-id453758.xyz
@@ -21835,6 +21844,7 @@
 0.0.0.0 sculptureco.com.au
 0.0.0.0 sc-tradingco.com
 0.0.0.0 sd.tesprogram5.xyz
+0.0.0.0 sdevy.com
 0.0.0.0 sdkm.gr
 0.0.0.0 sdorliner.com
 0.0.0.0 sds-ksa.net
@@ -22244,6 +22254,7 @@
 0.0.0.0 simpleway.trade
 0.0.0.0 simpleway.world
 0.0.0.0 sinedso-market.biz
+0.0.0.0 sinhok.trade
 0.0.0.0 siocursilinkmanli.ml
 0.0.0.0 sipenaccessories.com
 0.0.0.0 sipentechadmin.com
@@ -24435,6 +24446,8 @@
 0.0.0.0 vinted-pl.online
 0.0.0.0 vinted-pl.przelew476942.top
 0.0.0.0 vinted-pl.przelew569742.shop
+0.0.0.0 vinted-pl.przelew4874962.club
+0.0.0.0 vinted-pl.przelew6974265.club
 0.0.0.0 vinted-pl.sprzedaz6579364.top
 0.0.0.0 vinted-pl.sprzedaz6613794.life
 0.0.0.0 vinted-pl.sprzedaz7569437.club
@@ -24457,6 +24470,7 @@
 0.0.0.0 vinted.first-order.online
 0.0.0.0 violaosempestana.com
 0.0.0.0 violentisochronally.xyz
+0.0.0.0 vionser-xyz.preview-domain.com
 0.0.0.0 vipaudience.kinsta.cloud
 0.0.0.0 vipshorka.info
 0.0.0.0 vip.capital-service.info
@@ -29644,6 +29658,7 @@
 0.0.0.0 www.fastshorka.info
 0.0.0.0 www.fastteh.net
 0.0.0.0 www.fasyin.site
+0.0.0.0 www.fatlyint.pl
 0.0.0.0 www.faulall.pl
 0.0.0.0 www.fauligenz.de
 0.0.0.0 www.favecover.com
@@ -30185,6 +30200,7 @@
 0.0.0.0 www.gologfbb.tcp4.me
 0.0.0.0 www.golot.com.cn
 0.0.0.0 www.golovne.xyz
+0.0.0.0 www.gomasil.xyz
 0.0.0.0 www.gomaxits.com
 0.0.0.0 www.gomboapp.com
 0.0.0.0 www.gomobile24.net
@@ -30915,6 +30931,7 @@
 0.0.0.0 www.inpostpl.mojid684394657.shop
 0.0.0.0 www.inpostpl.numer6749163.xyz
 0.0.0.0 www.inpostpl.numerid057206943.top
+0.0.0.0 www.inpostpl.przelew674935.life
 0.0.0.0 www.inpostpl.rikod8gjjm.live
 0.0.0.0 www.inpostpl.snas512.com
 0.0.0.0 www.inpostpl.sprzedaz5719364.shop
@@ -33489,6 +33506,7 @@
 0.0.0.0 www.onlinehd.pl
 0.0.0.0 www.onlinekino.pl
 0.0.0.0 www.onlineluck.net
+0.0.0.0 www.onlinenews32.com
 0.0.0.0 www.onlineparibas.us
 0.0.0.0 www.onlineparibas.xyz
 0.0.0.0 www.onlineplcenter.site
@@ -35500,6 +35518,7 @@
 0.0.0.0 www.scriptsdoneright.com
 0.0.0.0 www.scrubhayana.com
 0.0.0.0 www.sculptureco.com.au
+0.0.0.0 www.sdevy.com
 0.0.0.0 www.sdkm.gr
 0.0.0.0 www.sdorliner.com
 0.0.0.0 www.sdx9jogx84hi4.bar
@@ -35816,6 +35835,7 @@
 0.0.0.0 www.sim.faad.site
 0.0.0.0 www.sim.nisst.xyz
 0.0.0.0 www.sim.posst.xyz
+0.0.0.0 www.sinhok.trade
 0.0.0.0 www.siocursilinkmanli.ml
 0.0.0.0 www.sipenaccessories.com
 0.0.0.0 www.sipentechadmin.com
@@ -38346,6 +38366,7 @@
 0.0.0.0 www-rovblox.com
 0.0.0.0 www.0b8cc331813049912.temporary.link
 0.0.0.0 www.0boronka.xyz
+0.0.0.0 www.0lx.70845.xyz
 0.0.0.0 www.0lx.deliveryinform-user.xyz
 0.0.0.0 www.00ooo.xyz
 0.0.0.0 www.0oooo.xyz
@@ -40649,6 +40670,7 @@
 0.0.0.0 www.inpost-gbjs.pl-id66424107.xyz
 0.0.0.0 www.inpost-gdql.order131313.info
 0.0.0.0 www.inpost-ghm.id-9467.com
+0.0.0.0 www.inpost-gpui.order12561361.info
 0.0.0.0 www.inpost-g.id-3489.me
 0.0.0.0 www.inpost-g.id-43980.me
 0.0.0.0 www.inpost-g.id-59877.me
@@ -40841,6 +40863,7 @@
 0.0.0.0 www.inpost-polska-ja.order1191966.info
 0.0.0.0 www.inpost-polska-jbk.order1191966.info
 0.0.0.0 www.inpost-polska-jg.order9351.info
+0.0.0.0 www.inpost-polska-ji.order12561361.info
 0.0.0.0 www.inpost-polska-jmq.orders993.info
 0.0.0.0 www.inpost-polska-jmz.order1191966.info
 0.0.0.0 www.inpost-polska-jsl.order9351.info
@@ -40967,6 +40990,7 @@
 0.0.0.0 www.inpost-zbkv.order9351.info
 0.0.0.0 www.inpost-zpiu.order161516.info
 0.0.0.0 www.inpost-zpnq.order161516.info
+0.0.0.0 www.inpost-zukf.order12561361.info
 0.0.0.0 www.inpost.08124.xyz
 0.0.0.0 www.inpost.47464.pw
 0.0.0.0 www.inpost.642649.top
@@ -43757,6 +43781,7 @@
 0.0.0.0 www.polska-lnpost.6578342.xyz
 0.0.0.0 www.polska-lnpost.8679456.space
 0.0.0.0 www.polska-lnpost.id-515561.pw
+0.0.0.0 www.polska-lnpost.id-834691.fun
 0.0.0.0 www.polska-lnpost.id-854656.xyz
 0.0.0.0 www.polska-lnpost.id-5748966.space
 0.0.0.0 www.polska-lnpost.order-id453758.xyz
@@ -45112,6 +45137,8 @@
 0.0.0.0 www.vinted-pl.online
 0.0.0.0 www.vinted-pl.przelew476942.top
 0.0.0.0 www.vinted-pl.przelew569742.shop
+0.0.0.0 www.vinted-pl.przelew4874962.club
+0.0.0.0 www.vinted-pl.przelew6974265.club
 0.0.0.0 www.vinted-pl.sprzedaz6579364.top
 0.0.0.0 www.vinted-pl.sprzedaz6613794.life
 0.0.0.0 www.vinted-pl.sprzedaz7569437.club
@@ -45132,6 +45159,7 @@
 0.0.0.0 www.vinted-thi.id-9467.com
 0.0.0.0 www.vinted.4512-buyerdelivery.xyz
 0.0.0.0 www.vinted.first-order.online
+0.0.0.0 www.vionser-xyz.preview-domain.com
 0.0.0.0 www.vip.capital-service.info
 0.0.0.0 www.virtualna-polska.pl
 0.0.0.0 www.visa-payment.sytes.net
