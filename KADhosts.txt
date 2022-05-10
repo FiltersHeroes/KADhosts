@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 10 May 2022, 18:34 UTC+02
-# Version: 2022.5.10.2
+# Last modified: Tue, 10 May 2022, 22:23 UTC+02
+# Version: 2022.5.10.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5280,6 +5280,7 @@
 0.0.0.0 1npost.infodeliverybuyer.xyz
 0.0.0.0 1npost-filldata.xyz
 0.0.0.0 1npost.dellvery-08653.xyz
+0.0.0.0 1npost.info-userorder.xyz
 0.0.0.0 1npost.productsend-user.xyz
 0.0.0.0 1npos-t.informationdellvery.xyz
 0.0.0.0 1npos-t.97658-shipmentgoods.xyz
@@ -5294,6 +5295,7 @@
 0.0.0.0 01x.user-sendproduct.xyz
 0.0.0.0 1z309-urps.co
 0.0.0.0 1-onet.azureedge.net
+0.0.0.0 1-wp.azureedge.net
 0.0.0.0 2.dentip.xyz
 0.0.0.0 2.kegypz.com
 0.0.0.0 2h5.ifnprog.xyz
@@ -5308,6 +5310,7 @@
 0.0.0.0 2xsms.xyz
 0.0.0.0 2-onet.azureedge.net
 0.0.0.0 2-remove-virus.com
+0.0.0.0 2-wp.azureedge.net
 0.0.0.0 3dsecure-pay.com
 0.0.0.0 3d-secure.my-1235.xyz
 0.0.0.0 03e1i.csb.app
@@ -5321,6 +5324,7 @@
 0.0.0.0 3xsms.xyz
 0.0.0.0 3-139-92-223.cprapid.com
 0.0.0.0 3-onet.azureedge.net
+0.0.0.0 3-wp.azureedge.net
 0.0.0.0 03.2021twojrok.live
 0.0.0.0 03.mediaboard-03.cyou
 0.0.0.0 4.ogloszeniateraz97.club
@@ -5331,6 +5335,7 @@
 0.0.0.0 4po5zg-bit.com
 0.0.0.0 4ricardo.xyz
 0.0.0.0 4-onet.azureedge.net
+0.0.0.0 4-wp.azureedge.net
 0.0.0.0 5ce3ab6dfc9499285.temporary.link
 0.0.0.0 5d8b2c00436ac.site123.me
 0.0.0.0 5domes.com
@@ -5340,6 +5345,7 @@
 0.0.0.0 5tysiecy.pl
 0.0.0.0 05yzb-upqs.us
 0.0.0.0 5-onet.azureedge.net
+0.0.0.0 5-wp.azureedge.net
 0.0.0.0 6c2453dabd3776274.temporary.link
 0.0.0.0 6fj-text.xyz
 0.0.0.0 6sms.in
@@ -5347,6 +5353,7 @@
 0.0.0.0 6sms.xyz
 0.0.0.0 6vpos.live
 0.0.0.0 6-onet.azureedge.net
+0.0.0.0 6-wp.azureedge.net
 0.0.0.0 7dailynews.com
 0.0.0.0 7dot.cn
 0.0.0.0 007realty.com
@@ -5355,12 +5362,14 @@
 0.0.0.0 7sms.pw
 0.0.0.0 7sms.xyz
 0.0.0.0 7-onet.azureedge.net
+0.0.0.0 7-wp.azureedge.net
 0.0.0.0 8n6nyr-bit.info
 0.0.0.0 08sms.xyz
 0.0.0.0 8sms.in
 0.0.0.0 8sms.pw
 0.0.0.0 8sms.xyz
 0.0.0.0 8-onet.azureedge.net
+0.0.0.0 8-wp.azureedge.net
 0.0.0.0 9bz15-uwps.one
 0.0.0.0 9cah1gsbcu.bar
 0.0.0.0 9f33fc85bd3812760.temporary.link
@@ -5368,8 +5377,10 @@
 0.0.0.0 09sms.in
 0.0.0.0 9sms.xyz
 0.0.0.0 9-onet.azureedge.net
+0.0.0.0 9-wp.azureedge.net
 0.0.0.0 10iski.com
 0.0.0.0 10-onet.azureedge.net
+0.0.0.0 10-wp.azureedge.net
 0.0.0.0 11shots.com
 0.0.0.0 11sms.xyz
 0.0.0.0 20-55-32-61.cprapid.com
@@ -5980,6 +5991,7 @@
 0.0.0.0 allegro.lokalnie-dostawa.fun
 0.0.0.0 allegro.pl.my-enj.xyz
 0.0.0.0 alleqrolokalne.pl
+0.0.0.0 alleqrolokalne.dispatch-form.xyz
 0.0.0.0 alleqrolokalnie.com
 0.0.0.0 allesvouus12.web.app
 0.0.0.0 allesvouus46.web.app
@@ -6635,6 +6647,7 @@
 0.0.0.0 bezpieczny-delivery-pl.com
 0.0.0.0 bezpieczny-dostawa.org
 0.0.0.0 bezpieczny-transfer.top
+0.0.0.0 bezpleczna-dostawa.857034.org
 0.0.0.0 bezprecedensupollska24.cyou
 0.0.0.0 bezrobotnypotrzebujacy.site
 0.0.0.0 bezuzytecznyzarowka.site
@@ -10777,6 +10790,7 @@
 0.0.0.0 entruempelung-haushaltsservice.de
 0.0.0.0 enuinthet.com
 0.0.0.0 enuiregncxzyasdfhgasdk78c19mc9m2ihjdfsufdaf.rest
+0.0.0.0 enwreathes.pl
 0.0.0.0 enzo.pw
 0.0.0.0 eparki.com
 0.0.0.0 epayu.pl
@@ -11054,7 +11068,10 @@
 0.0.0.0 faktinvestmetns.mya5.ru
 0.0.0.0 faktonews07102021.ct8.pl
 0.0.0.0 faktura.tecsla.com.mx
+0.0.0.0 faktura5237.net
 0.0.0.0 faktura9837.net
+0.0.0.0 faktura52373.net
+0.0.0.0 faktura85682.net
 0.0.0.0 faktura-share.duckdns.org
 0.0.0.0 fakturo-wnia.gq
 0.0.0.0 fakturo-wnia.ml
@@ -12318,6 +12335,7 @@
 0.0.0.0 herschain.site
 0.0.0.0 herschelinvesting.website
 0.0.0.0 hers-system.website
+0.0.0.0 herzbromadsorremes.gq
 0.0.0.0 hesolam.uno
 0.0.0.0 hesperguitars.com
 0.0.0.0 hesterfo.site
@@ -12872,6 +12890,7 @@
 0.0.0.0 infx.eu
 0.0.0.0 ing.pl.proxy.c7s.io
 0.0.0.0 ingbkpl.com
+0.0.0.0 ingels.uno
 0.0.0.0 ingels-uno.preview-domain.com
 0.0.0.0 inglgoog.coocoldini.xyz
 0.0.0.0 inglnet.milldrop.xyz
@@ -13281,6 +13300,7 @@
 0.0.0.0 inpost-polska-kj.orders993.info
 0.0.0.0 inpost-polska-kkg.order131313.info
 0.0.0.0 inpost-polska-kvr.order9351.info
+0.0.0.0 inpost-polska-ky.order0129501.info
 0.0.0.0 inpost-polska-lb.order12561361.info
 0.0.0.0 inpost-polska-lfp.order9351.info
 0.0.0.0 inpost-polska-llq.order131313.info
@@ -14348,6 +14368,7 @@
 0.0.0.0 kitchenlabs.store
 0.0.0.0 kitsor-uno.preview-domain.com
 0.0.0.0 kitten-396.frge.io
+0.0.0.0 kivogetyu.es
 0.0.0.0 kiwigrrl.com
 0.0.0.0 kiwisklep.pl
 0.0.0.0 kiz.wesst.xyz
@@ -16329,6 +16350,7 @@
 0.0.0.0 news-24-19354350746.azureedge.net
 0.0.0.0 news-24-38623207531.azureedge.net
 0.0.0.0 news-24-73063228299.azureedge.net
+0.0.0.0 news-24-87676783321.azureedge.net
 0.0.0.0 news-biznes.waw.pl
 0.0.0.0 news-bussnse.info
 0.0.0.0 news-info.waw.pl
@@ -16612,6 +16634,7 @@
 0.0.0.0 nowinka9176.site
 0.0.0.0 nowinki24.malopolska.pl
 0.0.0.0 nowinki.blog-online.eu
+0.0.0.0 nowiny-newsweek-62032709361.azureedge.net
 0.0.0.0 nowoczesnemuzeum.pl
 0.0.0.0 nowogrodek.net
 0.0.0.0 nowosc0m4.site
@@ -20846,6 +20869,7 @@
 0.0.0.0 rozbiterodzinyzkraju.cyou
 0.0.0.0 rozciagacz-plecow-pl.com
 0.0.0.0 rozciagacz-plecow-pl2.com
+0.0.0.0 rozczarowanie-okazja.eu
 0.0.0.0 rozheve.host
 0.0.0.0 rozliczenie-pradu.net
 0.0.0.0 roznibeizradni.pl
@@ -21394,6 +21418,7 @@
 0.0.0.0 shiglotech.com
 0.0.0.0 shipgratis.eu
 0.0.0.0 shipmentgoodsinfo.xyz
+0.0.0.0 shippinggoods-79456.site
 0.0.0.0 shippinginfo.xyz
 0.0.0.0 shippinginfoproduct.xyz
 0.0.0.0 shivmax.com
@@ -21931,6 +21956,7 @@
 0.0.0.0 strategia-firm.xyz
 0.0.0.0 strategia-zasobw.xyz
 0.0.0.0 stravel.info
+0.0.0.0 straxarpanel.com
 0.0.0.0 streamables.club
 0.0.0.0 streamadvocate.com
 0.0.0.0 streamboox.com
@@ -24093,6 +24119,7 @@
 0.0.0.0 wiadomosci-opole.xyz
 0.0.0.0 wiadomosci-pl.info
 0.0.0.0 wiadomosci-pl-24.eu
+0.0.0.0 wiadomosci-polsat-85151198631.azureedge.net
 0.0.0.0 wiadomosci-radom.xyz
 0.0.0.0 wiadomosci-rybnik.xyz
 0.0.0.0 wiadomosci-sopot.xyz
@@ -28515,6 +28542,7 @@
 0.0.0.0 www.entrecanchas.com
 0.0.0.0 www.enuinthet.com
 0.0.0.0 www.enuiregncxzyasdfhgasdk78c19mc9m2ihjdfsufdaf.rest
+0.0.0.0 www.enwreathes.pl
 0.0.0.0 www.enzo.pw
 0.0.0.0 www.eparki.com
 0.0.0.0 www.epayu.pl
@@ -28681,7 +28709,10 @@
 0.0.0.0 www.fakt28.pl
 0.0.0.0 www.faktinvestmetns.mya5.ru
 0.0.0.0 www.faktonews07102021.ct8.pl
+0.0.0.0 www.faktura5237.net
 0.0.0.0 www.faktura9837.net
+0.0.0.0 www.faktura52373.net
+0.0.0.0 www.faktura85682.net
 0.0.0.0 www.faktura.tecsla.com.mx
 0.0.0.0 www.fakty24h.eu
 0.0.0.0 www.fakty24informacjelive.pl
@@ -29555,6 +29586,7 @@
 0.0.0.0 www.hermarketing.ru
 0.0.0.0 www.herschain.site
 0.0.0.0 www.herschelinvesting.website
+0.0.0.0 www.herzbromadsorremes.gq
 0.0.0.0 www.hesolam.uno
 0.0.0.0 www.hesperguitars.com
 0.0.0.0 www.hesterfo.site
@@ -29925,6 +29957,7 @@
 0.0.0.0 www.inf.crptgen1.xyz
 0.0.0.0 www.inf.tellsinv.xyz
 0.0.0.0 www.ingbkpl.com
+0.0.0.0 www.ingels.uno
 0.0.0.0 www.inglgoog.coocoldini.xyz
 0.0.0.0 www.inglnet.milldrop.xyz
 0.0.0.0 www.ingltesla.incogtrad.site
@@ -30525,6 +30558,7 @@
 0.0.0.0 www.kiroplefn.com
 0.0.0.0 www.kissininvest.xyz
 0.0.0.0 www.kitchenlabs.store
+0.0.0.0 www.kivogetyu.es
 0.0.0.0 www.kiwigrrl.com
 0.0.0.0 www.kiwisklep.pl
 0.0.0.0 www.kiz.wesst.xyz
@@ -35095,6 +35129,7 @@
 0.0.0.0 www.strangefullthiggngs.com
 0.0.0.0 www.straszny265.site
 0.0.0.0 www.stravel.info
+0.0.0.0 www.straxarpanel.com
 0.0.0.0 www.streamables.club
 0.0.0.0 www.streamadvocate.com
 0.0.0.0 www.streamboox.com
@@ -37229,6 +37264,7 @@
 0.0.0.0 www.1npost.infodeliverybuyer.xyz
 0.0.0.0 www.1npost-filldata.xyz
 0.0.0.0 www.1npost.dellvery-08653.xyz
+0.0.0.0 www.1npost.info-userorder.xyz
 0.0.0.0 www.1npost.productsend-user.xyz
 0.0.0.0 www.1npos-t.informationdellvery.xyz
 0.0.0.0 www.1npos-t.97658-shipmentgoods.xyz
@@ -37243,6 +37279,7 @@
 0.0.0.0 www.01x.user-sendproduct.xyz
 0.0.0.0 www.1z309-urps.co
 0.0.0.0 www.1-onet.azureedge.net
+0.0.0.0 www.1-wp.azureedge.net
 0.0.0.0 www.2.dentip.xyz
 0.0.0.0 www.2.kegypz.com
 0.0.0.0 www.2h5.ifnprog.xyz
@@ -37257,6 +37294,7 @@
 0.0.0.0 www.2xsms.xyz
 0.0.0.0 www.2-onet.azureedge.net
 0.0.0.0 www.2-remove-virus.com
+0.0.0.0 www.2-wp.azureedge.net
 0.0.0.0 www.3dsecure-pay.com
 0.0.0.0 www.3d-secure.my-1235.xyz
 0.0.0.0 www.03e1i.csb.app
@@ -37270,6 +37308,7 @@
 0.0.0.0 www.3xsms.xyz
 0.0.0.0 www.3-139-92-223.cprapid.com
 0.0.0.0 www.3-onet.azureedge.net
+0.0.0.0 www.3-wp.azureedge.net
 0.0.0.0 www.03.2021twojrok.live
 0.0.0.0 www.03.mediaboard-03.cyou
 0.0.0.0 www.4.ogloszeniateraz97.club
@@ -37280,6 +37319,7 @@
 0.0.0.0 www.4po5zg-bit.com
 0.0.0.0 www.4ricardo.xyz
 0.0.0.0 www.4-onet.azureedge.net
+0.0.0.0 www.4-wp.azureedge.net
 0.0.0.0 www.5ce3ab6dfc9499285.temporary.link
 0.0.0.0 www.5d8b2c00436ac.site123.me
 0.0.0.0 www.5domes.com
@@ -37289,6 +37329,7 @@
 0.0.0.0 www.5tysiecy.pl
 0.0.0.0 www.05yzb-upqs.us
 0.0.0.0 www.5-onet.azureedge.net
+0.0.0.0 www.5-wp.azureedge.net
 0.0.0.0 www.6c2453dabd3776274.temporary.link
 0.0.0.0 www.6fj-text.xyz
 0.0.0.0 www.6sms.in
@@ -37296,6 +37337,7 @@
 0.0.0.0 www.6sms.xyz
 0.0.0.0 www.6vpos.live
 0.0.0.0 www.6-onet.azureedge.net
+0.0.0.0 www.6-wp.azureedge.net
 0.0.0.0 www.7dailynews.com
 0.0.0.0 www.7dot.cn
 0.0.0.0 www.007realty.com
@@ -37304,12 +37346,14 @@
 0.0.0.0 www.7sms.pw
 0.0.0.0 www.7sms.xyz
 0.0.0.0 www.7-onet.azureedge.net
+0.0.0.0 www.7-wp.azureedge.net
 0.0.0.0 www.8n6nyr-bit.info
 0.0.0.0 www.08sms.xyz
 0.0.0.0 www.8sms.in
 0.0.0.0 www.8sms.pw
 0.0.0.0 www.8sms.xyz
 0.0.0.0 www.8-onet.azureedge.net
+0.0.0.0 www.8-wp.azureedge.net
 0.0.0.0 www.9bz15-uwps.one
 0.0.0.0 www.9cah1gsbcu.bar
 0.0.0.0 www.9f33fc85bd3812760.temporary.link
@@ -37317,8 +37361,10 @@
 0.0.0.0 www.09sms.in
 0.0.0.0 www.9sms.xyz
 0.0.0.0 www.9-onet.azureedge.net
+0.0.0.0 www.9-wp.azureedge.net
 0.0.0.0 www.10iski.com
 0.0.0.0 www.10-onet.azureedge.net
+0.0.0.0 www.10-wp.azureedge.net
 0.0.0.0 www.11shots.com
 0.0.0.0 www.11sms.xyz
 0.0.0.0 www.20-55-32-61.cprapid.com
@@ -37627,6 +37673,7 @@
 0.0.0.0 www.allegro.2checkout.site
 0.0.0.0 www.allegro.lokalnie-dostawa.fun
 0.0.0.0 www.allegro.pl.my-enj.xyz
+0.0.0.0 www.alleqrolokalne.dispatch-form.xyz
 0.0.0.0 www.allsms.short-service.com
 0.0.0.0 www.allthefan-online.preview-domain.com
 0.0.0.0 www.alltube-tv.pl
@@ -37807,6 +37854,7 @@
 0.0.0.0 www.bezpieczny-delivery-pl.com
 0.0.0.0 www.bezpieczny-dostawa.org
 0.0.0.0 www.bezpieczny-transfer.top
+0.0.0.0 www.bezpleczna-dostawa.857034.org
 0.0.0.0 www.be-healthy-free.online
 0.0.0.0 www.be.projekt-capital4.site
 0.0.0.0 www.bgk24-login.com
@@ -39600,6 +39648,7 @@
 0.0.0.0 www.inpost-polska-kj.orders993.info
 0.0.0.0 www.inpost-polska-kkg.order131313.info
 0.0.0.0 www.inpost-polska-kvr.order9351.info
+0.0.0.0 www.inpost-polska-ky.order0129501.info
 0.0.0.0 www.inpost-polska-lb.order12561361.info
 0.0.0.0 www.inpost-polska-lfp.order9351.info
 0.0.0.0 www.inpost-polska-llq.order131313.info
@@ -40806,6 +40855,7 @@
 0.0.0.0 www.news-24-19354350746.azureedge.net
 0.0.0.0 www.news-24-38623207531.azureedge.net
 0.0.0.0 www.news-24-73063228299.azureedge.net
+0.0.0.0 www.news-24-87676783321.azureedge.net
 0.0.0.0 www.news-biznes.waw.pl
 0.0.0.0 www.news-bussnse.info
 0.0.0.0 www.news-info.waw.pl
@@ -40864,6 +40914,7 @@
 0.0.0.0 www.nowe-wazne.eu
 0.0.0.0 www.nowe-zycia.click
 0.0.0.0 www.nowinki.blog-online.eu
+0.0.0.0 www.nowiny-newsweek-62032709361.azureedge.net
 0.0.0.0 www.nowosc-zycia.eu
 0.0.0.0 www.no-snore-pl.com
 0.0.0.0 www.npl.maxipl-system.xyz
@@ -42881,6 +42932,7 @@
 0.0.0.0 www.rozbic-alkohol.site
 0.0.0.0 www.rozciagacz-plecow-pl.com
 0.0.0.0 www.rozciagacz-plecow-pl2.com
+0.0.0.0 www.rozczarowanie-okazja.eu
 0.0.0.0 www.rozliczenie-pradu.net
 0.0.0.0 www.roznorodnosc-rozmowa.eu
 0.0.0.0 www.rozpoznaj-go.gq
@@ -43028,6 +43080,7 @@
 0.0.0.0 www.shelbay-com.preview-domain.com
 0.0.0.0 www.shell-invest.web.app
 0.0.0.0 www.shift-holdings.com
+0.0.0.0 www.shippinggoods-79456.site
 0.0.0.0 www.shows-forwatching.tvshows2pay.live
 0.0.0.0 www.shows-forwatching.tvshows2pay.site
 0.0.0.0 www.sh.support-allegrolokalnie.pl
@@ -43865,6 +43918,7 @@
 0.0.0.0 www.wiadomosci-opole.xyz
 0.0.0.0 www.wiadomosci-pl.info
 0.0.0.0 www.wiadomosci-pl-24.eu
+0.0.0.0 www.wiadomosci-polsat-85151198631.azureedge.net
 0.0.0.0 www.wiadomosci-radom.xyz
 0.0.0.0 www.wiadomosci-rybnik.xyz
 0.0.0.0 www.wiadomosci-sopot.xyz
