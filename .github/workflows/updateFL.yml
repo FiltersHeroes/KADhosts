@@ -7,6 +7,8 @@ jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/vichs_image:2.26.8
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
