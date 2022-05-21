@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 21 May 2022, 18:28 UTC+02
-# Version: 2022.5.21.2
+# Last modified: Sat, 21 May 2022, 20:54 UTC+02
+# Version: 2022.5.21.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -535,6 +535,7 @@
 0.0.0.0 demonia-polska.com
 0.0.0.0 demonia-polska.pl
 0.0.0.0 demoniepolska.com
+0.0.0.0 depodas.com
 0.0.0.0 dersay.pl
 0.0.0.0 desin.pl
 0.0.0.0 deszczowka24.pl
@@ -800,6 +801,7 @@
 0.0.0.0 glinkss.com
 0.0.0.0 gnibrinfgoy.com
 0.0.0.0 gnootel.com
+0.0.0.0 gocael.com
 0.0.0.0 gojiberry500.pl
 0.0.0.0 gokano.com
 0.0.0.0 goku-sklep.pl
@@ -1385,6 +1387,7 @@
 0.0.0.0 nuskin.com
 0.0.0.0 nyprezent.pl
 0.0.0.0 n-eats.site
+0.0.0.0 oakleypolska.pl
 0.0.0.0 obeypolska.com
 0.0.0.0 obozpolska.com
 0.0.0.0 obudzgeniusza.pl
@@ -1758,6 +1761,7 @@
 0.0.0.0 sanuk-poland.com
 0.0.0.0 sapphirevar.com
 0.0.0.0 saroulcr.com
+0.0.0.0 satura.pl
 0.0.0.0 sauconybuty.com
 0.0.0.0 sauconybutysklep.pl
 0.0.0.0 sauconybuty-polska.com
@@ -1766,6 +1770,7 @@
 0.0.0.0 saucony-polska.com
 0.0.0.0 saucony-sklep.com
 0.0.0.0 scarpapolska.com
+0.0.0.0 scheanet.com
 0.0.0.0 schutzpolska.pl
 0.0.0.0 sdnot.com
 0.0.0.0 seans24.com.pl
@@ -2728,6 +2733,7 @@
 0.0.0.0 www.demoniasbuty.pl
 0.0.0.0 www.demoniasklep.com
 0.0.0.0 www.demoniepolska.com
+0.0.0.0 www.depodas.com
 0.0.0.0 www.dersay.pl
 0.0.0.0 www.desin.pl
 0.0.0.0 www.deszczowka24.pl
@@ -2948,6 +2954,7 @@
 0.0.0.0 www.glinkss.com
 0.0.0.0 www.gnibrinfgoy.com
 0.0.0.0 www.gnootel.com
+0.0.0.0 www.gocael.com
 0.0.0.0 www.gojiberry500.pl
 0.0.0.0 www.gokano.com
 0.0.0.0 www.goldengoosepolska.pl
@@ -3454,6 +3461,7 @@
 0.0.0.0 www.nunawigs.shop
 0.0.0.0 www.nuskin.com
 0.0.0.0 www.nyprezent.pl
+0.0.0.0 www.oakleypolska.pl
 0.0.0.0 www.obeypolska.com
 0.0.0.0 www.obozpolska.com
 0.0.0.0 www.obudzgeniusza.pl
@@ -3761,11 +3769,13 @@
 0.0.0.0 www.sandrografia.pl
 0.0.0.0 www.sapphirevar.com
 0.0.0.0 www.saroulcr.com
+0.0.0.0 www.satura.pl
 0.0.0.0 www.sauconybutysklep.pl
 0.0.0.0 www.sauconybuty.com
 0.0.0.0 www.sauconypoland.pl
 0.0.0.0 www.sauconysklep.com
 0.0.0.0 www.scarpapolska.com
+0.0.0.0 www.scheanet.com
 0.0.0.0 www.schutzpolska.pl
 0.0.0.0 www.sdnot.com
 0.0.0.0 www.seans24.com.pl
@@ -48013,7 +48023,6 @@
 0.0.0.0 content.2c25a9925b.cache.server560960.nazwa.pl
 0.0.0.0 content.51c7b93f64.cache.server560960.nazwa.pl
 0.0.0.0 content.9373550162.cache.server560960.nazwa.pl
-0.0.0.0 continue28centperhaps.live
 0.0.0.0 coxtuh.streamamongcotton.top
 0.0.0.0 cp.masiodls.com
 0.0.0.0 cs.nailrr.com
@@ -48114,14 +48123,12 @@
 0.0.0.0 fejsopodgladacz.blogspot.com
 0.0.0.0 fejs-colors.blogspot.com
 0.0.0.0 findyourlovenow5.com
-0.0.0.0 find-yourprizes.life
 0.0.0.0 fotaonline.24.eu
 0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 free.apps.co.pl
 0.0.0.0 free.file.co.pl
 0.0.0.0 free.propdfconverter.com
 0.0.0.0 freeiqtest.blogspot.com
-0.0.0.0 fyp.tubesmaza.cam
 0.0.0.0 game.apps.co.pl
 0.0.0.0 gazeta-polska.24.eu
 0.0.0.0 gkjow.onlineluck.net
@@ -48203,7 +48210,6 @@
 0.0.0.0 kasia-czat.24.eu
 0.0.0.0 konkurskauffland.24.eu
 0.0.0.0 laqsgd.carhourshall.top
-0.0.0.0 laugh2changeland.live
 0.0.0.0 lbitelsz.peoplewellbeings.com
 0.0.0.0 lifehack1.wikmostwantedxc.pl
 0.0.0.0 lifehack12.wikmostwantedxc.pl
@@ -48245,8 +48251,6 @@
 0.0.0.0 olx.pl.paymont.pl
 0.0.0.0 olx.pl-getservice.info
 0.0.0.0 olx.pl-informacje.info
-0.0.0.0 olx.pl-oferfa.gifts
-0.0.0.0 olx.pl-ofert0.casa
 0.0.0.0 olx.pl-panel.info
 0.0.0.0 olx.pl.reg-item.site
 0.0.0.0 olx.pl.rek-transfer.pw
@@ -48447,7 +48451,6 @@
 0.0.0.0 www.cloud.file.co.pl
 0.0.0.0 www.content.a36a438502.cache.server560960.nazwa.pl
 0.0.0.0 www.content.f81241f2e1.cache.server560960.nazwa.pl
-0.0.0.0 www.continue28centperhaps.live
 0.0.0.0 www.coxtuh.streamamongcotton.top
 0.0.0.0 www.cp.masiodls.com
 0.0.0.0 www.cs.nailrr.com
@@ -48489,7 +48492,6 @@
 0.0.0.0 www.free.apps.co.pl
 0.0.0.0 www.free.file.co.pl
 0.0.0.0 www.free.propdfconverter.com
-0.0.0.0 www.fyp.tubesmaza.cam
 0.0.0.0 www.game.apps.co.pl
 0.0.0.0 www.gkjow.onlineluck.net
 0.0.0.0 www.gwbiyl.termquotientbeen.top
@@ -48545,7 +48547,6 @@
 0.0.0.0 www.inwestpoland11.site
 0.0.0.0 www.inwestpoland12.site
 0.0.0.0 www.laqsgd.carhourshall.top
-0.0.0.0 www.laugh2changeland.live
 0.0.0.0 www.lbitelsz.peoplewellbeings.com
 0.0.0.0 www.lifehack1.wikmostwantedxc.pl
 0.0.0.0 www.lifehack12.wikmostwantedxc.pl
@@ -48859,7 +48860,6 @@
 0.0.0.0 www.fb-podglad.blogspot.com
 0.0.0.0 www.fb-service-login-photoview0forward.you2.pl
 0.0.0.0 www.fejs-colors.blogspot.com
-0.0.0.0 www.find-yourprizes.life
 0.0.0.0 www.fotaonline.24.eu
 0.0.0.0 www.foto-zdjecia.24.eu
 0.0.0.0 www.gazeta-polska.24.eu
@@ -48906,8 +48906,6 @@
 0.0.0.0 www.odbieramy-karty.24.eu
 0.0.0.0 www.olx.pl-getservice.info
 0.0.0.0 www.olx.pl-informacje.info
-0.0.0.0 www.olx.pl-oferfa.gifts
-0.0.0.0 www.olx.pl-ofert0.casa
 0.0.0.0 www.olx.pl-panel.info
 0.0.0.0 www.olx.pl.reg-item.site
 0.0.0.0 www.olx.pl.rek-transfer.pw
