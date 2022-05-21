@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 21 May 2022, 14:35 UTC+02
-# Version: 2022.5.21.1
+# Last modified: Sat, 21 May 2022, 18:28 UTC+02
+# Version: 2022.5.21.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5397,6 +5397,7 @@
 0.0.0.0 1npost.cargosendingpage.xyz
 0.0.0.0 1npost.infodeliverybuyer.xyz
 0.0.0.0 1npost.sendingpaydelivery.xyz
+0.0.0.0 1npost.userproductpay.xyz
 0.0.0.0 1npost-filldata.xyz
 0.0.0.0 1npost.054-sendinggoods.xyz
 0.0.0.0 1npost.31245-deljvery.xyz
@@ -5531,12 +5532,14 @@
 0.0.0.0 13interia.azureedge.net
 0.0.0.0 13-interia.azureedge.net
 0.0.0.0 13-wp.azureedge.net
+0.0.0.0 14interia.azureedge.net
 0.0.0.0 14-interia.azureedge.net
 0.0.0.0 14-wp.azureedge.net
 0.0.0.0 15-interia.azureedge.net
 0.0.0.0 15-wp.azureedge.net
 0.0.0.0 16-interia.azureedge.net
 0.0.0.0 16-wp.azureedge.net
+0.0.0.0 17interia.azureedge.net
 0.0.0.0 17-interia.azureedge.net
 0.0.0.0 17-wp.azureedge.net
 0.0.0.0 18-interia.azureedge.net
@@ -10546,6 +10549,7 @@
 0.0.0.0 dpd-polska-ahu.order48382.info
 0.0.0.0 dpd-polska-ee.order9351.info
 0.0.0.0 dpd-polska-mbo.order0129501.info
+0.0.0.0 dpd-polska-mc.order48382.info
 0.0.0.0 dpd-polska-mw.order574820.info
 0.0.0.0 dpd-polska-nth.order9351.info
 0.0.0.0 dpd-polska-oex.order0129501.info
@@ -13545,7 +13549,9 @@
 0.0.0.0 inpost-fzvu.orders993.info
 0.0.0.0 inpost-gdql.order131313.info
 0.0.0.0 inpost-ghm.id-9467.com
+0.0.0.0 inpost-gisp.order48382.info
 0.0.0.0 inpost-gpui.order12561361.info
+0.0.0.0 inpost-gwjn.order48382.info
 0.0.0.0 inpost-g.id-3489.me
 0.0.0.0 inpost-g.id-43980.me
 0.0.0.0 inpost-g.id-59877.me
@@ -13580,6 +13586,7 @@
 0.0.0.0 inpost-ofai.order574820.info
 0.0.0.0 inpost-ojcd.order0129501.info
 0.0.0.0 inpost-opcv.id-5936.com
+0.0.0.0 inpost-oqyb.order48382.info
 0.0.0.0 inpost-order-pl.124773.xyz
 0.0.0.0 inpost-o.id-9843.me
 0.0.0.0 inpost-paczka.top
@@ -13732,12 +13739,15 @@
 0.0.0.0 inpost-polska-cq.order9351.info
 0.0.0.0 inpost-polska-cqj.order887766.info
 0.0.0.0 inpost-polska-crj.244242.me
+0.0.0.0 inpost-polska-cvr.order48382.info
 0.0.0.0 inpost-polska-cwm.order131313.info
 0.0.0.0 inpost-polska-cym.order9t2035.info
 0.0.0.0 inpost-polska-di.order48382.info
 0.0.0.0 inpost-polska-din.order1191966.info
 0.0.0.0 inpost-polska-dje.order9351.info
+0.0.0.0 inpost-polska-dk.order48382.info
 0.0.0.0 inpost-polska-dk.orders88531.info
+0.0.0.0 inpost-polska-dm.order0912401.info
 0.0.0.0 inpost-polska-doa.order0129501.info
 0.0.0.0 inpost-polska-dv.order9351.info
 0.0.0.0 inpost-polska-dvv.order9t2035.info
@@ -13782,6 +13792,7 @@
 0.0.0.0 inpost-polska-hso.order009988.info
 0.0.0.0 inpost-polska-hy.order9351.info
 0.0.0.0 inpost-polska-iap.order1191966.info
+0.0.0.0 inpost-polska-iaz.order48382.info
 0.0.0.0 inpost-polska-icp.order9351.info
 0.0.0.0 inpost-polska-id.order661100.info
 0.0.0.0 inpost-polska-ie.order48382.info
@@ -13847,6 +13858,7 @@
 0.0.0.0 inpost-polska-my.order574820.info
 0.0.0.0 inpost-polska-nc.order574820.info
 0.0.0.0 inpost-polska-nhs.order0129501.info
+0.0.0.0 inpost-polska-nl.order0912401.info
 0.0.0.0 inpost-polska-nlg.orders94851.info
 0.0.0.0 inpost-polska-nwb.order9351.info
 0.0.0.0 inpost-polska-nwl.order009988.info
@@ -13891,6 +13903,7 @@
 0.0.0.0 inpost-polska-sia.order1191966.info
 0.0.0.0 inpost-polska-sic.orders9484.info
 0.0.0.0 inpost-polska-sj.orders9484.info
+0.0.0.0 inpost-polska-sl.order48382.info
 0.0.0.0 inpost-polska-snf.order9351.info
 0.0.0.0 inpost-polska-snp.order131313.info
 0.0.0.0 inpost-polska-sot.order9351.info
@@ -14013,6 +14026,7 @@
 0.0.0.0 inpost-wexa.order48382.info
 0.0.0.0 inpost-wqsn.orders88421.info
 0.0.0.0 inpost-wts.order0129501.info
+0.0.0.0 inpost-wvdu.order0912401.info
 0.0.0.0 inpost-w.id-3489.me
 0.0.0.0 inpost-xekv.id-845.me
 0.0.0.0 inpost-xhk.id-3842.me
@@ -15561,6 +15575,7 @@
 0.0.0.0 lnpost-polsca.idpl0497408694.shop
 0.0.0.0 lnpost-polsca.idpl0527489465.click
 0.0.0.0 lnpost-polsca.jfoastidon4937.shop
+0.0.0.0 lnpost-polsca.logowanie0327046.pics
 0.0.0.0 lnpost-polsca.loherpobicetopl03.click
 0.0.0.0 lnpost-polsca.luspoceqykil37.shop
 0.0.0.0 lnpost-polsca.miliorjeqasvoot67.buzz
@@ -17485,6 +17500,7 @@
 0.0.0.0 o0ooo.xyz
 0.0.0.0 o1fp6o.webwave.dev
 0.0.0.0 o1x.loadingdispatchinfo.xyz
+0.0.0.0 o1x.usersendingparcel.xyz
 0.0.0.0 o1x.5481-paydelivery.xyz
 0.0.0.0 o1x.978452.xyz
 0.0.0.0 o1x.buyershipment-goods.xyz
@@ -20451,6 +20467,7 @@
 0.0.0.0 polska-vinlted.order-id842846.xyz
 0.0.0.0 polska-vinlted.pay-71548.space
 0.0.0.0 polska-vinlted.pay-91430.space
+0.0.0.0 polska-vinted.777444.fun
 0.0.0.0 polska-vlnlted.id-456374.xyz
 0.0.0.0 polska-wirtualna.pl
 0.0.0.0 polska--wiadomosci24h.x9.eu
@@ -20567,6 +20584,7 @@
 0.0.0.0 portalwiadomosci.pl
 0.0.0.0 portal-info24.pl
 0.0.0.0 portal-informacyjny.waw.pl
+0.0.0.0 portal-interia-64126392915.azureedge.net
 0.0.0.0 portal-logestablish.web.app
 0.0.0.0 portal-onet-53889898157.azureedge.net
 0.0.0.0 portal-onet-86301107138.azureedge.net
@@ -24717,11 +24735,16 @@
 0.0.0.0 vjnted-polsca.jekfopfoaidfhafq756.mom
 0.0.0.0 vjnted-polsca.jfoastidon4937.shop
 0.0.0.0 vjnted-polsca.koaihekjap84.cloud
+0.0.0.0 vjnted-polsca.kontynuuj0374968.pw
+0.0.0.0 vjnted-polsca.kontynuuj03894287.space
+0.0.0.0 vjnted-polsca.kontynuuj04087159.xyz
 0.0.0.0 vjnted-polsca.logowanie0283415.xyz
 0.0.0.0 vjnted-polsca.logowanie0292809.cloud
 0.0.0.0 vjnted-polsca.logowanie0339428.autos
+0.0.0.0 vjnted-polsca.logowanie03491279.shop
 0.0.0.0 vjnted-polsca.miejakviwy8197.click
 0.0.0.0 vjnted-polsca.miliorjeqasvoot67.buzz
+0.0.0.0 vjnted-polsca.order76id00776.live
 0.0.0.0 vjnted-polsca.order44577.xyz
 0.0.0.0 vjnted-polsca.plid035947185.top
 0.0.0.0 vjnted-polsca.plid0368471594.pw
@@ -33604,6 +33627,7 @@
 0.0.0.0 www.o0ooo.xyz
 0.0.0.0 www.o1fp6o.webwave.dev
 0.0.0.0 www.o1x.loadingdispatchinfo.xyz
+0.0.0.0 www.o1x.usersendingparcel.xyz
 0.0.0.0 www.o2informacje.waw.pl
 0.0.0.0 www.o2lo.pl
 0.0.0.0 www.o2.carolinadunbar.com
@@ -38830,6 +38854,7 @@
 0.0.0.0 www.1npost.cargosendingpage.xyz
 0.0.0.0 www.1npost.infodeliverybuyer.xyz
 0.0.0.0 www.1npost.sendingpaydelivery.xyz
+0.0.0.0 www.1npost.userproductpay.xyz
 0.0.0.0 www.1npost-filldata.xyz
 0.0.0.0 www.1npost.054-sendinggoods.xyz
 0.0.0.0 www.1npost.31245-deljvery.xyz
@@ -38964,12 +38989,14 @@
 0.0.0.0 www.13interia.azureedge.net
 0.0.0.0 www.13-interia.azureedge.net
 0.0.0.0 www.13-wp.azureedge.net
+0.0.0.0 www.14interia.azureedge.net
 0.0.0.0 www.14-interia.azureedge.net
 0.0.0.0 www.14-wp.azureedge.net
 0.0.0.0 www.15-interia.azureedge.net
 0.0.0.0 www.15-wp.azureedge.net
 0.0.0.0 www.16-interia.azureedge.net
 0.0.0.0 www.16-wp.azureedge.net
+0.0.0.0 www.17interia.azureedge.net
 0.0.0.0 www.17-interia.azureedge.net
 0.0.0.0 www.17-wp.azureedge.net
 0.0.0.0 www.18-interia.azureedge.net
@@ -40204,6 +40231,7 @@
 0.0.0.0 www.dpd-polska-ahu.order48382.info
 0.0.0.0 www.dpd-polska-ee.order9351.info
 0.0.0.0 www.dpd-polska-mbo.order0129501.info
+0.0.0.0 www.dpd-polska-mc.order48382.info
 0.0.0.0 www.dpd-polska-mw.order574820.info
 0.0.0.0 www.dpd-polska-nth.order9351.info
 0.0.0.0 www.dpd-polska-oex.order0129501.info
@@ -41162,7 +41190,9 @@
 0.0.0.0 www.inpost-fzvu.orders993.info
 0.0.0.0 www.inpost-gdql.order131313.info
 0.0.0.0 www.inpost-ghm.id-9467.com
+0.0.0.0 www.inpost-gisp.order48382.info
 0.0.0.0 www.inpost-gpui.order12561361.info
+0.0.0.0 www.inpost-gwjn.order48382.info
 0.0.0.0 www.inpost-g.id-3489.me
 0.0.0.0 www.inpost-g.id-43980.me
 0.0.0.0 www.inpost-g.id-59877.me
@@ -41197,6 +41227,7 @@
 0.0.0.0 www.inpost-ofai.order574820.info
 0.0.0.0 www.inpost-ojcd.order0129501.info
 0.0.0.0 www.inpost-opcv.id-5936.com
+0.0.0.0 www.inpost-oqyb.order48382.info
 0.0.0.0 www.inpost-order-pl.124773.xyz
 0.0.0.0 www.inpost-o.id-9843.me
 0.0.0.0 www.inpost-paczka.top
@@ -41349,12 +41380,15 @@
 0.0.0.0 www.inpost-polska-cq.order9351.info
 0.0.0.0 www.inpost-polska-cqj.order887766.info
 0.0.0.0 www.inpost-polska-crj.244242.me
+0.0.0.0 www.inpost-polska-cvr.order48382.info
 0.0.0.0 www.inpost-polska-cwm.order131313.info
 0.0.0.0 www.inpost-polska-cym.order9t2035.info
 0.0.0.0 www.inpost-polska-di.order48382.info
 0.0.0.0 www.inpost-polska-din.order1191966.info
 0.0.0.0 www.inpost-polska-dje.order9351.info
+0.0.0.0 www.inpost-polska-dk.order48382.info
 0.0.0.0 www.inpost-polska-dk.orders88531.info
+0.0.0.0 www.inpost-polska-dm.order0912401.info
 0.0.0.0 www.inpost-polska-doa.order0129501.info
 0.0.0.0 www.inpost-polska-dv.order9351.info
 0.0.0.0 www.inpost-polska-dvv.order9t2035.info
@@ -41399,6 +41433,7 @@
 0.0.0.0 www.inpost-polska-hso.order009988.info
 0.0.0.0 www.inpost-polska-hy.order9351.info
 0.0.0.0 www.inpost-polska-iap.order1191966.info
+0.0.0.0 www.inpost-polska-iaz.order48382.info
 0.0.0.0 www.inpost-polska-icp.order9351.info
 0.0.0.0 www.inpost-polska-id.order661100.info
 0.0.0.0 www.inpost-polska-ie.order48382.info
@@ -41464,6 +41499,7 @@
 0.0.0.0 www.inpost-polska-my.order574820.info
 0.0.0.0 www.inpost-polska-nc.order574820.info
 0.0.0.0 www.inpost-polska-nhs.order0129501.info
+0.0.0.0 www.inpost-polska-nl.order0912401.info
 0.0.0.0 www.inpost-polska-nlg.orders94851.info
 0.0.0.0 www.inpost-polska-nwb.order9351.info
 0.0.0.0 www.inpost-polska-nwl.order009988.info
@@ -41508,6 +41544,7 @@
 0.0.0.0 www.inpost-polska-sia.order1191966.info
 0.0.0.0 www.inpost-polska-sic.orders9484.info
 0.0.0.0 www.inpost-polska-sj.orders9484.info
+0.0.0.0 www.inpost-polska-sl.order48382.info
 0.0.0.0 www.inpost-polska-snf.order9351.info
 0.0.0.0 www.inpost-polska-snp.order131313.info
 0.0.0.0 www.inpost-polska-sot.order9351.info
@@ -41630,6 +41667,7 @@
 0.0.0.0 www.inpost-wexa.order48382.info
 0.0.0.0 www.inpost-wqsn.orders88421.info
 0.0.0.0 www.inpost-wts.order0129501.info
+0.0.0.0 www.inpost-wvdu.order0912401.info
 0.0.0.0 www.inpost-w.id-3489.me
 0.0.0.0 www.inpost-xekv.id-845.me
 0.0.0.0 www.inpost-xhk.id-3842.me
@@ -42293,6 +42331,7 @@
 0.0.0.0 www.lnpost-polsca.idpl0497408694.shop
 0.0.0.0 www.lnpost-polsca.idpl0527489465.click
 0.0.0.0 www.lnpost-polsca.jfoastidon4937.shop
+0.0.0.0 www.lnpost-polsca.logowanie0327046.pics
 0.0.0.0 www.lnpost-polsca.loherpobicetopl03.click
 0.0.0.0 www.lnpost-polsca.luspoceqykil37.shop
 0.0.0.0 www.lnpost-polsca.miliorjeqasvoot67.buzz
@@ -44480,6 +44519,7 @@
 0.0.0.0 www.polska-vinlted.order-id842846.xyz
 0.0.0.0 www.polska-vinlted.pay-71548.space
 0.0.0.0 www.polska-vinlted.pay-91430.space
+0.0.0.0 www.polska-vinted.777444.fun
 0.0.0.0 www.polska-vlnlted.id-456374.xyz
 0.0.0.0 www.polska-wirtualna.pl
 0.0.0.0 www.polska--wiadomosci24h.x9.eu
@@ -44539,6 +44579,7 @@
 0.0.0.0 www.porrim-invest.xyz
 0.0.0.0 www.portal-info24.pl
 0.0.0.0 www.portal-informacyjny.waw.pl
+0.0.0.0 www.portal-interia-64126392915.azureedge.net
 0.0.0.0 www.portal-logestablish.web.app
 0.0.0.0 www.portal-onet-53889898157.azureedge.net
 0.0.0.0 www.portal-onet-86301107138.azureedge.net
@@ -45862,11 +45903,16 @@
 0.0.0.0 www.vjnted-polsca.jekfopfoaidfhafq756.mom
 0.0.0.0 www.vjnted-polsca.jfoastidon4937.shop
 0.0.0.0 www.vjnted-polsca.koaihekjap84.cloud
+0.0.0.0 www.vjnted-polsca.kontynuuj0374968.pw
+0.0.0.0 www.vjnted-polsca.kontynuuj03894287.space
+0.0.0.0 www.vjnted-polsca.kontynuuj04087159.xyz
 0.0.0.0 www.vjnted-polsca.logowanie0283415.xyz
 0.0.0.0 www.vjnted-polsca.logowanie0292809.cloud
 0.0.0.0 www.vjnted-polsca.logowanie0339428.autos
+0.0.0.0 www.vjnted-polsca.logowanie03491279.shop
 0.0.0.0 www.vjnted-polsca.miejakviwy8197.click
 0.0.0.0 www.vjnted-polsca.miliorjeqasvoot67.buzz
+0.0.0.0 www.vjnted-polsca.order76id00776.live
 0.0.0.0 www.vjnted-polsca.order44577.xyz
 0.0.0.0 www.vjnted-polsca.plid035947185.top
 0.0.0.0 www.vjnted-polsca.plid0368471594.pw
