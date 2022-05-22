@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 22 May 2022, 10:25 UTC+02
-# Version: 2022.5.22.1
+# Last modified: Sun, 22 May 2022, 14:35 UTC+02
+# Version: 2022.5.22.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5382,6 +5382,7 @@
 0.0.0.0 1fairspin.xyz
 0.0.0.0 1februaryalert.agrapost.com
 0.0.0.0 1februarypolice.agrapost.com
+0.0.0.0 1interia.azureedge.net
 0.0.0.0 1inv-budimpl.info
 0.0.0.0 1k-daily-profitz.com
 0.0.0.0 1login-wp.pl
@@ -5420,6 +5421,7 @@
 0.0.0.0 2b7d1960-3e1d-4327-8d07-f633512bfa8c.pipedrive.email
 0.0.0.0 2dmuchawa-do-grilla-pl.com
 0.0.0.0 2h5.ifnprog.xyz
+0.0.0.0 2interia.azureedge.net
 0.0.0.0 2jvwb7vwvups.com
 0.0.0.0 2rp.info
 0.0.0.0 02sms.in
@@ -5438,6 +5440,7 @@
 0.0.0.0 03e1i.csb.app
 0.0.0.0 3fazowa-ostrzalka-do-nozy-pl.com
 0.0.0.0 3filmy.com
+0.0.0.0 3interia.azureedge.net
 0.0.0.0 3ricardo.xyz
 0.0.0.0 03sms.in
 0.0.0.0 03sms.xyz
@@ -5452,6 +5455,7 @@
 0.0.0.0 03.mediaboard-03.cyou
 0.0.0.0 4.ogloszeniateraz97.club
 0.0.0.0 4afe8b11a52839751.temporary.link
+0.0.0.0 4interia.azureedge.net
 0.0.0.0 4khdmovies.online
 0.0.0.0 4kmovies.xyz
 0.0.0.0 4kplayer.pl
@@ -5474,6 +5478,7 @@
 0.0.0.0 5-wp.azureedge.net
 0.0.0.0 6c2453dabd3776274.temporary.link
 0.0.0.0 6fj-text.xyz
+0.0.0.0 6interia.azureedge.net
 0.0.0.0 6sms.in
 0.0.0.0 6sms.pw
 0.0.0.0 6sms.xyz
@@ -5511,6 +5516,7 @@
 0.0.0.0 9-interia.azureedge.net
 0.0.0.0 9-onet.azureedge.net
 0.0.0.0 9-wp.azureedge.net
+0.0.0.0 10interia.azureedge.net
 0.0.0.0 10iski.com
 0.0.0.0 10-interia.azureedge.net
 0.0.0.0 10-onet.azureedge.net
@@ -5520,6 +5526,7 @@
 0.0.0.0 11sms.xyz
 0.0.0.0 11-interia.azureedge.net
 0.0.0.0 11-wp.azureedge.net
+0.0.0.0 12interia.azureedge.net
 0.0.0.0 12-interia.azureedge.net
 0.0.0.0 12-wp.azureedge.net
 0.0.0.0 13interia.azureedge.net
@@ -5528,13 +5535,16 @@
 0.0.0.0 14interia.azureedge.net
 0.0.0.0 14-interia.azureedge.net
 0.0.0.0 14-wp.azureedge.net
+0.0.0.0 15interia.azureedge.net
 0.0.0.0 15-interia.azureedge.net
 0.0.0.0 15-wp.azureedge.net
+0.0.0.0 16interia.azureedge.net
 0.0.0.0 16-interia.azureedge.net
 0.0.0.0 16-wp.azureedge.net
 0.0.0.0 17interia.azureedge.net
 0.0.0.0 17-interia.azureedge.net
 0.0.0.0 17-wp.azureedge.net
+0.0.0.0 18interia.azureedge.net
 0.0.0.0 18-interia.azureedge.net
 0.0.0.0 18-wp.azureedge.net
 0.0.0.0 19interia.azureedge.net
@@ -5549,6 +5559,7 @@
 0.0.0.0 21-interia.azureedge.net
 0.0.0.0 22interia.azureedge.net
 0.0.0.0 22-interia.azureedge.net
+0.0.0.0 23interia.azureedge.net
 0.0.0.0 23-interia.azureedge.net
 0.0.0.0 24.ogloszeniateraz97.club
 0.0.0.0 24dzindobrykraj.cyou
@@ -5559,6 +5570,7 @@
 0.0.0.0 24godzinynapomoc.site
 0.0.0.0 24h.opowiadanie24.online
 0.0.0.0 24infolive.rf.gd
+0.0.0.0 24interia.azureedge.net
 0.0.0.0 24livenewsuk.com
 0.0.0.0 24oplatapoland.online
 0.0.0.0 24p.fyi
@@ -5576,6 +5588,7 @@
 0.0.0.0 24-interia.azureedge.net
 0.0.0.0 24-tvn.pl
 0.0.0.0 24.daily-news-24.com
+0.0.0.0 25interia.azureedge.net
 0.0.0.0 25-interia.azureedge.net
 0.0.0.0 27--01bbcpolice.powercoremedia.com
 0.0.0.0 28b8a-uqps.com
@@ -6326,6 +6339,7 @@
 0.0.0.0 aplauzca.icu
 0.0.0.0 aplcoiutlons.xyz
 0.0.0.0 aplcolutions.xyz
+0.0.0.0 aplock.net
 0.0.0.0 aplsolutionsonline.com
 0.0.0.0 apokalip.pl
 0.0.0.0 aposiopesesexpecting.com
@@ -6519,6 +6533,7 @@
 0.0.0.0 avast-investment.web.app
 0.0.0.0 avax-gift.com
 0.0.0.0 avbtrk.com
+0.0.0.0 avira-landing.com
 0.0.0.0 avrszc.rf.gd
 0.0.0.0 avtomobilnyj.email
 0.0.0.0 avv-prod.web.app
@@ -6528,6 +6543,7 @@
 0.0.0.0 awazne-tvn24.adsraja.com
 0.0.0.0 awazne-wp.business-chatbots.com
 0.0.0.0 awedhor-com.preview-domain.com
+0.0.0.0 awesomeerictech.com
 0.0.0.0 awesomepagez.com
 0.0.0.0 awestrickenfarraginous.com
 0.0.0.0 awiectakieopowiidanie.space
@@ -10139,6 +10155,7 @@
 0.0.0.0 discord-go.com
 0.0.0.0 discord-go.net.ru
 0.0.0.0 discord-hype.com
+0.0.0.0 discord-hypeapply.com
 0.0.0.0 discord-me.com
 0.0.0.0 discord-moderationacademy.com
 0.0.0.0 discord-nitro.ru.com
@@ -11281,6 +11298,7 @@
 0.0.0.0 fabnxmkska.pl
 0.0.0.0 fabrizziosw.pl
 0.0.0.0 fabryka.icu
+0.0.0.0 fabrykafaktow.baron-wines.net
 0.0.0.0 fabsinternational.com
 0.0.0.0 facbbkka.pl
 0.0.0.0 facbnnm.pl
@@ -11785,6 +11803,9 @@
 0.0.0.0 forfollow.net
 0.0.0.0 forgivian.top
 0.0.0.0 formerprosecutors.org
+0.0.0.0 forms-hypesquad-teams.com
+0.0.0.0 forms-hype-team.com
+0.0.0.0 forms-hype-teams.com
 0.0.0.0 form.discordhypesquad-dc.repl.co
 0.0.0.0 forniklose-com.preview-domain.com
 0.0.0.0 forpeople925.shop
@@ -12214,6 +12235,7 @@
 0.0.0.0 gochinesename.com
 0.0.0.0 godfnirolgioding.tk
 0.0.0.0 godlikenessorifices.com
+0.0.0.0 godnyfaktinfo.nontonterbaru2020zz.net
 0.0.0.0 goesaroundjofyou.com
 0.0.0.0 gofasx.net
 0.0.0.0 goflix.club
@@ -13034,7 +13056,10 @@
 0.0.0.0 info08j.site
 0.0.0.0 info18j.site
 0.0.0.0 info19.me
+0.0.0.0 info24.awesomeerictech.com
 0.0.0.0 info24.bydgoszcz.pl
+0.0.0.0 info24.fundacionacuario.com
+0.0.0.0 info24echo.awesomeerictech.com
 0.0.0.0 info24fakty.epizy.com
 0.0.0.0 info24-news.waw.pl
 0.0.0.0 info28j.site
@@ -13065,6 +13090,7 @@
 0.0.0.0 infodlawas.waw.pl
 0.0.0.0 infodqap.nacptpharmacollege.com
 0.0.0.0 infoee.gitlab.io
+0.0.0.0 infofakt24.southpasadenavintage.net
 0.0.0.0 infofakty24.pl
 0.0.0.0 infofito.com
 0.0.0.0 infogog.coocoldini.xyz
@@ -14556,6 +14582,7 @@
 0.0.0.0 i-filmy.pl
 0.0.0.0 i-inpost.polska24-dostawa24.shop
 0.0.0.0 i-ksiazka.pl
+0.0.0.0 i-neb.net
 0.0.0.0 i-podgladacz.pl
 0.0.0.0 j0wsoc.webwave.dev
 0.0.0.0 j4ec-bitly.co
@@ -14785,6 +14812,7 @@
 0.0.0.0 kamera-drogowa.waw.pl
 0.0.0.0 kamera-samochodowa.xyz
 0.0.0.0 kamera-szkolna.ct8.pl
+0.0.0.0 kamerowaneecho.avira-landing.com
 0.0.0.0 kamery112.xyz
 0.0.0.0 kamery-wypadek.waw.pl
 0.0.0.0 kamienica.sportbetsignupcode.com
@@ -15579,6 +15607,7 @@
 0.0.0.0 lokalne.xyz
 0.0.0.0 lokalne24ogloszenia.pl
 0.0.0.0 lokalne24-newsy.waw.pl
+0.0.0.0 lokalneinfo.suttirak.com
 0.0.0.0 lokalneinformacje.pl
 0.0.0.0 lokalne-informacje.elk.pl
 0.0.0.0 lokalne-newsy24.waw.pl
@@ -16789,6 +16818,7 @@
 0.0.0.0 nasza-przestrzen.eu
 0.0.0.0 naszbiznes.xyz
 0.0.0.0 naszecentrum24.waw.pl
+0.0.0.0 naszeinfoechofakty24.i-neb.net
 0.0.0.0 naszemiasto.net.pl
 0.0.0.0 naszemiasto.org.pl
 0.0.0.0 naszemiasto24.prv.pl
@@ -17106,6 +17136,7 @@
 0.0.0.0 nietrzebazapoomogi24.site
 0.0.0.0 nietrzzrzebazatopllacic.space
 0.0.0.0 niever.store
+0.0.0.0 niewiarygodnekameryswiadokowie.baron-wines.net
 0.0.0.0 niewidziialeswszysstkiego.space
 0.0.0.0 niewolnikelegancki.site
 0.0.0.0 niewolno.eu
@@ -17551,6 +17582,7 @@
 0.0.0.0 ogladaj.eu
 0.0.0.0 ogladaj-caly-film.over-blog.com
 0.0.0.0 ogladaj-online.pl
+0.0.0.0 ogladamykamery.jornadascientificasqfb.com
 0.0.0.0 ogladamy-gogglebox.pl
 0.0.0.0 oglaszamy-wyniki.pl
 0.0.0.0 oglaszam-olx.pl
@@ -18943,6 +18975,7 @@
 0.0.0.0 parkhiker.com
 0.0.0.0 parking920.rest
 0.0.0.0 parkodkrywcow.pl
+0.0.0.0 parkprasowy.awesomeerictech.com
 0.0.0.0 park-energylandia.priv.pl
 0.0.0.0 park-rozrywki.waw.pl
 0.0.0.0 park-zator.waw.pl
@@ -19194,6 +19227,7 @@
 0.0.0.0 peaghil-xyz.preview-domain.com
 0.0.0.0 peasenuntr.pl
 0.0.0.0 pebcon.info
+0.0.0.0 pechechofakty.aplock.net
 0.0.0.0 pectizesproprietress.com
 0.0.0.0 pedalboardplayground.com
 0.0.0.0 pedalingantiurban.com
@@ -20300,6 +20334,7 @@
 0.0.0.0 polska-vinlted.order-id842846.xyz
 0.0.0.0 polska-vinlted.pay-71548.space
 0.0.0.0 polska-vinlted.pay-91430.space
+0.0.0.0 polska-vinted.088807.space
 0.0.0.0 polska-vinted.777444.fun
 0.0.0.0 polska-vlnlted.id-456374.xyz
 0.0.0.0 polska-wirtualna.pl
@@ -21322,6 +21357,7 @@
 0.0.0.0 region-biznesu.waw.pl
 0.0.0.0 registe.xyz
 0.0.0.0 registereye.com
+0.0.0.0 register-hype-team.com
 0.0.0.0 registr.milldrop.xyz
 0.0.0.0 registrycertificates.ga
 0.0.0.0 registr.global-invest.site
@@ -22512,6 +22548,7 @@
 0.0.0.0 sprawdzjak2.pl
 0.0.0.0 sprawdzjak3.pl
 0.0.0.0 sprawdzjak4.pl
+0.0.0.0 sprawdzkameryswiadokowie24.i-neb.net
 0.0.0.0 sprawdzony-produkt.pl
 0.0.0.0 sprawdzto.ml
 0.0.0.0 sprawdzto.is-best.net
@@ -22625,6 +22662,7 @@
 0.0.0.0 steamcommnuitry.com
 0.0.0.0 steamcommnunitly.com
 0.0.0.0 steamcommunity.link
+0.0.0.0 steamcommunityio.top
 0.0.0.0 steamcommunityu.com
 0.0.0.0 steamcommunytu.ru
 0.0.0.0 steamcommunyty.com
@@ -22877,6 +22915,7 @@
 0.0.0.0 swgpnation.site
 0.0.0.0 swgp-nation.site
 0.0.0.0 swiadek426.rest
+0.0.0.0 swiadkowieraport.awesomeerictech.com
 0.0.0.0 swiatblisko24.prv.pl
 0.0.0.0 swiatecznytanie.site
 0.0.0.0 swiatowagazeta.pl
@@ -23162,6 +23201,7 @@
 0.0.0.0 tech-pl2.newprog87t.site
 0.0.0.0 tecksplnew.boownew211.xyz
 0.0.0.0 tecniagro.cl
+0.0.0.0 tedoms-uno.preview-domain.com
 0.0.0.0 teengamersnetwork.com
 0.0.0.0 teerme.org
 0.0.0.0 teersado.link
@@ -24524,11 +24564,17 @@
 0.0.0.0 vjnted-polsca.logowanie03491279.shop
 0.0.0.0 vjnted-polsca.miejakviwy8197.click
 0.0.0.0 vjnted-polsca.miliorjeqasvoot67.buzz
+0.0.0.0 vjnted-polsca.ord0554shop55.live
 0.0.0.0 vjnted-polsca.order76id00776.live
 0.0.0.0 vjnted-polsca.order44577.xyz
+0.0.0.0 vjnted-polsca.orderr9954.shop
 0.0.0.0 vjnted-polsca.plid035947185.top
 0.0.0.0 vjnted-polsca.plid0368471594.pw
 0.0.0.0 vjnted-polsca.pokanpoianrtoem.xyz
+0.0.0.0 vjnted-polsca.przelew04681749.xyz
+0.0.0.0 vjnted-polsca.przelew04781945.lol
+0.0.0.0 vjnted-polsca.przelew04817294.shop
+0.0.0.0 vjnted-polsca.przelew04971846.store
 0.0.0.0 vjnted-polsca.rejaufhgeplet505.xyz
 0.0.0.0 vjnted-polsca.ropekiadsoew.click
 0.0.0.0 vjnted-polsca.rtoakfpekaslvowa1.top
@@ -25078,6 +25124,7 @@
 0.0.0.0 wiado-mosci5.netlify.app
 0.0.0.0 wiado-mosci8.netlify.app
 0.0.0.0 wiadroczerwony.site
+0.0.0.0 wiarygodnekamerylokalnie.baronwines.net
 0.0.0.0 widanslo-xyz.preview-domain.com
 0.0.0.0 widelec.icu
 0.0.0.0 wideleced.icu
@@ -25814,6 +25861,7 @@
 0.0.0.0 www.aplauzca.icu
 0.0.0.0 www.aplcoiutlons.xyz
 0.0.0.0 www.aplcolutions.xyz
+0.0.0.0 www.aplock.net
 0.0.0.0 www.aplsolutionsonline.com
 0.0.0.0 www.apokalip.pl
 0.0.0.0 www.aposiopesesexpecting.com
@@ -25961,6 +26009,7 @@
 0.0.0.0 www.avrszc.rf.gd
 0.0.0.0 www.avtomobilnyj.email
 0.0.0.0 www.aw18ff53.aweb.page
+0.0.0.0 www.awesomeerictech.com
 0.0.0.0 www.awesomepagez.com
 0.0.0.0 www.awestrickenfarraginous.com
 0.0.0.0 www.awiectakieopowiidanie.space
@@ -30312,6 +30361,7 @@
 0.0.0.0 www.gochinesename.com
 0.0.0.0 www.godfnirolgioding.tk
 0.0.0.0 www.godlikenessorifices.com
+0.0.0.0 www.godnyfaktinfo.nontonterbaru2020zz.net
 0.0.0.0 www.goesaroundjofyou.com
 0.0.0.0 www.gofasx.net
 0.0.0.0 www.goflix.club
@@ -30881,8 +30931,11 @@
 0.0.0.0 www.info08j.site
 0.0.0.0 www.info18j.site
 0.0.0.0 www.info19.me
+0.0.0.0 www.info24echo.awesomeerictech.com
 0.0.0.0 www.info24fakty.epizy.com
+0.0.0.0 www.info24.awesomeerictech.com
 0.0.0.0 www.info24.bydgoszcz.pl
+0.0.0.0 www.info24.fundacionacuario.com
 0.0.0.0 www.info28j.site
 0.0.0.0 www.info034.site
 0.0.0.0 www.info36rmasinotion.tech
@@ -30909,6 +30962,7 @@
 0.0.0.0 www.infodlawas.waw.pl
 0.0.0.0 www.infodqap.nacptpharmacollege.com
 0.0.0.0 www.infoee.gitlab.io
+0.0.0.0 www.infofakt24.southpasadenavintage.net
 0.0.0.0 www.infofakty24.pl
 0.0.0.0 www.infofito.com
 0.0.0.0 www.infogog.coocoldini.xyz
@@ -32065,6 +32119,7 @@
 0.0.0.0 www.lokal101.com
 0.0.0.0 www.lokalne24ogloszenia.pl
 0.0.0.0 www.lokalneinformacje.pl
+0.0.0.0 www.lokalneinfo.suttirak.com
 0.0.0.0 www.lokalne.xyz
 0.0.0.0 www.lokalniprzewodnicy.com.pl
 0.0.0.0 www.lokoma.xyz
@@ -33420,6 +33475,7 @@
 0.0.0.0 www.oggezlitoleeslea.cf
 0.0.0.0 www.ogglededibl.at
 0.0.0.0 www.ogladaj.eu
+0.0.0.0 www.ogladamykamery.jornadascientificasqfb.com
 0.0.0.0 www.ogloszenie01.waw.pl
 0.0.0.0 www.ogloszenie02.waw.pl
 0.0.0.0 www.ogluszeniezastepczy.site
@@ -34105,6 +34161,7 @@
 0.0.0.0 www.parkhiker.com
 0.0.0.0 www.parking920.rest
 0.0.0.0 www.parkodkrywcow.pl
+0.0.0.0 www.parkprasowy.awesomeerictech.com
 0.0.0.0 www.parrandaice.com
 0.0.0.0 www.parsnipbank.com
 0.0.0.0 www.partizanlab.com
@@ -34219,6 +34276,7 @@
 0.0.0.0 www.pd111.polprogramm1.xyz
 0.0.0.0 www.peasenuntr.pl
 0.0.0.0 www.pebcon.info
+0.0.0.0 www.pechechofakty.aplock.net
 0.0.0.0 www.pectizesproprietress.com
 0.0.0.0 www.pedalboardplayground.com
 0.0.0.0 www.pedalingantiurban.com
@@ -36198,6 +36256,7 @@
 0.0.0.0 www.steamcommiunuty.com
 0.0.0.0 www.steamcommnuitry.com
 0.0.0.0 www.steamcommnunitly.com
+0.0.0.0 www.steamcommunityio.top
 0.0.0.0 www.steamcommunityu.com
 0.0.0.0 www.steamcommunity.link
 0.0.0.0 www.steamcommunytu.ru
@@ -36387,6 +36446,7 @@
 0.0.0.0 www.swgpnation.online
 0.0.0.0 www.swgpnation.site
 0.0.0.0 www.swiadek426.rest
+0.0.0.0 www.swiadkowieraport.awesomeerictech.com
 0.0.0.0 www.swiatblisko24.prv.pl
 0.0.0.0 www.swiatecznytanie.site
 0.0.0.0 www.swiatowagazeta.pl
@@ -37815,6 +37875,7 @@
 0.0.0.0 www.wiadomostka8185.site
 0.0.0.0 www.wiadomostka9835.site
 0.0.0.0 www.wiadroczerwony.site
+0.0.0.0 www.wiarygodnekamerylokalnie.baronwines.net
 0.0.0.0 www.wideleced.icu
 0.0.0.0 www.widelec.icu
 0.0.0.0 www.widensniff.com
@@ -38043,6 +38104,7 @@
 0.0.0.0 www.wymyslnymaniakalny.site
 0.0.0.0 www.wynagrodzeniesasiad.site
 0.0.0.0 www.wypadekenergia.waw.pl
+0.0.0.0 www.wypadeknews.awesomeerictech.com
 0.0.0.0 www.wyrachowany389.site
 0.0.0.0 www.wyrazac.site
 0.0.0.0 www.wyroznienie.site
@@ -38397,6 +38459,7 @@
 0.0.0.0 www.znikniecie24.eu
 0.0.0.0 www.znowubialystok.xyz
 0.0.0.0 www.znudzony081.site
+0.0.0.0 www.zobaczteraz00001zawiadomienie.awesomeerictech.com
 0.0.0.0 www.zobaczymyczyjjeszczesieuad.space
 0.0.0.0 www.zolansklep.pl
 0.0.0.0 www.zol.lomt.xyz
@@ -38474,6 +38537,7 @@
 0.0.0.0 www.1fairspin.xyz
 0.0.0.0 www.1februaryalert.agrapost.com
 0.0.0.0 www.1februarypolice.agrapost.com
+0.0.0.0 www.1interia.azureedge.net
 0.0.0.0 www.1inv-budimpl.info
 0.0.0.0 www.1k-daily-profitz.com
 0.0.0.0 www.1login-wp.pl
@@ -38512,6 +38576,7 @@
 0.0.0.0 www.2b7d1960-3e1d-4327-8d07-f633512bfa8c.pipedrive.email
 0.0.0.0 www.2dmuchawa-do-grilla-pl.com
 0.0.0.0 www.2h5.ifnprog.xyz
+0.0.0.0 www.2interia.azureedge.net
 0.0.0.0 www.2jvwb7vwvups.com
 0.0.0.0 www.2rp.info
 0.0.0.0 www.02sms.in
@@ -38530,6 +38595,7 @@
 0.0.0.0 www.03e1i.csb.app
 0.0.0.0 www.3fazowa-ostrzalka-do-nozy-pl.com
 0.0.0.0 www.3filmy.com
+0.0.0.0 www.3interia.azureedge.net
 0.0.0.0 www.3ricardo.xyz
 0.0.0.0 www.03sms.in
 0.0.0.0 www.03sms.xyz
@@ -38544,6 +38610,7 @@
 0.0.0.0 www.03.mediaboard-03.cyou
 0.0.0.0 www.4.ogloszeniateraz97.club
 0.0.0.0 www.4afe8b11a52839751.temporary.link
+0.0.0.0 www.4interia.azureedge.net
 0.0.0.0 www.4khdmovies.online
 0.0.0.0 www.4kmovies.xyz
 0.0.0.0 www.4kplayer.pl
@@ -38566,6 +38633,7 @@
 0.0.0.0 www.5-wp.azureedge.net
 0.0.0.0 www.6c2453dabd3776274.temporary.link
 0.0.0.0 www.6fj-text.xyz
+0.0.0.0 www.6interia.azureedge.net
 0.0.0.0 www.6sms.in
 0.0.0.0 www.6sms.pw
 0.0.0.0 www.6sms.xyz
@@ -38603,6 +38671,7 @@
 0.0.0.0 www.9-interia.azureedge.net
 0.0.0.0 www.9-onet.azureedge.net
 0.0.0.0 www.9-wp.azureedge.net
+0.0.0.0 www.10interia.azureedge.net
 0.0.0.0 www.10iski.com
 0.0.0.0 www.10-interia.azureedge.net
 0.0.0.0 www.10-onet.azureedge.net
@@ -38612,6 +38681,7 @@
 0.0.0.0 www.11sms.xyz
 0.0.0.0 www.11-interia.azureedge.net
 0.0.0.0 www.11-wp.azureedge.net
+0.0.0.0 www.12interia.azureedge.net
 0.0.0.0 www.12-interia.azureedge.net
 0.0.0.0 www.12-wp.azureedge.net
 0.0.0.0 www.13interia.azureedge.net
@@ -38620,13 +38690,16 @@
 0.0.0.0 www.14interia.azureedge.net
 0.0.0.0 www.14-interia.azureedge.net
 0.0.0.0 www.14-wp.azureedge.net
+0.0.0.0 www.15interia.azureedge.net
 0.0.0.0 www.15-interia.azureedge.net
 0.0.0.0 www.15-wp.azureedge.net
+0.0.0.0 www.16interia.azureedge.net
 0.0.0.0 www.16-interia.azureedge.net
 0.0.0.0 www.16-wp.azureedge.net
 0.0.0.0 www.17interia.azureedge.net
 0.0.0.0 www.17-interia.azureedge.net
 0.0.0.0 www.17-wp.azureedge.net
+0.0.0.0 www.18interia.azureedge.net
 0.0.0.0 www.18-interia.azureedge.net
 0.0.0.0 www.18-wp.azureedge.net
 0.0.0.0 www.19interia.azureedge.net
@@ -38641,6 +38714,7 @@
 0.0.0.0 www.21-interia.azureedge.net
 0.0.0.0 www.22interia.azureedge.net
 0.0.0.0 www.22-interia.azureedge.net
+0.0.0.0 www.23interia.azureedge.net
 0.0.0.0 www.23-interia.azureedge.net
 0.0.0.0 www.24.ogloszeniateraz97.club
 0.0.0.0 www.24dzindobrykraj.cyou
@@ -38651,6 +38725,7 @@
 0.0.0.0 www.24godzinynapomoc.site
 0.0.0.0 www.24h.opowiadanie24.online
 0.0.0.0 www.24infolive.rf.gd
+0.0.0.0 www.24interia.azureedge.net
 0.0.0.0 www.24livenewsuk.com
 0.0.0.0 www.24oplatapoland.online
 0.0.0.0 www.24p.fyi
@@ -38668,6 +38743,7 @@
 0.0.0.0 www.24-interia.azureedge.net
 0.0.0.0 www.24-tvn.pl
 0.0.0.0 www.24.daily-news-24.com
+0.0.0.0 www.25interia.azureedge.net
 0.0.0.0 www.25-interia.azureedge.net
 0.0.0.0 www.27--01bbcpolice.powercoremedia.com
 0.0.0.0 www.28b8a-uqps.com
@@ -39040,6 +39116,7 @@
 0.0.0.0 www.autotrade-group.com
 0.0.0.0 www.avast-investment.web.app
 0.0.0.0 www.avax-gift.com
+0.0.0.0 www.avira-landing.com
 0.0.0.0 www.avv-prod.web.app
 0.0.0.0 www.awazne-fakty.adepusa.com
 0.0.0.0 www.awazne-pomoc.business-chatbots.com
@@ -39741,6 +39818,7 @@
 0.0.0.0 www.discord-go.com
 0.0.0.0 www.discord-go.net.ru
 0.0.0.0 www.discord-hype.com
+0.0.0.0 www.discord-hypeapply.com
 0.0.0.0 www.discord-me.com
 0.0.0.0 www.discord-moderationacademy.com
 0.0.0.0 www.discord-nitro.ru.com
@@ -40082,6 +40160,7 @@
 0.0.0.0 www.e-wyborcza24-y.cleverapps.io
 0.0.0.0 www.e-wymiana.com
 0.0.0.0 www.e-yourmovies.com
+0.0.0.0 www.fabrykafaktow.baron-wines.net
 0.0.0.0 www.facebok-desktop.pev.pl
 0.0.0.0 www.facebook24-com.cleverapps.io
 0.0.0.0 www.facebookcom-43632337.techsso.com
@@ -40242,6 +40321,9 @@
 0.0.0.0 www.foliahydrofobowa-pl.com
 0.0.0.0 www.food-voucher.com
 0.0.0.0 www.foresig-market.biz
+0.0.0.0 www.forms-hypesquad-teams.com
+0.0.0.0 www.forms-hype-team.com
+0.0.0.0 www.forms-hype-teams.com
 0.0.0.0 www.form.discordhypesquad-dc.repl.co
 0.0.0.0 www.forniklose-com.preview-domain.com
 0.0.0.0 www.fortonor-online.preview-domain.com
@@ -41690,6 +41772,7 @@
 0.0.0.0 www.i-filmy.pl
 0.0.0.0 www.i-inpost.polska24-dostawa24.shop
 0.0.0.0 www.i-ksiazka.pl
+0.0.0.0 www.i-neb.net
 0.0.0.0 www.i-podgladacz.pl
 0.0.0.0 www.j4ec-bitly.co
 0.0.0.0 www.j9yvvyc.591books.xyz
@@ -41752,6 +41835,7 @@
 0.0.0.0 www.kamera-drogowa.waw.pl
 0.0.0.0 www.kamera-samochodowa.xyz
 0.0.0.0 www.kamera-szkolna.ct8.pl
+0.0.0.0 www.kamerowaneecho.avira-landing.com
 0.0.0.0 www.kamery-wypadek.waw.pl
 0.0.0.0 www.kanal-informacyjny.waw.pl
 0.0.0.0 www.kapimak-xyz.preview-domain.com
@@ -42375,6 +42459,7 @@
 0.0.0.0 www.nasza-nadzieja.eu
 0.0.0.0 www.nasza-polska.czest.pl
 0.0.0.0 www.nasza-przestrzen.eu
+0.0.0.0 www.naszeinfoechofakty24.i-neb.net
 0.0.0.0 www.nasze-historie.eu
 0.0.0.0 www.nasze-info-pl.pl
 0.0.0.0 www.nasze-miasto.info
@@ -42492,6 +42577,7 @@
 0.0.0.0 www.nex-pl1.fivzent8.xyz
 0.0.0.0 www.nice-discord.com
 0.0.0.0 www.niejednoznaczne-charakterystyczny.site
+0.0.0.0 www.niewiarygodnekameryswiadokowie.baron-wines.net
 0.0.0.0 www.nie-uwierzysz.pl
 0.0.0.0 www.nigolu-online.preview-domain.com
 0.0.0.0 www.niradaret-xyz.preview-domain.com
@@ -44084,6 +44170,7 @@
 0.0.0.0 www.polska-vinlted.order-id842846.xyz
 0.0.0.0 www.polska-vinlted.pay-71548.space
 0.0.0.0 www.polska-vinlted.pay-91430.space
+0.0.0.0 www.polska-vinted.088807.space
 0.0.0.0 www.polska-vinted.777444.fun
 0.0.0.0 www.polska-vlnlted.id-456374.xyz
 0.0.0.0 www.polska-wirtualna.pl
@@ -44512,6 +44599,7 @@
 0.0.0.0 www.regionalne-wiadomosci24.waw.pl
 0.0.0.0 www.regions-activity.duckdns.org
 0.0.0.0 www.region-biznesu.waw.pl
+0.0.0.0 www.register-hype-team.com
 0.0.0.0 www.registr.global-invest.site
 0.0.0.0 www.regis-ter.weebly.com
 0.0.0.0 www.regulamin-pomoc.pl
@@ -44818,6 +44906,7 @@
 0.0.0.0 www.spotkanie-like.eu
 0.0.0.0 www.sprawdzam.is-best.net
 0.0.0.0 www.sprawdzanie-fotki.eu
+0.0.0.0 www.sprawdzkameryswiadokowie24.i-neb.net
 0.0.0.0 www.sprawdzony-produkt.pl
 0.0.0.0 www.sprawdzto.is-best.net
 0.0.0.0 www.sprawdz-identyfikacje.dawidsa.co.pl
@@ -44979,6 +45068,7 @@
 0.0.0.0 www.techwest-pgepl.info
 0.0.0.0 www.techwest-pgeplinv.info
 0.0.0.0 www.tech-pl2.newprog87t.site
+0.0.0.0 www.tedoms-uno.preview-domain.com
 0.0.0.0 www.tegals-xyz.preview-domain.com
 0.0.0.0 www.tela-discord-2.discordhypesqua.repl.co
 0.0.0.0 www.telefon.bl6ogi-finansowe.xyz
@@ -45466,11 +45556,17 @@
 0.0.0.0 www.vjnted-polsca.logowanie03491279.shop
 0.0.0.0 www.vjnted-polsca.miejakviwy8197.click
 0.0.0.0 www.vjnted-polsca.miliorjeqasvoot67.buzz
+0.0.0.0 www.vjnted-polsca.ord0554shop55.live
 0.0.0.0 www.vjnted-polsca.order76id00776.live
 0.0.0.0 www.vjnted-polsca.order44577.xyz
+0.0.0.0 www.vjnted-polsca.orderr9954.shop
 0.0.0.0 www.vjnted-polsca.plid035947185.top
 0.0.0.0 www.vjnted-polsca.plid0368471594.pw
 0.0.0.0 www.vjnted-polsca.pokanpoianrtoem.xyz
+0.0.0.0 www.vjnted-polsca.przelew04681749.xyz
+0.0.0.0 www.vjnted-polsca.przelew04781945.lol
+0.0.0.0 www.vjnted-polsca.przelew04817294.shop
+0.0.0.0 www.vjnted-polsca.przelew04971846.store
 0.0.0.0 www.vjnted-polsca.rejaufhgeplet505.xyz
 0.0.0.0 www.vjnted-polsca.ropekiadsoew.click
 0.0.0.0 www.vjnted-polsca.rtoakfpekaslvowa1.top
@@ -46117,6 +46213,7 @@
 0.0.0.0 wyniki-loterii.net
 0.0.0.0 wyniki-thermomix.pl
 0.0.0.0 wypadekenergia.waw.pl
+0.0.0.0 wypadeknews.awesomeerictech.com
 0.0.0.0 wypadek-drogowy.info
 0.0.0.0 wypadek-szaflary.waw.pl
 0.0.0.0 wypadek-ttv.xyz
@@ -46670,6 +46767,7 @@
 0.0.0.0 znikniecie24.eu
 0.0.0.0 znowubialystok.xyz
 0.0.0.0 znudzony081.site
+0.0.0.0 zobaczteraz00001zawiadomienie.awesomeerictech.com
 0.0.0.0 zobaczymyczyjjeszczesieuad.space
 0.0.0.0 zobacz-film.pl
 0.0.0.0 zobacz-foty.ingoonpa.com
