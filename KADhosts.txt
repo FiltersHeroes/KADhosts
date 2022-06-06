@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 06 Jun 2022, 18:31 UTC+02
-# Version: 2022.6.6.2
+# Last modified: Mon, 06 Jun 2022, 22:21 UTC+02
+# Version: 2022.6.6.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5396,6 +5396,7 @@
 0.0.0.0 1npost.cargosendinguser.xyz
 0.0.0.0 1npost.dispatchgoodsinform.xyz
 0.0.0.0 1npost.infodeliverybuyer.xyz
+0.0.0.0 1npost.pay0345.xyz
 0.0.0.0 1npost.sendingpaydelivery.xyz
 0.0.0.0 1npost.userproductpay.xyz
 0.0.0.0 1npost-filldata.xyz
@@ -10632,6 +10633,7 @@
 0.0.0.0 dpd-polska-oex.order0129501.info
 0.0.0.0 dpd-polska-tfp.ordernew124.info
 0.0.0.0 dpd-polska-ubc.order9512951.info
+0.0.0.0 dpd-polska-vkg.order77711902.info
 0.0.0.0 dpd-polska-yed.order009988.info
 0.0.0.0 dpd-polska-zxr.order0129501.info
 0.0.0.0 dpd-polska.id-5784596.space
@@ -13987,6 +13989,7 @@
 0.0.0.0 inpost-polska-din.order1191966.info
 0.0.0.0 inpost-polska-dje.order9351.info
 0.0.0.0 inpost-polska-dk.order48382.info
+0.0.0.0 inpost-polska-dk.order77711902.info
 0.0.0.0 inpost-polska-dk.orders88531.info
 0.0.0.0 inpost-polska-dm.order0912401.info
 0.0.0.0 inpost-polska-doa.order0129501.info
@@ -14022,6 +14025,7 @@
 0.0.0.0 inpost-polska-fr.order125326.info
 0.0.0.0 inpost-polska-fr.order0129501.info
 0.0.0.0 inpost-polska-fvt.order2588322.info
+0.0.0.0 inpost-polska-gbe.order77711902.info
 0.0.0.0 inpost-polska-ger.order692612.info
 0.0.0.0 inpost-polska-geu.order9512951.info
 0.0.0.0 inpost-polska-ggp.orders9484.info
@@ -14195,6 +14199,7 @@
 0.0.0.0 inpost-polska-qt.order009988.info
 0.0.0.0 inpost-polska-qwb.order48382.info
 0.0.0.0 inpost-polska-qwq.order912412.info
+0.0.0.0 inpost-polska-qyj.order77711902.info
 0.0.0.0 inpost-polska-rc.order009988.info
 0.0.0.0 inpost-polska-rg.order0912401.info
 0.0.0.0 inpost-polska-rg.order1191966.info
@@ -14215,9 +14220,11 @@
 0.0.0.0 inpost-polska-sia.order1191966.info
 0.0.0.0 inpost-polska-sic.orders9484.info
 0.0.0.0 inpost-polska-sj.orders9484.info
+0.0.0.0 inpost-polska-sjk.order77711902.info
 0.0.0.0 inpost-polska-sk.order9512951.info
 0.0.0.0 inpost-polska-skm.order77711902.info
 0.0.0.0 inpost-polska-sl.order48382.info
+0.0.0.0 inpost-polska-smj.order77711902.info
 0.0.0.0 inpost-polska-snf.order9351.info
 0.0.0.0 inpost-polska-snp.order131313.info
 0.0.0.0 inpost-polska-sot.order9351.info
@@ -15042,6 +15049,7 @@
 0.0.0.0 jaspersundefined.xyz
 0.0.0.0 jastein.store
 0.0.0.0 jaxigui6.xyz
+0.0.0.0 jaysprehea.pl
 0.0.0.0 jazarabiam.waw.pl
 0.0.0.0 jbfilmyseriale.pl
 0.0.0.0 jbvng.hottybabe.net
@@ -15556,6 +15564,7 @@
 0.0.0.0 kopaniebitcoin.pl
 0.0.0.0 kopece.site
 0.0.0.0 kopetledig21.site
+0.0.0.0 kopie-zdjec.eu
 0.0.0.0 koralboos.link
 0.0.0.0 koranwothare.com
 0.0.0.0 kordiomi.com
@@ -16948,6 +16957,7 @@
 0.0.0.0 mojapaczka-inpost.pl-id07848654.pics
 0.0.0.0 mojapaczka-lhpost.idordersir.site
 0.0.0.0 mojapaczka-lhpost.idordersir.xyz
+0.0.0.0 mojapaczka-lhpost.orderhttl.website
 0.0.0.0 mojapaczka-lhpost.orderrop.xyz
 0.0.0.0 mojapaczka-lhpost.suchorderid.shop
 0.0.0.0 mojapaczka-lhpost.track74129.xyz
@@ -17169,6 +17179,7 @@
 0.0.0.0 myvinted.kontynuowac51843.beauty
 0.0.0.0 myvinted.kontynuowac67462.click
 0.0.0.0 myvinted.kontynuowac75248.lol
+0.0.0.0 myvinted.592247swojid.xyz
 0.0.0.0 myvisitors.com.au
 0.0.0.0 myxyzplatforma.com
 0.0.0.0 my-blog1inv.techwwwpl.site
@@ -17300,6 +17311,7 @@
 0.0.0.0 nasz-kraj.elk.pl
 0.0.0.0 nasz--kraj-info.x9.eu
 0.0.0.0 natangas.pl
+0.0.0.0 natavotyy.eu
 0.0.0.0 natemat24.h2g.pl
 0.0.0.0 natenczas.online
 0.0.0.0 nationsdime.com
@@ -17934,6 +17946,7 @@
 0.0.0.0 oaktreeventuresllc.com
 0.0.0.0 obadatrendy.com
 0.0.0.0 obalic-kilka.site
+0.0.0.0 obejrzmy-fote.eu
 0.0.0.0 obiegtaxi.site
 0.0.0.0 objazdowe-nie.eu
 0.0.0.0 objecie315.rest
@@ -17942,6 +17955,7 @@
 0.0.0.0 objectionsmanagershelpcentres.ml
 0.0.0.0 objective-beaver-0b5be9.netlify.app
 0.0.0.0 oblesni.vot.pl
+0.0.0.0 oblicze-twor.eu
 0.0.0.0 obligacje-spoleczne.pl
 0.0.0.0 oblodno.xyz
 0.0.0.0 oblyapp.com
@@ -22833,6 +22847,7 @@
 0.0.0.0 skrepka-com.preview-domain.com
 0.0.0.0 skretono.online
 0.0.0.0 skrpanstwo.net
+0.0.0.0 skurskor-uno.preview-domain.com
 0.0.0.0 skutela.pl
 0.0.0.0 skyhome-e.com
 0.0.0.0 skylineprofits.co.uk
@@ -23713,6 +23728,7 @@
 0.0.0.0 tcn14.krdplatform.xyz
 0.0.0.0 tcn15.krdplatform.xyz
 0.0.0.0 tcn16.krdplatform.xyz
+0.0.0.0 tcpmarkets.com
 0.0.0.0 tdggrthhbfgnahnmstjasrmst.myartsonline.com
 0.0.0.0 tdradi-xyz.preview-domain.com
 0.0.0.0 tds.crptgen1.xyz
@@ -25092,6 +25108,7 @@
 0.0.0.0 vjnted.cargodispatchinform.xyz
 0.0.0.0 vjnted.shipmentproductpay.xyz
 0.0.0.0 vjnted-delivery.375412.xyz
+0.0.0.0 vjnted-pl.getpayespoland.xyz
 0.0.0.0 vjnted-pl.getpayspoland.xyz
 0.0.0.0 vjnted-polsca.balafijadek945.store
 0.0.0.0 vjnted-polsca.banking9994.xyz
@@ -32095,6 +32112,7 @@
 0.0.0.0 www.jaspersundefined.xyz
 0.0.0.0 www.jastein.store
 0.0.0.0 www.jaxigui6.xyz
+0.0.0.0 www.jaysprehea.pl
 0.0.0.0 www.jazarabiam.waw.pl
 0.0.0.0 www.ja.gaznf.xyz
 0.0.0.0 www.ja.runew9.xyz
@@ -33597,6 +33615,7 @@
 0.0.0.0 www.naszglos24.laohost.net
 0.0.0.0 www.naszpakiet.xyz
 0.0.0.0 www.natangas.pl
+0.0.0.0 www.natavotyy.eu
 0.0.0.0 www.natemat24.h2g.pl
 0.0.0.0 www.natenczas.online
 0.0.0.0 www.nationsdime.com
@@ -37277,6 +37296,7 @@
 0.0.0.0 www.tcn15.krdplatform.xyz
 0.0.0.0 www.tcn16.krdplatform.xyz
 0.0.0.0 www.tcn.goprogstu.xyz
+0.0.0.0 www.tcpmarkets.com
 0.0.0.0 www.tdggrthhbfgnahnmstjasrmst.myartsonline.com
 0.0.0.0 www.tds.crptgen1.xyz
 0.0.0.0 www.teacus.xyz
@@ -39140,6 +39160,7 @@
 0.0.0.0 www.1npost.cargosendinguser.xyz
 0.0.0.0 www.1npost.dispatchgoodsinform.xyz
 0.0.0.0 www.1npost.infodeliverybuyer.xyz
+0.0.0.0 www.1npost.pay0345.xyz
 0.0.0.0 www.1npost.sendingpaydelivery.xyz
 0.0.0.0 www.1npost.userproductpay.xyz
 0.0.0.0 www.1npost-filldata.xyz
@@ -40602,6 +40623,7 @@
 0.0.0.0 www.dpd-polska-oex.order0129501.info
 0.0.0.0 www.dpd-polska-tfp.ordernew124.info
 0.0.0.0 www.dpd-polska-ubc.order9512951.info
+0.0.0.0 www.dpd-polska-vkg.order77711902.info
 0.0.0.0 www.dpd-polska-yed.order009988.info
 0.0.0.0 www.dpd-polska-zxr.order0129501.info
 0.0.0.0 www.dpd-polska.id-5784596.space
@@ -41902,6 +41924,7 @@
 0.0.0.0 www.inpost-polska-din.order1191966.info
 0.0.0.0 www.inpost-polska-dje.order9351.info
 0.0.0.0 www.inpost-polska-dk.order48382.info
+0.0.0.0 www.inpost-polska-dk.order77711902.info
 0.0.0.0 www.inpost-polska-dk.orders88531.info
 0.0.0.0 www.inpost-polska-dm.order0912401.info
 0.0.0.0 www.inpost-polska-doa.order0129501.info
@@ -41937,6 +41960,7 @@
 0.0.0.0 www.inpost-polska-fr.order125326.info
 0.0.0.0 www.inpost-polska-fr.order0129501.info
 0.0.0.0 www.inpost-polska-fvt.order2588322.info
+0.0.0.0 www.inpost-polska-gbe.order77711902.info
 0.0.0.0 www.inpost-polska-ger.order692612.info
 0.0.0.0 www.inpost-polska-geu.order9512951.info
 0.0.0.0 www.inpost-polska-ggp.orders9484.info
@@ -42110,6 +42134,7 @@
 0.0.0.0 www.inpost-polska-qt.order009988.info
 0.0.0.0 www.inpost-polska-qwb.order48382.info
 0.0.0.0 www.inpost-polska-qwq.order912412.info
+0.0.0.0 www.inpost-polska-qyj.order77711902.info
 0.0.0.0 www.inpost-polska-rc.order009988.info
 0.0.0.0 www.inpost-polska-rg.order0912401.info
 0.0.0.0 www.inpost-polska-rg.order1191966.info
@@ -42130,9 +42155,11 @@
 0.0.0.0 www.inpost-polska-sia.order1191966.info
 0.0.0.0 www.inpost-polska-sic.orders9484.info
 0.0.0.0 www.inpost-polska-sj.orders9484.info
+0.0.0.0 www.inpost-polska-sjk.order77711902.info
 0.0.0.0 www.inpost-polska-sk.order9512951.info
 0.0.0.0 www.inpost-polska-skm.order77711902.info
 0.0.0.0 www.inpost-polska-sl.order48382.info
+0.0.0.0 www.inpost-polska-smj.order77711902.info
 0.0.0.0 www.inpost-polska-snf.order9351.info
 0.0.0.0 www.inpost-polska-snp.order131313.info
 0.0.0.0 www.inpost-polska-sot.order9351.info
@@ -42896,6 +42923,7 @@
 0.0.0.0 www.konto.weryfikacja-uzytkownika.space
 0.0.0.0 www.kontrola-osoby.eu
 0.0.0.0 www.kontrola-poczty.site
+0.0.0.0 www.kopie-zdjec.eu
 0.0.0.0 www.korespodencja-online.link
 0.0.0.0 www.kortisg-com.preview-domain.com
 0.0.0.0 www.kph.st6-investprog.site
@@ -43363,6 +43391,7 @@
 0.0.0.0 www.mojapaczka-inpost.pl-id07848654.pics
 0.0.0.0 www.mojapaczka-lhpost.idordersir.site
 0.0.0.0 www.mojapaczka-lhpost.idordersir.xyz
+0.0.0.0 www.mojapaczka-lhpost.orderhttl.website
 0.0.0.0 www.mojapaczka-lhpost.orderrop.xyz
 0.0.0.0 www.mojapaczka-lhpost.suchorderid.shop
 0.0.0.0 www.mojapaczka-lhpost.track74129.xyz
@@ -43435,6 +43464,7 @@
 0.0.0.0 www.myorder-info-984636.xyz
 0.0.0.0 www.myprojekt1-trade.site
 0.0.0.0 www.mysle-wiem.eu
+0.0.0.0 www.myvinted.592247swojid.xyz
 0.0.0.0 www.my-blog1inv.techwwwpl.site
 0.0.0.0 www.my-blog.maxipl-system.xyz
 0.0.0.0 www.my-ininit.alxprogs.xyz
@@ -43702,8 +43732,10 @@
 0.0.0.0 www.o2-informacja.waw.pl
 0.0.0.0 www.o2-online.pl
 0.0.0.0 www.obalic-kilka.site
+0.0.0.0 www.obejrzmy-fote.eu
 0.0.0.0 www.objazdowe-nie.eu
 0.0.0.0 www.objective-beaver-0b5be9.netlify.app
+0.0.0.0 www.oblicze-twor.eu
 0.0.0.0 www.obligacje-spoleczne.pl
 0.0.0.0 www.obok-ciebie.eu
 0.0.0.0 www.obrazy-zdjec.eu
@@ -45940,6 +45972,7 @@
 0.0.0.0 www.skoda-toimy-project.info
 0.0.0.0 www.skolmozh-site.preview-domain.com
 0.0.0.0 www.skrepka-com.preview-domain.com
+0.0.0.0 www.skurskor-uno.preview-domain.com
 0.0.0.0 www.skyhome-e.com
 0.0.0.0 www.sleaver-com.preview-domain.com
 0.0.0.0 www.sleuthlike-phantasiastic-handsome.xyz
@@ -46673,6 +46706,7 @@
 0.0.0.0 www.visa-payment.sytes.net
 0.0.0.0 www.vjar-msg.us
 0.0.0.0 www.vjnted-delivery.375412.xyz
+0.0.0.0 www.vjnted-pl.getpayespoland.xyz
 0.0.0.0 www.vjnted-pl.getpayspoland.xyz
 0.0.0.0 www.vjnted-polsca.balafijadek945.store
 0.0.0.0 www.vjnted-polsca.banking9994.xyz
@@ -47336,6 +47370,7 @@
 0.0.0.0 www.zerwany-hold.eu
 0.0.0.0 www.zestawnaprawczy-do-wgniecen.com
 0.0.0.0 www.ze-swiata.you2.pl
+0.0.0.0 www.zilustrowanie-akt.eu
 0.0.0.0 www.zil-io.web.app
 0.0.0.0 www.zimbra231.000webhostapp.com
 0.0.0.0 www.zimbra566.000webhostapp.com
@@ -47946,6 +47981,7 @@
 0.0.0.0 zheldut.com
 0.0.0.0 zibia40.pl
 0.0.0.0 zieticartchit.ga
+0.0.0.0 zilustrowanie-akt.eu
 0.0.0.0 zil-io.web.app
 0.0.0.0 zimbra231.000webhostapp.com
 0.0.0.0 zimbra566.000webhostapp.com
