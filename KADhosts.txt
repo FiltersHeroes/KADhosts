@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 10 Jun 2022, 10:25 UTC+02
-# Version: 2022.6.10.0
+# Last modified: Fri, 10 Jun 2022, 14:41 UTC+02
+# Version: 2022.6.10.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5437,6 +5437,7 @@
 0.0.0.0 01x.cargodelivery-inform.xyz
 0.0.0.0 01x.user-sendproduct.xyz
 0.0.0.0 1z309-urps.co
+0.0.0.0 1-energy.azureedge.net
 0.0.0.0 1-interia.azureedge.net
 0.0.0.0 1-onet.azureedge.net
 0.0.0.0 1-pl.truoutlpl24.site
@@ -5457,6 +5458,7 @@
 0.0.0.0 2supermocna-tasma-klejaca-pl.com
 0.0.0.0 2uts.com
 0.0.0.0 2xsms.xyz
+0.0.0.0 2-energy.azureedge.net
 0.0.0.0 2-interia.azureedge.net
 0.0.0.0 2-onet.azureedge.net
 0.0.0.0 2-remove-virus.com
@@ -5475,6 +5477,7 @@
 0.0.0.0 3w2k701z6i94wgr.choobin-co.ir
 0.0.0.0 3xsms.xyz
 0.0.0.0 3-139-92-223.cprapid.com
+0.0.0.0 3-energy.azureedge.net
 0.0.0.0 3-interia.azureedge.net
 0.0.0.0 3-onet.azureedge.net
 0.0.0.0 3-wp.azureedge.net
@@ -5489,6 +5492,7 @@
 0.0.0.0 4onet.azureedge.net
 0.0.0.0 4po5zg-bit.com
 0.0.0.0 4ricardo.xyz
+0.0.0.0 4-energy.azureedge.net
 0.0.0.0 4-interia.azureedge.net
 0.0.0.0 4-onet.azureedge.net
 0.0.0.0 4-wp.azureedge.net
@@ -5501,6 +5505,7 @@
 0.0.0.0 5sms.xyz
 0.0.0.0 5tysiecy.pl
 0.0.0.0 05yzb-upqs.us
+0.0.0.0 5-energy.azureedge.net
 0.0.0.0 5-interia.azureedge.net
 0.0.0.0 5-onet.azureedge.net
 0.0.0.0 5-wp.azureedge.net
@@ -5511,6 +5516,7 @@
 0.0.0.0 6sms.in
 0.0.0.0 6sms.pw
 0.0.0.0 6sms.xyz
+0.0.0.0 6-energy.azureedge.net
 0.0.0.0 6-interia.azureedge.net
 0.0.0.0 6-onet.azureedge.net
 0.0.0.0 6-wp.azureedge.net
@@ -5523,6 +5529,7 @@
 0.0.0.0 07sms.xyz
 0.0.0.0 7sms.pw
 0.0.0.0 7sms.xyz
+0.0.0.0 7-energy.azureedge.net
 0.0.0.0 7-interia.azureedge.net
 0.0.0.0 7-onet.azureedge.net
 0.0.0.0 7-wp.azureedge.net
@@ -5533,6 +5540,7 @@
 0.0.0.0 8sms.in
 0.0.0.0 8sms.pw
 0.0.0.0 8sms.xyz
+0.0.0.0 8-energy.azureedge.net
 0.0.0.0 8-interia.azureedge.net
 0.0.0.0 8-onet.azureedge.net
 0.0.0.0 8-shipmentcargo.xyz
@@ -5545,6 +5553,7 @@
 0.0.0.0 9onet.azureedge.net
 0.0.0.0 09sms.in
 0.0.0.0 9sms.xyz
+0.0.0.0 9-energy.azureedge.net
 0.0.0.0 9-interia.azureedge.net
 0.0.0.0 9-onet.azureedge.net
 0.0.0.0 9-wp.azureedge.net
@@ -5558,22 +5567,27 @@
 0.0.0.0 11onet.azureedge.net
 0.0.0.0 11shots.com
 0.0.0.0 11sms.xyz
+0.0.0.0 11-energy.azureedge.net
 0.0.0.0 11-interia.azureedge.net
 0.0.0.0 11-wp.azureedge.net
 0.0.0.0 12interia.azureedge.net
 0.0.0.0 12onet.azureedge.net
+0.0.0.0 12-energy.azureedge.net
 0.0.0.0 12-interia.azureedge.net
 0.0.0.0 12-wp.azureedge.net
 0.0.0.0 13interia.azureedge.net
 0.0.0.0 13onet.azureedge.net
+0.0.0.0 13-energy.azureedge.net
 0.0.0.0 13-interia.azureedge.net
 0.0.0.0 13-wp.azureedge.net
 0.0.0.0 14interia.azureedge.net
 0.0.0.0 14onet.azureedge.net
+0.0.0.0 14-energy.azureedge.net
 0.0.0.0 14-interia.azureedge.net
 0.0.0.0 14-wp.azureedge.net
 0.0.0.0 15interia.azureedge.net
 0.0.0.0 15onet.azureedge.net
+0.0.0.0 15-energy.azureedge.net
 0.0.0.0 15-interia.azureedge.net
 0.0.0.0 15-wp.azureedge.net
 0.0.0.0 16interia.azureedge.net
@@ -5582,27 +5596,33 @@
 0.0.0.0 16-wp.azureedge.net
 0.0.0.0 17interia.azureedge.net
 0.0.0.0 17onet.azureedge.net
+0.0.0.0 17-energy.azureedge.net
 0.0.0.0 17-interia.azureedge.net
 0.0.0.0 17-wp.azureedge.net
 0.0.0.0 18interia.azureedge.net
 0.0.0.0 18onet.azureedge.net
+0.0.0.0 18-energy.azureedge.net
 0.0.0.0 18-interia.azureedge.net
 0.0.0.0 18-wp.azureedge.net
 0.0.0.0 19interia.azureedge.net
 0.0.0.0 19onet.azureedge.net
+0.0.0.0 19-energy.azureedge.net
 0.0.0.0 19-interia.azureedge.net
 0.0.0.0 19-wp.azureedge.net
 0.0.0.0 20interia.azureedge.net
 0.0.0.0 20onet.azureedge.net
 0.0.0.0 20-55-32-61.cprapid.com
+0.0.0.0 20-energy.azureedge.net
 0.0.0.0 20-interia.azureedge.net
 0.0.0.0 20-wp.azureedge.net
 0.0.0.0 21interia.azureedge.net
 0.0.0.0 21onet.azureedge.net
 0.0.0.0 21steditionnaturalgh.com
+0.0.0.0 21-energy.azureedge.net
 0.0.0.0 21-interia.azureedge.net
 0.0.0.0 22interia.azureedge.net
 0.0.0.0 22onet.azureedge.net
+0.0.0.0 22-energy.azureedge.net
 0.0.0.0 22-interia.azureedge.net
 0.0.0.0 23interia.azureedge.net
 0.0.0.0 23onet.azureedge.net
@@ -5628,9 +5648,11 @@
 0.0.0.0 24warszawa.rf.gd
 0.0.0.0 24wazne.epizy.com
 0.0.0.0 24xforex.com
+0.0.0.0 24-energy.azureedge.net
 0.0.0.0 24-fakty-info.com.pl
 0.0.0.0 24-fakt-az.pl
 0.0.0.0 24-interia.azureedge.net
+0.0.0.0 24-klarowaneinformacje.bdl.pl
 0.0.0.0 24-tvn.pl
 0.0.0.0 24.daily-news-24.com
 0.0.0.0 25interia.azureedge.net
@@ -7716,6 +7738,7 @@
 0.0.0.0 centram24.pl
 0.0.0.0 centre.ng
 0.0.0.0 centrolinguisticorobert.com
+0.0.0.0 centrum24.cc
 0.0.0.0 centrum24-app.cc
 0.0.0.0 centrum24-app.pl
 0.0.0.0 centrumplay.pl
@@ -9898,6 +9921,7 @@
 0.0.0.0 dardc0egqx057.cloudfront.net
 0.0.0.0 dardos.xyz
 0.0.0.0 darikas.com
+0.0.0.0 darikat.com
 0.0.0.0 darmowawitamina.pl
 0.0.0.0 darmowekino.pl
 0.0.0.0 darmoweogladanie.pl
@@ -10322,6 +10346,7 @@
 0.0.0.0 disordpromotlons.com
 0.0.0.0 disords.gift
 0.0.0.0 disordsnltros.com
+0.0.0.0 dispatchgoods-0.xyz
 0.0.0.0 dispatchinfo-25412.xyz
 0.0.0.0 dispensersinbidon.com.ar
 0.0.0.0 dispersers.pl
@@ -11176,6 +11201,7 @@
 0.0.0.0 energia-wypadek.waw.pl
 0.0.0.0 energikundservice.se
 0.0.0.0 energpl.xyz
+0.0.0.0 energy.azureedge.net
 0.0.0.0 energychna.site
 0.0.0.0 energyclub.xyz
 0.0.0.0 energylaandia.pl
@@ -13602,6 +13628,7 @@
 0.0.0.0 inp0st.387029twojid.beauty
 0.0.0.0 inp0st.482167plid.mom
 0.0.0.0 inp0st.5481024.xyz
+0.0.0.0 inp0st.deliverypay-1.xyz
 0.0.0.0 inp0st.dellvery-9865.xyz
 0.0.0.0 inp0st.goodsinfo-pay.xyz
 0.0.0.0 inp0st.info-32-delivery.xyz
@@ -13830,6 +13857,7 @@
 0.0.0.0 inpost-hudl.order2588322.info
 0.0.0.0 inpost-huhw.order2588322.info
 0.0.0.0 inpost-hxyl.order661100.info
+0.0.0.0 inpost-iczw.order77711902.info
 0.0.0.0 inpost-iddj.order574820.info
 0.0.0.0 inpost-ijdz.order0129501.info
 0.0.0.0 inpost-ikvr.order0912401.info
@@ -13839,6 +13867,7 @@
 0.0.0.0 inpost-isbj.order3590423.info
 0.0.0.0 inpost-i.id-9431.me
 0.0.0.0 inpost-i.id-9843.me
+0.0.0.0 inpost-jdcc.order77711902.info
 0.0.0.0 inpost-jfms.order0912401.info
 0.0.0.0 inpost-jgrl.order0912401.info
 0.0.0.0 inpost-jhcp.order0129501.info
@@ -14038,6 +14067,7 @@
 0.0.0.0 inpost-polska-bpf.ordernew124.info
 0.0.0.0 inpost-polska-bq.order9351.info
 0.0.0.0 inpost-polska-bra.order9351.info
+0.0.0.0 inpost-polska-brb.order77711902.info
 0.0.0.0 inpost-polska-bs.order125326.info
 0.0.0.0 inpost-polska-bst.order48382.info
 0.0.0.0 inpost-polska-bsu.order77711902.info
@@ -14358,6 +14388,7 @@
 0.0.0.0 inpost-polska-ujn.order2588322.info
 0.0.0.0 inpost-polska-umt.order009988.info
 0.0.0.0 inpost-polska-uqc.order48382.info
+0.0.0.0 inpost-polska-uvl.order77711902.info
 0.0.0.0 inpost-polska-uvs.order9351.info
 0.0.0.0 inpost-polska-uw.orders0094.info
 0.0.0.0 inpost-polska-uye.order0129501.info
@@ -14542,12 +14573,14 @@
 0.0.0.0 inpost-yazh.order912412.info
 0.0.0.0 inpost-yszk.order48382.info
 0.0.0.0 inpost-ywkn.order2588322.info
+0.0.0.0 inpost-zagc.order49125120.info
 0.0.0.0 inpost-zamowienie.pl
 0.0.0.0 inpost-zapz.order0912401.info
 0.0.0.0 inpost-zbkv.order9351.info
 0.0.0.0 inpost-zdxr.order0129501.info
 0.0.0.0 inpost-zjgt.order77711902.info
 0.0.0.0 inpost-zlsv.order0912401.info
+0.0.0.0 inpost-znye.order77711902.info
 0.0.0.0 inpost-zpiu.order161516.info
 0.0.0.0 inpost-zpnq.order161516.info
 0.0.0.0 inpost-zukf.order12561361.info
@@ -15003,6 +15036,7 @@
 0.0.0.0 in-post.formationdeljvery.xyz
 0.0.0.0 in-post.id759466.pw
 0.0.0.0 in-post.us
+0.0.0.0 in-post.zamow751308.beauty
 0.0.0.0 in-post-senddata.xyz
 0.0.0.0 in-post.837269plid.pics
 0.0.0.0 in-prog.alxprogs.xyz
@@ -18124,6 +18158,7 @@
 0.0.0.0 obrot-pge.online
 0.0.0.0 obrot-pge.today
 0.0.0.0 obrzydliwyhop.site
+0.0.0.0 obscene-canisters.000webhostapp.com
 0.0.0.0 observatoriofieg.com.br
 0.0.0.0 obserward.xyz
 0.0.0.0 obslugakelnerska20.wixsite.com
@@ -23422,6 +23457,7 @@
 0.0.0.0 steersmensake.com
 0.0.0.0 stefaniakl.pl
 0.0.0.0 stefaniehoefer.pl
+0.0.0.0 steklmen-xyz.preview-domain.com
 0.0.0.0 stemcommnunilty.com
 0.0.0.0 stenakol-com.preview-domain.com
 0.0.0.0 steranazgareaga.ml
@@ -27614,6 +27650,7 @@
 0.0.0.0 www.centram24.pl
 0.0.0.0 www.centre.ng
 0.0.0.0 www.centrolinguisticorobert.com
+0.0.0.0 www.centrum24.cc
 0.0.0.0 www.centrumplay.pl
 0.0.0.0 www.cepolska.xyz
 0.0.0.0 www.cepventi.com
@@ -29498,6 +29535,7 @@
 0.0.0.0 www.dardc0egqx057.cloudfront.net
 0.0.0.0 www.dardos.xyz
 0.0.0.0 www.darikas.com
+0.0.0.0 www.darikat.com
 0.0.0.0 www.darmowawitamina.pl
 0.0.0.0 www.darmowekino.pl
 0.0.0.0 www.darmoweogladanie.pl
@@ -30440,6 +30478,7 @@
 0.0.0.0 www.energylandiaa.waw.pl
 0.0.0.0 www.energylandia.waw.pl
 0.0.0.0 www.energyrozrwyka.awesomeerictech.com
+0.0.0.0 www.energy.azureedge.net
 0.0.0.0 www.enerreplo.online
 0.0.0.0 www.enerreplo.site
 0.0.0.0 www.enerreplo.space
@@ -39469,6 +39508,7 @@
 0.0.0.0 www.01x.cargodelivery-inform.xyz
 0.0.0.0 www.01x.user-sendproduct.xyz
 0.0.0.0 www.1z309-urps.co
+0.0.0.0 www.1-energy.azureedge.net
 0.0.0.0 www.1-interia.azureedge.net
 0.0.0.0 www.1-onet.azureedge.net
 0.0.0.0 www.1-pl.truoutlpl24.site
@@ -39489,6 +39529,7 @@
 0.0.0.0 www.2supermocna-tasma-klejaca-pl.com
 0.0.0.0 www.2uts.com
 0.0.0.0 www.2xsms.xyz
+0.0.0.0 www.2-energy.azureedge.net
 0.0.0.0 www.2-interia.azureedge.net
 0.0.0.0 www.2-onet.azureedge.net
 0.0.0.0 www.2-remove-virus.com
@@ -39507,6 +39548,7 @@
 0.0.0.0 www.3w2k701z6i94wgr.choobin-co.ir
 0.0.0.0 www.3xsms.xyz
 0.0.0.0 www.3-139-92-223.cprapid.com
+0.0.0.0 www.3-energy.azureedge.net
 0.0.0.0 www.3-interia.azureedge.net
 0.0.0.0 www.3-onet.azureedge.net
 0.0.0.0 www.3-wp.azureedge.net
@@ -39521,6 +39563,7 @@
 0.0.0.0 www.4onet.azureedge.net
 0.0.0.0 www.4po5zg-bit.com
 0.0.0.0 www.4ricardo.xyz
+0.0.0.0 www.4-energy.azureedge.net
 0.0.0.0 www.4-interia.azureedge.net
 0.0.0.0 www.4-onet.azureedge.net
 0.0.0.0 www.4-wp.azureedge.net
@@ -39533,6 +39576,7 @@
 0.0.0.0 www.5sms.xyz
 0.0.0.0 www.5tysiecy.pl
 0.0.0.0 www.05yzb-upqs.us
+0.0.0.0 www.5-energy.azureedge.net
 0.0.0.0 www.5-interia.azureedge.net
 0.0.0.0 www.5-onet.azureedge.net
 0.0.0.0 www.5-wp.azureedge.net
@@ -39543,6 +39587,7 @@
 0.0.0.0 www.6sms.in
 0.0.0.0 www.6sms.pw
 0.0.0.0 www.6sms.xyz
+0.0.0.0 www.6-energy.azureedge.net
 0.0.0.0 www.6-interia.azureedge.net
 0.0.0.0 www.6-onet.azureedge.net
 0.0.0.0 www.6-wp.azureedge.net
@@ -39555,6 +39600,7 @@
 0.0.0.0 www.07sms.xyz
 0.0.0.0 www.7sms.pw
 0.0.0.0 www.7sms.xyz
+0.0.0.0 www.7-energy.azureedge.net
 0.0.0.0 www.7-interia.azureedge.net
 0.0.0.0 www.7-onet.azureedge.net
 0.0.0.0 www.7-wp.azureedge.net
@@ -39565,6 +39611,7 @@
 0.0.0.0 www.8sms.in
 0.0.0.0 www.8sms.pw
 0.0.0.0 www.8sms.xyz
+0.0.0.0 www.8-energy.azureedge.net
 0.0.0.0 www.8-interia.azureedge.net
 0.0.0.0 www.8-onet.azureedge.net
 0.0.0.0 www.8-shipmentcargo.xyz
@@ -39577,6 +39624,7 @@
 0.0.0.0 www.9onet.azureedge.net
 0.0.0.0 www.09sms.in
 0.0.0.0 www.9sms.xyz
+0.0.0.0 www.9-energy.azureedge.net
 0.0.0.0 www.9-interia.azureedge.net
 0.0.0.0 www.9-onet.azureedge.net
 0.0.0.0 www.9-wp.azureedge.net
@@ -39590,22 +39638,27 @@
 0.0.0.0 www.11onet.azureedge.net
 0.0.0.0 www.11shots.com
 0.0.0.0 www.11sms.xyz
+0.0.0.0 www.11-energy.azureedge.net
 0.0.0.0 www.11-interia.azureedge.net
 0.0.0.0 www.11-wp.azureedge.net
 0.0.0.0 www.12interia.azureedge.net
 0.0.0.0 www.12onet.azureedge.net
+0.0.0.0 www.12-energy.azureedge.net
 0.0.0.0 www.12-interia.azureedge.net
 0.0.0.0 www.12-wp.azureedge.net
 0.0.0.0 www.13interia.azureedge.net
 0.0.0.0 www.13onet.azureedge.net
+0.0.0.0 www.13-energy.azureedge.net
 0.0.0.0 www.13-interia.azureedge.net
 0.0.0.0 www.13-wp.azureedge.net
 0.0.0.0 www.14interia.azureedge.net
 0.0.0.0 www.14onet.azureedge.net
+0.0.0.0 www.14-energy.azureedge.net
 0.0.0.0 www.14-interia.azureedge.net
 0.0.0.0 www.14-wp.azureedge.net
 0.0.0.0 www.15interia.azureedge.net
 0.0.0.0 www.15onet.azureedge.net
+0.0.0.0 www.15-energy.azureedge.net
 0.0.0.0 www.15-interia.azureedge.net
 0.0.0.0 www.15-wp.azureedge.net
 0.0.0.0 www.16interia.azureedge.net
@@ -39614,27 +39667,33 @@
 0.0.0.0 www.16-wp.azureedge.net
 0.0.0.0 www.17interia.azureedge.net
 0.0.0.0 www.17onet.azureedge.net
+0.0.0.0 www.17-energy.azureedge.net
 0.0.0.0 www.17-interia.azureedge.net
 0.0.0.0 www.17-wp.azureedge.net
 0.0.0.0 www.18interia.azureedge.net
 0.0.0.0 www.18onet.azureedge.net
+0.0.0.0 www.18-energy.azureedge.net
 0.0.0.0 www.18-interia.azureedge.net
 0.0.0.0 www.18-wp.azureedge.net
 0.0.0.0 www.19interia.azureedge.net
 0.0.0.0 www.19onet.azureedge.net
+0.0.0.0 www.19-energy.azureedge.net
 0.0.0.0 www.19-interia.azureedge.net
 0.0.0.0 www.19-wp.azureedge.net
 0.0.0.0 www.20interia.azureedge.net
 0.0.0.0 www.20onet.azureedge.net
 0.0.0.0 www.20-55-32-61.cprapid.com
+0.0.0.0 www.20-energy.azureedge.net
 0.0.0.0 www.20-interia.azureedge.net
 0.0.0.0 www.20-wp.azureedge.net
 0.0.0.0 www.21interia.azureedge.net
 0.0.0.0 www.21onet.azureedge.net
 0.0.0.0 www.21steditionnaturalgh.com
+0.0.0.0 www.21-energy.azureedge.net
 0.0.0.0 www.21-interia.azureedge.net
 0.0.0.0 www.22interia.azureedge.net
 0.0.0.0 www.22onet.azureedge.net
+0.0.0.0 www.22-energy.azureedge.net
 0.0.0.0 www.22-interia.azureedge.net
 0.0.0.0 www.23interia.azureedge.net
 0.0.0.0 www.23onet.azureedge.net
@@ -39660,9 +39719,11 @@
 0.0.0.0 www.24warszawa.rf.gd
 0.0.0.0 www.24wazne.epizy.com
 0.0.0.0 www.24xforex.com
+0.0.0.0 www.24-energy.azureedge.net
 0.0.0.0 www.24-fakty-info.com.pl
 0.0.0.0 www.24-fakt-az.pl
 0.0.0.0 www.24-interia.azureedge.net
+0.0.0.0 www.24-klarowaneinformacje.bdl.pl
 0.0.0.0 www.24-tvn.pl
 0.0.0.0 www.24.daily-news-24.com
 0.0.0.0 www.25interia.azureedge.net
@@ -40808,6 +40869,7 @@
 0.0.0.0 www.discord.moderator-verify.repl.co
 0.0.0.0 www.discord.moderator--academy.repl.co
 0.0.0.0 www.discrord-nitr.ru
+0.0.0.0 www.dispatchgoods-0.xyz
 0.0.0.0 www.dispatchinfo-25412.xyz
 0.0.0.0 www.disrcod-drop.com
 0.0.0.0 www.distracted-babbage-7a44a8.netlify.app
@@ -41889,6 +41951,7 @@
 0.0.0.0 www.inp0st.387029twojid.beauty
 0.0.0.0 www.inp0st.482167plid.mom
 0.0.0.0 www.inp0st.5481024.xyz
+0.0.0.0 www.inp0st.deliverypay-1.xyz
 0.0.0.0 www.inp0st.dellvery-9865.xyz
 0.0.0.0 www.inp0st.goodsinfo-pay.xyz
 0.0.0.0 www.inp0st.info-32-delivery.xyz
@@ -42001,6 +42064,7 @@
 0.0.0.0 www.inpost-hudl.order2588322.info
 0.0.0.0 www.inpost-huhw.order2588322.info
 0.0.0.0 www.inpost-hxyl.order661100.info
+0.0.0.0 www.inpost-iczw.order77711902.info
 0.0.0.0 www.inpost-iddj.order574820.info
 0.0.0.0 www.inpost-ijdz.order0129501.info
 0.0.0.0 www.inpost-ikvr.order0912401.info
@@ -42010,6 +42074,7 @@
 0.0.0.0 www.inpost-isbj.order3590423.info
 0.0.0.0 www.inpost-i.id-9431.me
 0.0.0.0 www.inpost-i.id-9843.me
+0.0.0.0 www.inpost-jdcc.order77711902.info
 0.0.0.0 www.inpost-jfms.order0912401.info
 0.0.0.0 www.inpost-jgrl.order0912401.info
 0.0.0.0 www.inpost-jhcp.order0129501.info
@@ -42209,6 +42274,7 @@
 0.0.0.0 www.inpost-polska-bpf.ordernew124.info
 0.0.0.0 www.inpost-polska-bq.order9351.info
 0.0.0.0 www.inpost-polska-bra.order9351.info
+0.0.0.0 www.inpost-polska-brb.order77711902.info
 0.0.0.0 www.inpost-polska-bs.order125326.info
 0.0.0.0 www.inpost-polska-bst.order48382.info
 0.0.0.0 www.inpost-polska-bsu.order77711902.info
@@ -42529,6 +42595,7 @@
 0.0.0.0 www.inpost-polska-ujn.order2588322.info
 0.0.0.0 www.inpost-polska-umt.order009988.info
 0.0.0.0 www.inpost-polska-uqc.order48382.info
+0.0.0.0 www.inpost-polska-uvl.order77711902.info
 0.0.0.0 www.inpost-polska-uvs.order9351.info
 0.0.0.0 www.inpost-polska-uw.orders0094.info
 0.0.0.0 www.inpost-polska-uye.order0129501.info
@@ -42713,12 +42780,14 @@
 0.0.0.0 www.inpost-yazh.order912412.info
 0.0.0.0 www.inpost-yszk.order48382.info
 0.0.0.0 www.inpost-ywkn.order2588322.info
+0.0.0.0 www.inpost-zagc.order49125120.info
 0.0.0.0 www.inpost-zamowienie.pl
 0.0.0.0 www.inpost-zapz.order0912401.info
 0.0.0.0 www.inpost-zbkv.order9351.info
 0.0.0.0 www.inpost-zdxr.order0129501.info
 0.0.0.0 www.inpost-zjgt.order77711902.info
 0.0.0.0 www.inpost-zlsv.order0912401.info
+0.0.0.0 www.inpost-znye.order77711902.info
 0.0.0.0 www.inpost-zpiu.order161516.info
 0.0.0.0 www.inpost-zpnq.order161516.info
 0.0.0.0 www.inpost-zukf.order12561361.info
@@ -43062,6 +43131,7 @@
 0.0.0.0 www.in-post.formationdeljvery.xyz
 0.0.0.0 www.in-post.id759466.pw
 0.0.0.0 www.in-post.us
+0.0.0.0 www.in-post.zamow751308.beauty
 0.0.0.0 www.in-post-senddata.xyz
 0.0.0.0 www.in-post.837269plid.pics
 0.0.0.0 www.in-prog.alxprogs.xyz
@@ -44125,6 +44195,7 @@
 0.0.0.0 www.obrot-pge.fyi
 0.0.0.0 www.obrot-pge.online
 0.0.0.0 www.obrot-pge.today
+0.0.0.0 www.obscene-canisters.000webhostapp.com
 0.0.0.0 www.obywatel-rp24.pl
 0.0.0.0 www.ochronakonta-mbank.com
 0.0.0.0 www.octopus-concierge.com
@@ -46498,6 +46569,7 @@
 0.0.0.0 www.steam-sourcegame.xyz
 0.0.0.0 www.steam-wallet-gifts.com
 0.0.0.0 www.steam-wallet-money.com
+0.0.0.0 www.steklmen-xyz.preview-domain.com
 0.0.0.0 www.stenakol-com.preview-domain.com
 0.0.0.0 www.stop-szczepionkom.waw.pl
 0.0.0.0 www.stop-zylakom.com
@@ -47681,6 +47753,7 @@
 0.0.0.0 www.x-system.xyz
 0.0.0.0 www.x-zdjecia.cleverapps.io
 0.0.0.0 www.yahoo-login.com.tilda.ws
+0.0.0.0 www.yangola-uno.preview-domain.com
 0.0.0.0 www.yangqi-miss.com
 0.0.0.0 www.yeatron-com.preview-domain.com
 0.0.0.0 www.yerbaa-sklep.com.pl
@@ -48075,6 +48148,7 @@
 0.0.0.0 yakari.id
 0.0.0.0 yallafreelancers.com
 0.0.0.0 yamayaku.com
+0.0.0.0 yangola-uno.preview-domain.com
 0.0.0.0 yangqi-miss.com
 0.0.0.0 yanks.trade
 0.0.0.0 yaoqing.yz049.com
