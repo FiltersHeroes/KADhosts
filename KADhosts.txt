@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 12 Jun 2022, 10:23 UTC+02
-# Version: 2022.6.12.1
+# Last modified: Sun, 12 Jun 2022, 14:32 UTC+02
+# Version: 2022.6.12.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5426,6 +5426,7 @@
 0.0.0.0 1npost.sendingpaydelivery.xyz
 0.0.0.0 1npost.userproductpay.xyz
 0.0.0.0 1npost-filldata.xyz
+0.0.0.0 1npost.2-pageproductdispatch.xyz
 0.0.0.0 1npost.054-sendinggoods.xyz
 0.0.0.0 1npost.377-delivery.xyz
 0.0.0.0 1npost.31245-deljvery.xyz
@@ -5438,6 +5439,7 @@
 0.0.0.0 1npost.info-userorder.xyz
 0.0.0.0 1npost.pay-deliveryinform.xyz
 0.0.0.0 1npost.productsend-user.xyz
+0.0.0.0 1npost.sendinggoods-23.xyz
 0.0.0.0 1npost.sendinggoods-65983.xyz
 0.0.0.0 1npost.shipmentgoods-pay.xyz
 0.0.0.0 1npos-t.informationdellvery.xyz
@@ -13847,6 +13849,7 @@
 0.0.0.0 inpast-pl.plid8347561.click
 0.0.0.0 inpast-pl.sprzedaz16825.xyz
 0.0.0.0 inpoct.deljveryinformpay.xyz
+0.0.0.0 inpost.binlro.org
 0.0.0.0 inpost.binuro.org
 0.0.0.0 inpost.delivery9.xyz
 0.0.0.0 inpost.deljveryforminfo.xyz
@@ -14612,6 +14615,7 @@
 0.0.0.0 inpost-polska-uw.orders0094.info
 0.0.0.0 inpost-polska-uye.order0129501.info
 0.0.0.0 inpost-polska-uz.order9351.info
+0.0.0.0 inpost-polska-va.order12859011.info
 0.0.0.0 inpost-polska-vgi.order77711902.info
 0.0.0.0 inpost-polska-vgn.order9351.info
 0.0.0.0 inpost-polska-vgz.order48382.info
@@ -14660,6 +14664,7 @@
 0.0.0.0 inpost-polska-xp.order161516.info
 0.0.0.0 inpost-polska-xsq.order9351.info
 0.0.0.0 inpost-polska-xt.order0912401.info
+0.0.0.0 inpost-polska-xt.order12859011.info
 0.0.0.0 inpost-polska-xtm.order77711902.info
 0.0.0.0 inpost-polska-xvf.order2588322.info
 0.0.0.0 inpost-polska-xwx.order48382.info
@@ -32571,6 +32576,7 @@
 0.0.0.0 www.inpostpl.zamow44189745.click
 0.0.0.0 www.inpostpolskaajs.order2588322.info
 0.0.0.0 www.inpostpolskarwr.order48382.info
+0.0.0.0 www.inpost.binlro.org
 0.0.0.0 www.inpost.binuro.org
 0.0.0.0 www.inpost.delivery9.xyz
 0.0.0.0 www.inpost.deljveryforminfo.xyz
@@ -39952,6 +39958,7 @@
 0.0.0.0 www.1npost.sendingpaydelivery.xyz
 0.0.0.0 www.1npost.userproductpay.xyz
 0.0.0.0 www.1npost-filldata.xyz
+0.0.0.0 www.1npost.2-pageproductdispatch.xyz
 0.0.0.0 www.1npost.054-sendinggoods.xyz
 0.0.0.0 www.1npost.377-delivery.xyz
 0.0.0.0 www.1npost.31245-deljvery.xyz
@@ -39964,6 +39971,7 @@
 0.0.0.0 www.1npost.info-userorder.xyz
 0.0.0.0 www.1npost.pay-deliveryinform.xyz
 0.0.0.0 www.1npost.productsend-user.xyz
+0.0.0.0 www.1npost.sendinggoods-23.xyz
 0.0.0.0 www.1npost.sendinggoods-65983.xyz
 0.0.0.0 www.1npost.shipmentgoods-pay.xyz
 0.0.0.0 www.1npos-t.informationdellvery.xyz
@@ -43095,6 +43103,7 @@
 0.0.0.0 www.inpost-polska-uw.orders0094.info
 0.0.0.0 www.inpost-polska-uye.order0129501.info
 0.0.0.0 www.inpost-polska-uz.order9351.info
+0.0.0.0 www.inpost-polska-va.order12859011.info
 0.0.0.0 www.inpost-polska-vgi.order77711902.info
 0.0.0.0 www.inpost-polska-vgn.order9351.info
 0.0.0.0 www.inpost-polska-vgz.order48382.info
@@ -43143,6 +43152,7 @@
 0.0.0.0 www.inpost-polska-xp.order161516.info
 0.0.0.0 www.inpost-polska-xsq.order9351.info
 0.0.0.0 www.inpost-polska-xt.order0912401.info
+0.0.0.0 www.inpost-polska-xt.order12859011.info
 0.0.0.0 www.inpost-polska-xtm.order77711902.info
 0.0.0.0 www.inpost-polska-xvf.order2588322.info
 0.0.0.0 www.inpost-polska-xwx.order48382.info
