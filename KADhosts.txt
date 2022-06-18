@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 18 Jun 2022, 18:27 UTC+02
-# Version: 2022.6.18.2
+# Last modified: Sat, 18 Jun 2022, 22:20 UTC+02
+# Version: 2022.6.18.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5366,6 +5366,7 @@
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0boronka.xyz
+0.0.0.0 0ix-shoping41.45864234.xyz
 0.0.0.0 0lx.deljveryinfopay.xyz
 0.0.0.0 0lx.formpaydispatchcargo.xyz
 0.0.0.0 0lx.formshipmentpage.xyz
@@ -6384,8 +6385,11 @@
 0.0.0.0 amstronkop.site
 0.0.0.0 amunelfihou.ml
 0.0.0.0 amu-edu-pl.ew.r.appspot.com
+0.0.0.0 amvoa.pl
 0.0.0.0 amvoaaq.pl
 0.0.0.0 amvoaq.pl
+0.0.0.0 amvooa.pl
+0.0.0.0 amvvoaq.pl
 0.0.0.0 amyzucchero.org
 0.0.0.0 amzstudy.com
 0.0.0.0 an104an.prog-capital6.site
@@ -10295,6 +10299,7 @@
 0.0.0.0 diidwhkvxmmpq.cloudfront.net
 0.0.0.0 diksis.com
 0.0.0.0 dilalla.com.ar
+0.0.0.0 dileveryshop32.105423458.xyz
 0.0.0.0 dilmapolypreen.com
 0.0.0.0 dilscord-gg.com
 0.0.0.0 dilscord-gifts.com
@@ -11620,6 +11625,9 @@
 0.0.0.0 facebook-com-play.pl
 0.0.0.0 facebook-com.page-pl.xyz
 0.0.0.0 facebook-filmy.pl
+0.0.0.0 facebook-issues26.tk
+0.0.0.0 facebook-issues35.tk
+0.0.0.0 facebook-issues51.tk
 0.0.0.0 facebook-issues73.tk
 0.0.0.0 facebook-l.pl
 0.0.0.0 facebook-live24.eu
@@ -12224,6 +12232,7 @@
 0.0.0.0 forgivian.top
 0.0.0.0 formerprosecutors.org
 0.0.0.0 forms-from-hypeteams-event.com
+0.0.0.0 forms-hypesquad-svents.com
 0.0.0.0 forms-hypesquad-teams.com
 0.0.0.0 forms-hype-team.com
 0.0.0.0 forms-hype-teams.com
@@ -12637,6 +12646,7 @@
 0.0.0.0 glosmiasta.mazowsze.pl
 0.0.0.0 glosmiasta.org.pl
 0.0.0.0 glosowanie-like.eu
+0.0.0.0 glosowanie-oddaj.eu
 0.0.0.0 glosowanie-udzial.eu
 0.0.0.0 glosowanie-warszawa.microhost.com.pl
 0.0.0.0 glosowe-roszady.eu
@@ -13289,6 +13299,7 @@
 0.0.0.0 hypesquad-trial.com
 0.0.0.0 hypesquad.invite-form-us.repl.co
 0.0.0.0 hypeteam-2022.com
+0.0.0.0 hypeteam-invite.gq
 0.0.0.0 hyphemiasstrokes.pl
 0.0.0.0 hysoncorolla.xyz
 0.0.0.0 hyut.000webhostapp.com
@@ -14139,6 +14150,7 @@
 0.0.0.0 inpost-hfgh.order0912401.info
 0.0.0.0 inpost-hhke.id-4365.me
 0.0.0.0 inpost-hndc.order3590423.info
+0.0.0.0 inpost-hpwc.orders23441.info
 0.0.0.0 inpost-hudl.order2588322.info
 0.0.0.0 inpost-huhw.order2588322.info
 0.0.0.0 inpost-hxyl.order661100.info
@@ -14342,6 +14354,7 @@
 0.0.0.0 inpost-polska-ag.orders23441.info
 0.0.0.0 inpost-polska-ah.order125326.info
 0.0.0.0 inpost-polska-ahl.order912412.info
+0.0.0.0 inpost-polska-ahl.orders23441.info
 0.0.0.0 inpost-polska-am.order77711902.info
 0.0.0.0 inpost-polska-amk.order77711902.info
 0.0.0.0 inpost-polska-aom.order77711902.info
@@ -14372,6 +14385,7 @@
 0.0.0.0 inpost-polska-bvn.order912412.info
 0.0.0.0 inpost-polska-bw.order692612.info
 0.0.0.0 inpost-polska-bwb.order887766.info
+0.0.0.0 inpost-polska-bx.orders23441.info
 0.0.0.0 inpost-polska-byg.order9512951.info
 0.0.0.0 inpost-polska-ca.order912412.info
 0.0.0.0 inpost-polska-car.orders091.info
@@ -18827,6 +18841,16 @@
 0.0.0.0 olunikas.pl
 0.0.0.0 olx.dellivers.info
 0.0.0.0 olx.dellivery.su
+0.0.0.0 olx.dostawa23535.top
+0.0.0.0 olx.dostawa53453.top
+0.0.0.0 olx.dostawa56324.top
+0.0.0.0 olx.dostawa65754.top
+0.0.0.0 olx.dostawa77324.top
+0.0.0.0 olx.dostawa84395.top
+0.0.0.0 olx.dostawac73273.top
+0.0.0.0 olx.dostawac92344.top
+0.0.0.0 olx.dostawac93283.top
+0.0.0.0 olx.dostawac98253.top
 0.0.0.0 olx.dostawkafpl.cyou
 0.0.0.0 olx.dostawkafpl.me
 0.0.0.0 olx.dostawkafpl.shop
@@ -21543,6 +21567,7 @@
 0.0.0.0 pomoc212.waw.pl
 0.0.0.0 pomoc3555.waw.pl
 0.0.0.0 pomoc3773.waw.pl
+0.0.0.0 pomoc-konkursowa.eu
 0.0.0.0 pomoc-organizuj.eu
 0.0.0.0 pomoc.techniczna-olx.com
 0.0.0.0 pomokale.site
@@ -22241,6 +22266,7 @@
 0.0.0.0 publicystyka.eu
 0.0.0.0 publiczny-calosc.site
 0.0.0.0 publikacjapowodz.site
+0.0.0.0 puchary-zdobywaj.eu
 0.0.0.0 pudelek-onet-59022208346.azureedge.net
 0.0.0.0 pudelek-onet-71862775213.azureedge.net
 0.0.0.0 pudelek-onet-82162019583.azureedge.net
@@ -24053,9 +24079,12 @@
 0.0.0.0 sub254.intproject.xyz
 0.0.0.0 sub255.trdepl.xyz
 0.0.0.0 sub256.trdepl.xyz
+0.0.0.0 sub258.trdepl.xyz
+0.0.0.0 sub259.trdepl.xyz
 0.0.0.0 subcommi.xyz
 0.0.0.0 subjacentlydoctrine.com
 0.0.0.0 sublimationpillowcases.com
+0.0.0.0 subscription-hypesquad-2022.com
 0.0.0.0 subscription-pay.platkontotv.co.pl
 0.0.0.0 subscription-pay.tvshowapp.cam
 0.0.0.0 subscription-pay.tvshowart.co.pl
@@ -25875,6 +25904,7 @@
 0.0.0.0 vjnted-pi.perw024853q.pics
 0.0.0.0 vjnted-pl.getpayespoland.xyz
 0.0.0.0 vjnted-pl.getpayspoland.xyz
+0.0.0.0 vjnted-pl.getplgktr.top
 0.0.0.0 vjnted-polsca.balafijadek945.store
 0.0.0.0 vjnted-polsca.banking9994.xyz
 0.0.0.0 vjnted-polsca.bornajerlfudnerolk.pics
@@ -26821,6 +26851,7 @@
 0.0.0.0 wszedziejestesmy.pl
 0.0.0.0 wszedzietojest.eu
 0.0.0.0 wszedzie-jestesmy.pl
+0.0.0.0 wszyscy-nagrodzeni.eu
 0.0.0.0 wszystkie-albo.eu
 0.0.0.0 wszystko-problem.eu
 0.0.0.0 wtorkowe-informacje.waw.pl
@@ -27215,6 +27246,9 @@
 0.0.0.0 www.amunelfihou.ml
 0.0.0.0 www.amvoaaq.pl
 0.0.0.0 www.amvoaq.pl
+0.0.0.0 www.amvoa.pl
+0.0.0.0 www.amvooa.pl
+0.0.0.0 www.amvvoaq.pl
 0.0.0.0 www.amyzucchero.org
 0.0.0.0 www.amzstudy.com
 0.0.0.0 www.anabim.com
@@ -35211,6 +35245,16 @@
 0.0.0.0 www.olxpoland.cc
 0.0.0.0 www.olx.dellivers.info
 0.0.0.0 www.olx.dellivery.su
+0.0.0.0 www.olx.dostawa23535.top
+0.0.0.0 www.olx.dostawa53453.top
+0.0.0.0 www.olx.dostawa56324.top
+0.0.0.0 www.olx.dostawa65754.top
+0.0.0.0 www.olx.dostawa77324.top
+0.0.0.0 www.olx.dostawa84395.top
+0.0.0.0 www.olx.dostawac73273.top
+0.0.0.0 www.olx.dostawac92344.top
+0.0.0.0 www.olx.dostawac93283.top
+0.0.0.0 www.olx.dostawac98253.top
 0.0.0.0 www.olx.dostawkafpl.cyou
 0.0.0.0 www.olx.dostawkafpl.me
 0.0.0.0 www.olx.dostawkafpl.shop
@@ -38052,6 +38096,8 @@
 0.0.0.0 www.sub254.intproject.xyz
 0.0.0.0 www.sub255.trdepl.xyz
 0.0.0.0 www.sub256.trdepl.xyz
+0.0.0.0 www.sub258.trdepl.xyz
+0.0.0.0 www.sub259.trdepl.xyz
 0.0.0.0 www.subcommi.xyz
 0.0.0.0 www.subjacentlydoctrine.com
 0.0.0.0 www.sublimationpillowcases.com
@@ -40187,6 +40233,7 @@
 0.0.0.0 www-rovblox.com
 0.0.0.0 www.0b8cc331813049912.temporary.link
 0.0.0.0 www.0boronka.xyz
+0.0.0.0 www.0ix-shoping41.45864234.xyz
 0.0.0.0 www.0lx.deljveryinfopay.xyz
 0.0.0.0 www.0lx.formpaydispatchcargo.xyz
 0.0.0.0 www.0lx.formshipmentpage.xyz
@@ -41607,6 +41654,7 @@
 0.0.0.0 www.digital-dream.fun
 0.0.0.0 www.digital-dream.host
 0.0.0.0 www.digital-dream.site
+0.0.0.0 www.dileveryshop32.105423458.xyz
 0.0.0.0 www.dilscord-gg.com
 0.0.0.0 www.dilscord-gifts.com
 0.0.0.0 www.dinerox-com.preview-domain.com
@@ -41998,6 +42046,9 @@
 0.0.0.0 www.facebook-com-play.pl
 0.0.0.0 www.facebook-com.page-pl.xyz
 0.0.0.0 www.facebook-filmy.pl
+0.0.0.0 www.facebook-issues26.tk
+0.0.0.0 www.facebook-issues35.tk
+0.0.0.0 www.facebook-issues51.tk
 0.0.0.0 www.facebook-issues73.tk
 0.0.0.0 www.facebook-l.pl
 0.0.0.0 www.facebook-live24.eu
@@ -42163,6 +42214,7 @@
 0.0.0.0 www.food-voucher.com
 0.0.0.0 www.foresig-market.biz
 0.0.0.0 www.forms-from-hypeteams-event.com
+0.0.0.0 www.forms-hypesquad-svents.com
 0.0.0.0 www.forms-hypesquad-teams.com
 0.0.0.0 www.forms-hype-team.com
 0.0.0.0 www.forms-hype-teams.com
@@ -42299,6 +42351,7 @@
 0.0.0.0 www.glob-markets.net
 0.0.0.0 www.glob-markets.pro
 0.0.0.0 www.glosowanie-like.eu
+0.0.0.0 www.glosowanie-oddaj.eu
 0.0.0.0 www.glosowanie-udzial.eu
 0.0.0.0 www.glosowanie-warszawa.microhost.com.pl
 0.0.0.0 www.glosowe-roszady.eu
@@ -42497,6 +42550,7 @@
 0.0.0.0 www.hypesquad-trial.com
 0.0.0.0 www.hypesquad.invite-form-us.repl.co
 0.0.0.0 www.hypeteam-2022.com
+0.0.0.0 www.hypeteam-invite.gq
 0.0.0.0 www.hyut.000webhostapp.com
 0.0.0.0 www.i1xrl5-upqs.co
 0.0.0.0 www.ibmjp54.s3.jp-tok.cloud-object-storage.appdomain.cloud
@@ -42890,6 +42944,7 @@
 0.0.0.0 www.inpost-hfgh.order0912401.info
 0.0.0.0 www.inpost-hhke.id-4365.me
 0.0.0.0 www.inpost-hndc.order3590423.info
+0.0.0.0 www.inpost-hpwc.orders23441.info
 0.0.0.0 www.inpost-hudl.order2588322.info
 0.0.0.0 www.inpost-huhw.order2588322.info
 0.0.0.0 www.inpost-hxyl.order661100.info
@@ -43093,6 +43148,7 @@
 0.0.0.0 www.inpost-polska-ag.orders23441.info
 0.0.0.0 www.inpost-polska-ah.order125326.info
 0.0.0.0 www.inpost-polska-ahl.order912412.info
+0.0.0.0 www.inpost-polska-ahl.orders23441.info
 0.0.0.0 www.inpost-polska-am.order77711902.info
 0.0.0.0 www.inpost-polska-amk.order77711902.info
 0.0.0.0 www.inpost-polska-aom.order77711902.info
@@ -43123,6 +43179,7 @@
 0.0.0.0 www.inpost-polska-bvn.order912412.info
 0.0.0.0 www.inpost-polska-bw.order692612.info
 0.0.0.0 www.inpost-polska-bwb.order887766.info
+0.0.0.0 www.inpost-polska-bx.orders23441.info
 0.0.0.0 www.inpost-polska-byg.order9512951.info
 0.0.0.0 www.inpost-polska-ca.order912412.info
 0.0.0.0 www.inpost-polska-car.orders091.info
@@ -46752,6 +46809,7 @@
 0.0.0.0 www.pomagam-pl.online
 0.0.0.0 www.pomagam-pl.site
 0.0.0.0 www.pomagam-zx.eu
+0.0.0.0 www.pomoc-konkursowa.eu
 0.0.0.0 www.pomoc-organizuj.eu
 0.0.0.0 www.pomoc.techniczna-olx.com
 0.0.0.0 www.pomomento-com.preview-domain.com
@@ -47109,6 +47167,7 @@
 0.0.0.0 www.ptrn-life.xyz
 0.0.0.0 www.ptr.st6-investprog.site
 0.0.0.0 www.publiczny-calosc.site
+0.0.0.0 www.puchary-zdobywaj.eu
 0.0.0.0 www.pudelek-onet-59022208346.azureedge.net
 0.0.0.0 www.pudelek-onet-71862775213.azureedge.net
 0.0.0.0 www.pudelek-onet-82162019583.azureedge.net
@@ -47604,6 +47663,7 @@
 0.0.0.0 www.sub177.4ane.site
 0.0.0.0 www.sub179.4ane.site
 0.0.0.0 www.sub229.en-bitkoinprosystem.xyz
+0.0.0.0 www.subscription-hypesquad-2022.com
 0.0.0.0 www.subscription-pay.platkontotv.co.pl
 0.0.0.0 www.subscription-pay.tvshowapp.cam
 0.0.0.0 www.subscription-pay.tvshowart.co.pl
@@ -48243,6 +48303,7 @@
 0.0.0.0 www.vjnted-pi.perw024853q.pics
 0.0.0.0 www.vjnted-pl.getpayespoland.xyz
 0.0.0.0 www.vjnted-pl.getpayspoland.xyz
+0.0.0.0 www.vjnted-pl.getplgktr.top
 0.0.0.0 www.vjnted-polsca.balafijadek945.store
 0.0.0.0 www.vjnted-polsca.banking9994.xyz
 0.0.0.0 www.vjnted-polsca.bornajerlfudnerolk.pics
@@ -48680,6 +48741,7 @@
 0.0.0.0 www.wspomnic-trzeba.eu
 0.0.0.0 www.wsrod-zaginionych.eu
 0.0.0.0 www.wszedzie-jestesmy.pl
+0.0.0.0 www.wszyscy-nagrodzeni.eu
 0.0.0.0 www.wszystkie-albo.eu
 0.0.0.0 www.wszystko-problem.eu
 0.0.0.0 www.wtorkowe-informacje.waw.pl
@@ -48689,6 +48751,7 @@
 0.0.0.0 www.wybieranie-zwyciezcy.eu
 0.0.0.0 www.wybierzmy-zwyciezce.eu
 0.0.0.0 www.wybierz-glosuj.eu
+0.0.0.0 www.wybierz-kandydata.eu
 0.0.0.0 www.wyborcza-7.cleverapps.io
 0.0.0.0 www.wyborcza-24i.cleverapps.io
 0.0.0.0 www.wyborowa-decyzja.eu
@@ -48986,6 +49049,7 @@
 0.0.0.0 wybieranie-zwyciezcy.eu
 0.0.0.0 wybierzmy-zwyciezce.eu
 0.0.0.0 wybierz-glosuj.eu
+0.0.0.0 wybierz-kandydata.eu
 0.0.0.0 wyborcza-7.cleverapps.io
 0.0.0.0 wyborcza-24i.cleverapps.io
 0.0.0.0 wyborowa-decyzja.eu
