@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 19 Jun 2022, 19:28 UTC+02
-# Version: 2022.6.19.4
+# Last modified: Sun, 19 Jun 2022, 22:21 UTC+02
+# Version: 2022.6.19.5
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -330,6 +330,7 @@
 0.0.0.0 butymoab2sklep.com
 0.0.0.0 butynbsklep.pl
 0.0.0.0 butynobullpolska.com
+0.0.0.0 butyonlinesklep.com
 0.0.0.0 butyonrunning.com
 0.0.0.0 butypalladium.com
 0.0.0.0 butyplsklep.com
@@ -365,6 +366,7 @@
 0.0.0.0 butyzimowesorel.com
 0.0.0.0 buty-demonia.com
 0.0.0.0 buuiipl.com
+0.0.0.0 buzzihome.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 byagadget.com
 0.0.0.0 bycmama-gabi.pl
@@ -486,6 +488,7 @@
 0.0.0.0 crocspolskaonline.com
 0.0.0.0 crocssklepy.com
 0.0.0.0 crocsstorepolska.com
+0.0.0.0 crocswarsaw.com
 0.0.0.0 crocsxpl.com
 0.0.0.0 crwolny.top
 0.0.0.0 cryptotradecentr.com
@@ -808,6 +811,7 @@
 0.0.0.0 gold-barber.pl
 0.0.0.0 goleemo.online
 0.0.0.0 goodmenonthego.com
+0.0.0.0 goolerr.com
 0.0.0.0 goryhotel.pl
 0.0.0.0 gotowkanadowod.pl
 0.0.0.0 gotowkatutaj.pl
@@ -826,6 +830,7 @@
 0.0.0.0 groundiesbuty.com
 0.0.0.0 groundiespolska.com
 0.0.0.0 gryfkietrz.pl
+0.0.0.0 guesspl.com
 0.0.0.0 guesssklep.pl
 0.0.0.0 guess-polska.com
 0.0.0.0 guitarforce.pl
@@ -919,6 +924,7 @@
 0.0.0.0 ihydroflaskshop.com
 0.0.0.0 ikohs.com
 0.0.0.0 impulsband.pl
+0.0.0.0 inaessentials.pl
 0.0.0.0 incruises.com
 0.0.0.0 indaajach.com
 0.0.0.0 infolinia-kontakt-telefon.pl
@@ -1174,6 +1180,7 @@
 0.0.0.0 marpolska.com
 0.0.0.0 martens1460.pl
 0.0.0.0 martens1460.top
+0.0.0.0 martensbuty.top
 0.0.0.0 martensbutysklep.com
 0.0.0.0 martensplsklep.com
 0.0.0.0 martenspolska.co
@@ -1207,6 +1214,7 @@
 0.0.0.0 megastore24.pl
 0.0.0.0 mejkmi.pl
 0.0.0.0 melissapoland.com
+0.0.0.0 melissapolska.com
 0.0.0.0 melodiakielce.pl
 0.0.0.0 menezsstore.com
 0.0.0.0 menshealthweb.co
@@ -1241,6 +1249,8 @@
 0.0.0.0 missomall.com
 0.0.0.0 mistrzmotywacji.pl
 0.0.0.0 miumiupolska.pl
+0.0.0.0 mizunabuty.com
+0.0.0.0 mizunopolska.com
 0.0.0.0 mizuno-polska.pl
 0.0.0.0 mmajerski.pl
 0.0.0.0 mobiapp-games.com
@@ -1488,6 +1498,7 @@
 0.0.0.0 pessaistore.com
 0.0.0.0 pewnyzabieg.pl
 0.0.0.0 phillshop.myshopify.com
+0.0.0.0 phtno.com
 0.0.0.0 phusimson.pl
 0.0.0.0 phytolast.com
 0.0.0.0 piechnik.com.pl
@@ -1626,6 +1637,7 @@
 0.0.0.0 psiakademia.pl
 0.0.0.0 psiasfora.pl
 0.0.0.0 pubmax.com.pl
+0.0.0.0 pubmwa.com
 0.0.0.0 pullany.com
 0.0.0.0 pumaboss.vip
 0.0.0.0 pumaibmw.com
@@ -1634,6 +1646,7 @@
 0.0.0.0 puma-polska.pl
 0.0.0.0 puna.pl
 0.0.0.0 purething.pl
+0.0.0.0 puteaux24.com
 0.0.0.0 px1alsry.com
 0.0.0.0 pynio.pl
 0.0.0.0 pysznatoskania.pl
@@ -1849,8 +1862,10 @@
 0.0.0.0 skleppremium.com
 0.0.0.0 skleptanie.pl
 0.0.0.0 sklepuggpolska.com
+0.0.0.0 sklepyconversepolska.com
 0.0.0.0 sklepygucci.pl
 0.0.0.0 sklepyhugoboss.pl
+0.0.0.0 sklepyobuwnicze.com
 0.0.0.0 sklep-bobas.pl
 0.0.0.0 sklep-colway.com
 0.0.0.0 sklep-colway.pl
@@ -1903,6 +1918,7 @@
 0.0.0.0 sowaksiazki.pl
 0.0.0.0 soynee.shop
 0.0.0.0 spark-agd.pl
+0.0.0.0 spaxwear.com
 0.0.0.0 spdobropole.pl
 0.0.0.0 speechre.com
 0.0.0.0 speedd.net
@@ -2544,6 +2560,7 @@
 0.0.0.0 www.butymoab2sklep.com
 0.0.0.0 www.butynbsklep.pl
 0.0.0.0 www.butynobullpolska.com
+0.0.0.0 www.butyonlinesklep.com
 0.0.0.0 www.butyonrunning.com
 0.0.0.0 www.butypalladium.com
 0.0.0.0 www.butyplsklep.com
@@ -2578,6 +2595,7 @@
 0.0.0.0 www.butyzamberlanwyprzedaz.com
 0.0.0.0 www.butyzimowesorel.com
 0.0.0.0 www.buuiipl.com
+0.0.0.0 www.buzzihome.com
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.byagadget.com
 0.0.0.0 www.byevab.pl
@@ -2685,6 +2703,7 @@
 0.0.0.0 www.crocspolska.cc
 0.0.0.0 www.crocssklepy.com
 0.0.0.0 www.crocsstorepolska.com
+0.0.0.0 www.crocswarsaw.com
 0.0.0.0 www.crocsxpl.com
 0.0.0.0 www.crwolny.top
 0.0.0.0 www.cryptotradecentr.com
@@ -2949,6 +2968,7 @@
 0.0.0.0 www.goldengoosepolska.pl
 0.0.0.0 www.goleemo.online
 0.0.0.0 www.goodmenonthego.com
+0.0.0.0 www.goolerr.com
 0.0.0.0 www.goryhotel.pl
 0.0.0.0 www.gotowkanadowod.pl
 0.0.0.0 www.gotowkatutaj.pl
@@ -2965,6 +2985,7 @@
 0.0.0.0 www.groundiesbuty.com
 0.0.0.0 www.groundiespolska.com
 0.0.0.0 www.gryfkietrz.pl
+0.0.0.0 www.guesspl.com
 0.0.0.0 www.guesssklep.pl
 0.0.0.0 www.guitarforce.pl
 0.0.0.0 www.gymsharkpolskae.pl
@@ -3045,6 +3066,7 @@
 0.0.0.0 www.ihydroflaskshop.com
 0.0.0.0 www.ikohs.com
 0.0.0.0 www.impulsband.pl
+0.0.0.0 www.inaessentials.pl
 0.0.0.0 www.incruises.com
 0.0.0.0 www.indaajach.com
 0.0.0.0 www.inov8polska.com
@@ -3262,6 +3284,7 @@
 0.0.0.0 www.martens1460.pl
 0.0.0.0 www.martens1460.top
 0.0.0.0 www.martensbutysklep.com
+0.0.0.0 www.martensbuty.top
 0.0.0.0 www.martensplsklep.com
 0.0.0.0 www.martenspolska.co
 0.0.0.0 www.martenspolska.pl
@@ -3291,6 +3314,7 @@
 0.0.0.0 www.megastore24.pl
 0.0.0.0 www.mejkmi.pl
 0.0.0.0 www.melissapoland.com
+0.0.0.0 www.melissapolska.com
 0.0.0.0 www.melodiakielce.pl
 0.0.0.0 www.menezsstore.com
 0.0.0.0 www.menshealthweb.co
@@ -3321,6 +3345,8 @@
 0.0.0.0 www.missomall.com
 0.0.0.0 www.mistrzmotywacji.pl
 0.0.0.0 www.miumiupolska.pl
+0.0.0.0 www.mizunabuty.com
+0.0.0.0 www.mizunopolska.com
 0.0.0.0 www.mmajerski.pl
 0.0.0.0 www.mobikka.com
 0.0.0.0 www.mobila.pl
@@ -3543,6 +3569,7 @@
 0.0.0.0 www.pessaistore.com
 0.0.0.0 www.pewnyzabieg.pl
 0.0.0.0 www.phillshop.myshopify.com
+0.0.0.0 www.phtno.com
 0.0.0.0 www.phusimson.pl
 0.0.0.0 www.phytolast.com
 0.0.0.0 www.piechnik.com.pl
@@ -3641,12 +3668,14 @@
 0.0.0.0 www.psiakademia.pl
 0.0.0.0 www.psiasfora.pl
 0.0.0.0 www.pubmax.com.pl
+0.0.0.0 www.pubmwa.com
 0.0.0.0 www.pullany.com
 0.0.0.0 www.pumaboss.vip
 0.0.0.0 www.pumaibmw.com
 0.0.0.0 www.pumaoutletpl.pl
 0.0.0.0 www.puna.pl
 0.0.0.0 www.purething.pl
+0.0.0.0 www.puteaux24.com
 0.0.0.0 www.px1alsry.com
 0.0.0.0 www.pynio.pl
 0.0.0.0 www.pysznatoskania.pl
@@ -3833,8 +3862,10 @@
 0.0.0.0 www.skleppremium.com
 0.0.0.0 www.skleptanie.pl
 0.0.0.0 www.sklepuggpolska.com
+0.0.0.0 www.sklepyconversepolska.com
 0.0.0.0 www.sklepygucci.pl
 0.0.0.0 www.sklepyhugoboss.pl
+0.0.0.0 www.sklepyobuwnicze.com
 0.0.0.0 www.sklep.dagma.pl
 0.0.0.0 www.sklep.ekoenergia24.eu
 0.0.0.0 www.skullcandypolska.com
@@ -3876,6 +3907,7 @@
 0.0.0.0 www.sorelpolska.com
 0.0.0.0 www.sowaksiazki.pl
 0.0.0.0 www.soynee.shop
+0.0.0.0 www.spaxwear.com
 0.0.0.0 www.spdobropole.pl
 0.0.0.0 www.speechre.com
 0.0.0.0 www.speedd.net
@@ -4846,6 +4878,7 @@
 0.0.0.0 mobstarr.com
 0.0.0.0 monetizer.info
 0.0.0.0 my-traffic7.com
+0.0.0.0 naked-hd.xyz
 0.0.0.0 namesakeoscilloscopemarquis.com
 0.0.0.0 natrasiekorzysci.pl
 0.0.0.0 naturgood.icu
@@ -5115,6 +5148,7 @@
 0.0.0.0 www.kasyno-vulkan-vegas.com
 0.0.0.0 www.mobile-redirection.com
 0.0.0.0 www.my-traffic7.com
+0.0.0.0 www.naked-hd.xyz
 0.0.0.0 www.news-paperz.com
 0.0.0.0 www.notification-list.com
 0.0.0.0 www.notified-today.com
@@ -10789,6 +10823,7 @@
 0.0.0.0 droga-glosowanie.site
 0.0.0.0 drogowe-akcje.ct8.pl
 0.0.0.0 drogowe-wypadki24.pl
+0.0.0.0 drogowe-wypadki24h7.pl
 0.0.0.0 drogowy-wypadek.info
 0.0.0.0 drohiczyn24.online
 0.0.0.0 droopiermurmurs.pl
@@ -11495,6 +11530,7 @@
 0.0.0.0 facebook-com-play.pl
 0.0.0.0 facebook-com.page-pl.xyz
 0.0.0.0 facebook-filmy.pl
+0.0.0.0 facebook-issues15.tk
 0.0.0.0 facebook-issues51.tk
 0.0.0.0 facebook-l.pl
 0.0.0.0 facebook-live24.eu
@@ -16215,6 +16251,7 @@
 0.0.0.0 lloto.xyz
 0.0.0.0 ll-ewo.web.app
 0.0.0.0 lmwmm.com
+0.0.0.0 ln.xlopl.com
 0.0.0.0 lnfodispatch.xyz
 0.0.0.0 lnfosendingproduct.xyz
 0.0.0.0 lnfo.web-chat.eu
@@ -17340,6 +17377,7 @@
 0.0.0.0 mosriw.loan
 0.0.0.0 mossersrepartition.info
 0.0.0.0 motive-business.online
+0.0.0.0 moto-wypadki.pl
 0.0.0.0 motys.pl
 0.0.0.0 mountainhotel.it
 0.0.0.0 mourao.net
@@ -20075,6 +20113,7 @@
 0.0.0.0 payu.hmcloud.pl
 0.0.0.0 payu24.top
 0.0.0.0 payu24-pl.top
+0.0.0.0 payu.poland-olx.com
 0.0.0.0 paywash.se
 0.0.0.0 pay-id-bank.eu
 0.0.0.0 pay-info.biz
@@ -23705,6 +23744,8 @@
 0.0.0.0 sub256.trdepl.xyz
 0.0.0.0 sub258.trdepl.xyz
 0.0.0.0 sub259.trdepl.xyz
+0.0.0.0 sub261.trdepl.xyz
+0.0.0.0 sub263.trdepl.xyz
 0.0.0.0 subcommi.xyz
 0.0.0.0 subjacentlydoctrine.com
 0.0.0.0 sublimationpillowcases.com
@@ -33187,6 +33228,7 @@
 0.0.0.0 www.lnpost.rezerwsrodkow.site
 0.0.0.0 www.lnpost.today
 0.0.0.0 www.lnstahelp.com
+0.0.0.0 www.ln.xlopl.com
 0.0.0.0 www.loanme.pl
 0.0.0.0 www.lobbyshred.top
 0.0.0.0 www.localshutter.store
@@ -37422,6 +37464,8 @@
 0.0.0.0 www.sub256.trdepl.xyz
 0.0.0.0 www.sub258.trdepl.xyz
 0.0.0.0 www.sub259.trdepl.xyz
+0.0.0.0 www.sub261.trdepl.xyz
+0.0.0.0 www.sub263.trdepl.xyz
 0.0.0.0 www.subcommi.xyz
 0.0.0.0 www.subjacentlydoctrine.com
 0.0.0.0 www.sublimationpillowcases.com
@@ -41128,6 +41172,7 @@
 0.0.0.0 www.droga-glosowanie.site
 0.0.0.0 www.drogowe-akcje.ct8.pl
 0.0.0.0 www.drogowe-wypadki24.pl
+0.0.0.0 www.drogowe-wypadki24h7.pl
 0.0.0.0 www.drogowy-wypadek.info
 0.0.0.0 www.drozda-com.preview-domain.com
 0.0.0.0 www.drybling-odjazd.site
@@ -41325,6 +41370,7 @@
 0.0.0.0 www.facebook-com-play.pl
 0.0.0.0 www.facebook-com.page-pl.xyz
 0.0.0.0 www.facebook-filmy.pl
+0.0.0.0 www.facebook-issues15.tk
 0.0.0.0 www.facebook-issues51.tk
 0.0.0.0 www.facebook-l.pl
 0.0.0.0 www.facebook-live24.eu
@@ -44113,6 +44159,7 @@
 0.0.0.0 www.more-2-flirt.com
 0.0.0.0 www.morozor-com.preview-domain.com
 0.0.0.0 www.motive-business.online
+0.0.0.0 www.moto-wypadki.pl
 0.0.0.0 www.mowie-szybko.eu
 0.0.0.0 www.mowisz-czesto.eu
 0.0.0.0 www.mowmy-glosno.eu
@@ -45363,6 +45410,7 @@
 0.0.0.0 www.paypal.activate-online.com
 0.0.0.0 www.pays-olx.gq
 0.0.0.0 www.payu24-pl.top
+0.0.0.0 www.payu.poland-olx.com
 0.0.0.0 www.pay-id-bank.eu
 0.0.0.0 www.pay-info.biz
 0.0.0.0 www.pay-olx.cf
