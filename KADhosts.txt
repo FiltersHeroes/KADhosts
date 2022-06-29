@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 29 Jun 2022, 18:50 UTC+02
-# Version: 2022.6.29.2
+# Last modified: Wed, 29 Jun 2022, 22:24 UTC+02
+# Version: 2022.6.29.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -13935,6 +13935,7 @@
 0.0.0.0 inpost.productdispatchsite.xyz
 0.0.0.0 inpost.productdispatchuser.xyz
 0.0.0.0 inpost.productpaydispatch.xyz
+0.0.0.0 inpost.qismfl.org
 0.0.0.0 inpost.site
 0.0.0.0 inpost.store
 0.0.0.0 inpost.tech
@@ -14102,6 +14103,7 @@
 0.0.0.0 inpost-fjgv.neworder44799.info
 0.0.0.0 inpost-flmc.order0129501.info
 0.0.0.0 inpost-frqs.orders23441.info
+0.0.0.0 inpost-frsc.orderold53153312.info
 0.0.0.0 inpost-fzvu.orders993.info
 0.0.0.0 inpost-gdql.order131313.info
 0.0.0.0 inpost-getting.5546345.xyz
@@ -14346,6 +14348,7 @@
 0.0.0.0 inpost-polskaxdz.order2588322.info
 0.0.0.0 inpost-polskayg.order131313.info
 0.0.0.0 inpost-polska-aaj.order009988.info
+0.0.0.0 inpost-polska-ab.orderold53153312.info
 0.0.0.0 inpost-polska-ag.orders23441.info
 0.0.0.0 inpost-polska-ah.order125326.info
 0.0.0.0 inpost-polska-ahl.order912412.info
@@ -14640,6 +14643,7 @@
 0.0.0.0 inpost-polska-oju.order77711902.info
 0.0.0.0 inpost-polska-ok.order9512951.info
 0.0.0.0 inpost-polska-ooc.order2588322.info
+0.0.0.0 inpost-polska-opw.orderold53153312.info
 0.0.0.0 inpost-polska-orw.ordernew885522.info
 0.0.0.0 inpost-polska-otz.orderold53153312.info
 0.0.0.0 inpost-polska-oud.order48382.info
@@ -25912,6 +25916,7 @@
 0.0.0.0 vinpost.id-87233.me
 0.0.0.0 vintagecafeandbar.com
 0.0.0.0 vintagecryptoassets.com
+0.0.0.0 vintd670paying.546723.xyz
 0.0.0.0 vinted.formpaydelivery.site
 0.0.0.0 vinted.paygy.online
 0.0.0.0 vinted.sendingparceluser.xyz
@@ -33010,6 +33015,7 @@
 0.0.0.0 www.inpost.productdispatchsite.xyz
 0.0.0.0 www.inpost.productdispatchuser.xyz
 0.0.0.0 www.inpost.productpaydispatch.xyz
+0.0.0.0 www.inpost.qismfl.org
 0.0.0.0 www.inpost.site
 0.0.0.0 www.inpost.store
 0.0.0.0 www.inpost.tech
@@ -40171,6 +40177,7 @@
 0.0.0.0 www.yourfitway.com
 0.0.0.0 www.yourflix.pl
 0.0.0.0 www.yourfreeshoppingvoucher.com
+0.0.0.0 www.yourhighincome.xyz
 0.0.0.0 www.yourmexicorealestateexpert.com
 0.0.0.0 www.yourordercheckout.com
 0.0.0.0 www.yourshorka.info
@@ -43178,6 +43185,7 @@
 0.0.0.0 www.inpost-fjgv.neworder44799.info
 0.0.0.0 www.inpost-flmc.order0129501.info
 0.0.0.0 www.inpost-frqs.orders23441.info
+0.0.0.0 www.inpost-frsc.orderold53153312.info
 0.0.0.0 www.inpost-fzvu.orders993.info
 0.0.0.0 www.inpost-gdql.order131313.info
 0.0.0.0 www.inpost-getting.5546345.xyz
@@ -43422,6 +43430,7 @@
 0.0.0.0 www.inpost-polskaxdz.order2588322.info
 0.0.0.0 www.inpost-polskayg.order131313.info
 0.0.0.0 www.inpost-polska-aaj.order009988.info
+0.0.0.0 www.inpost-polska-ab.orderold53153312.info
 0.0.0.0 www.inpost-polska-ag.orders23441.info
 0.0.0.0 www.inpost-polska-ah.order125326.info
 0.0.0.0 www.inpost-polska-ahl.order912412.info
@@ -43716,6 +43725,7 @@
 0.0.0.0 www.inpost-polska-oju.order77711902.info
 0.0.0.0 www.inpost-polska-ok.order9512951.info
 0.0.0.0 www.inpost-polska-ooc.order2588322.info
+0.0.0.0 www.inpost-polska-opw.orderold53153312.info
 0.0.0.0 www.inpost-polska-orw.ordernew885522.info
 0.0.0.0 www.inpost-polska-otz.orderold53153312.info
 0.0.0.0 www.inpost-polska-oud.order48382.info
@@ -48515,6 +48525,7 @@
 0.0.0.0 www.vimted.064512.xyz
 0.0.0.0 www.vine-energy.com
 0.0.0.0 www.vinpost.id-87233.me
+0.0.0.0 www.vintd670paying.546723.xyz
 0.0.0.0 www.vinted3shipping.8756123.xyz
 0.0.0.0 www.vinted-09diliveri.435986665.xyz
 0.0.0.0 www.vinted-fkpa.order0912401.info
@@ -49715,6 +49726,7 @@
 0.0.0.0 yourfitway.com
 0.0.0.0 yourflix.pl
 0.0.0.0 yourfreeshoppingvoucher.com
+0.0.0.0 yourhighincome.xyz
 0.0.0.0 yourlife-group.com
 0.0.0.0 yourmexicorealestateexpert.com
 0.0.0.0 yourordercheckout.com
