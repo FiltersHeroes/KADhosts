@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 24 Jul 2022, 21:08 UTC+02
-# Version: 2022.7.24.4
+# Last modified: Sun, 24 Jul 2022, 21:17 UTC+02
+# Version: 2022.7.24.5
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -15436,6 +15436,8 @@
 0.0.0.0 inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 inpost.pl-tracknumber458775.xyz
 0.0.0.0 inpost.pl.aus-payforitto.pw
+0.0.0.0 inpost.polska24-dostawa24.shop
+0.0.0.0 inpost.polska24-dostawa24.xyz
 0.0.0.0 inpost.polska-akk.order692612.info
 0.0.0.0 inpost.post-derive.com
 0.0.0.0 inpost.post-dostawa.com
@@ -19688,12 +19690,15 @@
 0.0.0.0 olx.order-id72394.pics
 0.0.0.0 olx.payu-sio.com
 0.0.0.0 olx.pl-cash.info
+0.0.0.0 olx.pl-getservice.info
+0.0.0.0 olx.pl-informacje.info
 0.0.0.0 olx.pl-konto.co
 0.0.0.0 olx.pl-m-informacja.cyou
 0.0.0.0 olx.pl-m-informacja.icu
 0.0.0.0 olx.pl-m-informacja.info
 0.0.0.0 olx.pl-m-wysylka.site
 0.0.0.0 olx.pl-m-wysylka.website
+0.0.0.0 olx.pl-panel.info
 0.0.0.0 olx.pl-payment.oferta-pay.com
 0.0.0.0 olx.pl-traktaty24389.top
 0.0.0.0 olx.pl-zamawienie.shop
@@ -26483,6 +26488,7 @@
 0.0.0.0 vinted-pl.zamowid4791834.shop
 0.0.0.0 vinted-pl-3dseif.id-safe.xyz
 0.0.0.0 vinted-pl-gj32d.silkroad-tours.com
+0.0.0.0 vinted-pl-gkk219.iaacongress.com
 0.0.0.0 vinted-pl-gkk219.wns1655.com
 0.0.0.0 vinted-pl-id002c.naprzod345894.click
 0.0.0.0 vinted-pl-lzlxo.szybko3848106.click
@@ -26504,11 +26510,14 @@
 0.0.0.0 vinted-polska-kuy.order2588322.info
 0.0.0.0 vinted-polska-lsa.ordernew484822.info
 0.0.0.0 vinted-polska-mkm.order887766.info
+0.0.0.0 vinted-polska-nfx.ordernew484822.info
 0.0.0.0 vinted-polska-ngy.ordernew484822.info
 0.0.0.0 vinted-polska-nqa.ordernew484822.info
 0.0.0.0 vinted-polska-otf.ordernew25731110.info
 0.0.0.0 vinted-polska-pmc.order0129501.info
 0.0.0.0 vinted-polska-qdf.orders23441.info
+0.0.0.0 vinted-polska-qyy.ordernew484822.info
+0.0.0.0 vinted-polska-tdq.ordernew484822.info
 0.0.0.0 vinted-polska-ycq.ordernew484822.info
 0.0.0.0 vinted-polska-zwl.ordernew11010103.info
 0.0.0.0 vinted-productdelivery.xyz
@@ -45143,6 +45152,8 @@
 0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 www.inpost.pl-tracknumber458775.xyz
 0.0.0.0 www.inpost.pl.aus-payforitto.pw
+0.0.0.0 www.inpost.polska24-dostawa24.shop
+0.0.0.0 www.inpost.polska24-dostawa24.xyz
 0.0.0.0 www.inpost.polska-akk.order692612.info
 0.0.0.0 www.inpost.post-derive.com
 0.0.0.0 www.inpost.post-dostawa.com
@@ -47001,12 +47012,15 @@
 0.0.0.0 www.olx.order-id72394.pics
 0.0.0.0 www.olx.payu-sio.com
 0.0.0.0 www.olx.pl-cash.info
+0.0.0.0 www.olx.pl-getservice.info
+0.0.0.0 www.olx.pl-informacje.info
 0.0.0.0 www.olx.pl-konto.co
 0.0.0.0 www.olx.pl-m-informacja.cyou
 0.0.0.0 www.olx.pl-m-informacja.icu
 0.0.0.0 www.olx.pl-m-informacja.info
 0.0.0.0 www.olx.pl-m-wysylka.site
 0.0.0.0 www.olx.pl-m-wysylka.website
+0.0.0.0 www.olx.pl-panel.info
 0.0.0.0 www.olx.pl-payment.oferta-pay.com
 0.0.0.0 www.olx.pl-traktaty24389.top
 0.0.0.0 www.olx.pl-zamawienie.shop
@@ -49700,6 +49714,7 @@
 0.0.0.0 www.vinted-pl.zamowid4791834.shop
 0.0.0.0 www.vinted-pl-3dseif.id-safe.xyz
 0.0.0.0 www.vinted-pl-gj32d.silkroad-tours.com
+0.0.0.0 www.vinted-pl-gkk219.iaacongress.com
 0.0.0.0 www.vinted-pl-gkk219.wns1655.com
 0.0.0.0 www.vinted-pl-id002c.naprzod345894.click
 0.0.0.0 www.vinted-pl-lzlxo.szybko3848106.click
@@ -49721,11 +49736,14 @@
 0.0.0.0 www.vinted-polska-kuy.order2588322.info
 0.0.0.0 www.vinted-polska-lsa.ordernew484822.info
 0.0.0.0 www.vinted-polska-mkm.order887766.info
+0.0.0.0 www.vinted-polska-nfx.ordernew484822.info
 0.0.0.0 www.vinted-polska-ngy.ordernew484822.info
 0.0.0.0 www.vinted-polska-nqa.ordernew484822.info
 0.0.0.0 www.vinted-polska-otf.ordernew25731110.info
 0.0.0.0 www.vinted-polska-pmc.order0129501.info
 0.0.0.0 www.vinted-polska-qdf.orders23441.info
+0.0.0.0 www.vinted-polska-qyy.ordernew484822.info
+0.0.0.0 www.vinted-polska-tdq.ordernew484822.info
 0.0.0.0 www.vinted-polska-ycq.ordernew484822.info
 0.0.0.0 www.vinted-polska-zwl.ordernew11010103.info
 0.0.0.0 www.vinted-productdelivery.xyz
