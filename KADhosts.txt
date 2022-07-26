@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 25 Jul 2022, 22:22 UTC+02
-# Version: 2022.7.25.3
+# Last modified: Tue, 26 Jul 2022, 10:27 UTC+02
+# Version: 2022.7.26.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7276,6 +7276,7 @@
 0.0.0.0 blik.auction
 0.0.0.0 blik.delivery
 0.0.0.0 blik.fyi
+0.0.0.0 blik.odbierz.shop
 0.0.0.0 bliki24.net
 0.0.0.0 blinkosklep.com.pl
 0.0.0.0 blissfullyorganik.com
@@ -8248,6 +8249,7 @@
 0.0.0.0 committeestar.world
 0.0.0.0 communicationpedia.com
 0.0.0.0 companynet-mbank.com
+0.0.0.0 company-invest.website
 0.0.0.0 compensateyui.online
 0.0.0.0 competeserious.com
 0.0.0.0 competitiveprep.com
@@ -12614,6 +12616,7 @@
 0.0.0.0 gemstonefx.com
 0.0.0.0 gendiginous.com
 0.0.0.0 genel-com.preview-domain.com
+0.0.0.0 generalgain.life
 0.0.0.0 generationinfoportal.online
 0.0.0.0 genesismining.uk
 0.0.0.0 genwer-online.preview-domain.com
@@ -13650,6 +13653,7 @@
 0.0.0.0 infasd2a.is-best.net
 0.0.0.0 infa-prosto-z-polski.pl
 0.0.0.0 infa-z-polski.pl
+0.0.0.0 infectantt.xyz
 0.0.0.0 infinity4x.io
 0.0.0.0 infinitytest.site
 0.0.0.0 infinity-pl1.invetr1l.site
@@ -14003,25 +14007,37 @@
 0.0.0.0 infozpolski-9819038689757.azureedge.net
 0.0.0.0 infozpolski-9917803270267.azureedge.net
 0.0.0.0 info-3.me
+0.0.0.0 info-02405784.azureedge.net
 0.0.0.0 info-08582967.azureedge.net
 0.0.0.0 info-15852722.azureedge.net
+0.0.0.0 info-17815233.azureedge.net
 0.0.0.0 info-18224458.azureedge.net
 0.0.0.0 info-23303270.azureedge.net
 0.0.0.0 info-25440787.azureedge.net
 0.0.0.0 info-29300847.azureedge.net
+0.0.0.0 info-31195108.azureedge.net
+0.0.0.0 info-31912868.azureedge.net
 0.0.0.0 info-41971476.azureedge.net
 0.0.0.0 info-42258353.azureedge.net
 0.0.0.0 info-45682176.azureedge.net
+0.0.0.0 info-47515679.azureedge.net
 0.0.0.0 info-52383496.azureedge.net
+0.0.0.0 info-53169262.azureedge.net
+0.0.0.0 info-60242836.azureedge.net
 0.0.0.0 info-61270056.azureedge.net
 0.0.0.0 info-64348037.azureedge.net
+0.0.0.0 info-65487826.azureedge.net
+0.0.0.0 info-66993576.azureedge.net
 0.0.0.0 info-67980030.azureedge.net
 0.0.0.0 info-73881324.azureedge.net
+0.0.0.0 info-77092410.azureedge.net
 0.0.0.0 info-91951063.azureedge.net
 0.0.0.0 info-93317264.azureedge.net
+0.0.0.0 info-94027320.azureedge.net
 0.0.0.0 info-94926431.azureedge.net
 0.0.0.0 info-97267995.azureedge.net
 0.0.0.0 info-97915043.azureedge.net
+0.0.0.0 info-99575064.azureedge.net
 0.0.0.0 info-dla-kazdego.pl
 0.0.0.0 info-dla-kazdego.xyz
 0.0.0.0 info-dla-was.waw.pl
@@ -15060,6 +15076,7 @@
 0.0.0.0 inpost-polska-mvk.order912412.info
 0.0.0.0 inpost-polska-mvp.orderold53153312.info
 0.0.0.0 inpost-polska-my.order574820.info
+0.0.0.0 inpost-polska-nbf.order7159.info
 0.0.0.0 inpost-polska-nc.order574820.info
 0.0.0.0 inpost-polska-nhs.order0129501.info
 0.0.0.0 inpost-polska-nl.order0912401.info
@@ -15783,6 +15800,7 @@
 0.0.0.0 in-post.umowa927455.top
 0.0.0.0 in-post.us
 0.0.0.0 in-post.zamow751308.beauty
+0.0.0.0 in-post-pl-myid272xs.belladiosadr.com
 0.0.0.0 in-post-pl-myid272xs.tweakabell.com
 0.0.0.0 in-post-pl-myid272xs.order-dostawa82931.co
 0.0.0.0 in-post-pl-myid272xs.order-ship.com
@@ -18071,6 +18089,7 @@
 0.0.0.0 moja-paczka.traktat34095.click
 0.0.0.0 moja-paczka.traktat94603.beauty
 0.0.0.0 moja-paczka.zalogowacsie93446.xyz
+0.0.0.0 moja-paczka-pl-myid576xs.belladiosadr.com
 0.0.0.0 moja-paczka-pl-myid576xs.amway-sk.com
 0.0.0.0 moja-paczka-pl-myid576xs.neworder-pl23813.click
 0.0.0.0 moja-paczka.168423plid.xyz
@@ -18228,7 +18247,6 @@
 0.0.0.0 mootnessve.pl
 0.0.0.0 mopieflix.com
 0.0.0.0 mopiex.com
-0.0.0.0 morandons.com
 0.0.0.0 morassw-online.preview-domain.com
 0.0.0.0 moreindivudualhere.com
 0.0.0.0 morev.lv
@@ -19377,6 +19395,7 @@
 0.0.0.0 office365-nevion.com
 0.0.0.0 officeadmin365.weebly.com
 0.0.0.0 officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
+0.0.0.0 officelettering.com
 0.0.0.0 officexwednbbagmemzmlpepjxspud.nn.r.appspot.com
 0.0.0.0 office.o365-ticketer.com
 0.0.0.0 official.agldcoyen.xyz
@@ -19685,6 +19704,8 @@
 0.0.0.0 olx-plxkrs.ownoffferta.cc
 0.0.0.0 olx-pl-3dsafe.596126.live
 0.0.0.0 olx-pl-3dsafe.id-512560.xyz
+0.0.0.0 olx-pl-id95iw.belladiosadr.com
+0.0.0.0 olx-pl-id95iw.tweakabell.com
 0.0.0.0 olx-pl-lzp.id-59877.me
 0.0.0.0 olx-pl-ns.5812759.live
 0.0.0.0 olx-pl-qfz.id-9431.me
@@ -19732,6 +19753,9 @@
 0.0.0.0 olx-pl.zlozenie-spoko.com
 0.0.0.0 olx-polska.h2g.pl
 0.0.0.0 olx-polska-op05458.anroprint.com
+0.0.0.0 olx-polska-op05458.belladiosadr.com
+0.0.0.0 olx-polska-op05458.tweakabell.com
+0.0.0.0 olx-polska-op05458.xunleimm.com
 0.0.0.0 olx-polska-op05458.pl-order03482.beauty
 0.0.0.0 olx-polska-op05458.pol-id43892.co
 0.0.0.0 olx-polska-yvn.43355.me
@@ -22915,6 +22939,7 @@
 0.0.0.0 raitravag.tk
 0.0.0.0 rakingautotypy.positivisticrivalling.com
 0.0.0.0 ralcenacupsinggan.cf
+0.0.0.0 ramequinsb.pl
 0.0.0.0 ranadar-xyz.preview-domain.com
 0.0.0.0 randewoo.ir
 0.0.0.0 randomarm.info
@@ -24196,6 +24221,7 @@
 0.0.0.0 snulya-xyz.preview-domain.com
 0.0.0.0 sobak.2st-broker.xyz
 0.0.0.0 sobotnie-newsy.waw.pl
+0.0.0.0 sobshamefu.pl
 0.0.0.0 socialadvertise.com
 0.0.0.0 socialenginezzz.com
 0.0.0.0 socialparliament.com
@@ -25063,6 +25089,7 @@
 0.0.0.0 teamhunt.in
 0.0.0.0 teamowa124.weebly.com
 0.0.0.0 tearnow.site
+0.0.0.0 tearstr.pl
 0.0.0.0 teasequinc.pl
 0.0.0.0 teasvoi.online
 0.0.0.0 teaund.pl
@@ -26146,6 +26173,7 @@
 0.0.0.0 unsubscribe.vomeo8wflpty52u.neyazco.ir
 0.0.0.0 untefineds.pl
 0.0.0.0 unterlisibatch.ga
+0.0.0.0 untimeline.xyz
 0.0.0.0 untoperation.com
 0.0.0.0 unwrinkles.de
 0.0.0.0 unxismartaaqkadjlmmm5mde4ltk2ywutngi2os05othllte3mzq4mte.us-south.cf.appdomain.cloud
@@ -26638,6 +26666,7 @@
 0.0.0.0 vinted-polska-jki.ordernew484822.info
 0.0.0.0 vinted-polska-jyr.order7159.info
 0.0.0.0 vinted-polska-kuy.order2588322.info
+0.0.0.0 vinted-polska-lbo.order7159.info
 0.0.0.0 vinted-polska-lsa.ordernew484822.info
 0.0.0.0 vinted-polska-luh.ordernew484822.info
 0.0.0.0 vinted-polska-mkm.order887766.info
@@ -26654,6 +26683,7 @@
 0.0.0.0 vinted-polska-slr.ordernew484822.info
 0.0.0.0 vinted-polska-syj.ordernew484822.info
 0.0.0.0 vinted-polska-szv.order7159.info
+0.0.0.0 vinted-polska-tdl.order7159.info
 0.0.0.0 vinted-polska-tdq.ordernew484822.info
 0.0.0.0 vinted-polska-wkb.ordernew484822.info
 0.0.0.0 vinted-polska-xpc.ordernew484822.info
@@ -27404,6 +27434,7 @@
 0.0.0.0 wiadomosci-radom.xyz
 0.0.0.0 wiadomosci-rybnik.xyz
 0.0.0.0 wiadomosci-sopot.xyz
+0.0.0.0 wiadomosci-swiat24h.pl
 0.0.0.0 wiadomosci-teraz5.cleverapps.io
 0.0.0.0 wiadomosci-tv-1638954584574.azureedge.net
 0.0.0.0 wiadomosci-tv-1693821669266.azureedge.net
@@ -28754,6 +28785,7 @@
 0.0.0.0 www.blik.auction
 0.0.0.0 www.blik.delivery
 0.0.0.0 www.blik.fyi
+0.0.0.0 www.blik.odbierz.shop
 0.0.0.0 www.blinkosklep.com.pl
 0.0.0.0 www.blissfullyorganik.com
 0.0.0.0 www.blivand.bar
@@ -32840,6 +32872,7 @@
 0.0.0.0 www.gemista.xyz
 0.0.0.0 www.gemstonefx.com
 0.0.0.0 www.gendiginous.com
+0.0.0.0 www.generalgain.life
 0.0.0.0 www.generationinfoportal.online
 0.0.0.0 www.genesismining.uk
 0.0.0.0 www.geogeekgis.com
@@ -33539,6 +33572,7 @@
 0.0.0.0 www.infalliblybrattish.com
 0.0.0.0 www.infamously.pl
 0.0.0.0 www.infarelinden.info
+0.0.0.0 www.infectantt.xyz
 0.0.0.0 www.infinity4x.io
 0.0.0.0 www.infinitytest.site
 0.0.0.0 www.inflab.info
@@ -35467,7 +35501,6 @@
 0.0.0.0 www.mootnessve.pl
 0.0.0.0 www.mopieflix.com
 0.0.0.0 www.mopiex.com
-0.0.0.0 www.morandons.com
 0.0.0.0 www.moreindivudualhere.com
 0.0.0.0 www.morev.lv
 0.0.0.0 www.morgenmorg.xyz
@@ -36190,6 +36223,7 @@
 0.0.0.0 www.offer.rdtscgaxoicsu0d.jahanvalve.ir
 0.0.0.0 www.officeadmin365.weebly.com
 0.0.0.0 www.officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com
+0.0.0.0 www.officelettering.com
 0.0.0.0 www.officexwednbbagmemzmlpepjxspud.nn.r.appspot.com
 0.0.0.0 www.officialnews.eutessl.xyz
 0.0.0.0 www.officialprokodsukses.icu
@@ -37889,6 +37923,7 @@
 0.0.0.0 www.raitravag.tk
 0.0.0.0 www.rakingautotypy.positivisticrivalling.com
 0.0.0.0 www.ralcenacupsinggan.cf
+0.0.0.0 www.ramequinsb.pl
 0.0.0.0 www.randewoo.ir
 0.0.0.0 www.randomarm.info
 0.0.0.0 www.rangreality.com
@@ -38829,6 +38864,7 @@
 0.0.0.0 www.snoopunaut.xyz
 0.0.0.0 www.snoozesmistiest.xyz
 0.0.0.0 www.snowflakec.pl
+0.0.0.0 www.sobshamefu.pl
 0.0.0.0 www.socialadvertise.com
 0.0.0.0 www.socialenginezzz.com
 0.0.0.0 www.socialparliament.com
@@ -39494,6 +39530,7 @@
 0.0.0.0 www.teamhunt.in
 0.0.0.0 www.teamowa124.weebly.com
 0.0.0.0 www.tearnow.site
+0.0.0.0 www.tearstr.pl
 0.0.0.0 www.teasequinc.pl
 0.0.0.0 www.teasvoi.online
 0.0.0.0 www.teaund.pl
@@ -40185,6 +40222,7 @@
 0.0.0.0 www.unsubscribe.vomeo8wflpty52u.neyazco.ir
 0.0.0.0 www.untefineds.pl
 0.0.0.0 www.unterlisibatch.ga
+0.0.0.0 www.untimeline.xyz
 0.0.0.0 www.untoperation.com
 0.0.0.0 www.unwrinkles.de
 0.0.0.0 www.upadek275.rest
@@ -42610,6 +42648,7 @@
 0.0.0.0 www.colr-inwest.web.app
 0.0.0.0 www.come-inside.pl
 0.0.0.0 www.companynet-mbank.com
+0.0.0.0 www.company-invest.website
 0.0.0.0 www.compte.b-cdn.net
 0.0.0.0 www.computer-arts.info
 0.0.0.0 www.com.pltrade-prog3.site
@@ -44119,25 +44158,37 @@
 0.0.0.0 www.infozpolski-9819038689757.azureedge.net
 0.0.0.0 www.infozpolski-9917803270267.azureedge.net
 0.0.0.0 www.info-3.me
+0.0.0.0 www.info-02405784.azureedge.net
 0.0.0.0 www.info-08582967.azureedge.net
 0.0.0.0 www.info-15852722.azureedge.net
+0.0.0.0 www.info-17815233.azureedge.net
 0.0.0.0 www.info-18224458.azureedge.net
 0.0.0.0 www.info-23303270.azureedge.net
 0.0.0.0 www.info-25440787.azureedge.net
 0.0.0.0 www.info-29300847.azureedge.net
+0.0.0.0 www.info-31195108.azureedge.net
+0.0.0.0 www.info-31912868.azureedge.net
 0.0.0.0 www.info-41971476.azureedge.net
 0.0.0.0 www.info-42258353.azureedge.net
 0.0.0.0 www.info-45682176.azureedge.net
+0.0.0.0 www.info-47515679.azureedge.net
 0.0.0.0 www.info-52383496.azureedge.net
+0.0.0.0 www.info-53169262.azureedge.net
+0.0.0.0 www.info-60242836.azureedge.net
 0.0.0.0 www.info-61270056.azureedge.net
 0.0.0.0 www.info-64348037.azureedge.net
+0.0.0.0 www.info-65487826.azureedge.net
+0.0.0.0 www.info-66993576.azureedge.net
 0.0.0.0 www.info-67980030.azureedge.net
 0.0.0.0 www.info-73881324.azureedge.net
+0.0.0.0 www.info-77092410.azureedge.net
 0.0.0.0 www.info-91951063.azureedge.net
 0.0.0.0 www.info-93317264.azureedge.net
+0.0.0.0 www.info-94027320.azureedge.net
 0.0.0.0 www.info-94926431.azureedge.net
 0.0.0.0 www.info-97267995.azureedge.net
 0.0.0.0 www.info-97915043.azureedge.net
+0.0.0.0 www.info-99575064.azureedge.net
 0.0.0.0 www.info-dla-kazdego.pl
 0.0.0.0 www.info-dla-kazdego.xyz
 0.0.0.0 www.info-dla-was.waw.pl
@@ -44988,6 +45039,7 @@
 0.0.0.0 www.inpost-polska-mvk.order912412.info
 0.0.0.0 www.inpost-polska-mvp.orderold53153312.info
 0.0.0.0 www.inpost-polska-my.order574820.info
+0.0.0.0 www.inpost-polska-nbf.order7159.info
 0.0.0.0 www.inpost-polska-nc.order574820.info
 0.0.0.0 www.inpost-polska-nhs.order0129501.info
 0.0.0.0 www.inpost-polska-nl.order0912401.info
@@ -45593,6 +45645,7 @@
 0.0.0.0 www.in-post.umowa927455.top
 0.0.0.0 www.in-post.us
 0.0.0.0 www.in-post.zamow751308.beauty
+0.0.0.0 www.in-post-pl-myid272xs.belladiosadr.com
 0.0.0.0 www.in-post-pl-myid272xs.tweakabell.com
 0.0.0.0 www.in-post-pl-myid272xs.order-dostawa82931.co
 0.0.0.0 www.in-post-pl-myid272xs.order-ship.com
@@ -46442,6 +46495,7 @@
 0.0.0.0 www.moja-paczka.traktat34095.click
 0.0.0.0 www.moja-paczka.traktat94603.beauty
 0.0.0.0 www.moja-paczka.zalogowacsie93446.xyz
+0.0.0.0 www.moja-paczka-pl-myid576xs.belladiosadr.com
 0.0.0.0 www.moja-paczka-pl-myid576xs.amway-sk.com
 0.0.0.0 www.moja-paczka-pl-myid576xs.neworder-pl23813.click
 0.0.0.0 www.moja-paczka.168423plid.xyz
@@ -47202,6 +47256,8 @@
 0.0.0.0 www.olx-plxkrs.ownoffferta.cc
 0.0.0.0 www.olx-pl-3dsafe.596126.live
 0.0.0.0 www.olx-pl-3dsafe.id-512560.xyz
+0.0.0.0 www.olx-pl-id95iw.belladiosadr.com
+0.0.0.0 www.olx-pl-id95iw.tweakabell.com
 0.0.0.0 www.olx-pl-lzp.id-59877.me
 0.0.0.0 www.olx-pl-ns.5812759.live
 0.0.0.0 www.olx-pl-qfz.id-9431.me
@@ -47249,6 +47305,9 @@
 0.0.0.0 www.olx-pl.zlozenie-spoko.com
 0.0.0.0 www.olx-polska.h2g.pl
 0.0.0.0 www.olx-polska-op05458.anroprint.com
+0.0.0.0 www.olx-polska-op05458.belladiosadr.com
+0.0.0.0 www.olx-polska-op05458.tweakabell.com
+0.0.0.0 www.olx-polska-op05458.xunleimm.com
 0.0.0.0 www.olx-polska-op05458.pl-order03482.beauty
 0.0.0.0 www.olx-polska-op05458.pol-id43892.co
 0.0.0.0 www.olx-polska-yvn.43355.me
@@ -50018,6 +50077,7 @@
 0.0.0.0 www.vinted-polska-jki.ordernew484822.info
 0.0.0.0 www.vinted-polska-jyr.order7159.info
 0.0.0.0 www.vinted-polska-kuy.order2588322.info
+0.0.0.0 www.vinted-polska-lbo.order7159.info
 0.0.0.0 www.vinted-polska-lsa.ordernew484822.info
 0.0.0.0 www.vinted-polska-luh.ordernew484822.info
 0.0.0.0 www.vinted-polska-mkm.order887766.info
@@ -50034,6 +50094,7 @@
 0.0.0.0 www.vinted-polska-slr.ordernew484822.info
 0.0.0.0 www.vinted-polska-syj.ordernew484822.info
 0.0.0.0 www.vinted-polska-szv.order7159.info
+0.0.0.0 www.vinted-polska-tdl.order7159.info
 0.0.0.0 www.vinted-polska-tdq.ordernew484822.info
 0.0.0.0 www.vinted-polska-wkb.ordernew484822.info
 0.0.0.0 www.vinted-polska-xpc.ordernew484822.info
@@ -50452,6 +50513,7 @@
 0.0.0.0 www.wiadomosci-radom.xyz
 0.0.0.0 www.wiadomosci-rybnik.xyz
 0.0.0.0 www.wiadomosci-sopot.xyz
+0.0.0.0 www.wiadomosci-swiat24h.pl
 0.0.0.0 www.wiadomosci-teraz5.cleverapps.io
 0.0.0.0 www.wiadomosci-tv-1638954584574.azureedge.net
 0.0.0.0 www.wiadomosci-tv-1693821669266.azureedge.net
