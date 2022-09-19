@@ -6,7 +6,7 @@ on:
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/vichs_image:2.26.8
+    container: ghcr.io/filtersheroes/sflb_image:3.0.1
     permissions:
       contents: write
     steps:
@@ -18,4 +18,4 @@ jobs:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          VICHS.sh ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+          python3 SFLB.py ./KADhosts.txt ./KADhole.txt ./KADomains.txt
