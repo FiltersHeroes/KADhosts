@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Tue, 20 Sep 2022, 00:59 UTC%:::z
-# Version: 2022.9.20.0
+# Last modified: Tue, 20 Sep 2022, 19:08 UTC+02:00
+# Version: 2022.9.20.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -14,94 +14,94 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt =>Pi-hole RegEx
-(^\|\.)pokolorujfb.*\.glt\.pl$
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt =>Pi-hole RegEx
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
+(^|\.)pokolorujfb.*\.glt\.pl$
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => Pi-hole RegEx
 #
 #
 # Przekrety
-#@ >>>>>>>> hole_przekrety + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt =>Pi-hole RegEx
-(^\|\.).*\..*\.mirsolar\.com\.tr$
-(^\|\.)allegro\.pl-nowe-regulamin.*\..*\.com$
-(^\|\.)allegroloklinie-oferta.*\.xyz$
-(^\|\.)apple-.*\.deviceoffergiveaways\.icu$
-(^\|\.)dates-here-now.*\.com$
-(^\|\.)dating-4-adults.*\.com$
-(^\|\.)dating-heart.*\.com$
-(^\|\.)distracted-babbage-.*\.netlify\.app$
-(^\|\.)dobrapraca.*\.ct8\.pl$
-(^\|\.)dreamwoman-finder.*\.com$
-(^\|\.)faccebook.*\.5v\.pl$
-(^\|\.)facebbook.*\.5v\.pl$
-(^\|\.)facebook.*\.5v\.pl$
-(^\|\.)facebook.*\.7m\.pl$
-(^\|\.)fakt.*\.is-best\.net$
-(^\|\.)faktypolska.*\.b-cdn\.net$
-(^\|\.)fb-service-login.*\.you2\.pl$
-(^\|\.)findyourlovenow.*\.com$
-(^\|\.)google-.*\..*giveaway.*\.xyz$
-(^\|\.)google-.*\..*offer.*\.icu$
-(^\|\.)google-.*\..*present.*\.icu$
-(^\|\.)historieludzkie.*\.online$
-(^\|\.)inform.*\.is-best\.net$
-(^\|\.)instasexlocator.*\.com$
-(^\|\.)komornik.*-gov\.tk$
-(^\|\.)localdates.*\.com$
-(^\|\.)lokalneinformacje.*\.vot\.pl$
-(^\|\.)mobile-app-market-here.*\.life$
-(^\|\.)money-for-you-.*\.ru$
-(^\|\.)mysexdating.*\.club$
-(^\|\.)newsy.*\.pro-linuxpl\.com$
-(^\|\.)nvisionpropl.*\.com$
-(^\|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
-(^\|\.)pl\.bitcoin.*\.t.*track.*\.com$
-(^\|\.)pl\.bitcoin.*\.track.*\.com$
-(^\|\.)platnik.*\.online$
-(^\|\.)polska-teraz.*\.idl\.pl$
-(^\|\.)poszukiwania.*\.com\.pl$
-(^\|\.)procars-shoppl.*\.com$
-(^\|\.)pulsoksymetr.*pl\.com$
-(^\|\.)riddexpl.*\.com$
-(^\|\.)sharefoto-.*\.idl\.pl$
-(^\|\.)sharefoto-.*\.vot\.pl$
-(^\|\.)sprnr.*\.net$
-(^\|\.)superchance-forwin.*\.life$
-(^\|\.)tvp-informacyjna.*\.eu$
-(^\|\.)update\..*sf.*\.online$
-(^\|\.)zaplata.*\.tk$
-(^\|\.)zdjecie-facebook-.*\.dkonto\.pl$
-#@ <<<<<<<< hole_przekrety + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt =>Pi-hole RegEx
+#@ >>>>>>>> hole_przekrety + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => Pi-hole RegEx
+(^|\.).*\..*\.mirsolar\.com\.tr$
+(^|\.)allegro\.pl-nowe-regulamin.*\..*\.com$
+(^|\.)allegroloklinie-oferta.*\.xyz$
+(^|\.)apple-.*\.deviceoffergiveaways\.icu$
+(^|\.)dates-here-now.*\.com$
+(^|\.)dating-4-adults.*\.com$
+(^|\.)dating-heart.*\.com$
+(^|\.)distracted-babbage-.*\.netlify\.app$
+(^|\.)dobrapraca.*\.ct8\.pl$
+(^|\.)dreamwoman-finder.*\.com$
+(^|\.)faccebook.*\.5v\.pl$
+(^|\.)facebbook.*\.5v\.pl$
+(^|\.)facebook.*\.5v\.pl$
+(^|\.)facebook.*\.7m\.pl$
+(^|\.)fakt.*\.is-best\.net$
+(^|\.)faktypolska.*\.b-cdn\.net$
+(^|\.)fb-service-login.*\.you2\.pl$
+(^|\.)findyourlovenow.*\.com$
+(^|\.)google-.*\..*giveaway.*\.xyz$
+(^|\.)google-.*\..*offer.*\.icu$
+(^|\.)google-.*\..*present.*\.icu$
+(^|\.)historieludzkie.*\.online$
+(^|\.)inform.*\.is-best\.net$
+(^|\.)instasexlocator.*\.com$
+(^|\.)komornik.*-gov\.tk$
+(^|\.)localdates.*\.com$
+(^|\.)lokalneinformacje.*\.vot\.pl$
+(^|\.)mobile-app-market-here.*\.life$
+(^|\.)money-for-you-.*\.ru$
+(^|\.)mysexdating.*\.club$
+(^|\.)newsy.*\.pro-linuxpl\.com$
+(^|\.)nvisionpropl.*\.com$
+(^|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
+(^|\.)pl\.bitcoin.*\.t.*track.*\.com$
+(^|\.)pl\.bitcoin.*\.track.*\.com$
+(^|\.)platnik.*\.online$
+(^|\.)polska-teraz.*\.idl\.pl$
+(^|\.)poszukiwania.*\.com\.pl$
+(^|\.)procars-shoppl.*\.com$
+(^|\.)pulsoksymetr.*pl\.com$
+(^|\.)riddexpl.*\.com$
+(^|\.)sharefoto-.*\.idl\.pl$
+(^|\.)sharefoto-.*\.vot\.pl$
+(^|\.)sprnr.*\.net$
+(^|\.)superchance-forwin.*\.life$
+(^|\.)tvp-informacyjna.*\.eu$
+(^|\.)update\..*sf.*\.online$
+(^|\.)zaplata.*\.tk$
+(^|\.)zdjecie-facebook-.*\.dkonto\.pl$
+#@ <<<<<<<< hole_przekrety + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => Pi-hole RegEx
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt =>Pi-hole RegEx
-(^\|\.).*fejs-colors\.blogspot\.com$
-(^\|\.).*internet-lte-5gb\.blogspot\.com$
-(^\|\.).*pakiety-lte-5gb\.blogspot\.com$
-(^\|\.).*pakiety-pokemon-go\.blogspot\.com$
-(^\|\.)barsy.*\.blogspot\.com$
-(^\|\.)czas-na-fb.*\.blogspot\.com$
-(^\|\.)fabryka-chinczykow.*\.blogspot\.com$
-(^\|\.)facebokznajomi.*\.blogspot\.com$
-(^\|\.)facebook-kolor.*\.blogspot\.com$
-(^\|\.)fb-podglad.*\.blogspot\.com$
-(^\|\.)fbcolor.*\.blogspot\.com$
-(^\|\.)fbpodglad.*\.blogspot\.com$
-(^\|\.)fcolors.*\.blogspot\.com$
-(^\|\.)fejsopodgladacz.*\.blogspot\.com$
-(^\|\.)freeiqtest.*\.blogspot\.com$
-(^\|\.)nauczycielkasex.*\.blogspot\.com$
-(^\|\.)odzyskajsnapy.*\.blogspot\.com$
-(^\|\.)polkawlesie.*\.blogspot\.com$
-(^\|\.)quality-products.*\.blogspot\.com$
-(^\|\.)sex-fabryka.*\.blogspot\.com$
-(^\|\.)sexdzieci.*\.blogspot\.com$
-(^\|\.)sexfabryka.*\.blogspot\.com$
-(^\|\.)szokgwalt.*\.blogspot\.com$
-(^\|\.)twoj-test-iq.*\.blogspot\.com$
-(^\|\.)wideo-pryszcz.*\.blogspot\.com$
-(^\|\.)wyciskanie-pryszcza.*\.blogspot\.com$
-(^\|\.)wyciskaniepryszcza0.*\.blogspot\.com$
-(^\|\.)wygrajnike.*\.blogspot\.com$
-(^\|\.)zgarnijnike.*\.blogspot\.com$
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt =>Pi-hole RegEx
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => Pi-hole RegEx
+(^|\.).*fejs-colors\.blogspot\.com$
+(^|\.).*internet-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-pokemon-go\.blogspot\.com$
+(^|\.)barsy.*\.blogspot\.com$
+(^|\.)czas-na-fb.*\.blogspot\.com$
+(^|\.)fabryka-chinczykow.*\.blogspot\.com$
+(^|\.)facebokznajomi.*\.blogspot\.com$
+(^|\.)facebook-kolor.*\.blogspot\.com$
+(^|\.)fb-podglad.*\.blogspot\.com$
+(^|\.)fbcolor.*\.blogspot\.com$
+(^|\.)fbpodglad.*\.blogspot\.com$
+(^|\.)fcolors.*\.blogspot\.com$
+(^|\.)fejsopodgladacz.*\.blogspot\.com$
+(^|\.)freeiqtest.*\.blogspot\.com$
+(^|\.)nauczycielkasex.*\.blogspot\.com$
+(^|\.)odzyskajsnapy.*\.blogspot\.com$
+(^|\.)polkawlesie.*\.blogspot\.com$
+(^|\.)quality-products.*\.blogspot\.com$
+(^|\.)sex-fabryka.*\.blogspot\.com$
+(^|\.)sexdzieci.*\.blogspot\.com$
+(^|\.)sexfabryka.*\.blogspot\.com$
+(^|\.)szokgwalt.*\.blogspot\.com$
+(^|\.)twoj-test-iq.*\.blogspot\.com$
+(^|\.)wideo-pryszcz.*\.blogspot\.com$
+(^|\.)wyciskanie-pryszcza.*\.blogspot\.com$
+(^|\.)wyciskaniepryszcza0.*\.blogspot\.com$
+(^|\.)wygrajnike.*\.blogspot\.com$
+(^|\.)zgarnijnike.*\.blogspot\.com$
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => Pi-hole RegEx
