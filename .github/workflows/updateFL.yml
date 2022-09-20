@@ -6,7 +6,7 @@ on:
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: ghcr.io/filtersheroes/sflb_image:3.0.2
+    container: ghcr.io/filtersheroes/sflb_image:3.0.3
     permissions:
       contents: write
     steps:
