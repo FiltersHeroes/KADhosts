@@ -7,7 +7,7 @@ jobs:
     steps:
     - checkout
     - run: |
-        python3 /usr/bin/SFLB.py ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+        python3 SFLB.py ./KADhosts.txt ./KADhole.txt ./KADomains.txt
 workflows:
   version: 2
   workflow:

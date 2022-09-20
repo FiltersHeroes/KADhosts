@@ -18,4 +18,4 @@ jobs:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          python3 /usr/bin/SFLB.py ./KADhosts.txt ./KADhole.txt ./KADomains.txt
+          SFLB.py ./KADhosts.txt ./KADhole.txt ./KADomains.txt
