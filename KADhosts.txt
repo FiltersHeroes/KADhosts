@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 20 Sep 2022, 14:45 UTC+02:00
-# Version: 2022.9.20.2
+# Last modified: Tue, 20 Sep 2022, 19:08 UTC+02:00
+# Version: 2022.9.20.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -15,7 +15,7 @@
 #
 #
 # Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt =>hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 0.0.0.0 1slo.pl
 0.0.0.0 1vulkanvegas.com
 0.0.0.0 3vulkanvegas.com
@@ -4714,11 +4714,11 @@
 0.0.0.0 zsporchowo.pl
 0.0.0.0 zukiewicz.com
 0.0.0.0 zulano.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt =>hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 #
 #
 # Przekierowuja do innych stron z przekretami
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt =>hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
 0.0.0.0 0n.click
 0.0.0.0 12monki-redirect.com
 0.0.0.0 12monkiredirect.com
@@ -5167,11 +5167,11 @@
 0.0.0.0 yarlnk.com
 0.0.0.0 yyn.us
 0.0.0.0 zetreview.com
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt =>hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
 #
 #
 # Szybko wygaszajace
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt =>hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => hosts
 0.0.0.0 4ur.click
 0.0.0.0 15b37.skroc.pl
 0.0.0.0 4332.ws
@@ -5362,11 +5362,11 @@
 0.0.0.0 zcontentlocker7gpa8a.xyz
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 0.0.0.0 zgarniij_vouchher.skroc.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt =>hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => hosts
 #
 #
 # Przekrety
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt =>hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 0.0.0.0 0-01x-merchandise.554217.xyz
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0bf09.escolatantra.com
@@ -6218,6 +6218,7 @@
 0.0.0.0 air-op.web.app
 0.0.0.0 air-pl.web.app
 0.0.0.0 air.me1.pub.unlt4bs.pl
+0.0.0.0 airandheat.sa.com
 0.0.0.0 airbnb-eu-longterm-6078100468752645.entire-accommodation.world
 0.0.0.0 airbnb-pl.firebaseapp.com
 0.0.0.0 airbnb-pl.web.app
@@ -7106,6 +7107,7 @@
 0.0.0.0 bafybeiaybbosvmyyaw3v7qfrsqwp5iykmjmtlekdgweqg6m6a6gtrjumem.ipfs.nftstorage.link
 0.0.0.0 bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 0.0.0.0 bafybeibsiimlf3cvtpraeltpuampoddnjakbllidmfiroz2lkdazc7zafa.ipfs.nftstorage.link
+0.0.0.0 bafybeibwu6s35d5dco5vvxoowzl4jyuqefghza7lnlcyrluchxlvynterm.ipfs.w3s.link
 0.0.0.0 bafybeichbpmsgyhn4kj2aiuuo4kne3p5p25drgvdl2zyppglg7cu6nzgym.ipfs.dweb.link
 0.0.0.0 bafybeidr2yg3kdxuvhkv3hsk6vwbrqng4eolnmvdlpzgnwycrpm2rud4wm.ipfs.infura-ipfs.io
 0.0.0.0 bafybeif7jnp6gxc5fepsm7yaaizx32xmcp6hsraxn7xrn2qhjzbnlilj6y.ipfs.fleek.cool
@@ -7119,6 +7121,7 @@
 0.0.0.0 baiyeqj.com
 0.0.0.0 bakchiich.nl
 0.0.0.0 baklavao.pl
+0.0.0.0 bal.holzs.online
 0.0.0.0 bal.omudin.site
 0.0.0.0 bal.roonss.xyz
 0.0.0.0 bal.zostt.xyz
@@ -7372,6 +7375,7 @@
 0.0.0.0 bestdealscard.com
 0.0.0.0 bestfloorcoatings.com
 0.0.0.0 bestfol-com.preview-domain.com
+0.0.0.0 bestgensolutions.us
 0.0.0.0 besthealthpeoples.com
 0.0.0.0 bestidease.com
 0.0.0.0 bestin.site
@@ -8150,6 +8154,7 @@
 0.0.0.0 calyfilmhd.over-blog.com
 0.0.0.0 calykindsa.tk
 0.0.0.0 calyxesnon.pl
+0.0.0.0 camomileco.com
 0.0.0.0 campanolog.pl
 0.0.0.0 campanologyentombed.info
 0.0.0.0 campbellsvilles.info
@@ -8575,6 +8580,7 @@
 0.0.0.0 citibahk.com
 0.0.0.0 citiibank.info
 0.0.0.0 citiibank.online
+0.0.0.0 citiyibank.info
 0.0.0.0 citiyibank.ltd
 0.0.0.0 citiyibank.online
 0.0.0.0 citution.pl
@@ -8802,6 +8808,7 @@
 0.0.0.0 communicationpedia.com
 0.0.0.0 communicazioni.kpi1hit5ficscvn.neysanbartehran.com
 0.0.0.0 commutecle.com
+0.0.0.0 comp.artaav.site
 0.0.0.0 comp.ctiril.online
 0.0.0.0 comp.m2pl.online
 0.0.0.0 comp.milproj.site
@@ -10742,6 +10749,7 @@
 0.0.0.0 dashboard-moneylion-secure.com
 0.0.0.0 dashboard-moneylion-secure.org
 0.0.0.0 dast-com.preview-domain.com
+0.0.0.0 data.sin-thai.sbs
 0.0.0.0 datacquence.com
 0.0.0.0 dataentryworkfromhomejobs.com
 0.0.0.0 datatodome.org
@@ -11871,6 +11879,7 @@
 0.0.0.0 drewnianyklusowac.site
 0.0.0.0 drewtop.shop
 0.0.0.0 driehner.com
+0.0.0.0 drillmast.com
 0.0.0.0 drilltom.com
 0.0.0.0 drilopscorsandtuwi.tk
 0.0.0.0 drinpa.pl
@@ -13155,6 +13164,7 @@
 0.0.0.0 finmaxbo.com
 0.0.0.0 finmaxfx.com
 0.0.0.0 finmsanfusandimasidma.bar
+0.0.0.0 finni-glass.site
 0.0.0.0 finomarkets.com
 0.0.0.0 finpubnetwork.com
 0.0.0.0 fintech-profit.us
@@ -13770,6 +13780,7 @@
 0.0.0.0 giftinguru.com
 0.0.0.0 giga-bonus.xyz
 0.0.0.0 gigabitcis.pl
+0.0.0.0 gigabruly.com
 0.0.0.0 gigachains.com
 0.0.0.0 gigantus.xyz
 0.0.0.0 gigiamu.pl
@@ -14858,6 +14869,7 @@
 0.0.0.0 in-post-pl-myid272xs.idon.top
 0.0.0.0 in-post-pl-myid272xs.iwantaviation.info
 0.0.0.0 in-post-pl-myid272xs.karatbars.live
+0.0.0.0 in-post-pl-myid272xs.kreasi.top
 0.0.0.0 in-post-pl-myid272xs.lessformore.life
 0.0.0.0 in-post-pl-myid272xs.liaoyang.xyz
 0.0.0.0 in-post-pl-myid272xs.limello.live
@@ -14940,6 +14952,7 @@
 0.0.0.0 inf0pay4cago79-8sendjnf457.4521544.xyz
 0.0.0.0 inf-blog.alxprogs.xyz
 0.0.0.0 inf-stat1.alxprogs.xyz
+0.0.0.0 inf.artaav.site
 0.0.0.0 inf.cetan1.site
 0.0.0.0 inf.crptgen1.xyz
 0.0.0.0 inf.gaztr.xyz
@@ -15515,6 +15528,7 @@
 0.0.0.0 inp0st-merchandise.7668778.xyz
 0.0.0.0 inp0st-product.433233.xyz
 0.0.0.0 inp0st-product.776590007.xyz
+0.0.0.0 inp0st-purchase.567098.xyz
 0.0.0.0 inp00st-purchase.7342461.xyz
 0.0.0.0 inp0st-purchase.69895232.xyz
 0.0.0.0 inp0st-sending.6574436.xyz
@@ -15525,6 +15539,7 @@
 0.0.0.0 inp0st-shopping.563321.xyz
 0.0.0.0 inp0st-shopping.6485986.xyz
 0.0.0.0 inp00st-site7.433241.xyz
+0.0.0.0 inp0st-store43.30641255.space
 0.0.0.0 inp0st-store.2312202.xyz
 0.0.0.0 inp0st-store.54644841.xyz
 0.0.0.0 inp0st.845-infodelivery.xyz
@@ -18846,6 +18861,7 @@
 0.0.0.0 kaadso-xyz.preview-domain.com
 0.0.0.0 kabarin.co
 0.0.0.0 kaenus.site
+0.0.0.0 kaersole.site
 0.0.0.0 kaftakoy.space
 0.0.0.0 kaftakoy.win
 0.0.0.0 kaingore.uno
@@ -19043,6 +19059,7 @@
 0.0.0.0 kielkowacczubek.site
 0.0.0.0 kiepscy.evai.pl
 0.0.0.0 kierowca-info.pl
+0.0.0.0 kifesqend.shop
 0.0.0.0 kikbrane.xyz
 0.0.0.0 kikuchitadahisa.com
 0.0.0.0 kiljeron.uno
@@ -19628,6 +19645,7 @@
 0.0.0.0 linkusup.com
 0.0.0.0 linowea.space
 0.0.0.0 linuxsalt.org
+0.0.0.0 lioninvestph.com
 0.0.0.0 lioniserhorsily.com
 0.0.0.0 lipalanptabve.gq
 0.0.0.0 liquefieruts.com
@@ -20411,6 +20429,7 @@
 0.0.0.0 maxi-pl.polprogramm1.xyz
 0.0.0.0 maxi-pro.maxipl-system.xyz
 0.0.0.0 maxi.polprogramm1.xyz
+0.0.0.0 maximc.tmasprog.site
 0.0.0.0 maximiy.xyz
 0.0.0.0 maxiplus.cc
 0.0.0.0 maxipr.pl4ainreaction.xyz
@@ -20521,6 +20540,7 @@
 0.0.0.0 meicoe.com
 0.0.0.0 meidian.wang
 0.0.0.0 meierweb.com
+0.0.0.0 meinceunta.cfolks.pl
 0.0.0.0 meinceuntoffic.cfolks.pl
 0.0.0.0 mekalsop.site
 0.0.0.0 mekols.win
@@ -20732,6 +20752,7 @@
 0.0.0.0 mips.su
 0.0.0.0 miracleshedle.com
 0.0.0.0 miracletv.us
+0.0.0.0 miradorsun.com
 0.0.0.0 miranda-sklep.pl
 0.0.0.0 mirohost.online
 0.0.0.0 mirohost.site
@@ -20755,6 +20776,7 @@
 0.0.0.0 misky-es.com
 0.0.0.0 mispajujunanunu.co.vu
 0.0.0.0 missionpark100.com
+0.0.0.0 missuitin.com
 0.0.0.0 mistiche.space
 0.0.0.0 misyoke.pl
 0.0.0.0 mitamo-sklep.pl
@@ -21215,6 +21237,7 @@
 0.0.0.0 mtraskphotography.com
 0.0.0.0 mtvlex.com
 0.0.0.0 muchoparking.com
+0.0.0.0 muckersund.com
 0.0.0.0 mudcappe.xyz
 0.0.0.0 muikdok-invest.pro
 0.0.0.0 mukunth.com
@@ -22576,6 +22599,7 @@
 0.0.0.0 ojaivillasandgolf.com
 0.0.0.0 ojxjptcyghx.digital
 0.0.0.0 ok24.com.pl
+0.0.0.0 ok.miinor.site
 0.0.0.0 ok.ssilpik.site
 0.0.0.0 okajno.win
 0.0.0.0 okazja-dla-wszystkich.site
@@ -22674,9 +22698,11 @@
 0.0.0.0 olx-kjjwq.catnap.live
 0.0.0.0 olx-kjjwq.clhctrk.com
 0.0.0.0 olx-kjjwq.farmed.life
+0.0.0.0 olx-kjjwq.garati.xyz
 0.0.0.0 olx-kjjwq.getfiit.xyz
 0.0.0.0 olx-kjjwq.hbgjzqpt.com
 0.0.0.0 olx-kjjwq.komon.live
+0.0.0.0 olx-kjjwq.marbeh.live
 0.0.0.0 olx-kjjwq.ngetik.top
 0.0.0.0 olx-kjjwq.nouvelleskin.shop
 0.0.0.0 olx-kjjwq.order-ship.com
@@ -23026,11 +23052,13 @@
 0.0.0.0 olx-pol-kxlsw2.saute.live
 0.0.0.0 olx-pol-kxlsw2.sjkdh.xyz
 0.0.0.0 olx-pol-kxlsw2.smitraly.xyz
+0.0.0.0 olx-pol-kxlsw2.sousf.xyz
 0.0.0.0 olx-pol-kxlsw2.todaydeals.shop
 0.0.0.0 olx-pol-kxlsw2.tomsen.top
 0.0.0.0 olx-pol-kxlsw2.tongse.top
 0.0.0.0 olx-pol-kxlsw2.tubidye.xyz
 0.0.0.0 olx-pol-kxlsw2.tzjtzj.top
+0.0.0.0 olx-pol-kxlsw2.usnorr.live
 0.0.0.0 olx-pol-kxlsw2.vanhien.xyz
 0.0.0.0 olx-pol-kxlsw2.vansonsoo.com
 0.0.0.0 olx-pol-kxlsw2.virbuz.xyz
@@ -23038,8 +23066,11 @@
 0.0.0.0 olx-pol-kxlsw2.vivant.xyz
 0.0.0.0 olx-pol-kxlsw2.wdqq.xyz
 0.0.0.0 olx-pol-kxlsw2.wishdream.shop
+0.0.0.0 olx-pol-kxlsw2.xueai.top
+0.0.0.0 olx-pol-kxlsw2.yashou.top
 0.0.0.0 olx-pol-kxlsw2.yassma.xyz
 0.0.0.0 olx-pol-kxlsw2.yojin.xyz
+0.0.0.0 olx-pol-kxlsw2.ysaksc.top
 0.0.0.0 olx-pol-kxlsw2.zhunsp.xyz
 0.0.0.0 olx-pol-kxlsw2.ztosmw.live
 0.0.0.0 olx-pol-kxlsw2.zuojin.top
@@ -24563,6 +24594,7 @@
 0.0.0.0 onsappsail-dev.com
 0.0.0.0 onseriocodes.com
 0.0.0.0 onthepage.in
+0.0.0.0 ontogenese.com
 0.0.0.0 onyxprofit.pro
 0.0.0.0 oo4.org
 0.0.0.0 oocuhyejdcvvvd.vdl.pl
@@ -25753,6 +25785,7 @@
 0.0.0.0 piatek-wp.tokoapril.com
 0.0.0.0 piatkowe-wiadomosci.waw.pl
 0.0.0.0 pib7bocaiuvadosul.com.br
+0.0.0.0 pib.safars.online
 0.0.0.0 pic.setaccount.xyz
 0.0.0.0 picayune-tangible-detective.glitch.me
 0.0.0.0 picketer.xyz
@@ -26648,6 +26681,7 @@
 0.0.0.0 poll.bamp.site
 0.0.0.0 poll.cityxman.com
 0.0.0.0 pollainv.web.app
+0.0.0.0 pollardcl.com
 0.0.0.0 poln-pro1.polanfirm11.xyz
 0.0.0.0 polnd-news.info
 0.0.0.0 polquantly.click
@@ -27456,6 +27490,7 @@
 0.0.0.0 preselecti.de
 0.0.0.0 presoakund.pl
 0.0.0.0 press.fastprof.xyz
+0.0.0.0 pressuresb.com
 0.0.0.0 prestandard.info
 0.0.0.0 presumption.info
 0.0.0.0 presurgency.com
@@ -27490,6 +27525,7 @@
 0.0.0.0 prileuwki.prlanticjutie.xyz
 0.0.0.0 prilka.prlmaxiapllidogen.xyz
 0.0.0.0 prilojenieeu.polkatrikolorkaq.xyz
+0.0.0.0 prilojeniepl.polkatrikolorkaq.xyz
 0.0.0.0 primatolog.pl
 0.0.0.0 primebit.com
 0.0.0.0 primecapital.pro
@@ -28024,6 +28060,7 @@
 0.0.0.0 qubble.com
 0.0.0.0 qubit.life
 0.0.0.0 qubittech.dev
+0.0.0.0 qudianbo.com
 0.0.0.0 quebocalyalbum.byethost6.com
 0.0.0.0 queernesse.pl
 0.0.0.0 quentbuity.space
@@ -28839,6 +28876,7 @@
 0.0.0.0 sbcapitalmanagementinc.com
 0.0.0.0 sc-tradingco.com
 0.0.0.0 scabbardingneurotics.xyz
+0.0.0.0 scaffolded.xyz
 0.0.0.0 scandalcolumn.com
 0.0.0.0 scandentsubjacently.com
 0.0.0.0 scaremonge.pl
@@ -29448,6 +29486,7 @@
 0.0.0.0 skoda-toimy-project.info
 0.0.0.0 skokleniwy.site
 0.0.0.0 skolmozh-site.preview-domain.com
+0.0.0.0 skoresko.uno
 0.0.0.0 skrepka-com.preview-domain.com
 0.0.0.0 skretono.online
 0.0.0.0 skrpanstwo.net
@@ -31915,6 +31954,7 @@
 0.0.0.0 vaushid.com
 0.0.0.0 vax.gaznf.xyz
 0.0.0.0 vaz.bashes.site
+0.0.0.0 vaz.bozal.online
 0.0.0.0 vaz.lazt.online
 0.0.0.0 vazna-ifnormacja.eu
 0.0.0.0 vb.ifnprog.xyz
@@ -32263,6 +32303,7 @@
 0.0.0.0 vinted-order.host
 0.0.0.0 vinted-orh.id23988.me
 0.0.0.0 vinted-payshop.695223021.xyz
+0.0.0.0 vinted-paystore.34208.fun
 0.0.0.0 vinted-pi.id-pl027184596.pics
 0.0.0.0 vinted-pi.id-pl057184396.cloud
 0.0.0.0 vinted-pi.idpl718493264.top
@@ -35603,6 +35644,7 @@
 0.0.0.0 www.air-op.web.app
 0.0.0.0 www.air-pl.web.app
 0.0.0.0 www.air.me1.pub.unlt4bs.pl
+0.0.0.0 www.airandheat.sa.com
 0.0.0.0 www.airbnb-eu-longterm-6078100468752645.entire-accommodation.world
 0.0.0.0 www.airbnb-pl.firebaseapp.com
 0.0.0.0 www.airbnb-pl.web.app
@@ -36491,6 +36533,7 @@
 0.0.0.0 www.bafybeiaybbosvmyyaw3v7qfrsqwp5iykmjmtlekdgweqg6m6a6gtrjumem.ipfs.nftstorage.link
 0.0.0.0 www.bafybeibjfaazlungprctrtapxt4epjqtvxl2heomxql6a65ohdthhpotr4.ipfs.w3s.link
 0.0.0.0 www.bafybeibsiimlf3cvtpraeltpuampoddnjakbllidmfiroz2lkdazc7zafa.ipfs.nftstorage.link
+0.0.0.0 www.bafybeibwu6s35d5dco5vvxoowzl4jyuqefghza7lnlcyrluchxlvynterm.ipfs.w3s.link
 0.0.0.0 www.bafybeichbpmsgyhn4kj2aiuuo4kne3p5p25drgvdl2zyppglg7cu6nzgym.ipfs.dweb.link
 0.0.0.0 www.bafybeidr2yg3kdxuvhkv3hsk6vwbrqng4eolnmvdlpzgnwycrpm2rud4wm.ipfs.infura-ipfs.io
 0.0.0.0 www.bafybeif7jnp6gxc5fepsm7yaaizx32xmcp6hsraxn7xrn2qhjzbnlilj6y.ipfs.fleek.cool
@@ -36504,6 +36547,7 @@
 0.0.0.0 www.baiyeqj.com
 0.0.0.0 www.bakchiich.nl
 0.0.0.0 www.baklavao.pl
+0.0.0.0 www.bal.holzs.online
 0.0.0.0 www.bal.omudin.site
 0.0.0.0 www.bal.roonss.xyz
 0.0.0.0 www.bal.zostt.xyz
@@ -36757,6 +36801,7 @@
 0.0.0.0 www.bestdealscard.com
 0.0.0.0 www.bestfloorcoatings.com
 0.0.0.0 www.bestfol-com.preview-domain.com
+0.0.0.0 www.bestgensolutions.us
 0.0.0.0 www.besthealthpeoples.com
 0.0.0.0 www.bestidease.com
 0.0.0.0 www.bestin.site
@@ -37535,6 +37580,7 @@
 0.0.0.0 www.calyfilmhd.over-blog.com
 0.0.0.0 www.calykindsa.tk
 0.0.0.0 www.calyxesnon.pl
+0.0.0.0 www.camomileco.com
 0.0.0.0 www.campanolog.pl
 0.0.0.0 www.campanologyentombed.info
 0.0.0.0 www.campbellsvilles.info
@@ -37960,6 +38006,7 @@
 0.0.0.0 www.citibahk.com
 0.0.0.0 www.citiibank.info
 0.0.0.0 www.citiibank.online
+0.0.0.0 www.citiyibank.info
 0.0.0.0 www.citiyibank.ltd
 0.0.0.0 www.citiyibank.online
 0.0.0.0 www.citution.pl
@@ -38187,6 +38234,7 @@
 0.0.0.0 www.communicationpedia.com
 0.0.0.0 www.communicazioni.kpi1hit5ficscvn.neysanbartehran.com
 0.0.0.0 www.commutecle.com
+0.0.0.0 www.comp.artaav.site
 0.0.0.0 www.comp.ctiril.online
 0.0.0.0 www.comp.m2pl.online
 0.0.0.0 www.comp.milproj.site
@@ -40127,6 +40175,7 @@
 0.0.0.0 www.dashboard-moneylion-secure.com
 0.0.0.0 www.dashboard-moneylion-secure.org
 0.0.0.0 www.dast-com.preview-domain.com
+0.0.0.0 www.data.sin-thai.sbs
 0.0.0.0 www.datacquence.com
 0.0.0.0 www.dataentryworkfromhomejobs.com
 0.0.0.0 www.datatodome.org
@@ -41256,6 +41305,7 @@
 0.0.0.0 www.drewnianyklusowac.site
 0.0.0.0 www.drewtop.shop
 0.0.0.0 www.driehner.com
+0.0.0.0 www.drillmast.com
 0.0.0.0 www.drilltom.com
 0.0.0.0 www.drilopscorsandtuwi.tk
 0.0.0.0 www.drinpa.pl
@@ -42540,6 +42590,7 @@
 0.0.0.0 www.finmaxbo.com
 0.0.0.0 www.finmaxfx.com
 0.0.0.0 www.finmsanfusandimasidma.bar
+0.0.0.0 www.finni-glass.site
 0.0.0.0 www.finomarkets.com
 0.0.0.0 www.finpubnetwork.com
 0.0.0.0 www.fintech-profit.us
@@ -43155,6 +43206,7 @@
 0.0.0.0 www.giftinguru.com
 0.0.0.0 www.giga-bonus.xyz
 0.0.0.0 www.gigabitcis.pl
+0.0.0.0 www.gigabruly.com
 0.0.0.0 www.gigachains.com
 0.0.0.0 www.gigantus.xyz
 0.0.0.0 www.gigiamu.pl
@@ -44243,6 +44295,7 @@
 0.0.0.0 www.in-post-pl-myid272xs.idon.top
 0.0.0.0 www.in-post-pl-myid272xs.iwantaviation.info
 0.0.0.0 www.in-post-pl-myid272xs.karatbars.live
+0.0.0.0 www.in-post-pl-myid272xs.kreasi.top
 0.0.0.0 www.in-post-pl-myid272xs.lessformore.life
 0.0.0.0 www.in-post-pl-myid272xs.liaoyang.xyz
 0.0.0.0 www.in-post-pl-myid272xs.limello.live
@@ -44325,6 +44378,7 @@
 0.0.0.0 www.inf0pay4cago79-8sendjnf457.4521544.xyz
 0.0.0.0 www.inf-blog.alxprogs.xyz
 0.0.0.0 www.inf-stat1.alxprogs.xyz
+0.0.0.0 www.inf.artaav.site
 0.0.0.0 www.inf.cetan1.site
 0.0.0.0 www.inf.crptgen1.xyz
 0.0.0.0 www.inf.gaztr.xyz
@@ -44900,6 +44954,7 @@
 0.0.0.0 www.inp0st-merchandise.7668778.xyz
 0.0.0.0 www.inp0st-product.433233.xyz
 0.0.0.0 www.inp0st-product.776590007.xyz
+0.0.0.0 www.inp0st-purchase.567098.xyz
 0.0.0.0 www.inp00st-purchase.7342461.xyz
 0.0.0.0 www.inp0st-purchase.69895232.xyz
 0.0.0.0 www.inp0st-sending.6574436.xyz
@@ -44910,6 +44965,7 @@
 0.0.0.0 www.inp0st-shopping.563321.xyz
 0.0.0.0 www.inp0st-shopping.6485986.xyz
 0.0.0.0 www.inp00st-site7.433241.xyz
+0.0.0.0 www.inp0st-store43.30641255.space
 0.0.0.0 www.inp0st-store.2312202.xyz
 0.0.0.0 www.inp0st-store.54644841.xyz
 0.0.0.0 www.inp0st.845-infodelivery.xyz
@@ -48231,6 +48287,7 @@
 0.0.0.0 www.kaadso-xyz.preview-domain.com
 0.0.0.0 www.kabarin.co
 0.0.0.0 www.kaenus.site
+0.0.0.0 www.kaersole.site
 0.0.0.0 www.kaftakoy.space
 0.0.0.0 www.kaftakoy.win
 0.0.0.0 www.kaingore.uno
@@ -48428,6 +48485,7 @@
 0.0.0.0 www.kielkowacczubek.site
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 www.kierowca-info.pl
+0.0.0.0 www.kifesqend.shop
 0.0.0.0 www.kikbrane.xyz
 0.0.0.0 www.kikuchitadahisa.com
 0.0.0.0 www.kiljeron.uno
@@ -49013,6 +49071,7 @@
 0.0.0.0 www.linkusup.com
 0.0.0.0 www.linowea.space
 0.0.0.0 www.linuxsalt.org
+0.0.0.0 www.lioninvestph.com
 0.0.0.0 www.lioniserhorsily.com
 0.0.0.0 www.lipalanptabve.gq
 0.0.0.0 www.liquefieruts.com
@@ -49796,6 +49855,7 @@
 0.0.0.0 www.maxi-pl.polprogramm1.xyz
 0.0.0.0 www.maxi-pro.maxipl-system.xyz
 0.0.0.0 www.maxi.polprogramm1.xyz
+0.0.0.0 www.maximc.tmasprog.site
 0.0.0.0 www.maximiy.xyz
 0.0.0.0 www.maxiplus.cc
 0.0.0.0 www.maxipr.pl4ainreaction.xyz
@@ -49906,6 +49966,7 @@
 0.0.0.0 www.meicoe.com
 0.0.0.0 www.meidian.wang
 0.0.0.0 www.meierweb.com
+0.0.0.0 www.meinceunta.cfolks.pl
 0.0.0.0 www.meinceuntoffic.cfolks.pl
 0.0.0.0 www.mekalsop.site
 0.0.0.0 www.mekols.win
@@ -50117,6 +50178,7 @@
 0.0.0.0 www.mips.su
 0.0.0.0 www.miracleshedle.com
 0.0.0.0 www.miracletv.us
+0.0.0.0 www.miradorsun.com
 0.0.0.0 www.miranda-sklep.pl
 0.0.0.0 www.mirohost.online
 0.0.0.0 www.mirohost.site
@@ -50140,6 +50202,7 @@
 0.0.0.0 www.misky-es.com
 0.0.0.0 www.mispajujunanunu.co.vu
 0.0.0.0 www.missionpark100.com
+0.0.0.0 www.missuitin.com
 0.0.0.0 www.mistiche.space
 0.0.0.0 www.misyoke.pl
 0.0.0.0 www.mitamo-sklep.pl
@@ -50601,6 +50664,7 @@
 0.0.0.0 www.mtraskphotography.com
 0.0.0.0 www.mtvlex.com
 0.0.0.0 www.muchoparking.com
+0.0.0.0 www.muckersund.com
 0.0.0.0 www.mudcappe.xyz
 0.0.0.0 www.muikdok-invest.pro
 0.0.0.0 www.mukunth.com
@@ -51962,6 +52026,7 @@
 0.0.0.0 www.ojaivillasandgolf.com
 0.0.0.0 www.ojxjptcyghx.digital
 0.0.0.0 www.ok24.com.pl
+0.0.0.0 www.ok.miinor.site
 0.0.0.0 www.ok.ssilpik.site
 0.0.0.0 www.okajno.win
 0.0.0.0 www.okazja-dla-wszystkich.site
@@ -52060,9 +52125,11 @@
 0.0.0.0 www.olx-kjjwq.catnap.live
 0.0.0.0 www.olx-kjjwq.clhctrk.com
 0.0.0.0 www.olx-kjjwq.farmed.life
+0.0.0.0 www.olx-kjjwq.garati.xyz
 0.0.0.0 www.olx-kjjwq.getfiit.xyz
 0.0.0.0 www.olx-kjjwq.hbgjzqpt.com
 0.0.0.0 www.olx-kjjwq.komon.live
+0.0.0.0 www.olx-kjjwq.marbeh.live
 0.0.0.0 www.olx-kjjwq.ngetik.top
 0.0.0.0 www.olx-kjjwq.nouvelleskin.shop
 0.0.0.0 www.olx-kjjwq.order-ship.com
@@ -52412,11 +52479,13 @@
 0.0.0.0 www.olx-pol-kxlsw2.saute.live
 0.0.0.0 www.olx-pol-kxlsw2.sjkdh.xyz
 0.0.0.0 www.olx-pol-kxlsw2.smitraly.xyz
+0.0.0.0 www.olx-pol-kxlsw2.sousf.xyz
 0.0.0.0 www.olx-pol-kxlsw2.todaydeals.shop
 0.0.0.0 www.olx-pol-kxlsw2.tomsen.top
 0.0.0.0 www.olx-pol-kxlsw2.tongse.top
 0.0.0.0 www.olx-pol-kxlsw2.tubidye.xyz
 0.0.0.0 www.olx-pol-kxlsw2.tzjtzj.top
+0.0.0.0 www.olx-pol-kxlsw2.usnorr.live
 0.0.0.0 www.olx-pol-kxlsw2.vanhien.xyz
 0.0.0.0 www.olx-pol-kxlsw2.vansonsoo.com
 0.0.0.0 www.olx-pol-kxlsw2.virbuz.xyz
@@ -52424,8 +52493,11 @@
 0.0.0.0 www.olx-pol-kxlsw2.vivant.xyz
 0.0.0.0 www.olx-pol-kxlsw2.wdqq.xyz
 0.0.0.0 www.olx-pol-kxlsw2.wishdream.shop
+0.0.0.0 www.olx-pol-kxlsw2.xueai.top
+0.0.0.0 www.olx-pol-kxlsw2.yashou.top
 0.0.0.0 www.olx-pol-kxlsw2.yassma.xyz
 0.0.0.0 www.olx-pol-kxlsw2.yojin.xyz
+0.0.0.0 www.olx-pol-kxlsw2.ysaksc.top
 0.0.0.0 www.olx-pol-kxlsw2.zhunsp.xyz
 0.0.0.0 www.olx-pol-kxlsw2.ztosmw.live
 0.0.0.0 www.olx-pol-kxlsw2.zuojin.top
@@ -53949,6 +54021,7 @@
 0.0.0.0 www.onsappsail-dev.com
 0.0.0.0 www.onseriocodes.com
 0.0.0.0 www.onthepage.in
+0.0.0.0 www.ontogenese.com
 0.0.0.0 www.onyxprofit.pro
 0.0.0.0 www.oo4.org
 0.0.0.0 www.oocuhyejdcvvvd.vdl.pl
@@ -55139,6 +55212,7 @@
 0.0.0.0 www.piatek-wp.tokoapril.com
 0.0.0.0 www.piatkowe-wiadomosci.waw.pl
 0.0.0.0 www.pib7bocaiuvadosul.com.br
+0.0.0.0 www.pib.safars.online
 0.0.0.0 www.pic.setaccount.xyz
 0.0.0.0 www.picayune-tangible-detective.glitch.me
 0.0.0.0 www.picketer.xyz
@@ -55895,6 +55969,7 @@
 0.0.0.0 www.poll.bamp.site
 0.0.0.0 www.poll.cityxman.com
 0.0.0.0 www.pollainv.web.app
+0.0.0.0 www.pollardcl.com
 0.0.0.0 www.poln-pro1.polanfirm11.xyz
 0.0.0.0 www.polnd-news.info
 0.0.0.0 www.polquantly.click
@@ -56703,6 +56778,7 @@
 0.0.0.0 www.preselecti.de
 0.0.0.0 www.presoakund.pl
 0.0.0.0 www.press.fastprof.xyz
+0.0.0.0 www.pressuresb.com
 0.0.0.0 www.prestandard.info
 0.0.0.0 www.presumption.info
 0.0.0.0 www.presurgency.com
@@ -56737,6 +56813,7 @@
 0.0.0.0 www.prileuwki.prlanticjutie.xyz
 0.0.0.0 www.prilka.prlmaxiapllidogen.xyz
 0.0.0.0 www.prilojenieeu.polkatrikolorkaq.xyz
+0.0.0.0 www.prilojeniepl.polkatrikolorkaq.xyz
 0.0.0.0 www.primatolog.pl
 0.0.0.0 www.primebit.com
 0.0.0.0 www.primecapital.pro
@@ -57271,6 +57348,7 @@
 0.0.0.0 www.qubble.com
 0.0.0.0 www.qubit.life
 0.0.0.0 www.qubittech.dev
+0.0.0.0 www.qudianbo.com
 0.0.0.0 www.quebocalyalbum.byethost6.com
 0.0.0.0 www.queernesse.pl
 0.0.0.0 www.quentbuity.space
@@ -58086,6 +58164,7 @@
 0.0.0.0 www.sbcapitalmanagementinc.com
 0.0.0.0 www.sc-tradingco.com
 0.0.0.0 www.scabbardingneurotics.xyz
+0.0.0.0 www.scaffolded.xyz
 0.0.0.0 www.scandalcolumn.com
 0.0.0.0 www.scandentsubjacently.com
 0.0.0.0 www.scaremonge.pl
@@ -58695,6 +58774,7 @@
 0.0.0.0 www.skoda-toimy-project.info
 0.0.0.0 www.skokleniwy.site
 0.0.0.0 www.skolmozh-site.preview-domain.com
+0.0.0.0 www.skoresko.uno
 0.0.0.0 www.skrepka-com.preview-domain.com
 0.0.0.0 www.skretono.online
 0.0.0.0 www.skrpanstwo.net
@@ -61162,6 +61242,7 @@
 0.0.0.0 www.vaushid.com
 0.0.0.0 www.vax.gaznf.xyz
 0.0.0.0 www.vaz.bashes.site
+0.0.0.0 www.vaz.bozal.online
 0.0.0.0 www.vaz.lazt.online
 0.0.0.0 www.vazna-ifnormacja.eu
 0.0.0.0 www.vb.ifnprog.xyz
@@ -61510,6 +61591,7 @@
 0.0.0.0 www.vinted-order.host
 0.0.0.0 www.vinted-orh.id23988.me
 0.0.0.0 www.vinted-payshop.695223021.xyz
+0.0.0.0 www.vinted-paystore.34208.fun
 0.0.0.0 www.vinted-pi.id-pl027184596.pics
 0.0.0.0 www.vinted-pi.id-pl057184396.cloud
 0.0.0.0 www.vinted-pi.idpl718493264.top
@@ -65669,11 +65751,11 @@
 0.0.0.0 zyzlk.com
 0.0.0.0 zzx.gaznf.xyz
 0.0.0.0 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt =>hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt =>hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => hosts
 0.0.0.0 5gb-internetu-pakiety.blogspot.com
 0.0.0.0 123musicblend.blogspot.com
 0.0.0.0 accelerationlife.blogspot.com
@@ -66340,11 +66422,11 @@
 0.0.0.0 zmienkolorfejsazafree.blogspot.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 0.0.0.0 zuzu-criss.blogspot.com
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt =>hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/blogspot.txt => hosts
 #
 #
 # Dodatki hosts
-#@ >>>>>>>> hostsplus =>hosts
+#@ >>>>>>>> hostsplus => hosts
 0.0.0.0 00ed983688.kacwyb.pl
 0.0.0.0 0x-code.financialmarketsworld.com
 0.0.0.0 1ec5e477ed.natrasiekorzysci.pl
@@ -68593,4 +68675,4 @@
 0.0.0.0 zebywybielanie.c.pl
 0.0.0.0 zmienkolory.blogspot.com
 0.0.0.0 zoymwo.thousandquotientscience.top
-#@ <<<<<<<< hostsplus =>hosts
+#@ <<<<<<<< hostsplus => hosts
