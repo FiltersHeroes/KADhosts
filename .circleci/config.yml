@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-    - image: polishfiltersteam/sflb_image:3.0.4
+    - image: polishfiltersteam/sflb_image:3.0.5
     working_directory: ~/git/KADhosts
     steps:
     - checkout
