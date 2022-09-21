@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 21 Sep 2022, 18:34 UTC+02:00
-# Version: 2022.9.21.2
+# Last modified: Wed, 21 Sep 2022, 22:24 UTC+02:00
+# Version: 2022.9.21.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6446,6 +6446,7 @@
 0.0.0.0 allegrolokalne.site
 0.0.0.0 allegrolokalnie-delivery.011249.xyz
 0.0.0.0 allegrolokalnie-market.7599051.xyz
+0.0.0.0 allegrolokalnie-payment.6742213.xyz
 0.0.0.0 allegrolokalnie-pl-3dsafe.dostawa-id.live
 0.0.0.0 allegrolokalnie-pl-3dsafe.id-98153.xyz
 0.0.0.0 allegrolokalnie-pl-3dsec.clear-dostawa.xyz
@@ -11593,6 +11594,8 @@
 0.0.0.0 dostaw-inpost.net
 0.0.0.0 dostawa-info.cyou
 0.0.0.0 dostawa-inpost.pl
+0.0.0.0 dostawa-lnpost-9polska.dell-dostavkahomes74.pl
+0.0.0.0 dostawa-lnpost-polska.polndsdostawanec75.pl
 0.0.0.0 dostawa.id5271441.biz
 0.0.0.0 dostawa.id16337889.com
 0.0.0.0 dostawa.id16371836.com
@@ -15914,6 +15917,7 @@
 0.0.0.0 inpost-pl-hid226ks.eufloria.shop
 0.0.0.0 inpost-pl-hid226ks.forktronix.xyz
 0.0.0.0 inpost-pl-hid226ks.frapple.top
+0.0.0.0 inpost-pl-hid226ks.gunwa.top
 0.0.0.0 inpost-pl-hid226ks.heehoo.shop
 0.0.0.0 inpost-pl-hid226ks.henglin.top
 0.0.0.0 inpost-pl-hid226ks.hollowhatter.live
@@ -16176,6 +16180,7 @@
 0.0.0.0 inpost-pl-xz5512.plid594703.buzz
 0.0.0.0 inpost-pl-xz5512.remiel.xyz
 0.0.0.0 inpost-pl-xz5512.sanbds.top
+0.0.0.0 inpost-pl-xz5512.scripter.top
 0.0.0.0 inpost-pl-xz5512.spacewalkinc.com
 0.0.0.0 inpost-pl-xz5512.sprawa892341.beauty
 0.0.0.0 inpost-pl-xz5512.stayy.live
@@ -17140,6 +17145,7 @@
 0.0.0.0 inpost-polska-xjj.order682.info
 0.0.0.0 inpost-polska-xjl.order9512951.info
 0.0.0.0 inpost-polska-xjn.order912412.info
+0.0.0.0 inpost-polska-xkp.order9356.info
 0.0.0.0 inpost-polska-xky.order131313.info
 0.0.0.0 inpost-polska-xlq.order9351.info
 0.0.0.0 inpost-polska-xm.order943.info
@@ -17984,6 +17990,7 @@
 0.0.0.0 inposta.pl
 0.0.0.0 inpostapp.net
 0.0.0.0 inpostinfo-dispatch.45633343.xyz
+0.0.0.0 inpostmarket.956066.xyz
 0.0.0.0 inpostpl.44112-online.sbs
 0.0.0.0 inpostpl.cena-id9572.pl
 0.0.0.0 inpostpl.deoqt52122.com
@@ -20907,6 +20914,7 @@
 0.0.0.0 moja1.strefawyznan.cam
 0.0.0.0 moja2.strefawyznan.cam
 0.0.0.0 moja-paczka-pl-myid576xs.adisetiawan.xyz
+0.0.0.0 moja-paczka-pl-myid576xs.aeldo.live
 0.0.0.0 moja-paczka-pl-myid576xs.amway-sk.com
 0.0.0.0 moja-paczka-pl-myid576xs.bahisler.live
 0.0.0.0 moja-paczka-pl-myid576xs.belladiosadr.com
@@ -23075,6 +23083,8 @@
 0.0.0.0 olx-plzxlz.myvipkontos.shop
 0.0.0.0 olx-plzxlz.myvipkontos.work
 0.0.0.0 olx-pol-kxlsw2.accro.top
+0.0.0.0 olx-pol-kxlsw2.aeldo.live
+0.0.0.0 olx-pol-kxlsw2.akpool.live
 0.0.0.0 olx-pol-kxlsw2.ampj.top
 0.0.0.0 olx-pol-kxlsw2.armsail.xyz
 0.0.0.0 olx-pol-kxlsw2.austenyo.shop
@@ -23083,13 +23093,18 @@
 0.0.0.0 olx-pol-kxlsw2.brambu.live
 0.0.0.0 olx-pol-kxlsw2.bravica.live
 0.0.0.0 olx-pol-kxlsw2.cenga.xyz
+0.0.0.0 olx-pol-kxlsw2.cijilu.xyz
 0.0.0.0 olx-pol-kxlsw2.cimaclub.live
 0.0.0.0 olx-pol-kxlsw2.cqsfw.xyz
 0.0.0.0 olx-pol-kxlsw2.dantri.top
 0.0.0.0 olx-pol-kxlsw2.digin.live
 0.0.0.0 olx-pol-kxlsw2.dwane.live
 0.0.0.0 olx-pol-kxlsw2.entame.top
+0.0.0.0 olx-pol-kxlsw2.farnlorn.xyz
+0.0.0.0 olx-pol-kxlsw2.fenxin.top
 0.0.0.0 olx-pol-kxlsw2.gdcdn.top
+0.0.0.0 olx-pol-kxlsw2.giftie.live
+0.0.0.0 olx-pol-kxlsw2.gunwa.top
 0.0.0.0 olx-pol-kxlsw2.hbjiaju.top
 0.0.0.0 olx-pol-kxlsw2.igems.xyz
 0.0.0.0 olx-pol-kxlsw2.inmeng.xyz
@@ -23102,6 +23117,7 @@
 0.0.0.0 olx-pol-kxlsw2.komon.live
 0.0.0.0 olx-pol-kxlsw2.kreasi.top
 0.0.0.0 olx-pol-kxlsw2.ktlxs.top
+0.0.0.0 olx-pol-kxlsw2.kuantu.top
 0.0.0.0 olx-pol-kxlsw2.lahari.xyz
 0.0.0.0 olx-pol-kxlsw2.lentful.top
 0.0.0.0 olx-pol-kxlsw2.letroc.live
@@ -23131,6 +23147,8 @@
 0.0.0.0 olx-pol-kxlsw2.sjkdh.xyz
 0.0.0.0 olx-pol-kxlsw2.smitraly.xyz
 0.0.0.0 olx-pol-kxlsw2.sousf.xyz
+0.0.0.0 olx-pol-kxlsw2.starpro.live
+0.0.0.0 olx-pol-kxlsw2.tianbei.top
 0.0.0.0 olx-pol-kxlsw2.todaydeals.shop
 0.0.0.0 olx-pol-kxlsw2.tomsen.top
 0.0.0.0 olx-pol-kxlsw2.tongse.top
@@ -23140,11 +23158,13 @@
 0.0.0.0 olx-pol-kxlsw2.usnorr.live
 0.0.0.0 olx-pol-kxlsw2.vanhien.xyz
 0.0.0.0 olx-pol-kxlsw2.vansonsoo.com
+0.0.0.0 olx-pol-kxlsw2.viewsy.xyz
 0.0.0.0 olx-pol-kxlsw2.virbuz.xyz
 0.0.0.0 olx-pol-kxlsw2.vivant.top
 0.0.0.0 olx-pol-kxlsw2.vivant.xyz
 0.0.0.0 olx-pol-kxlsw2.wdqq.xyz
 0.0.0.0 olx-pol-kxlsw2.wishdream.shop
+0.0.0.0 olx-pol-kxlsw2.wompus.xyz
 0.0.0.0 olx-pol-kxlsw2.xueai.top
 0.0.0.0 olx-pol-kxlsw2.yashou.top
 0.0.0.0 olx-pol-kxlsw2.yassma.xyz
@@ -32444,6 +32464,7 @@
 0.0.0.0 vinted-pl-gj32d.advobe.top
 0.0.0.0 vinted-pl-gj32d.advouf.top
 0.0.0.0 vinted-pl-gj32d.akinami.shop
+0.0.0.0 vinted-pl-gj32d.akpool.live
 0.0.0.0 vinted-pl-gj32d.alessandralist.top
 0.0.0.0 vinted-pl-gj32d.alorair.shop
 0.0.0.0 vinted-pl-gj32d.amarilis.xyz
@@ -32494,6 +32515,7 @@
 0.0.0.0 vinted-pl-gj32d.chikku.live
 0.0.0.0 vinted-pl-gj32d.chloroquine.top
 0.0.0.0 vinted-pl-gj32d.cid-net.com
+0.0.0.0 vinted-pl-gj32d.cijilu.xyz
 0.0.0.0 vinted-pl-gj32d.cmcomposites.shop
 0.0.0.0 vinted-pl-gj32d.cnba.live
 0.0.0.0 vinted-pl-gj32d.codango.live
@@ -32514,6 +32536,7 @@
 0.0.0.0 vinted-pl-gj32d.dezadel.shop
 0.0.0.0 vinted-pl-gj32d.dgrwy1.xyz
 0.0.0.0 vinted-pl-gj32d.dingding23.top
+0.0.0.0 vinted-pl-gj32d.diyang.top
 0.0.0.0 vinted-pl-gj32d.dokuritsu.xyz
 0.0.0.0 vinted-pl-gj32d.downeu.xyz
 0.0.0.0 vinted-pl-gj32d.drhowell.life
@@ -32556,6 +32579,8 @@
 0.0.0.0 vinted-pl-gj32d.garati.xyz
 0.0.0.0 vinted-pl-gj32d.gc2hx.top
 0.0.0.0 vinted-pl-gj32d.ghb2b.live
+0.0.0.0 vinted-pl-gj32d.giftie.live
+0.0.0.0 vinted-pl-gj32d.gunwa.top
 0.0.0.0 vinted-pl-gj32d.gxsun.top
 0.0.0.0 vinted-pl-gj32d.hangxachtay.xyz
 0.0.0.0 vinted-pl-gj32d.happyderi.xyz
@@ -32578,6 +32603,7 @@
 0.0.0.0 vinted-pl-gj32d.imvod.top
 0.0.0.0 vinted-pl-gj32d.informasi.top
 0.0.0.0 vinted-pl-gj32d.ingyu.xyz
+0.0.0.0 vinted-pl-gj32d.inmeng.xyz
 0.0.0.0 vinted-pl-gj32d.inventor-ride.xyz
 0.0.0.0 vinted-pl-gj32d.ipnio.xyz
 0.0.0.0 vinted-pl-gj32d.irritum.xyz
@@ -32609,6 +32635,7 @@
 0.0.0.0 vinted-pl-gj32d.kodekeramat.xyz
 0.0.0.0 vinted-pl-gj32d.krafta.live
 0.0.0.0 vinted-pl-gj32d.ku771.top
+0.0.0.0 vinted-pl-gj32d.kuantu.top
 0.0.0.0 vinted-pl-gj32d.kuzhuang.top
 0.0.0.0 vinted-pl-gj32d.ladytit.xyz
 0.0.0.0 vinted-pl-gj32d.lajiao3.xyz
@@ -32636,6 +32663,7 @@
 0.0.0.0 vinted-pl-gj32d.msnsd.top
 0.0.0.0 vinted-pl-gj32d.muabanxe.xyz
 0.0.0.0 vinted-pl-gj32d.multor.xyz
+0.0.0.0 vinted-pl-gj32d.muqing.top
 0.0.0.0 vinted-pl-gj32d.muratcan.xyz
 0.0.0.0 vinted-pl-gj32d.neerikft.life
 0.0.0.0 vinted-pl-gj32d.netnet.shop
@@ -32666,6 +32694,7 @@
 0.0.0.0 vinted-pl-gj32d.pk003.top
 0.0.0.0 vinted-pl-gj32d.polygraph.live
 0.0.0.0 vinted-pl-gj32d.portale.shop
+0.0.0.0 vinted-pl-gj32d.pqoe.xyz
 0.0.0.0 vinted-pl-gj32d.przewozy.top
 0.0.0.0 vinted-pl-gj32d.qikeut.top
 0.0.0.0 vinted-pl-gj32d.qmalte.xyz
@@ -35982,6 +36011,7 @@
 0.0.0.0 www.allegrolokalne.site
 0.0.0.0 www.allegrolokalnie-delivery.011249.xyz
 0.0.0.0 www.allegrolokalnie-market.7599051.xyz
+0.0.0.0 www.allegrolokalnie-payment.6742213.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dsafe.dostawa-id.live
 0.0.0.0 www.allegrolokalnie-pl-3dsafe.id-98153.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dsec.clear-dostawa.xyz
@@ -41129,6 +41159,8 @@
 0.0.0.0 www.dostaw-inpost.net
 0.0.0.0 www.dostawa-info.cyou
 0.0.0.0 www.dostawa-inpost.pl
+0.0.0.0 www.dostawa-lnpost-9polska.dell-dostavkahomes74.pl
+0.0.0.0 www.dostawa-lnpost-polska.polndsdostawanec75.pl
 0.0.0.0 www.dostawa.id5271441.biz
 0.0.0.0 www.dostawa.id16337889.com
 0.0.0.0 www.dostawa.id16371836.com
@@ -45450,6 +45482,7 @@
 0.0.0.0 www.inpost-pl-hid226ks.eufloria.shop
 0.0.0.0 www.inpost-pl-hid226ks.forktronix.xyz
 0.0.0.0 www.inpost-pl-hid226ks.frapple.top
+0.0.0.0 www.inpost-pl-hid226ks.gunwa.top
 0.0.0.0 www.inpost-pl-hid226ks.heehoo.shop
 0.0.0.0 www.inpost-pl-hid226ks.henglin.top
 0.0.0.0 www.inpost-pl-hid226ks.hollowhatter.live
@@ -45712,6 +45745,7 @@
 0.0.0.0 www.inpost-pl-xz5512.plid594703.buzz
 0.0.0.0 www.inpost-pl-xz5512.remiel.xyz
 0.0.0.0 www.inpost-pl-xz5512.sanbds.top
+0.0.0.0 www.inpost-pl-xz5512.scripter.top
 0.0.0.0 www.inpost-pl-xz5512.spacewalkinc.com
 0.0.0.0 www.inpost-pl-xz5512.sprawa892341.beauty
 0.0.0.0 www.inpost-pl-xz5512.stayy.live
@@ -46676,6 +46710,7 @@
 0.0.0.0 www.inpost-polska-xjj.order682.info
 0.0.0.0 www.inpost-polska-xjl.order9512951.info
 0.0.0.0 www.inpost-polska-xjn.order912412.info
+0.0.0.0 www.inpost-polska-xkp.order9356.info
 0.0.0.0 www.inpost-polska-xky.order131313.info
 0.0.0.0 www.inpost-polska-xlq.order9351.info
 0.0.0.0 www.inpost-polska-xm.order943.info
@@ -47520,6 +47555,7 @@
 0.0.0.0 www.inposta.pl
 0.0.0.0 www.inpostapp.net
 0.0.0.0 www.inpostinfo-dispatch.45633343.xyz
+0.0.0.0 www.inpostmarket.956066.xyz
 0.0.0.0 www.inpostpl.44112-online.sbs
 0.0.0.0 www.inpostpl.cena-id9572.pl
 0.0.0.0 www.inpostpl.deoqt52122.com
@@ -50443,6 +50479,7 @@
 0.0.0.0 www.moja1.strefawyznan.cam
 0.0.0.0 www.moja2.strefawyznan.cam
 0.0.0.0 www.moja-paczka-pl-myid576xs.adisetiawan.xyz
+0.0.0.0 www.moja-paczka-pl-myid576xs.aeldo.live
 0.0.0.0 www.moja-paczka-pl-myid576xs.amway-sk.com
 0.0.0.0 www.moja-paczka-pl-myid576xs.bahisler.live
 0.0.0.0 www.moja-paczka-pl-myid576xs.belladiosadr.com
@@ -52612,6 +52649,8 @@
 0.0.0.0 www.olx-plzxlz.myvipkontos.shop
 0.0.0.0 www.olx-plzxlz.myvipkontos.work
 0.0.0.0 www.olx-pol-kxlsw2.accro.top
+0.0.0.0 www.olx-pol-kxlsw2.aeldo.live
+0.0.0.0 www.olx-pol-kxlsw2.akpool.live
 0.0.0.0 www.olx-pol-kxlsw2.ampj.top
 0.0.0.0 www.olx-pol-kxlsw2.armsail.xyz
 0.0.0.0 www.olx-pol-kxlsw2.austenyo.shop
@@ -52620,13 +52659,18 @@
 0.0.0.0 www.olx-pol-kxlsw2.brambu.live
 0.0.0.0 www.olx-pol-kxlsw2.bravica.live
 0.0.0.0 www.olx-pol-kxlsw2.cenga.xyz
+0.0.0.0 www.olx-pol-kxlsw2.cijilu.xyz
 0.0.0.0 www.olx-pol-kxlsw2.cimaclub.live
 0.0.0.0 www.olx-pol-kxlsw2.cqsfw.xyz
 0.0.0.0 www.olx-pol-kxlsw2.dantri.top
 0.0.0.0 www.olx-pol-kxlsw2.digin.live
 0.0.0.0 www.olx-pol-kxlsw2.dwane.live
 0.0.0.0 www.olx-pol-kxlsw2.entame.top
+0.0.0.0 www.olx-pol-kxlsw2.farnlorn.xyz
+0.0.0.0 www.olx-pol-kxlsw2.fenxin.top
 0.0.0.0 www.olx-pol-kxlsw2.gdcdn.top
+0.0.0.0 www.olx-pol-kxlsw2.giftie.live
+0.0.0.0 www.olx-pol-kxlsw2.gunwa.top
 0.0.0.0 www.olx-pol-kxlsw2.hbjiaju.top
 0.0.0.0 www.olx-pol-kxlsw2.igems.xyz
 0.0.0.0 www.olx-pol-kxlsw2.inmeng.xyz
@@ -52639,6 +52683,7 @@
 0.0.0.0 www.olx-pol-kxlsw2.komon.live
 0.0.0.0 www.olx-pol-kxlsw2.kreasi.top
 0.0.0.0 www.olx-pol-kxlsw2.ktlxs.top
+0.0.0.0 www.olx-pol-kxlsw2.kuantu.top
 0.0.0.0 www.olx-pol-kxlsw2.lahari.xyz
 0.0.0.0 www.olx-pol-kxlsw2.lentful.top
 0.0.0.0 www.olx-pol-kxlsw2.letroc.live
@@ -52668,6 +52713,8 @@
 0.0.0.0 www.olx-pol-kxlsw2.sjkdh.xyz
 0.0.0.0 www.olx-pol-kxlsw2.smitraly.xyz
 0.0.0.0 www.olx-pol-kxlsw2.sousf.xyz
+0.0.0.0 www.olx-pol-kxlsw2.starpro.live
+0.0.0.0 www.olx-pol-kxlsw2.tianbei.top
 0.0.0.0 www.olx-pol-kxlsw2.todaydeals.shop
 0.0.0.0 www.olx-pol-kxlsw2.tomsen.top
 0.0.0.0 www.olx-pol-kxlsw2.tongse.top
@@ -52677,11 +52724,13 @@
 0.0.0.0 www.olx-pol-kxlsw2.usnorr.live
 0.0.0.0 www.olx-pol-kxlsw2.vanhien.xyz
 0.0.0.0 www.olx-pol-kxlsw2.vansonsoo.com
+0.0.0.0 www.olx-pol-kxlsw2.viewsy.xyz
 0.0.0.0 www.olx-pol-kxlsw2.virbuz.xyz
 0.0.0.0 www.olx-pol-kxlsw2.vivant.top
 0.0.0.0 www.olx-pol-kxlsw2.vivant.xyz
 0.0.0.0 www.olx-pol-kxlsw2.wdqq.xyz
 0.0.0.0 www.olx-pol-kxlsw2.wishdream.shop
+0.0.0.0 www.olx-pol-kxlsw2.wompus.xyz
 0.0.0.0 www.olx-pol-kxlsw2.xueai.top
 0.0.0.0 www.olx-pol-kxlsw2.yashou.top
 0.0.0.0 www.olx-pol-kxlsw2.yassma.xyz
@@ -61842,6 +61891,7 @@
 0.0.0.0 www.vinted-pl-gj32d.advobe.top
 0.0.0.0 www.vinted-pl-gj32d.advouf.top
 0.0.0.0 www.vinted-pl-gj32d.akinami.shop
+0.0.0.0 www.vinted-pl-gj32d.akpool.live
 0.0.0.0 www.vinted-pl-gj32d.alessandralist.top
 0.0.0.0 www.vinted-pl-gj32d.alorair.shop
 0.0.0.0 www.vinted-pl-gj32d.amarilis.xyz
@@ -61892,6 +61942,7 @@
 0.0.0.0 www.vinted-pl-gj32d.chikku.live
 0.0.0.0 www.vinted-pl-gj32d.chloroquine.top
 0.0.0.0 www.vinted-pl-gj32d.cid-net.com
+0.0.0.0 www.vinted-pl-gj32d.cijilu.xyz
 0.0.0.0 www.vinted-pl-gj32d.cmcomposites.shop
 0.0.0.0 www.vinted-pl-gj32d.cnba.live
 0.0.0.0 www.vinted-pl-gj32d.codango.live
@@ -61912,6 +61963,7 @@
 0.0.0.0 www.vinted-pl-gj32d.dezadel.shop
 0.0.0.0 www.vinted-pl-gj32d.dgrwy1.xyz
 0.0.0.0 www.vinted-pl-gj32d.dingding23.top
+0.0.0.0 www.vinted-pl-gj32d.diyang.top
 0.0.0.0 www.vinted-pl-gj32d.dokuritsu.xyz
 0.0.0.0 www.vinted-pl-gj32d.downeu.xyz
 0.0.0.0 www.vinted-pl-gj32d.drhowell.life
@@ -61954,6 +62006,8 @@
 0.0.0.0 www.vinted-pl-gj32d.garati.xyz
 0.0.0.0 www.vinted-pl-gj32d.gc2hx.top
 0.0.0.0 www.vinted-pl-gj32d.ghb2b.live
+0.0.0.0 www.vinted-pl-gj32d.giftie.live
+0.0.0.0 www.vinted-pl-gj32d.gunwa.top
 0.0.0.0 www.vinted-pl-gj32d.gxsun.top
 0.0.0.0 www.vinted-pl-gj32d.hangxachtay.xyz
 0.0.0.0 www.vinted-pl-gj32d.happyderi.xyz
@@ -61976,6 +62030,7 @@
 0.0.0.0 www.vinted-pl-gj32d.imvod.top
 0.0.0.0 www.vinted-pl-gj32d.informasi.top
 0.0.0.0 www.vinted-pl-gj32d.ingyu.xyz
+0.0.0.0 www.vinted-pl-gj32d.inmeng.xyz
 0.0.0.0 www.vinted-pl-gj32d.inventor-ride.xyz
 0.0.0.0 www.vinted-pl-gj32d.ipnio.xyz
 0.0.0.0 www.vinted-pl-gj32d.irritum.xyz
@@ -62007,6 +62062,7 @@
 0.0.0.0 www.vinted-pl-gj32d.kodekeramat.xyz
 0.0.0.0 www.vinted-pl-gj32d.krafta.live
 0.0.0.0 www.vinted-pl-gj32d.ku771.top
+0.0.0.0 www.vinted-pl-gj32d.kuantu.top
 0.0.0.0 www.vinted-pl-gj32d.kuzhuang.top
 0.0.0.0 www.vinted-pl-gj32d.ladytit.xyz
 0.0.0.0 www.vinted-pl-gj32d.lajiao3.xyz
@@ -62034,6 +62090,7 @@
 0.0.0.0 www.vinted-pl-gj32d.msnsd.top
 0.0.0.0 www.vinted-pl-gj32d.muabanxe.xyz
 0.0.0.0 www.vinted-pl-gj32d.multor.xyz
+0.0.0.0 www.vinted-pl-gj32d.muqing.top
 0.0.0.0 www.vinted-pl-gj32d.muratcan.xyz
 0.0.0.0 www.vinted-pl-gj32d.neerikft.life
 0.0.0.0 www.vinted-pl-gj32d.netnet.shop
@@ -62064,6 +62121,7 @@
 0.0.0.0 www.vinted-pl-gj32d.pk003.top
 0.0.0.0 www.vinted-pl-gj32d.polygraph.live
 0.0.0.0 www.vinted-pl-gj32d.portale.shop
+0.0.0.0 www.vinted-pl-gj32d.pqoe.xyz
 0.0.0.0 www.vinted-pl-gj32d.przewozy.top
 0.0.0.0 www.vinted-pl-gj32d.qikeut.top
 0.0.0.0 www.vinted-pl-gj32d.qmalte.xyz
