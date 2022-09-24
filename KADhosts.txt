@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 24 Sep 2022, 10:28 UTC+02:00
-# Version: 2022.9.24.0
+# Last modified: Sat, 24 Sep 2022, 10:43 UTC+02:00
+# Version: 2022.9.24.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -44,6 +44,7 @@
 0.0.0.0 365sklep.com
 0.0.0.0 a1a.pl
 0.0.0.0 abc.prawo.link
+0.0.0.0 abico-24.com
 0.0.0.0 acaiberryextreme.pl
 0.0.0.0 achae.com
 0.0.0.0 actus.org.pl
@@ -597,6 +598,8 @@
 0.0.0.0 egalitaire.com.pl
 0.0.0.0 eglobalcentral.pl
 0.0.0.0 eko-groszek-sklad.com
+0.0.0.0 ekogroszek-energo.info
+0.0.0.0 ekogroszek-energopl.su
 0.0.0.0 ekoplava.pl
 0.0.0.0 eksperci-footbolu.com
 0.0.0.0 ekspres-sklep.pl
@@ -1099,6 +1102,7 @@
 0.0.0.0 lnaff.pl
 0.0.0.0 lnktime.com
 0.0.0.0 lnurynfingaor.com
+0.0.0.0 lodowylabedz.pl
 0.0.0.0 loftdeccor.pl
 0.0.0.0 lokten.com
 0.0.0.0 loktrk.com
@@ -1112,6 +1116,7 @@
 0.0.0.0 loqiguy.com
 0.0.0.0 lorete.pl
 0.0.0.0 lornajane.pl
+0.0.0.0 loskzco.shop
 0.0.0.0 lotina.pl
 0.0.0.0 lottoland.pl
 0.0.0.0 louyanx.pl
@@ -1244,6 +1249,7 @@
 0.0.0.0 modamart.pl
 0.0.0.0 modawanilia.com
 0.0.0.0 modi4moda.com
+0.0.0.0 moeshinan.com
 0.0.0.0 mojadietanamase.pl
 0.0.0.0 mojemaledziecko.pl
 0.0.0.0 mojepremium.pl
@@ -1327,6 +1333,7 @@
 0.0.0.0 nfnry.store
 0.0.0.0 nfxgo.shop
 0.0.0.0 nfxqh.shop
+0.0.0.0 nicesneaks.com
 0.0.0.0 nicolosi.pl
 0.0.0.0 niechoruje.pl
 0.0.0.0 nieladagratka.pl
@@ -1647,6 +1654,7 @@
 0.0.0.0 racingkrakow.pl
 0.0.0.0 radox.online
 0.0.0.0 rafalo.com.pl
+0.0.0.0 rainbowwatch.pl
 0.0.0.0 rains.pl
 0.0.0.0 rajdysamochodowe.pl
 0.0.0.0 ralphlauren-polska.pl
@@ -2049,6 +2057,7 @@
 0.0.0.0 tipanddonation.com
 0.0.0.0 tisls.com
 0.0.0.0 tiszortowo.pl
+0.0.0.0 tivanoo.pl
 0.0.0.0 tmcg.pl
 0.0.0.0 to-be-fit.pl
 0.0.0.0 toddley.pl
@@ -2314,6 +2323,7 @@
 0.0.0.0 www.365sklep.com
 0.0.0.0 www.a1a.pl
 0.0.0.0 www.abc.prawo.link
+0.0.0.0 www.abico-24.com
 0.0.0.0 www.acaiberryextreme.pl
 0.0.0.0 www.achae.com
 0.0.0.0 www.actus.org.pl
@@ -2867,6 +2877,8 @@
 0.0.0.0 www.egalitaire.com.pl
 0.0.0.0 www.eglobalcentral.pl
 0.0.0.0 www.eko-groszek-sklad.com
+0.0.0.0 www.ekogroszek-energo.info
+0.0.0.0 www.ekogroszek-energopl.su
 0.0.0.0 www.ekoplava.pl
 0.0.0.0 www.eksperci-footbolu.com
 0.0.0.0 www.ekspres-sklep.pl
@@ -3369,6 +3381,7 @@
 0.0.0.0 www.lnaff.pl
 0.0.0.0 www.lnktime.com
 0.0.0.0 www.lnurynfingaor.com
+0.0.0.0 www.lodowylabedz.pl
 0.0.0.0 www.loftdeccor.pl
 0.0.0.0 www.lokten.com
 0.0.0.0 www.loktrk.com
@@ -3382,6 +3395,7 @@
 0.0.0.0 www.loqiguy.com
 0.0.0.0 www.lorete.pl
 0.0.0.0 www.lornajane.pl
+0.0.0.0 www.loskzco.shop
 0.0.0.0 www.lotina.pl
 0.0.0.0 www.lottoland.pl
 0.0.0.0 www.louyanx.pl
@@ -3514,6 +3528,7 @@
 0.0.0.0 www.modamart.pl
 0.0.0.0 www.modawanilia.com
 0.0.0.0 www.modi4moda.com
+0.0.0.0 www.moeshinan.com
 0.0.0.0 www.mojadietanamase.pl
 0.0.0.0 www.mojemaledziecko.pl
 0.0.0.0 www.mojepremium.pl
@@ -3597,6 +3612,7 @@
 0.0.0.0 www.nfnry.store
 0.0.0.0 www.nfxgo.shop
 0.0.0.0 www.nfxqh.shop
+0.0.0.0 www.nicesneaks.com
 0.0.0.0 www.nicolosi.pl
 0.0.0.0 www.niechoruje.pl
 0.0.0.0 www.nieladagratka.pl
@@ -3897,6 +3913,7 @@
 0.0.0.0 www.racingkrakow.pl
 0.0.0.0 www.radox.online
 0.0.0.0 www.rafalo.com.pl
+0.0.0.0 www.rainbowwatch.pl
 0.0.0.0 www.rains.pl
 0.0.0.0 www.rajdysamochodowe.pl
 0.0.0.0 www.ralphlauren-polska.pl
@@ -4299,6 +4316,7 @@
 0.0.0.0 www.tipanddonation.com
 0.0.0.0 www.tisls.com
 0.0.0.0 www.tiszortowo.pl
+0.0.0.0 www.tivanoo.pl
 0.0.0.0 www.tmcg.pl
 0.0.0.0 www.to-be-fit.pl
 0.0.0.0 www.toddley.pl
@@ -7512,6 +7530,7 @@
 0.0.0.0 biik.cc
 0.0.0.0 biik.live
 0.0.0.0 bik-alert.com
+0.0.0.0 bikdor-invest.com
 0.0.0.0 bikieva.pl
 0.0.0.0 bilakas.com
 0.0.0.0 bilakop-online.preview-domain.com
@@ -26337,6 +26356,7 @@
 0.0.0.0 pl.m-inpostzakup.tech
 0.0.0.0 pl.m-olx.online
 0.0.0.0 pl.m-vinteddoz.online
+0.0.0.0 pl.makeyourbabyhappy.com
 0.0.0.0 pl.market-host.com
 0.0.0.0 pl.mbank24eu.com
 0.0.0.0 pl.medic-reporters.com
@@ -37290,6 +37310,7 @@
 0.0.0.0 www.biik.cc
 0.0.0.0 www.biik.live
 0.0.0.0 www.bik-alert.com
+0.0.0.0 www.bikdor-invest.com
 0.0.0.0 www.bikieva.pl
 0.0.0.0 www.bilakas.com
 0.0.0.0 www.bilakop-online.preview-domain.com
