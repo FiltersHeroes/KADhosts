@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 27 Jan 2023, 09:21 UTC+01:00
-# Version: 2023.1.27.0
+# Last modified: Fri, 27 Jan 2023, 13:32 UTC+01:00
+# Version: 2023.1.27.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -746,6 +746,7 @@
 0.0.0.0 fforum.pisz.pl
 0.0.0.0 fgmnismepoe.com
 0.0.0.0 fhgfffdsf9.appspot.com
+0.0.0.0 fila-sklep.com
 0.0.0.0 filaplbuty.com
 0.0.0.0 filaskleppolska.com
 0.0.0.0 filawyprzedaz.com
@@ -1338,6 +1339,7 @@
 0.0.0.0 merrellpolska.com
 0.0.0.0 merrellsklepolska.com
 0.0.0.0 merrelpoland.com
+0.0.0.0 merrelpolandoutlet.com
 0.0.0.0 merrelpolska.com
 0.0.0.0 mezczyzna-trendy.pl
 0.0.0.0 mgid.com
@@ -3227,6 +3229,7 @@
 0.0.0.0 www.fforum.pisz.pl
 0.0.0.0 www.fgmnismepoe.com
 0.0.0.0 www.fhgfffdsf9.appspot.com
+0.0.0.0 www.fila-sklep.com
 0.0.0.0 www.filaplbuty.com
 0.0.0.0 www.filaskleppolska.com
 0.0.0.0 www.filawyprzedaz.com
@@ -3819,6 +3822,7 @@
 0.0.0.0 www.merrellpolska.com
 0.0.0.0 www.merrellsklepolska.com
 0.0.0.0 www.merrelpoland.com
+0.0.0.0 www.merrelpolandoutlet.com
 0.0.0.0 www.merrelpolska.com
 0.0.0.0 www.mezczyzna-trendy.pl
 0.0.0.0 www.mgid.com
@@ -6260,6 +6264,7 @@
 0.0.0.0 6d0c381a.bakerstreetfinance.tv
 0.0.0.0 6d5cda989e7.johncornell.com
 0.0.0.0 6e5f1cb1933.johncornell.com
+0.0.0.0 6f42bf39057.chefs-kitchen.co.uk
 0.0.0.0 6f836cfdc72.chefs-kitchen.co.uk
 0.0.0.0 6fj-text.xyz
 0.0.0.0 6interia.azureedge.net
@@ -6823,6 +6828,7 @@
 0.0.0.0 1324643.xyz
 0.0.0.0 1467874bd5d.johncornell.com
 0.0.0.0 1544343.xyz
+0.0.0.0 02066623.xyz
 0.0.0.0 2132221.xyz
 0.0.0.0 2431223.xyz
 0.0.0.0 2435709.xyz
@@ -6835,6 +6841,7 @@
 0.0.0.0 3544343.xyz
 0.0.0.0 3890067.xyz
 0.0.0.0 4098123cabb.chefs-kitchen.co.uk
+0.0.0.0 04215455.xyz
 0.0.0.0 4231211.xyz
 0.0.0.0 4354654.xyz
 0.0.0.0 4468419a78b.chefs-kitchen.co.uk
@@ -6881,58 +6888,104 @@
 0.0.0.0 9678821.xyz
 0.0.0.0 9786887.xyz
 0.0.0.0 12062155.xyz
+0.0.0.0 12066623.xyz
 0.0.0.0 12151522.xyz
 0.0.0.0 12653233.xyz
 0.0.0.0 12918212.me
+0.0.0.0 14215455.xyz
+0.0.0.0 020000333.xyz
 0.0.0.0 22062155.xyz
+0.0.0.0 22066623.xyz
 0.0.0.0 22151522.xyz
+0.0.0.0 24215455.xyz
 0.0.0.0 26482462b09.chefs-kitchen.co.uk
 0.0.0.0 26653804.xyz
 0.0.0.0 31333243.xyz
 0.0.0.0 31798538.xyz
+0.0.0.0 32066623.xyz
 0.0.0.0 32151522.xyz
+0.0.0.0 033322233.xyz
+0.0.0.0 34215455.xyz
 0.0.0.0 34233342.xyz
+0.0.0.0 42066623.xyz
 0.0.0.0 42151522.xyz
 0.0.0.0 42848538e26.chefs-kitchen.co.uk
+0.0.0.0 44215455.xyz
 0.0.0.0 44445344.xyz
 0.0.0.0 48977769.xyz
 0.0.0.0 49212222.xyz
+0.0.0.0 52066623.xyz
 0.0.0.0 52151522.xyz
+0.0.0.0 053232222.xyz
+0.0.0.0 54215455.xyz
 0.0.0.0 57555465.xyz
+0.0.0.0 62066623.xyz
 0.0.0.0 63421324.xyz
+0.0.0.0 64215455.xyz
 0.0.0.0 64534419.xyz
 0.0.0.0 64534545.xyz
 0.0.0.0 66453333.xyz
 0.0.0.0 67557687.xyz
 0.0.0.0 67564534.xyz
 0.0.0.0 67569887.xyz
+0.0.0.0 72066623.xyz
 0.0.0.0 72650000.xyz
+0.0.0.0 74215455.xyz
 0.0.0.0 76780007.xyz
 0.0.0.0 79003333.xyz
 0.0.0.0 79212222.xyz
+0.0.0.0 82066623.xyz
 0.0.0.0 82653233.xyz
+0.0.0.0 84215455.xyz
 0.0.0.0 88628720eae.chefs-kitchen.co.uk
 0.0.0.0 88722677ae4.chefs-kitchen.co.uk
 0.0.0.0 89151535.cube-cologne.com
 0.0.0.0 90008788.xyz
+0.0.0.0 92066623.xyz
 0.0.0.0 92653233.xyz
+0.0.0.0 94215455.xyz
 0.0.0.0 95743274.xyz
+0.0.0.0 120000333.xyz
 0.0.0.0 121323113.xyz
+0.0.0.0 133322233.xyz
 0.0.0.0 148122222.xyz
+0.0.0.0 153232222.xyz
 0.0.0.0 166665999.xyz
 0.0.0.0 168989999.xyz
+0.0.0.0 220000333.xyz
+0.0.0.0 233322233.xyz
 0.0.0.0 248122222.xyz
 0.0.0.0 266665999.xyz
 0.0.0.0 268989999.xyz
+0.0.0.0 320000333.xyz
+0.0.0.0 333322233.xyz
 0.0.0.0 348122222.xyz
+0.0.0.0 353232222.xyz
 0.0.0.0 366665999.xyz
 0.0.0.0 368989999.xyz
+0.0.0.0 420000333.xyz
+0.0.0.0 433322233.xyz
 0.0.0.0 448122222.xyz
+0.0.0.0 453232222.xyz
 0.0.0.0 466665999.xyz
 0.0.0.0 468989999.xyz
+0.0.0.0 520000333.xyz
+0.0.0.0 533322233.xyz
 0.0.0.0 548122222.xyz
+0.0.0.0 553232222.xyz
+0.0.0.0 620000333.xyz
+0.0.0.0 633322233.xyz
+0.0.0.0 653232222.xyz
 0.0.0.0 666665999.xyz
 0.0.0.0 668989999.xyz
+0.0.0.0 720000333.xyz
+0.0.0.0 733322233.xyz
+0.0.0.0 753232222.xyz
+0.0.0.0 820000333.xyz
+0.0.0.0 833322233.xyz
+0.0.0.0 920000333.xyz
+0.0.0.0 933322233.xyz
+0.0.0.0 953232222.xyz
 0.0.0.0 3702397391a.chefs-kitchen.co.uk
 0.0.0.0 6321548745.xyz
 0.0.0.0 7450452132f.chefs-kitchen.co.uk
@@ -7565,6 +7618,7 @@
 0.0.0.0 alicjagiezek.pl
 0.0.0.0 alictoecu.cf
 0.0.0.0 aliegro.dispatch-aqeds.space
+0.0.0.0 aliegrollokadom.vintageshop.top
 0.0.0.0 aliegrolokalnie.productuserpage.xyz
 0.0.0.0 aliencoding.com
 0.0.0.0 alifiitmp.com
@@ -9219,6 +9273,7 @@
 0.0.0.0 bankmillennium.pl.vizatiman.com
 0.0.0.0 bankmillennium.thetopmobiles.com
 0.0.0.0 bankmllenium.online
+0.0.0.0 bankofamerica.doc-statement-bank.web.za
 0.0.0.0 bankofireiand.info
 0.0.0.0 bankofireland.live
 0.0.0.0 bankoflunar.com
@@ -9321,6 +9376,7 @@
 0.0.0.0 baukehir.space
 0.0.0.0 baulkyrol.com
 0.0.0.0 baunkoe.link
+0.0.0.0 bautdrow.com
 0.0.0.0 bautroibentrong.com
 0.0.0.0 bav.globaltradruv.com
 0.0.0.0 bav.holzs.online
@@ -10225,6 +10281,7 @@
 0.0.0.0 bonus-pl.co
 0.0.0.0 bonus-pl.fun
 0.0.0.0 bonus-pl.monster
+0.0.0.0 bonus-pl.quest
 0.0.0.0 bonus-pl.site
 0.0.0.0 bonus-pl.space
 0.0.0.0 bonus-pl.store
@@ -11085,6 +11142,7 @@
 0.0.0.0 chaincrypto.autos
 0.0.0.0 chaine-reacti0n.web.app
 0.0.0.0 chainframe.online
+0.0.0.0 chainportal.quest
 0.0.0.0 chainreaction-pl.cfd
 0.0.0.0 chainreaction-pl.click
 0.0.0.0 chainreaction-pl.cyou
@@ -11810,6 +11868,7 @@
 0.0.0.0 coreenquir.com
 0.0.0.0 coreplays.com
 0.0.0.0 coresmartweb.sk
+0.0.0.0 corguer.autos
 0.0.0.0 coritians.space
 0.0.0.0 corl-inv.web.app
 0.0.0.0 corl-invest.web.app
@@ -14521,6 +14580,7 @@
 0.0.0.0 dgf0gkfldmobt.cloudfront.net
 0.0.0.0 dggvbj9o0rnkf.cloudfront.net
 0.0.0.0 dgjdla9k827sl.cloudfront.net
+0.0.0.0 dgolin.top
 0.0.0.0 dgpd40.wixsite.com
 0.0.0.0 dgpq8b.webwave.dev
 0.0.0.0 dgrkgz9yt65ki.cloudfront.net
@@ -16661,6 +16721,7 @@
 0.0.0.0 equqmz8nq3.digital
 0.0.0.0 eqvpismqyp.web.app
 0.0.0.0 er.ashess.site
+0.0.0.0 era.finnewspl.com
 0.0.0.0 eraest.pl
 0.0.0.0 eralranconfderpa.gq
 0.0.0.0 erambasreuwie.cf
@@ -17878,6 +17939,7 @@
 0.0.0.0 forlotontf-dsa89z123.newtontfishow.co.pl
 0.0.0.0 form-cmc.com
 0.0.0.0 form-jnpost.46221541254.xyz
+0.0.0.0 form-v1nted.700002122.xyz
 0.0.0.0 form-viihted.38454878.xyz
 0.0.0.0 form.2shoppage.xyz
 0.0.0.0 form.52066623.xyz
@@ -19001,6 +19063,7 @@
 0.0.0.0 grabowski-andrzej.info
 0.0.0.0 grabruckthe.cf
 0.0.0.0 graciadev.com
+0.0.0.0 graciasamigo.beauty
 0.0.0.0 gracious-saha-56755f.netlify.app
 0.0.0.0 graczykz.pl
 0.0.0.0 gradana-indonesia.com
@@ -19826,6 +19889,7 @@
 0.0.0.0 hufesan.xyz
 0.0.0.0 hugas.bid
 0.0.0.0 hugkawo.space
+0.0.0.0 huidhonger.com
 0.0.0.0 hujers.space
 0.0.0.0 hulas.xyz
 0.0.0.0 hulgand.website
@@ -21339,6 +21403,7 @@
 0.0.0.0 inpost-cop.id-info7364.me
 0.0.0.0 inpost-crd.oferta-dn.me
 0.0.0.0 inpost-ctcr.order9528.info
+0.0.0.0 inpost-cwti.ordrs0348.biz
 0.0.0.0 inpost-cxsj.order9512951.info
 0.0.0.0 inpost-cysy.order9342.info
 0.0.0.0 inpost-czlz.order8859.me
@@ -26981,6 +27046,7 @@
 0.0.0.0 loza-pozyczka.site
 0.0.0.0 lozeold4.za.com
 0.0.0.0 lp9qiz.web.app
+0.0.0.0 lp0329320dsal230-mdsak239328239sa.mipoca.co.pl
 0.0.0.0 lp-ivest.web.app
 0.0.0.0 lp.calareszta.online
 0.0.0.0 lp.growthtools.com
@@ -30788,6 +30854,7 @@
 0.0.0.0 ogmyden.com
 0.0.0.0 ognore.xyz
 0.0.0.0 ogobez18.za.com
+0.0.0.0 ogrd.pl
 0.0.0.0 ogrodek350.com
 0.0.0.0 ogromna-tragedia.cfd
 0.0.0.0 ogromne-poszukiwania.eu
@@ -33538,6 +33605,7 @@
 0.0.0.0 ordernew312311.info
 0.0.0.0 ordernew483819.me
 0.0.0.0 orderold311521.info
+0.0.0.0 orderpay.pl
 0.0.0.0 orders143.info
 0.0.0.0 orders184.info
 0.0.0.0 orders993.info
@@ -35279,6 +35347,7 @@
 0.0.0.0 pl-vinted.info
 0.0.0.0 pl-w.revoprogramxzsed.com
 0.0.0.0 pl-walidacja-uzytkownika.pw
+0.0.0.0 pl-wiadomosc.com
 0.0.0.0 pl-wiadomosci.sa.com
 0.0.0.0 pl-wp.pl
 0.0.0.0 pl-wsparcie.link
@@ -37263,6 +37332,7 @@
 0.0.0.0 prof-tron.store
 0.0.0.0 prof-x1.onli-plprog.site
 0.0.0.0 prof.cryengine.monster
+0.0.0.0 prof.infbal.site
 0.0.0.0 prof.live1program.site
 0.0.0.0 prof.quant-online.online
 0.0.0.0 prof.tsla-coin.xyz
@@ -42181,6 +42251,7 @@
 0.0.0.0 thetrade-pl.cyou
 0.0.0.0 thetrade-pl.online
 0.0.0.0 thetrade-pl.website
+0.0.0.0 thetransfersquad.com
 0.0.0.0 thetreticket-pl.online
 0.0.0.0 theventures.cfd
 0.0.0.0 theverto.xyz
@@ -43071,6 +43142,7 @@
 0.0.0.0 twoj-wizerunek.eu
 0.0.0.0 twoja-fota.p33p.eu
 0.0.0.0 twoja-podobizna.eu
+0.0.0.0 twoja-praca.waw.pl
 0.0.0.0 twoja-rodzina.eu
 0.0.0.0 twoja-szansa.cfd
 0.0.0.0 twoja-szansa.eu
@@ -44305,6 +44377,7 @@
 0.0.0.0 vinted-flm.id-9467.com
 0.0.0.0 vinted-god.id-info0845.me
 0.0.0.0 vinted-hyp.id-info0875.me
+0.0.0.0 vinted-info.7412121.xyz
 0.0.0.0 vinted-inform.9065232.xyz
 0.0.0.0 vinted-informing.688878.xyz
 0.0.0.0 vinted-informing.5566432.xyz
@@ -46403,6 +46476,7 @@
 0.0.0.0 vjnted.794215.xyz
 0.0.0.0 vjnted.6594551.xyz
 0.0.0.0 vjnted.57687666.xyz
+0.0.0.0 vjnted.953232222.xyz
 0.0.0.0 vjnted.4912541215.xyz
 0.0.0.0 vjnted.7265941521.xyz
 0.0.0.0 vjnted.66666665955.xyz
@@ -47569,6 +47643,7 @@
 0.0.0.0 winted.34512-sendinggoods.xyz
 0.0.0.0 winted.3569452.xyz
 0.0.0.0 winted.44125452.xyz
+0.0.0.0 winted.053232222.xyz
 0.0.0.0 winted.412122222.xyz
 0.0.0.0 winted.454542122.xyz
 0.0.0.0 winted.456326566.xyz
@@ -47638,6 +47713,7 @@
 0.0.0.0 withholdventilate.top
 0.0.0.0 withthevikings.com
 0.0.0.0 wittingun.com
+0.0.0.0 witto.autos
 0.0.0.0 witumart.com
 0.0.0.0 wiyai.com
 0.0.0.0 wizardly-brahmagupta-1302f2.netlify.app
@@ -48409,6 +48485,7 @@
 0.0.0.0 www.6d0c381a.bakerstreetfinance.tv
 0.0.0.0 www.6d5cda989e7.johncornell.com
 0.0.0.0 www.6e5f1cb1933.johncornell.com
+0.0.0.0 www.6f42bf39057.chefs-kitchen.co.uk
 0.0.0.0 www.6f836cfdc72.chefs-kitchen.co.uk
 0.0.0.0 www.6fj-text.xyz
 0.0.0.0 www.6interia.azureedge.net
@@ -48972,6 +49049,7 @@
 0.0.0.0 www.1324643.xyz
 0.0.0.0 www.1467874bd5d.johncornell.com
 0.0.0.0 www.1544343.xyz
+0.0.0.0 www.02066623.xyz
 0.0.0.0 www.2132221.xyz
 0.0.0.0 www.2431223.xyz
 0.0.0.0 www.2435709.xyz
@@ -48984,6 +49062,7 @@
 0.0.0.0 www.3544343.xyz
 0.0.0.0 www.3890067.xyz
 0.0.0.0 www.4098123cabb.chefs-kitchen.co.uk
+0.0.0.0 www.04215455.xyz
 0.0.0.0 www.4231211.xyz
 0.0.0.0 www.4354654.xyz
 0.0.0.0 www.4468419a78b.chefs-kitchen.co.uk
@@ -49030,58 +49109,104 @@
 0.0.0.0 www.9678821.xyz
 0.0.0.0 www.9786887.xyz
 0.0.0.0 www.12062155.xyz
+0.0.0.0 www.12066623.xyz
 0.0.0.0 www.12151522.xyz
 0.0.0.0 www.12653233.xyz
 0.0.0.0 www.12918212.me
+0.0.0.0 www.14215455.xyz
+0.0.0.0 www.020000333.xyz
 0.0.0.0 www.22062155.xyz
+0.0.0.0 www.22066623.xyz
 0.0.0.0 www.22151522.xyz
+0.0.0.0 www.24215455.xyz
 0.0.0.0 www.26482462b09.chefs-kitchen.co.uk
 0.0.0.0 www.26653804.xyz
 0.0.0.0 www.31333243.xyz
 0.0.0.0 www.31798538.xyz
+0.0.0.0 www.32066623.xyz
 0.0.0.0 www.32151522.xyz
+0.0.0.0 www.033322233.xyz
+0.0.0.0 www.34215455.xyz
 0.0.0.0 www.34233342.xyz
+0.0.0.0 www.42066623.xyz
 0.0.0.0 www.42151522.xyz
 0.0.0.0 www.42848538e26.chefs-kitchen.co.uk
+0.0.0.0 www.44215455.xyz
 0.0.0.0 www.44445344.xyz
 0.0.0.0 www.48977769.xyz
 0.0.0.0 www.49212222.xyz
+0.0.0.0 www.52066623.xyz
 0.0.0.0 www.52151522.xyz
+0.0.0.0 www.053232222.xyz
+0.0.0.0 www.54215455.xyz
 0.0.0.0 www.57555465.xyz
+0.0.0.0 www.62066623.xyz
 0.0.0.0 www.63421324.xyz
+0.0.0.0 www.64215455.xyz
 0.0.0.0 www.64534419.xyz
 0.0.0.0 www.64534545.xyz
 0.0.0.0 www.66453333.xyz
 0.0.0.0 www.67557687.xyz
 0.0.0.0 www.67564534.xyz
 0.0.0.0 www.67569887.xyz
+0.0.0.0 www.72066623.xyz
 0.0.0.0 www.72650000.xyz
+0.0.0.0 www.74215455.xyz
 0.0.0.0 www.76780007.xyz
 0.0.0.0 www.79003333.xyz
 0.0.0.0 www.79212222.xyz
+0.0.0.0 www.82066623.xyz
 0.0.0.0 www.82653233.xyz
+0.0.0.0 www.84215455.xyz
 0.0.0.0 www.88628720eae.chefs-kitchen.co.uk
 0.0.0.0 www.88722677ae4.chefs-kitchen.co.uk
 0.0.0.0 www.89151535.cube-cologne.com
 0.0.0.0 www.90008788.xyz
+0.0.0.0 www.92066623.xyz
 0.0.0.0 www.92653233.xyz
+0.0.0.0 www.94215455.xyz
 0.0.0.0 www.95743274.xyz
+0.0.0.0 www.120000333.xyz
 0.0.0.0 www.121323113.xyz
+0.0.0.0 www.133322233.xyz
 0.0.0.0 www.148122222.xyz
+0.0.0.0 www.153232222.xyz
 0.0.0.0 www.166665999.xyz
 0.0.0.0 www.168989999.xyz
+0.0.0.0 www.220000333.xyz
+0.0.0.0 www.233322233.xyz
 0.0.0.0 www.248122222.xyz
 0.0.0.0 www.266665999.xyz
 0.0.0.0 www.268989999.xyz
+0.0.0.0 www.320000333.xyz
+0.0.0.0 www.333322233.xyz
 0.0.0.0 www.348122222.xyz
+0.0.0.0 www.353232222.xyz
 0.0.0.0 www.366665999.xyz
 0.0.0.0 www.368989999.xyz
+0.0.0.0 www.420000333.xyz
+0.0.0.0 www.433322233.xyz
 0.0.0.0 www.448122222.xyz
+0.0.0.0 www.453232222.xyz
 0.0.0.0 www.466665999.xyz
 0.0.0.0 www.468989999.xyz
+0.0.0.0 www.520000333.xyz
+0.0.0.0 www.533322233.xyz
 0.0.0.0 www.548122222.xyz
+0.0.0.0 www.553232222.xyz
+0.0.0.0 www.620000333.xyz
+0.0.0.0 www.633322233.xyz
+0.0.0.0 www.653232222.xyz
 0.0.0.0 www.666665999.xyz
 0.0.0.0 www.668989999.xyz
+0.0.0.0 www.720000333.xyz
+0.0.0.0 www.733322233.xyz
+0.0.0.0 www.753232222.xyz
+0.0.0.0 www.820000333.xyz
+0.0.0.0 www.833322233.xyz
+0.0.0.0 www.920000333.xyz
+0.0.0.0 www.933322233.xyz
+0.0.0.0 www.953232222.xyz
 0.0.0.0 www.3702397391a.chefs-kitchen.co.uk
 0.0.0.0 www.6321548745.xyz
 0.0.0.0 www.7450452132f.chefs-kitchen.co.uk
@@ -49714,6 +49839,7 @@
 0.0.0.0 www.alicjagiezek.pl
 0.0.0.0 www.alictoecu.cf
 0.0.0.0 www.aliegro.dispatch-aqeds.space
+0.0.0.0 www.aliegrollokadom.vintageshop.top
 0.0.0.0 www.aliegrolokalnie.productuserpage.xyz
 0.0.0.0 www.aliencoding.com
 0.0.0.0 www.alifiitmp.com
@@ -51368,6 +51494,7 @@
 0.0.0.0 www.bankmillennium.pl.vizatiman.com
 0.0.0.0 www.bankmillennium.thetopmobiles.com
 0.0.0.0 www.bankmllenium.online
+0.0.0.0 www.bankofamerica.doc-statement-bank.web.za
 0.0.0.0 www.bankofireiand.info
 0.0.0.0 www.bankofireland.live
 0.0.0.0 www.bankoflunar.com
@@ -51470,6 +51597,7 @@
 0.0.0.0 www.baukehir.space
 0.0.0.0 www.baulkyrol.com
 0.0.0.0 www.baunkoe.link
+0.0.0.0 www.bautdrow.com
 0.0.0.0 www.bautroibentrong.com
 0.0.0.0 www.bav.globaltradruv.com
 0.0.0.0 www.bav.holzs.online
@@ -52374,6 +52502,7 @@
 0.0.0.0 www.bonus-pl.co
 0.0.0.0 www.bonus-pl.fun
 0.0.0.0 www.bonus-pl.monster
+0.0.0.0 www.bonus-pl.quest
 0.0.0.0 www.bonus-pl.site
 0.0.0.0 www.bonus-pl.space
 0.0.0.0 www.bonus-pl.store
@@ -53234,6 +53363,7 @@
 0.0.0.0 www.chaincrypto.autos
 0.0.0.0 www.chaine-reacti0n.web.app
 0.0.0.0 www.chainframe.online
+0.0.0.0 www.chainportal.quest
 0.0.0.0 www.chainreaction-pl.cfd
 0.0.0.0 www.chainreaction-pl.click
 0.0.0.0 www.chainreaction-pl.cyou
@@ -53959,6 +54089,7 @@
 0.0.0.0 www.coreenquir.com
 0.0.0.0 www.coreplays.com
 0.0.0.0 www.coresmartweb.sk
+0.0.0.0 www.corguer.autos
 0.0.0.0 www.coritians.space
 0.0.0.0 www.corl-inv.web.app
 0.0.0.0 www.corl-invest.web.app
@@ -56670,6 +56801,7 @@
 0.0.0.0 www.dgf0gkfldmobt.cloudfront.net
 0.0.0.0 www.dggvbj9o0rnkf.cloudfront.net
 0.0.0.0 www.dgjdla9k827sl.cloudfront.net
+0.0.0.0 www.dgolin.top
 0.0.0.0 www.dgpd40.wixsite.com
 0.0.0.0 www.dgpq8b.webwave.dev
 0.0.0.0 www.dgrkgz9yt65ki.cloudfront.net
@@ -58810,6 +58942,7 @@
 0.0.0.0 www.equqmz8nq3.digital
 0.0.0.0 www.eqvpismqyp.web.app
 0.0.0.0 www.er.ashess.site
+0.0.0.0 www.era.finnewspl.com
 0.0.0.0 www.eraest.pl
 0.0.0.0 www.eralranconfderpa.gq
 0.0.0.0 www.erambasreuwie.cf
@@ -60027,6 +60160,7 @@
 0.0.0.0 www.forlotontf-dsa89z123.newtontfishow.co.pl
 0.0.0.0 www.form-cmc.com
 0.0.0.0 www.form-jnpost.46221541254.xyz
+0.0.0.0 www.form-v1nted.700002122.xyz
 0.0.0.0 www.form-viihted.38454878.xyz
 0.0.0.0 www.form.2shoppage.xyz
 0.0.0.0 www.form.52066623.xyz
@@ -61150,6 +61284,7 @@
 0.0.0.0 www.grabowski-andrzej.info
 0.0.0.0 www.grabruckthe.cf
 0.0.0.0 www.graciadev.com
+0.0.0.0 www.graciasamigo.beauty
 0.0.0.0 www.gracious-saha-56755f.netlify.app
 0.0.0.0 www.graczykz.pl
 0.0.0.0 www.gradana-indonesia.com
@@ -61975,6 +62110,7 @@
 0.0.0.0 www.hufesan.xyz
 0.0.0.0 www.hugas.bid
 0.0.0.0 www.hugkawo.space
+0.0.0.0 www.huidhonger.com
 0.0.0.0 www.hujers.space
 0.0.0.0 www.hulas.xyz
 0.0.0.0 www.hulgand.website
@@ -63488,6 +63624,7 @@
 0.0.0.0 www.inpost-cop.id-info7364.me
 0.0.0.0 www.inpost-crd.oferta-dn.me
 0.0.0.0 www.inpost-ctcr.order9528.info
+0.0.0.0 www.inpost-cwti.ordrs0348.biz
 0.0.0.0 www.inpost-cxsj.order9512951.info
 0.0.0.0 www.inpost-cysy.order9342.info
 0.0.0.0 www.inpost-czlz.order8859.me
@@ -69130,6 +69267,7 @@
 0.0.0.0 www.loza-pozyczka.site
 0.0.0.0 www.lozeold4.za.com
 0.0.0.0 www.lp9qiz.web.app
+0.0.0.0 www.lp0329320dsal230-mdsak239328239sa.mipoca.co.pl
 0.0.0.0 www.lp-ivest.web.app
 0.0.0.0 www.lp.calareszta.online
 0.0.0.0 www.lp.growthtools.com
@@ -72938,6 +73076,7 @@
 0.0.0.0 www.ogmyden.com
 0.0.0.0 www.ognore.xyz
 0.0.0.0 www.ogobez18.za.com
+0.0.0.0 www.ogrd.pl
 0.0.0.0 www.ogrodek350.com
 0.0.0.0 www.ogromna-tragedia.cfd
 0.0.0.0 www.ogromne-poszukiwania.eu
@@ -75688,6 +75827,7 @@
 0.0.0.0 www.ordernew312311.info
 0.0.0.0 www.ordernew483819.me
 0.0.0.0 www.orderold311521.info
+0.0.0.0 www.orderpay.pl
 0.0.0.0 www.orders143.info
 0.0.0.0 www.orders184.info
 0.0.0.0 www.orders993.info
@@ -77402,6 +77542,7 @@
 0.0.0.0 www.pl-vinted.info
 0.0.0.0 www.pl-w.revoprogramxzsed.com
 0.0.0.0 www.pl-walidacja-uzytkownika.pw
+0.0.0.0 www.pl-wiadomosc.com
 0.0.0.0 www.pl-wiadomosci.sa.com
 0.0.0.0 www.pl-wp.pl
 0.0.0.0 www.pl-wsparcie.link
@@ -79237,6 +79378,7 @@
 0.0.0.0 www.prof-tron.store
 0.0.0.0 www.prof-x1.onli-plprog.site
 0.0.0.0 www.prof.cryengine.monster
+0.0.0.0 www.prof.infbal.site
 0.0.0.0 www.prof.live1program.site
 0.0.0.0 www.prof.quant-online.online
 0.0.0.0 www.prof.tsla-coin.xyz
@@ -84155,6 +84297,7 @@
 0.0.0.0 www.thetrade-pl.cyou
 0.0.0.0 www.thetrade-pl.online
 0.0.0.0 www.thetrade-pl.website
+0.0.0.0 www.thetransfersquad.com
 0.0.0.0 www.thetreticket-pl.online
 0.0.0.0 www.theventures.cfd
 0.0.0.0 www.theverto.xyz
@@ -85045,6 +85188,7 @@
 0.0.0.0 www.twoj-wizerunek.eu
 0.0.0.0 www.twoja-fota.p33p.eu
 0.0.0.0 www.twoja-podobizna.eu
+0.0.0.0 www.twoja-praca.waw.pl
 0.0.0.0 www.twoja-rodzina.eu
 0.0.0.0 www.twoja-szansa.cfd
 0.0.0.0 www.twoja-szansa.eu
@@ -86279,6 +86423,7 @@
 0.0.0.0 www.vinted-flm.id-9467.com
 0.0.0.0 www.vinted-god.id-info0845.me
 0.0.0.0 www.vinted-hyp.id-info0875.me
+0.0.0.0 www.vinted-info.7412121.xyz
 0.0.0.0 www.vinted-inform.9065232.xyz
 0.0.0.0 www.vinted-informing.688878.xyz
 0.0.0.0 www.vinted-informing.5566432.xyz
@@ -88377,6 +88522,7 @@
 0.0.0.0 www.vjnted.794215.xyz
 0.0.0.0 www.vjnted.6594551.xyz
 0.0.0.0 www.vjnted.57687666.xyz
+0.0.0.0 www.vjnted.953232222.xyz
 0.0.0.0 www.vjnted.4912541215.xyz
 0.0.0.0 www.vjnted.7265941521.xyz
 0.0.0.0 www.vjnted.66666665955.xyz
@@ -89543,6 +89689,7 @@
 0.0.0.0 www.winted.34512-sendinggoods.xyz
 0.0.0.0 www.winted.3569452.xyz
 0.0.0.0 www.winted.44125452.xyz
+0.0.0.0 www.winted.053232222.xyz
 0.0.0.0 www.winted.412122222.xyz
 0.0.0.0 www.winted.454542122.xyz
 0.0.0.0 www.winted.456326566.xyz
@@ -89612,6 +89759,7 @@
 0.0.0.0 www.withholdventilate.top
 0.0.0.0 www.withthevikings.com
 0.0.0.0 www.wittingun.com
+0.0.0.0 www.witto.autos
 0.0.0.0 www.witumart.com
 0.0.0.0 www.wiyai.com
 0.0.0.0 www.wizardly-brahmagupta-1302f2.netlify.app
@@ -90683,6 +90831,7 @@
 0.0.0.0 www.zasural-xyz.preview-domain.com
 0.0.0.0 www.zaswiadczeniekrk.pl
 0.0.0.0 www.zator-energlanndia.waw.pl
+0.0.0.0 www.zaudkroll.host
 0.0.0.0 www.zaufajnam.space
 0.0.0.0 www.zaufanastrona.eu
 0.0.0.0 www.zaufanefakty.pl
@@ -91869,6 +92018,7 @@
 0.0.0.0 zasural-xyz.preview-domain.com
 0.0.0.0 zaswiadczeniekrk.pl
 0.0.0.0 zator-energlanndia.waw.pl
+0.0.0.0 zaudkroll.host
 0.0.0.0 zaufajnam.space
 0.0.0.0 zaufanastrona.eu
 0.0.0.0 zaufanefakty.pl
