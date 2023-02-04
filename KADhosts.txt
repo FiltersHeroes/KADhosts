@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 04 Feb 2023, 17:23 UTC+01:00
-# Version: 2023.2.4.2
+# Last modified: Sat, 04 Feb 2023, 21:17 UTC+01:00
+# Version: 2023.2.4.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5830,6 +5830,7 @@
 #
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
+0.0.0.0 0-0lxmarket.8796556.xyz
 0.0.0.0 0-01x-merchandise.554217.xyz
 0.0.0.0 0-lx.12store3444.xyz
 0.0.0.0 0-lx.45956233.xyz
@@ -6335,6 +6336,7 @@
 0.0.0.0 8mrsxo.cyou
 0.0.0.0 8n6nyr-bit.info
 0.0.0.0 8onet.azureedge.net
+0.0.0.0 8producto1x.8567090.xyz
 0.0.0.0 8sms.pw
 0.0.0.0 08sms.xyz
 0.0.0.0 8ungi3.csb.app
@@ -20891,6 +20893,7 @@
 0.0.0.0 in-f.info
 0.0.0.0 in-p0stshopping.576756.xyz
 0.0.0.0 in-poland.web.app
+0.0.0.0 in-post090.9088890.xyz
 0.0.0.0 in-post-delliveri.dostawaplnds.pl
 0.0.0.0 in-post-pay-shop.565676764321.xyz
 0.0.0.0 in-post-pl-myid272xs.0xfee1dead.top
@@ -34870,6 +34873,7 @@
 0.0.0.0 otomoto.k23mp1.eu
 0.0.0.0 otorizse.host
 0.0.0.0 otorun.xyz
+0.0.0.0 otozto-pomoge.eu
 0.0.0.0 otrymannya-covid.site
 0.0.0.0 ottjzrcvxx.cfolks.pl
 0.0.0.0 otufewa.com
@@ -38231,6 +38235,7 @@
 0.0.0.0 productdelivery.xyz
 0.0.0.0 production.outlook-office365-commicrosoftpasswordupdate-storage-tooth-d3eb.s-hiestand.workers.dev
 0.0.0.0 productions.techaifxqacom.pics
+0.0.0.0 producto1x.8000098.xyz
 0.0.0.0 producto1x.info0delivery.xyz
 0.0.0.0 productsend-user.xyz
 0.0.0.0 productsending-inpost.345084512.xyz
@@ -40918,6 +40923,7 @@
 0.0.0.0 shopping48v1nted.669565666.xyz
 0.0.0.0 shopping90-dpd.354222121.xyz
 0.0.0.0 shopping384in-post.15956323.xyz
+0.0.0.0 shopping656oix.81113217.xyz
 0.0.0.0 shopping954dp-d.42326566.xyz
 0.0.0.0 shopping-0-lx.35121122225.xyz
 0.0.0.0 shopping-0lx.6554342.xyz
@@ -42852,6 +42858,7 @@
 0.0.0.0 techiwant.com
 0.0.0.0 techkade.com
 0.0.0.0 technewsoftheworld.com
+0.0.0.0 technical.collectsyours-toporder.com
 0.0.0.0 technika-zarabiania.waw.pl
 0.0.0.0 techniquesk.com
 0.0.0.0 technnews.space
@@ -49312,6 +49319,7 @@
 0.0.0.0 www-rovblox.com
 0.0.0.0 www-upc-pl-uxpuat.upc.biz
 0.0.0.0 www-verification-vinted.info
+0.0.0.0 www.0-0lxmarket.8796556.xyz
 0.0.0.0 www.0-01x-merchandise.554217.xyz
 0.0.0.0 www.0-lx.12store3444.xyz
 0.0.0.0 www.0-lx.45956233.xyz
@@ -49817,6 +49825,7 @@
 0.0.0.0 www.8mrsxo.cyou
 0.0.0.0 www.8n6nyr-bit.info
 0.0.0.0 www.8onet.azureedge.net
+0.0.0.0 www.8producto1x.8567090.xyz
 0.0.0.0 www.8sms.pw
 0.0.0.0 www.08sms.xyz
 0.0.0.0 www.8ungi3.csb.app
@@ -64373,6 +64382,7 @@
 0.0.0.0 www.in-f.info
 0.0.0.0 www.in-p0stshopping.576756.xyz
 0.0.0.0 www.in-poland.web.app
+0.0.0.0 www.in-post090.9088890.xyz
 0.0.0.0 www.in-post-delliveri.dostawaplnds.pl
 0.0.0.0 www.in-post-pay-shop.565676764321.xyz
 0.0.0.0 www.in-post-pl-myid272xs.0xfee1dead.top
@@ -78353,6 +78363,7 @@
 0.0.0.0 www.otomoto.k23mp1.eu
 0.0.0.0 www.otorizse.host
 0.0.0.0 www.otorun.xyz
+0.0.0.0 www.otozto-pomoge.eu
 0.0.0.0 www.otrymannya-covid.site
 0.0.0.0 www.ottjzrcvxx.cfolks.pl
 0.0.0.0 www.otufewa.com
@@ -81536,6 +81547,7 @@
 0.0.0.0 www.productdelivery.xyz
 0.0.0.0 www.production.outlook-office365-commicrosoftpasswordupdate-storage-tooth-d3eb.s-hiestand.workers.dev
 0.0.0.0 www.productions.techaifxqacom.pics
+0.0.0.0 www.producto1x.8000098.xyz
 0.0.0.0 www.producto1x.info0delivery.xyz
 0.0.0.0 www.productsend-user.xyz
 0.0.0.0 www.productsending-inpost.345084512.xyz
@@ -84223,6 +84235,7 @@
 0.0.0.0 www.shopping48v1nted.669565666.xyz
 0.0.0.0 www.shopping90-dpd.354222121.xyz
 0.0.0.0 www.shopping384in-post.15956323.xyz
+0.0.0.0 www.shopping656oix.81113217.xyz
 0.0.0.0 www.shopping954dp-d.42326566.xyz
 0.0.0.0 www.shopping-0-lx.35121122225.xyz
 0.0.0.0 www.shopping-0lx.6554342.xyz
@@ -86157,6 +86170,7 @@
 0.0.0.0 www.techiwant.com
 0.0.0.0 www.techkade.com
 0.0.0.0 www.technewsoftheworld.com
+0.0.0.0 www.technical.collectsyours-toporder.com
 0.0.0.0 www.technika-zarabiania.waw.pl
 0.0.0.0 www.techniquesk.com
 0.0.0.0 www.technnews.space
