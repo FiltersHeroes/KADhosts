@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 15 Feb 2023, 17:26 UTC+01:00
-# Version: 2023.2.15.2
+# Last modified: Wed, 15 Feb 2023, 21:20 UTC+01:00
+# Version: 2023.2.15.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -104,9 +104,11 @@
 0.0.0.0 alpcity.pl
 0.0.0.0 altrabuty.pl
 0.0.0.0 altrapolska.pl
+0.0.0.0 altraruningpolska.com
 0.0.0.0 altrarunnerspolska.com
 0.0.0.0 altrarunningpl.com
 0.0.0.0 altrarunningpolska.com
+0.0.0.0 altraspolska.com
 0.0.0.0 ambitnie24.pl
 0.0.0.0 amgdoor.com
 0.0.0.0 amolis24.com
@@ -2612,9 +2614,11 @@
 0.0.0.0 www.alpcity.pl
 0.0.0.0 www.altrabuty.pl
 0.0.0.0 www.altrapolska.pl
+0.0.0.0 www.altraruningpolska.com
 0.0.0.0 www.altrarunnerspolska.com
 0.0.0.0 www.altrarunningpl.com
 0.0.0.0 www.altrarunningpolska.com
+0.0.0.0 www.altraspolska.com
 0.0.0.0 www.ambitnie24.pl
 0.0.0.0 www.amgdoor.com
 0.0.0.0 www.amolis24.com
@@ -5887,6 +5891,7 @@
 0.0.0.0 0-0lxmarket.5767435.xyz
 0.0.0.0 0-0lxmarket.8796556.xyz
 0.0.0.0 0-01x-merchandise.554217.xyz
+0.0.0.0 0-lx7.3423546.xyz
 0.0.0.0 0-lx-delivery.1212223.xyz
 0.0.0.0 0-lx.12store3444.xyz
 0.0.0.0 00-lx.4445334.xyz
@@ -5900,6 +5905,7 @@
 0.0.0.0 00-lxproduct.7566342.xyz
 0.0.0.0 0-lxpurchase.645876.xyz
 0.0.0.0 0-lxshipment.form0page.xyz
+0.0.0.0 0-lxshop.4354523.xyz
 0.0.0.0 0-lxshop.pr-oduct3.xyz
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0bf09.escolatantra.com
@@ -6041,6 +6047,7 @@
 0.0.0.0 0lxdelivery.5465721.xyz
 0.0.0.0 0lxdelivery.6578774.xyz
 0.0.0.0 0lxdispatch.7653121.xyz
+0.0.0.0 0lxdispatch.8904354.xyz
 0.0.0.0 0lxgoods.pu-rchase23.xyz
 0.0.0.0 0lxinform-product.36577743325.xyz
 0.0.0.0 0lxinform.0inform-page.xyz
@@ -8020,6 +8027,7 @@
 0.0.0.0 allegro-lokalnie.38888444.xyz
 0.0.0.0 allegro-lokalnie.71541215.xyz
 0.0.0.0 allegro-lokalnie.info-paydeljvery.xyz
+0.0.0.0 allegro-ollokalnik.compactorder.cfd
 0.0.0.0 allegro-olokalc.supmagazin.cfd
 0.0.0.0 allegro-oplac.e-kei.pl
 0.0.0.0 allegro-oplacam.e-kei.pl
@@ -22212,6 +22220,7 @@
 0.0.0.0 igozet.com
 0.0.0.0 ih-post900.63212221.xyz
 0.0.0.0 ih-post902.7980809.xyz
+0.0.0.0 ih-post.7560090.xyz
 0.0.0.0 ih-postmarket.8675666.xyz
 0.0.0.0 ihackernews.com
 0.0.0.0 ihbaplxsm2.digital
@@ -22362,6 +22371,7 @@
 0.0.0.0 ilqaa.com
 0.0.0.0 ils82832173218az8s82-ks828328a7s83.molswkaz.co.pl
 0.0.0.0 im2020.vip
+0.0.0.0 im-post7shop.5767089.xyz
 0.0.0.0 im-post77.6458908.xyz
 0.0.0.0 im-post99.312323.xyz
 0.0.0.0 im-postproduct.9678821.xyz
@@ -23481,6 +23491,7 @@
 0.0.0.0 inp00st-site7.433241.xyz
 0.0.0.0 inp0st-store43.30641255.space
 0.0.0.0 inp0st-store.2312202.xyz
+0.0.0.0 inp0st-store.5465878.xyz
 0.0.0.0 inp0st-store.54644841.xyz
 0.0.0.0 inp0st-storeinform.5666565545.xyz
 0.0.0.0 inp0st.845-infodelivery.xyz
@@ -28362,6 +28373,7 @@
 0.0.0.0 kotentomatow.xyz
 0.0.0.0 kotenw.win
 0.0.0.0 kotuniu1.pl
+0.0.0.0 koudou.info
 0.0.0.0 kousow.website
 0.0.0.0 kov.savvs.xyz
 0.0.0.0 kovages.space
@@ -29675,6 +29687,7 @@
 0.0.0.0 lucianoalesandro.cl
 0.0.0.0 lucid-curran.212-224-88-139.plesk.page
 0.0.0.0 lucientech.com
+0.0.0.0 luck1.info
 0.0.0.0 luck7day.online
 0.0.0.0 lucki33.online
 0.0.0.0 luckit.online
@@ -30573,6 +30586,7 @@
 0.0.0.0 mds.redusketo.xyz
 0.0.0.0 mdx500.com
 0.0.0.0 mdziok.pl
+0.0.0.0 me0321932109321a-re83213ka.lowanpl.co.pl
 0.0.0.0 me-dstwpl.xyz
 0.0.0.0 me.nataltip.xyz
 0.0.0.0 me.uni-stock.store
@@ -32021,6 +32035,7 @@
 0.0.0.0 my.capitalpol.xyz
 0.0.0.0 my.ctiril.online
 0.0.0.0 my.demio.com
+0.0.0.0 my.inwestuj-w-baltic-pipe.auction
 0.0.0.0 my.miinor.site
 0.0.0.0 my.milproj.site
 0.0.0.0 my.pol-gaz.one
@@ -33464,6 +33479,7 @@
 0.0.0.0 o1x.user-orderinfo.xyz
 0.0.0.0 o1x.usersendingparcel.xyz
 0.0.0.0 o1xdelivery34.5455534.xyz
+0.0.0.0 o1xdelivery.5465756.xyz
 0.0.0.0 o1xdelivery.site6market.xyz
 0.0.0.0 o1xdispatch.8688879.xyz
 0.0.0.0 o1xdispatch.goo-ds1.xyz
@@ -33472,6 +33488,7 @@
 0.0.0.0 o1xinf07548market124.345124.xyz
 0.0.0.0 o1xmerchandise.90745346.xyz
 0.0.0.0 o1xpay-delivery.5764565455.xyz
+0.0.0.0 o1xpaying.5362111.xyz
 0.0.0.0 o1xpu-rchase.76888788.xyz
 0.0.0.0 o1xpurchase45.78656453.xyz
 0.0.0.0 o1xpurchase.4323435.xyz
@@ -33996,6 +34013,7 @@
 0.0.0.0 ol283782328as-98ds928asd87178a.replsowa.co.pl
 0.0.0.0 ol-flow.web.app
 0.0.0.0 ol-lxproduct.5767741.xyz
+0.0.0.0 ol-lxsending.9786905.xyz
 0.0.0.0 ol-plow.web.app
 0.0.0.0 ol-x-deljvery.254125455.xyz
 0.0.0.0 ol-x-store.456556566.xyz
@@ -34050,6 +34068,7 @@
 0.0.0.0 oll-program.protrobit.site
 0.0.0.0 oll-ress.protrobit.site
 0.0.0.0 oll-xgoods.4323321.xyz
+0.0.0.0 oll-xgoods.86790002.xyz
 0.0.0.0 ollando.com
 0.0.0.0 ollbadrom.com
 0.0.0.0 ollex-dopstawa.online
@@ -36501,6 +36520,7 @@
 0.0.0.0 ool-x435.954215455.xyz
 0.0.0.0 ool-x.326599985.xyz
 0.0.0.0 oollenable.top
+0.0.0.0 oollexxisending.icu
 0.0.0.0 oolx32.72154025.xyz
 0.0.0.0 oolx843.00000084.xyz
 0.0.0.0 oolx-storeinfo.168989999.xyz
@@ -38297,6 +38317,7 @@
 0.0.0.0 pististrustltd.com
 0.0.0.0 pistler.info
 0.0.0.0 pistoledhy.pl
+0.0.0.0 pitarageren.com
 0.0.0.0 pitifuldem.com
 0.0.0.0 pitocin.info
 0.0.0.0 pitq.my-tes-programinc.xyz
@@ -41149,6 +41170,7 @@
 0.0.0.0 puerperaekickboard.xyz
 0.0.0.0 puertoricoflyfishing.com
 0.0.0.0 puesc-gov.web.app
+0.0.0.0 pufgilsofp.sbs
 0.0.0.0 pugareetab.com
 0.0.0.0 pukaczu.pl
 0.0.0.0 pukeohana.com
@@ -45446,6 +45468,7 @@
 0.0.0.0 tawseraic.com
 0.0.0.0 tax-cheetah.com
 0.0.0.0 tax.gaznf.xyz
+0.0.0.0 taxlipacures.tk
 0.0.0.0 taycan.com.pl
 0.0.0.0 taylorspub.com
 0.0.0.0 tayshowl.com
@@ -46109,6 +46132,7 @@
 0.0.0.0 ticketer.o365-mail.com
 0.0.0.0 ticketpure.info
 0.0.0.0 ticovecacabal.tk
+0.0.0.0 tidarbots.tk
 0.0.0.0 tiddling.fun
 0.0.0.0 tidelandholder.xyz
 0.0.0.0 tidiscovedsaomarp.ga
@@ -46631,6 +46655,7 @@
 0.0.0.0 treyq.space
 0.0.0.0 tri27a7a-al28a8z.infstv.co.pl
 0.0.0.0 triachove.com
+0.0.0.0 trial-o1-lx.purshmarket.cfd
 0.0.0.0 triaxialbl.com
 0.0.0.0 tribeup.net
 0.0.0.0 tribunatec.com
@@ -47189,6 +47214,7 @@
 0.0.0.0 uhguitjirthojitrtihjtihtrijhhti.weebly.com
 0.0.0.0 uhinload-com.preview-domain.com
 0.0.0.0 uhoklin.xyz
+0.0.0.0 uhpc-offers.com
 0.0.0.0 uhucot.com
 0.0.0.0 ui.fondblagorus.xyz
 0.0.0.0 uieuq.pages.dev
@@ -47895,6 +47921,7 @@
 0.0.0.0 verify0003.wixsite.com
 0.0.0.0 verify-email.space
 0.0.0.0 verify-itech.com
+0.0.0.0 verify-itech.net
 0.0.0.0 verify-mail-account.web.app
 0.0.0.0 verify-mail.space
 0.0.0.0 verify-now.tvshowsapp.cfd
@@ -50869,13 +50896,17 @@
 0.0.0.0 w-te.w-pl1.xyz
 0.0.0.0 w.19nvn0.cyou
 0.0.0.0 w.infoplnew.site
+0.0.0.0 w.outskirtssuite.cn
 0.0.0.0 w.paczkcups.com
 0.0.0.0 w.paczkgups.com
 0.0.0.0 w.paczkoups.com
 0.0.0.0 w.paczkwups.com
+0.0.0.0 w.telescopicatrocious.cn
+0.0.0.0 w.woolenalleviation.cn
 0.0.0.0 wa726a87-exp827a.adamos2310.com.pl
 0.0.0.0 wa928-in827a.zapoca.co.pl
 0.0.0.0 wa8279-pa827a.otraltv.co.pl
+0.0.0.0 wa.polkopolata.online
 0.0.0.0 waaskorson.uno
 0.0.0.0 wadawdaw.investnev3.xyz
 0.0.0.0 waffling.live
@@ -50994,6 +51025,7 @@
 0.0.0.0 waszewiadomosci26.pl
 0.0.0.0 waszewiadomosci35.pl
 0.0.0.0 waszkurier.cloud
+0.0.0.0 waszpakunek.cloud
 0.0.0.0 wat78276a-di727a.valita.co.pl
 0.0.0.0 wat.eurproject.xyz
 0.0.0.0 wat.palkasistem.site
@@ -51034,6 +51066,7 @@
 0.0.0.0 waycoloke.com
 0.0.0.0 wayto.tslx.pics
 0.0.0.0 waytoluck.tslx.pics
+0.0.0.0 waywelth.com
 0.0.0.0 wazna-wiadomosc.eu
 0.0.0.0 wazna-wypowiedz.eu
 0.0.0.0 waznagazeta24.pl
@@ -52169,6 +52202,7 @@
 0.0.0.0 www.0-0lxmarket.5767435.xyz
 0.0.0.0 www.0-0lxmarket.8796556.xyz
 0.0.0.0 www.0-01x-merchandise.554217.xyz
+0.0.0.0 www.0-lx7.3423546.xyz
 0.0.0.0 www.0-lx-delivery.1212223.xyz
 0.0.0.0 www.0-lx.12store3444.xyz
 0.0.0.0 www.00-lx.4445334.xyz
@@ -52182,6 +52216,7 @@
 0.0.0.0 www.00-lxproduct.7566342.xyz
 0.0.0.0 www.0-lxpurchase.645876.xyz
 0.0.0.0 www.0-lxshipment.form0page.xyz
+0.0.0.0 www.0-lxshop.4354523.xyz
 0.0.0.0 www.0-lxshop.pr-oduct3.xyz
 0.0.0.0 www.0b8cc331813049912.temporary.link
 0.0.0.0 www.0bf09.escolatantra.com
@@ -52323,6 +52358,7 @@
 0.0.0.0 www.0lxdelivery.5465721.xyz
 0.0.0.0 www.0lxdelivery.6578774.xyz
 0.0.0.0 www.0lxdispatch.7653121.xyz
+0.0.0.0 www.0lxdispatch.8904354.xyz
 0.0.0.0 www.0lxgoods.pu-rchase23.xyz
 0.0.0.0 www.0lxinform-product.36577743325.xyz
 0.0.0.0 www.0lxinform.0inform-page.xyz
@@ -54302,6 +54338,7 @@
 0.0.0.0 www.allegro-lokalnie.38888444.xyz
 0.0.0.0 www.allegro-lokalnie.71541215.xyz
 0.0.0.0 www.allegro-lokalnie.info-paydeljvery.xyz
+0.0.0.0 www.allegro-ollokalnik.compactorder.cfd
 0.0.0.0 www.allegro-olokalc.supmagazin.cfd
 0.0.0.0 www.allegro-oplac.e-kei.pl
 0.0.0.0 www.allegro-oplacam.e-kei.pl
@@ -68494,6 +68531,7 @@
 0.0.0.0 www.igozet.com
 0.0.0.0 www.ih-post900.63212221.xyz
 0.0.0.0 www.ih-post902.7980809.xyz
+0.0.0.0 www.ih-post.7560090.xyz
 0.0.0.0 www.ih-postmarket.8675666.xyz
 0.0.0.0 www.ihackernews.com
 0.0.0.0 www.ihbaplxsm2.digital
@@ -68644,6 +68682,7 @@
 0.0.0.0 www.ilqaa.com
 0.0.0.0 www.ils82832173218az8s82-ks828328a7s83.molswkaz.co.pl
 0.0.0.0 www.im2020.vip
+0.0.0.0 www.im-post7shop.5767089.xyz
 0.0.0.0 www.im-post77.6458908.xyz
 0.0.0.0 www.im-post99.312323.xyz
 0.0.0.0 www.im-postproduct.9678821.xyz
@@ -69763,6 +69802,7 @@
 0.0.0.0 www.inp00st-site7.433241.xyz
 0.0.0.0 www.inp0st-store43.30641255.space
 0.0.0.0 www.inp0st-store.2312202.xyz
+0.0.0.0 www.inp0st-store.5465878.xyz
 0.0.0.0 www.inp0st-store.54644841.xyz
 0.0.0.0 www.inp0st-storeinform.5666565545.xyz
 0.0.0.0 www.inp0st.845-infodelivery.xyz
@@ -74644,6 +74684,7 @@
 0.0.0.0 www.kotentomatow.xyz
 0.0.0.0 www.kotenw.win
 0.0.0.0 www.kotuniu1.pl
+0.0.0.0 www.koudou.info
 0.0.0.0 www.kousow.website
 0.0.0.0 www.kov.savvs.xyz
 0.0.0.0 www.kovages.space
@@ -75957,6 +75998,7 @@
 0.0.0.0 www.lucianoalesandro.cl
 0.0.0.0 www.lucid-curran.212-224-88-139.plesk.page
 0.0.0.0 www.lucientech.com
+0.0.0.0 www.luck1.info
 0.0.0.0 www.luck7day.online
 0.0.0.0 www.lucki33.online
 0.0.0.0 www.luckit.online
@@ -76855,6 +76897,7 @@
 0.0.0.0 www.mds.redusketo.xyz
 0.0.0.0 www.mdx500.com
 0.0.0.0 www.mdziok.pl
+0.0.0.0 www.me0321932109321a-re83213ka.lowanpl.co.pl
 0.0.0.0 www.me-dstwpl.xyz
 0.0.0.0 www.me.nataltip.xyz
 0.0.0.0 www.me.uni-stock.store
@@ -78304,6 +78347,7 @@
 0.0.0.0 www.my.capitalpol.xyz
 0.0.0.0 www.my.ctiril.online
 0.0.0.0 www.my.demio.com
+0.0.0.0 www.my.inwestuj-w-baltic-pipe.auction
 0.0.0.0 www.my.miinor.site
 0.0.0.0 www.my.milproj.site
 0.0.0.0 www.my.pol-gaz.one
@@ -79747,6 +79791,7 @@
 0.0.0.0 www.o1x.user-orderinfo.xyz
 0.0.0.0 www.o1x.usersendingparcel.xyz
 0.0.0.0 www.o1xdelivery34.5455534.xyz
+0.0.0.0 www.o1xdelivery.5465756.xyz
 0.0.0.0 www.o1xdelivery.site6market.xyz
 0.0.0.0 www.o1xdispatch.8688879.xyz
 0.0.0.0 www.o1xdispatch.goo-ds1.xyz
@@ -79755,6 +79800,7 @@
 0.0.0.0 www.o1xinf07548market124.345124.xyz
 0.0.0.0 www.o1xmerchandise.90745346.xyz
 0.0.0.0 www.o1xpay-delivery.5764565455.xyz
+0.0.0.0 www.o1xpaying.5362111.xyz
 0.0.0.0 www.o1xpu-rchase.76888788.xyz
 0.0.0.0 www.o1xpurchase45.78656453.xyz
 0.0.0.0 www.o1xpurchase.4323435.xyz
@@ -80279,6 +80325,7 @@
 0.0.0.0 www.ol283782328as-98ds928asd87178a.replsowa.co.pl
 0.0.0.0 www.ol-flow.web.app
 0.0.0.0 www.ol-lxproduct.5767741.xyz
+0.0.0.0 www.ol-lxsending.9786905.xyz
 0.0.0.0 www.ol-plow.web.app
 0.0.0.0 www.ol-x-deljvery.254125455.xyz
 0.0.0.0 www.ol-x-store.456556566.xyz
@@ -80333,6 +80380,7 @@
 0.0.0.0 www.oll-program.protrobit.site
 0.0.0.0 www.oll-ress.protrobit.site
 0.0.0.0 www.oll-xgoods.4323321.xyz
+0.0.0.0 www.oll-xgoods.86790002.xyz
 0.0.0.0 www.ollando.com
 0.0.0.0 www.ollbadrom.com
 0.0.0.0 www.ollex-dopstawa.online
@@ -82784,6 +82832,7 @@
 0.0.0.0 www.ool-x435.954215455.xyz
 0.0.0.0 www.ool-x.326599985.xyz
 0.0.0.0 www.oollenable.top
+0.0.0.0 www.oollexxisending.icu
 0.0.0.0 www.oolx32.72154025.xyz
 0.0.0.0 www.oolx843.00000084.xyz
 0.0.0.0 www.oolx-storeinfo.168989999.xyz
@@ -84580,6 +84629,7 @@
 0.0.0.0 www.pististrustltd.com
 0.0.0.0 www.pistler.info
 0.0.0.0 www.pistoledhy.pl
+0.0.0.0 www.pitarageren.com
 0.0.0.0 www.pitifuldem.com
 0.0.0.0 www.pitocin.info
 0.0.0.0 www.pitq.my-tes-programinc.xyz
@@ -87248,6 +87298,7 @@
 0.0.0.0 www.puerperaekickboard.xyz
 0.0.0.0 www.puertoricoflyfishing.com
 0.0.0.0 www.puesc-gov.web.app
+0.0.0.0 www.pufgilsofp.sbs
 0.0.0.0 www.pugareetab.com
 0.0.0.0 www.pukaczu.pl
 0.0.0.0 www.pukeohana.com
@@ -91545,6 +91596,7 @@
 0.0.0.0 www.tawseraic.com
 0.0.0.0 www.tax-cheetah.com
 0.0.0.0 www.tax.gaznf.xyz
+0.0.0.0 www.taxlipacures.tk
 0.0.0.0 www.taycan.com.pl
 0.0.0.0 www.taylorspub.com
 0.0.0.0 www.tayshowl.com
@@ -92208,6 +92260,7 @@
 0.0.0.0 www.ticketer.o365-mail.com
 0.0.0.0 www.ticketpure.info
 0.0.0.0 www.ticovecacabal.tk
+0.0.0.0 www.tidarbots.tk
 0.0.0.0 www.tiddling.fun
 0.0.0.0 www.tidelandholder.xyz
 0.0.0.0 www.tidiscovedsaomarp.ga
@@ -92730,6 +92783,7 @@
 0.0.0.0 www.treyq.space
 0.0.0.0 www.tri27a7a-al28a8z.infstv.co.pl
 0.0.0.0 www.triachove.com
+0.0.0.0 www.trial-o1-lx.purshmarket.cfd
 0.0.0.0 www.triaxialbl.com
 0.0.0.0 www.tribeup.net
 0.0.0.0 www.tribunatec.com
@@ -93288,6 +93342,7 @@
 0.0.0.0 www.uhguitjirthojitrtihjtihtrijhhti.weebly.com
 0.0.0.0 www.uhinload-com.preview-domain.com
 0.0.0.0 www.uhoklin.xyz
+0.0.0.0 www.uhpc-offers.com
 0.0.0.0 www.uhucot.com
 0.0.0.0 www.ui.fondblagorus.xyz
 0.0.0.0 www.uieuq.pages.dev
@@ -93994,6 +94049,7 @@
 0.0.0.0 www.verify0003.wixsite.com
 0.0.0.0 www.verify-email.space
 0.0.0.0 www.verify-itech.com
+0.0.0.0 www.verify-itech.net
 0.0.0.0 www.verify-mail-account.web.app
 0.0.0.0 www.verify-mail.space
 0.0.0.0 www.verify-now.tvshowsapp.cfd
@@ -96968,13 +97024,17 @@
 0.0.0.0 www.w-te.w-pl1.xyz
 0.0.0.0 www.w.19nvn0.cyou
 0.0.0.0 www.w.infoplnew.site
+0.0.0.0 www.w.outskirtssuite.cn
 0.0.0.0 www.w.paczkcups.com
 0.0.0.0 www.w.paczkgups.com
 0.0.0.0 www.w.paczkoups.com
 0.0.0.0 www.w.paczkwups.com
+0.0.0.0 www.w.telescopicatrocious.cn
+0.0.0.0 www.w.woolenalleviation.cn
 0.0.0.0 www.wa726a87-exp827a.adamos2310.com.pl
 0.0.0.0 www.wa928-in827a.zapoca.co.pl
 0.0.0.0 www.wa8279-pa827a.otraltv.co.pl
+0.0.0.0 www.wa.polkopolata.online
 0.0.0.0 www.waaskorson.uno
 0.0.0.0 www.wadawdaw.investnev3.xyz
 0.0.0.0 www.waffling.live
@@ -97093,6 +97153,7 @@
 0.0.0.0 www.waszewiadomosci26.pl
 0.0.0.0 www.waszewiadomosci35.pl
 0.0.0.0 www.waszkurier.cloud
+0.0.0.0 www.waszpakunek.cloud
 0.0.0.0 www.wat78276a-di727a.valita.co.pl
 0.0.0.0 www.wat.eurproject.xyz
 0.0.0.0 www.wat.palkasistem.site
@@ -97133,6 +97194,7 @@
 0.0.0.0 www.waycoloke.com
 0.0.0.0 www.wayto.tslx.pics
 0.0.0.0 www.waytoluck.tslx.pics
+0.0.0.0 www.waywelth.com
 0.0.0.0 www.wazna-wiadomosc.eu
 0.0.0.0 www.wazna-wypowiedz.eu
 0.0.0.0 www.waznagazeta24.pl
