@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 05 Mar 2023, 21:18 UTC+01:00
-# Version: 2023.3.5.4
+# Last modified: Mon, 06 Mar 2023, 09:24 UTC+01:00
+# Version: 2023.3.6.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5950,6 +5950,7 @@
 #
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => hosts
+0.0.0.0 0-0llx.12313123.xyz
 0.0.0.0 0-0lxmarket.5767435.xyz
 0.0.0.0 0-0lxmarket.8796556.xyz
 0.0.0.0 0-01x-merchandise.554217.xyz
@@ -8059,6 +8060,7 @@
 0.0.0.0 alegro-lokalniie.25326566.xyz
 0.0.0.0 alegro-polsca.doaepfen15.shop
 0.0.0.0 alegro-takepay42.95743274.xyz
+0.0.0.0 alegro.pl.konto-info.pl
 0.0.0.0 alegrol0kalni.15623333.xyz
 0.0.0.0 alegroloka-lnie.35623333.xyz
 0.0.0.0 alegrolokalnie-delivery.3200052.xyz
@@ -9802,6 +9804,7 @@
 0.0.0.0 azowel.com
 0.0.0.0 azpricerank.com
 0.0.0.0 azsxxf3rm.digital
+0.0.0.0 azure-cdn-738992990283-micro.theleafcompany.co.nz
 0.0.0.0 azure-org-microsofteam.codeplex.pe
 0.0.0.0 azurhabits.com
 0.0.0.0 azwmscscka.rf.gd
@@ -11838,6 +11841,7 @@
 0.0.0.0 buy.polski-gaz.info
 0.0.0.0 buy.polskigazociag.top
 0.0.0.0 buycutegifts.com
+0.0.0.0 buyditicenter.com
 0.0.0.0 buyerdispatchgoods.xyz
 0.0.0.0 buyfoammattress.com
 0.0.0.0 buyfreelab.com
@@ -17180,6 +17184,7 @@
 0.0.0.0 doomsdayerportholes.xyz
 0.0.0.0 doomtrench.top
 0.0.0.0 dooperty.com
+0.0.0.0 doorsho.com
 0.0.0.0 doorwear.net
 0.0.0.0 dooskwt.com
 0.0.0.0 dooyoouwoorkherre-354128.asia
@@ -20404,6 +20409,7 @@
 0.0.0.0 fotka-wypatrz.eu
 0.0.0.0 fotka-zadziwiajaca.eu
 0.0.0.0 fotke-wstawimy.eu
+0.0.0.0 fotki-ludzie.eu
 0.0.0.0 fotki-niegodne.eu
 0.0.0.0 fotki-nieudane.eu
 0.0.0.0 fotki-okazale.eu
@@ -22484,6 +22490,7 @@
 0.0.0.0 hfkgd.gazeta-regionalna.com
 0.0.0.0 hfmblr.com
 0.0.0.0 hg.boxflox.org
+0.0.0.0 hggfttsrdttfsaeadyjyasasasajas.weebly.com
 0.0.0.0 hgrzesik.pl
 0.0.0.0 hgsssdd.ikasop.site
 0.0.0.0 hh.ppaco.xyz
@@ -23441,6 +23448,7 @@
 0.0.0.0 in171ovationproject.tech
 0.0.0.0 in-f.info
 0.0.0.0 in-p0st.5343548.xyz
+0.0.0.0 in-p0st.5475536.xyz
 0.0.0.0 in-p0stshopping.576756.xyz
 0.0.0.0 in-poland.web.app
 0.0.0.0 in-post000.7563123.xyz
@@ -30477,6 +30485,7 @@
 0.0.0.0 lnpost.advous.top
 0.0.0.0 lnpost.bignaturals.xyz
 0.0.0.0 lnpost.bitcoinlife.xyz
+0.0.0.0 lnpost.canlitvizle.xyz
 0.0.0.0 lnpost.discountvacations.xyz
 0.0.0.0 lnpost.duitbux.xyz
 0.0.0.0 lnpost.generujkody.app
@@ -37823,6 +37832,7 @@
 0.0.0.0 onetrade-pl.xyz
 0.0.0.0 onets-site.yolasite.com
 0.0.0.0 onett.net.pl
+0.0.0.0 onettttini.weebly.com
 0.0.0.0 onetujemy3.waw.pl
 0.0.0.0 onetujemy-wszyscy.waw.pl
 0.0.0.0 onetujemy.waw.pl
@@ -38979,6 +38989,7 @@
 0.0.0.0 paribass.biz
 0.0.0.0 paribass.co
 0.0.0.0 paribass.us
+0.0.0.0 paribasweb.com
 0.0.0.0 paribnks.xyz
 0.0.0.0 paribpnp.com
 0.0.0.0 paridakinvest.pro
@@ -39600,6 +39611,7 @@
 0.0.0.0 pggsa.net
 0.0.0.0 pggsklep.net
 0.0.0.0 pggwegiel.net
+0.0.0.0 pginis.site
 0.0.0.0 pgn-marketing.com
 0.0.0.0 pgn-platform.com
 0.0.0.0 pgnewspl.com
@@ -43610,6 +43622,7 @@
 0.0.0.0 revnok-com.preview-domain.com
 0.0.0.0 revoicebek.pl
 0.0.0.0 revoltress.xyz
+0.0.0.0 revolut-id-verify.com
 0.0.0.0 revolut.buzz
 0.0.0.0 revolut.win
 0.0.0.0 revolutexpert.ltd
@@ -45269,6 +45282,7 @@
 0.0.0.0 signalities.com
 0.0.0.0 signalscoach.com
 0.0.0.0 signature-web.com
+0.0.0.0 signeaweb.app
 0.0.0.0 signetshell.com
 0.0.0.0 signifyteleprompt-expired.firebaseapp.com
 0.0.0.0 signin-ea.com
@@ -46000,6 +46014,7 @@
 0.0.0.0 srv184538.hoster-test.ru
 0.0.0.0 srv185028.hoster-test.ru
 0.0.0.0 srv187256.hoster-test.ru
+0.0.0.0 srv187577.hoster-test.ru
 0.0.0.0 ss78328328a-ls832173218a.marjamo.co.pl
 0.0.0.0 ss.beeps.name
 0.0.0.0 ssccc2ee.space
@@ -47045,6 +47060,7 @@
 0.0.0.0 t24.cleverapps.io
 0.0.0.0 t50-pl.invst5.site
 0.0.0.0 t72r.com
+0.0.0.0 t397c4.webwave.dev
 0.0.0.0 t899.info
 0.0.0.0 t-mobiles.app
 0.0.0.0 t-pl1.zoologys.xyz
@@ -50274,6 +50290,7 @@
 0.0.0.0 vinted-informing.5566432.xyz
 0.0.0.0 vinted-it.id13741.com
 0.0.0.0 vinted-it.id148612.com
+0.0.0.0 vinted-it.receive56.online
 0.0.0.0 vinted-jeg.id-info8767.me
 0.0.0.0 vinted-jfdo.id-3842.me
 0.0.0.0 vinted-kijy.id-info022.me
@@ -51707,6 +51724,7 @@
 0.0.0.0 vinted.jeqcadko.org
 0.0.0.0 vinted.kgebuki.org
 0.0.0.0 vinted.kypelepsoprok.org
+0.0.0.0 vinted.load41245.cyou
 0.0.0.0 vinted.load-12414.online
 0.0.0.0 vinted.load-safe.cfd
 0.0.0.0 vinted.lu33.top
@@ -51732,8 +51750,10 @@
 0.0.0.0 vinted.reservation32481.cloud
 0.0.0.0 vinted.reservation47215.cloud
 0.0.0.0 vinted.reservation56883.cloud
+0.0.0.0 vinted.reservation65151.cloud
 0.0.0.0 vinted.route2.live
 0.0.0.0 vinted.safe-orders.cyou
+0.0.0.0 vinted.send21431.online
 0.0.0.0 vinted.sendingparceluser.xyz
 0.0.0.0 vinted.skegnevid.org
 0.0.0.0 vinted.stico.shop
@@ -53269,6 +53289,8 @@
 0.0.0.0 weryfikujemy-cie.top
 0.0.0.0 weryfka.tk.dnsfordomains.ru
 0.0.0.0 weryfka.top
+0.0.0.0 werykonta-mo20al.crealle.co.pl
+0.0.0.0 werykonta-o020ap.finansealle.co.pl
 0.0.0.0 wesdorl-site.preview-domain.com
 0.0.0.0 wesedroy-com.preview-domain.com
 0.0.0.0 wesfor.host
@@ -54179,6 +54201,7 @@
 0.0.0.0 www-rovblox.com
 0.0.0.0 www-upc-pl-uxpuat.upc.biz
 0.0.0.0 www-verification-vinted.info
+0.0.0.0 www.0-0llx.12313123.xyz
 0.0.0.0 www.0-0lxmarket.5767435.xyz
 0.0.0.0 www.0-0lxmarket.8796556.xyz
 0.0.0.0 www.0-01x-merchandise.554217.xyz
@@ -56288,6 +56311,7 @@
 0.0.0.0 www.alegro-lokalniie.25326566.xyz
 0.0.0.0 www.alegro-polsca.doaepfen15.shop
 0.0.0.0 www.alegro-takepay42.95743274.xyz
+0.0.0.0 www.alegro.pl.konto-info.pl
 0.0.0.0 www.alegrol0kalni.15623333.xyz
 0.0.0.0 www.alegroloka-lnie.35623333.xyz
 0.0.0.0 www.alegrolokalnie-delivery.3200052.xyz
@@ -58031,6 +58055,7 @@
 0.0.0.0 www.azowel.com
 0.0.0.0 www.azpricerank.com
 0.0.0.0 www.azsxxf3rm.digital
+0.0.0.0 www.azure-cdn-738992990283-micro.theleafcompany.co.nz
 0.0.0.0 www.azure-org-microsofteam.codeplex.pe
 0.0.0.0 www.azurhabits.com
 0.0.0.0 www.azwmscscka.rf.gd
@@ -60067,6 +60092,7 @@
 0.0.0.0 www.buy.polski-gaz.info
 0.0.0.0 www.buy.polskigazociag.top
 0.0.0.0 www.buycutegifts.com
+0.0.0.0 www.buyditicenter.com
 0.0.0.0 www.buyerdispatchgoods.xyz
 0.0.0.0 www.buyfoammattress.com
 0.0.0.0 www.buyfreelab.com
@@ -65409,6 +65435,7 @@
 0.0.0.0 www.doomsdayerportholes.xyz
 0.0.0.0 www.doomtrench.top
 0.0.0.0 www.dooperty.com
+0.0.0.0 www.doorsho.com
 0.0.0.0 www.doorwear.net
 0.0.0.0 www.dooskwt.com
 0.0.0.0 www.dooyoouwoorkherre-354128.asia
@@ -68633,6 +68660,7 @@
 0.0.0.0 www.fotka-wypatrz.eu
 0.0.0.0 www.fotka-zadziwiajaca.eu
 0.0.0.0 www.fotke-wstawimy.eu
+0.0.0.0 www.fotki-ludzie.eu
 0.0.0.0 www.fotki-niegodne.eu
 0.0.0.0 www.fotki-nieudane.eu
 0.0.0.0 www.fotki-okazale.eu
@@ -70713,6 +70741,7 @@
 0.0.0.0 www.hfkgd.gazeta-regionalna.com
 0.0.0.0 www.hfmblr.com
 0.0.0.0 www.hg.boxflox.org
+0.0.0.0 www.hggfttsrdttfsaeadyjyasasasajas.weebly.com
 0.0.0.0 www.hgrzesik.pl
 0.0.0.0 www.hgsssdd.ikasop.site
 0.0.0.0 www.hh.ppaco.xyz
@@ -71670,6 +71699,7 @@
 0.0.0.0 www.in171ovationproject.tech
 0.0.0.0 www.in-f.info
 0.0.0.0 www.in-p0st.5343548.xyz
+0.0.0.0 www.in-p0st.5475536.xyz
 0.0.0.0 www.in-p0stshopping.576756.xyz
 0.0.0.0 www.in-poland.web.app
 0.0.0.0 www.in-post000.7563123.xyz
@@ -78706,6 +78736,7 @@
 0.0.0.0 www.lnpost.advous.top
 0.0.0.0 www.lnpost.bignaturals.xyz
 0.0.0.0 www.lnpost.bitcoinlife.xyz
+0.0.0.0 www.lnpost.canlitvizle.xyz
 0.0.0.0 www.lnpost.discountvacations.xyz
 0.0.0.0 www.lnpost.duitbux.xyz
 0.0.0.0 www.lnpost.generujkody.app
@@ -86053,6 +86084,7 @@
 0.0.0.0 www.onetrade-pl.xyz
 0.0.0.0 www.onets-site.yolasite.com
 0.0.0.0 www.onett.net.pl
+0.0.0.0 www.onettttini.weebly.com
 0.0.0.0 www.onetujemy3.waw.pl
 0.0.0.0 www.onetujemy-wszyscy.waw.pl
 0.0.0.0 www.onetujemy.waw.pl
@@ -87209,6 +87241,7 @@
 0.0.0.0 www.paribass.biz
 0.0.0.0 www.paribass.co
 0.0.0.0 www.paribass.us
+0.0.0.0 www.paribasweb.com
 0.0.0.0 www.paribnks.xyz
 0.0.0.0 www.paribpnp.com
 0.0.0.0 www.paridakinvest.pro
@@ -87830,6 +87863,7 @@
 0.0.0.0 www.pggsa.net
 0.0.0.0 www.pggsklep.net
 0.0.0.0 www.pggwegiel.net
+0.0.0.0 www.pginis.site
 0.0.0.0 www.pgn-marketing.com
 0.0.0.0 www.pgn-platform.com
 0.0.0.0 www.pgnewspl.com
@@ -91649,6 +91683,7 @@
 0.0.0.0 www.revnok-com.preview-domain.com
 0.0.0.0 www.revoicebek.pl
 0.0.0.0 www.revoltress.xyz
+0.0.0.0 www.revolut-id-verify.com
 0.0.0.0 www.revolut.buzz
 0.0.0.0 www.revolut.win
 0.0.0.0 www.revolutexpert.ltd
@@ -93308,6 +93343,7 @@
 0.0.0.0 www.signalities.com
 0.0.0.0 www.signalscoach.com
 0.0.0.0 www.signature-web.com
+0.0.0.0 www.signeaweb.app
 0.0.0.0 www.signetshell.com
 0.0.0.0 www.signifyteleprompt-expired.firebaseapp.com
 0.0.0.0 www.signin-ea.com
@@ -94039,6 +94075,7 @@
 0.0.0.0 www.srv184538.hoster-test.ru
 0.0.0.0 www.srv185028.hoster-test.ru
 0.0.0.0 www.srv187256.hoster-test.ru
+0.0.0.0 www.srv187577.hoster-test.ru
 0.0.0.0 www.ss78328328a-ls832173218a.marjamo.co.pl
 0.0.0.0 www.ss.beeps.name
 0.0.0.0 www.ssccc2ee.space
@@ -95084,6 +95121,7 @@
 0.0.0.0 www.t24.cleverapps.io
 0.0.0.0 www.t50-pl.invst5.site
 0.0.0.0 www.t72r.com
+0.0.0.0 www.t397c4.webwave.dev
 0.0.0.0 www.t899.info
 0.0.0.0 www.t-mobiles.app
 0.0.0.0 www.t-pl1.zoologys.xyz
@@ -98313,6 +98351,7 @@
 0.0.0.0 www.vinted-informing.5566432.xyz
 0.0.0.0 www.vinted-it.id13741.com
 0.0.0.0 www.vinted-it.id148612.com
+0.0.0.0 www.vinted-it.receive56.online
 0.0.0.0 www.vinted-jeg.id-info8767.me
 0.0.0.0 www.vinted-jfdo.id-3842.me
 0.0.0.0 www.vinted-kijy.id-info022.me
@@ -99746,6 +99785,7 @@
 0.0.0.0 www.vinted.jeqcadko.org
 0.0.0.0 www.vinted.kgebuki.org
 0.0.0.0 www.vinted.kypelepsoprok.org
+0.0.0.0 www.vinted.load41245.cyou
 0.0.0.0 www.vinted.load-12414.online
 0.0.0.0 www.vinted.load-safe.cfd
 0.0.0.0 www.vinted.lu33.top
@@ -99771,8 +99811,10 @@
 0.0.0.0 www.vinted.reservation32481.cloud
 0.0.0.0 www.vinted.reservation47215.cloud
 0.0.0.0 www.vinted.reservation56883.cloud
+0.0.0.0 www.vinted.reservation65151.cloud
 0.0.0.0 www.vinted.route2.live
 0.0.0.0 www.vinted.safe-orders.cyou
+0.0.0.0 www.vinted.send21431.online
 0.0.0.0 www.vinted.sendingparceluser.xyz
 0.0.0.0 www.vinted.skegnevid.org
 0.0.0.0 www.vinted.stico.shop
@@ -101308,6 +101350,8 @@
 0.0.0.0 www.weryfikujemy-cie.top
 0.0.0.0 www.weryfka.tk.dnsfordomains.ru
 0.0.0.0 www.weryfka.top
+0.0.0.0 www.werykonta-mo20al.crealle.co.pl
+0.0.0.0 www.werykonta-o020ap.finansealle.co.pl
 0.0.0.0 www.wesdorl-site.preview-domain.com
 0.0.0.0 www.wesedroy-com.preview-domain.com
 0.0.0.0 www.wesfor.host
@@ -103339,6 +103383,7 @@
 0.0.0.0 www.zmopda.pl
 0.0.0.0 www.zmwpoqii.pl
 0.0.0.0 www.zn1qp7.webwave.dev
+0.0.0.0 www.zna555.webwave.dev
 0.0.0.0 www.znajacysienarzeczycorka.site
 0.0.0.0 www.znajdz-paczkomat-inpost.com
 0.0.0.0 www.znajdz-prace.shop
@@ -104634,6 +104679,7 @@
 0.0.0.0 zmopda.pl
 0.0.0.0 zmwpoqii.pl
 0.0.0.0 zn1qp7.webwave.dev
+0.0.0.0 zna555.webwave.dev
 0.0.0.0 znajacysienarzeczycorka.site
 0.0.0.0 znajdz-paczkomat-inpost.com
 0.0.0.0 znajdz-prace.shop
