@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 04 Apr 2023, 23:51 UTC+02:00
-# Version: 2023.4.4.4
+# Last modified: Wed, 05 Apr 2023, 10:23 UTC+02:00
+# Version: 2023.4.5.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7487,6 +7487,7 @@
 0.0.0.0 135560-weryfikacja-5079.app-all.co.pl
 0.0.0.0 138095.space
 0.0.0.0 139271.000webhostapp.com
+0.0.0.0 139287dalej.soulcar.pl
 0.0.0.0 140093.space
 0.0.0.0 140200-twoje-5539.gro-app.co.pl
 0.0.0.0 140272-konto-5587.kntlgr.co.pl
@@ -7651,6 +7652,7 @@
 0.0.0.0 471282-istotny-4741.allapp.co.pl
 0.0.0.0 472487-twoje-1954.app-gro.co.pl
 0.0.0.0 477147-twoje-3213.gro-app.co.pl
+0.0.0.0 477494potwierdz.soulcar.pl
 0.0.0.0 479188-aktualizacja-4110.crtn.co.pl
 0.0.0.0 479580logowanie7164.knto.cloud
 0.0.0.0 483158-konto-7352.app-all.co.pl
@@ -7685,8 +7687,10 @@
 0.0.0.0 543658konto8229.rejepl.co.pl
 0.0.0.0 544345-wery-2592.allapp.co.pl
 0.0.0.0 546454istotny8458.rejepl.co.pl
+0.0.0.0 547925kodem.soulcar.pl
 0.0.0.0 548739.space
 0.0.0.0 553521.selcdn.ru
+0.0.0.0 554838kodsms.soulcar.pl
 0.0.0.0 555024wery8891.app-gro.online
 0.0.0.0 555305.selcdn.ru
 0.0.0.0 556696wery7555.app-gro.online
@@ -7704,6 +7708,7 @@
 0.0.0.0 575184.allegrolokalnie.ink
 0.0.0.0 576411.xyz
 0.0.0.0 576756.xyz
+0.0.0.0 577501kodsms.soulcar.pl
 0.0.0.0 577927potwierdz4334.app-gro.online
 0.0.0.0 579061konto5497.rejepl.co.pl
 0.0.0.0 579274-aktualizacja-9159.kntlgr.co.pl
@@ -7764,6 +7769,7 @@
 0.0.0.0 702786potwierdz4302.app-gro.online
 0.0.0.0 703023konto5698.rejepl.co.pl
 0.0.0.0 705490-wery-9116.app-gro.co.pl
+0.0.0.0 706995kodem.soulcar.pl
 0.0.0.0 708350potwierdzenie2515.app-gro.online
 0.0.0.0 710512-twoje-5404.app-gro.co.pl
 0.0.0.0 710965-moje-3122.app-gro.co.pl
@@ -7824,6 +7830,7 @@
 0.0.0.0 834443-aktualizacja-4098.crtn.co.pl
 0.0.0.0 839140-weryfikacja-3302.allapp.co.pl
 0.0.0.0 841235potwierdzenie7696.app-gro.online
+0.0.0.0 843823kodem.soulcar.pl
 0.0.0.0 848054aktualizacja7584.knto.cloud
 0.0.0.0 851307konto7485.rejepl.co.pl
 0.0.0.0 852678potwierdz7268.rejepl.co.pl
@@ -7837,6 +7844,7 @@
 0.0.0.0 868943-twoje-9233.crtn.co.pl
 0.0.0.0 872180-aktualizacja-7582.app-all.co.pl
 0.0.0.0 872548-potwierdz-6408.app-all.co.pl
+0.0.0.0 876847weryfikacja.soulcar.pl
 0.0.0.0 879425kodem4068.knto.cloud
 0.0.0.0 881993aktualizacja7388.app-gro.online
 0.0.0.0 884200potwierdz5957.all-app.cfd
@@ -7851,6 +7859,7 @@
 0.0.0.0 904611.xyz
 0.0.0.0 907596-konto-4878.tjall.co.pl
 0.0.0.0 909011konto6002.rejepl.co.pl
+0.0.0.0 910538logowanie.soulcar.pl
 0.0.0.0 913769-o929a.ntpsla.co.pl
 0.0.0.0 922872moje6680.rejepl.co.pl
 0.0.0.0 924524istotny4096.rejepl.co.pl
@@ -7874,6 +7883,7 @@
 0.0.0.0 983289-twoje-2236.gro-app.co.pl
 0.0.0.0 986342weryfikacja.tslv.co.pl
 0.0.0.0 989178weryfikacja6562.knto.cloud
+0.0.0.0 990334konto.soulcar.pl
 0.0.0.0 994100kodsms3084.knto.cloud
 0.0.0.0 994827-o929a.ntpsla.co.pl
 0.0.0.0 995685-potwierdz-9931.crtn.co.pl
@@ -20009,6 +20019,7 @@
 0.0.0.0 e-film24.pl
 0.0.0.0 e-fizjosklep.pl
 0.0.0.0 e-gazeta.osc-fr1.scalingo.io
+0.0.0.0 e-glosowanie.com
 0.0.0.0 e-gospodarka.elk.pl
 0.0.0.0 e-inf-regionalne24.vdl.pl
 0.0.0.0 e-invest.click
@@ -21550,6 +21561,7 @@
 0.0.0.0 fastcash4vehicles.com
 0.0.0.0 fastcryptofxtrade.com
 0.0.0.0 fastezfunds.net
+0.0.0.0 fastidious-palmier-0fac6b.netlify.app
 0.0.0.0 fastilmo.org
 0.0.0.0 fastish.life
 0.0.0.0 fastkeepunits.webnode.ro
@@ -23558,6 +23570,7 @@
 0.0.0.0 glistersun.com
 0.0.0.0 glitchrepublic.com
 0.0.0.0 glittering-muffin-e55fb9.netlify.app
+0.0.0.0 glittery-babka-f01070.netlify.app
 0.0.0.0 gllchurch.org
 0.0.0.0 glloorryproojject.site
 0.0.0.0 glmkas.pl
@@ -30526,6 +30539,7 @@
 0.0.0.0 ipko-zablokowany.net
 0.0.0.0 ipko.av0.site
 0.0.0.0 ipko.biznes24pl.online
+0.0.0.0 ipko.biznes-pl.com
 0.0.0.0 ipko.justns.ru
 0.0.0.0 ipko.pl-bankowosc.net
 0.0.0.0 ipko.pl-id17331.live
@@ -33845,6 +33859,7 @@
 0.0.0.0 logowanie.tauron1.pl
 0.0.0.0 logowaniep.temp.swtest.ru
 0.0.0.0 logtosee8271-tvjs828az.coptvshow.co.pl
+0.0.0.0 loguje-sie-2023.click
 0.0.0.0 logujesz-sie.life
 0.0.0.0 lohs82-a828a.nextinsta.co.pl
 0.0.0.0 loifxj.webwave.dev
@@ -34010,6 +34025,7 @@
 0.0.0.0 loveincafe.com
 0.0.0.0 lovejavepa.cf
 0.0.0.0 lovely-heliotrope-4139cc.netlify.app
+0.0.0.0 lovely-paletas-91cbc8.netlify.app
 0.0.0.0 lovemyjs.com
 0.0.0.0 loverhq.com
 0.0.0.0 lovintrends.com
@@ -42506,6 +42522,7 @@
 0.0.0.0 orlnplsh.com
 0.0.0.0 orlnpost.webflow.io
 0.0.0.0 orlregpl.site
+0.0.0.0 ornate-lebkuchen-9d335a.netlify.app
 0.0.0.0 ornithorhynchus.info
 0.0.0.0 oropendulo.com
 0.0.0.0 orp.dfrtraderxsys.com
@@ -44636,6 +44653,7 @@
 0.0.0.0 plprojektnew.surge.sh
 0.0.0.0 plprojinpge.info
 0.0.0.0 pls90298a-o929.anisimova.pl
+0.0.0.0 plskpipe.online
 0.0.0.0 plson.space
 0.0.0.0 plssowaccessweb.weebly.com
 0.0.0.0 plstorcup.unlim-balticpipe.xyz
@@ -45830,6 +45848,7 @@
 0.0.0.0 portal-wp-62961907055.azureedge.net
 0.0.0.0 portal-wp-82722590994.azureedge.net
 0.0.0.0 portal.en.nisteltd.com
+0.0.0.0 portal.infura-ipfs.io
 0.0.0.0 portal.nisteltd.com
 0.0.0.0 portal.p1hc.in
 0.0.0.0 portal.service.account.45-125-66-64.cprapid.com
@@ -47965,6 +47984,7 @@
 0.0.0.0 rest.strukts5.site
 0.0.0.0 rest.timechange.cyou
 0.0.0.0 rest.zarobuv.online
+0.0.0.0 restauracja-chicago.pl
 0.0.0.0 restauracjakgb.pl
 0.0.0.0 restaurant-qr-code.com
 0.0.0.0 restnimtirasena.gq
@@ -49801,6 +49821,7 @@
 0.0.0.0 silhouetti.com
 0.0.0.0 silkow.website
 0.0.0.0 sill-buyer.webnode.co.uk
+0.0.0.0 silly-croissant-e9ba7d.netlify.app
 0.0.0.0 silly-florentine-28cc7b.netlify.app
 0.0.0.0 silnikstrazak.site
 0.0.0.0 silsileinur.com
@@ -52412,6 +52433,7 @@
 0.0.0.0 tfhugdearc.joseph-eisenman.workers.dev
 0.0.0.0 tfks19yr6ykp3ud.likemyish.com
 0.0.0.0 tfrecruit.com
+0.0.0.0 tg.for4you.top
 0.0.0.0 tg.sv
 0.0.0.0 tga.gaznf.xyz
 0.0.0.0 tgasw.plfcaty.xyz
@@ -53897,6 +53919,7 @@
 0.0.0.0 ubezpieczeniesamochody.site
 0.0.0.0 ubezpieczenieumowy.com
 0.0.0.0 ubikse.site
+0.0.0.0 ubiquitous-raindrop-819301.netlify.app
 0.0.0.0 ubitracker.net
 0.0.0.0 ubnaster-online.preview-domain.com
 0.0.0.0 ubnidownre.tk
@@ -54709,6 +54732,7 @@
 0.0.0.0 velobankk.top
 0.0.0.0 velobannk.fun
 0.0.0.0 velobannk.top
+0.0.0.0 velocia.shop
 0.0.0.0 vemesok.site
 0.0.0.0 ven.reviss.site
 0.0.0.0 venace.cn
@@ -56789,6 +56813,7 @@
 0.0.0.0 vinted.reservation58944.cloud
 0.0.0.0 vinted.reservation64571.cloud
 0.0.0.0 vinted.reservation65151.cloud
+0.0.0.0 vinted.reservation80215.cloud
 0.0.0.0 vinted.reservation82856.cloud
 0.0.0.0 vinted.reserve-s.online
 0.0.0.0 vinted.reserwe-g.online
@@ -59209,6 +59234,7 @@
 0.0.0.0 wowly.xyz
 0.0.0.0 wozek-rok-po-roku-cid88-idm0vps6.id-info295.com
 0.0.0.0 wp8.primawebovky.cz
+0.0.0.0 wp9mtv.webwave.dev
 0.0.0.0 wp24-aktualnosci.pl
 0.0.0.0 wp-aplikacja.pl
 0.0.0.0 wp-info.eu
@@ -60772,6 +60798,7 @@
 0.0.0.0 www.135560-weryfikacja-5079.app-all.co.pl
 0.0.0.0 www.138095.space
 0.0.0.0 www.139271.000webhostapp.com
+0.0.0.0 www.139287dalej.soulcar.pl
 0.0.0.0 www.140093.space
 0.0.0.0 www.140200-twoje-5539.gro-app.co.pl
 0.0.0.0 www.140272-konto-5587.kntlgr.co.pl
@@ -60936,6 +60963,7 @@
 0.0.0.0 www.471282-istotny-4741.allapp.co.pl
 0.0.0.0 www.472487-twoje-1954.app-gro.co.pl
 0.0.0.0 www.477147-twoje-3213.gro-app.co.pl
+0.0.0.0 www.477494potwierdz.soulcar.pl
 0.0.0.0 www.479188-aktualizacja-4110.crtn.co.pl
 0.0.0.0 www.479580logowanie7164.knto.cloud
 0.0.0.0 www.483158-konto-7352.app-all.co.pl
@@ -60970,8 +60998,10 @@
 0.0.0.0 www.543658konto8229.rejepl.co.pl
 0.0.0.0 www.544345-wery-2592.allapp.co.pl
 0.0.0.0 www.546454istotny8458.rejepl.co.pl
+0.0.0.0 www.547925kodem.soulcar.pl
 0.0.0.0 www.548739.space
 0.0.0.0 www.553521.selcdn.ru
+0.0.0.0 www.554838kodsms.soulcar.pl
 0.0.0.0 www.555024wery8891.app-gro.online
 0.0.0.0 www.555305.selcdn.ru
 0.0.0.0 www.556696wery7555.app-gro.online
@@ -60989,6 +61019,7 @@
 0.0.0.0 www.575184.allegrolokalnie.ink
 0.0.0.0 www.576411.xyz
 0.0.0.0 www.576756.xyz
+0.0.0.0 www.577501kodsms.soulcar.pl
 0.0.0.0 www.577927potwierdz4334.app-gro.online
 0.0.0.0 www.579061konto5497.rejepl.co.pl
 0.0.0.0 www.579274-aktualizacja-9159.kntlgr.co.pl
@@ -61049,6 +61080,7 @@
 0.0.0.0 www.702786potwierdz4302.app-gro.online
 0.0.0.0 www.703023konto5698.rejepl.co.pl
 0.0.0.0 www.705490-wery-9116.app-gro.co.pl
+0.0.0.0 www.706995kodem.soulcar.pl
 0.0.0.0 www.708350potwierdzenie2515.app-gro.online
 0.0.0.0 www.710512-twoje-5404.app-gro.co.pl
 0.0.0.0 www.710965-moje-3122.app-gro.co.pl
@@ -61109,6 +61141,7 @@
 0.0.0.0 www.834443-aktualizacja-4098.crtn.co.pl
 0.0.0.0 www.839140-weryfikacja-3302.allapp.co.pl
 0.0.0.0 www.841235potwierdzenie7696.app-gro.online
+0.0.0.0 www.843823kodem.soulcar.pl
 0.0.0.0 www.848054aktualizacja7584.knto.cloud
 0.0.0.0 www.851307konto7485.rejepl.co.pl
 0.0.0.0 www.852678potwierdz7268.rejepl.co.pl
@@ -61122,6 +61155,7 @@
 0.0.0.0 www.868943-twoje-9233.crtn.co.pl
 0.0.0.0 www.872180-aktualizacja-7582.app-all.co.pl
 0.0.0.0 www.872548-potwierdz-6408.app-all.co.pl
+0.0.0.0 www.876847weryfikacja.soulcar.pl
 0.0.0.0 www.879425kodem4068.knto.cloud
 0.0.0.0 www.881993aktualizacja7388.app-gro.online
 0.0.0.0 www.884200potwierdz5957.all-app.cfd
@@ -61136,6 +61170,7 @@
 0.0.0.0 www.904611.xyz
 0.0.0.0 www.907596-konto-4878.tjall.co.pl
 0.0.0.0 www.909011konto6002.rejepl.co.pl
+0.0.0.0 www.910538logowanie.soulcar.pl
 0.0.0.0 www.913769-o929a.ntpsla.co.pl
 0.0.0.0 www.922872moje6680.rejepl.co.pl
 0.0.0.0 www.924524istotny4096.rejepl.co.pl
@@ -61159,6 +61194,7 @@
 0.0.0.0 www.983289-twoje-2236.gro-app.co.pl
 0.0.0.0 www.986342weryfikacja.tslv.co.pl
 0.0.0.0 www.989178weryfikacja6562.knto.cloud
+0.0.0.0 www.990334konto.soulcar.pl
 0.0.0.0 www.994100kodsms3084.knto.cloud
 0.0.0.0 www.994827-o929a.ntpsla.co.pl
 0.0.0.0 www.995685-potwierdz-9931.crtn.co.pl
@@ -73294,6 +73330,7 @@
 0.0.0.0 www.e-film24.pl
 0.0.0.0 www.e-fizjosklep.pl
 0.0.0.0 www.e-gazeta.osc-fr1.scalingo.io
+0.0.0.0 www.e-glosowanie.com
 0.0.0.0 www.e-gospodarka.elk.pl
 0.0.0.0 www.e-inf-regionalne24.vdl.pl
 0.0.0.0 www.e-invest.click
@@ -74835,6 +74872,7 @@
 0.0.0.0 www.fastcash4vehicles.com
 0.0.0.0 www.fastcryptofxtrade.com
 0.0.0.0 www.fastezfunds.net
+0.0.0.0 www.fastidious-palmier-0fac6b.netlify.app
 0.0.0.0 www.fastilmo.org
 0.0.0.0 www.fastish.life
 0.0.0.0 www.fastkeepunits.webnode.ro
@@ -76843,6 +76881,7 @@
 0.0.0.0 www.glistersun.com
 0.0.0.0 www.glitchrepublic.com
 0.0.0.0 www.glittering-muffin-e55fb9.netlify.app
+0.0.0.0 www.glittery-babka-f01070.netlify.app
 0.0.0.0 www.gllchurch.org
 0.0.0.0 www.glloorryproojject.site
 0.0.0.0 www.glmkas.pl
@@ -83811,6 +83850,7 @@
 0.0.0.0 www.ipko-zablokowany.net
 0.0.0.0 www.ipko.av0.site
 0.0.0.0 www.ipko.biznes24pl.online
+0.0.0.0 www.ipko.biznes-pl.com
 0.0.0.0 www.ipko.justns.ru
 0.0.0.0 www.ipko.pl-bankowosc.net
 0.0.0.0 www.ipko.pl-id17331.live
@@ -87130,6 +87170,7 @@
 0.0.0.0 www.logowanie.tauron1.pl
 0.0.0.0 www.logowaniep.temp.swtest.ru
 0.0.0.0 www.logtosee8271-tvjs828az.coptvshow.co.pl
+0.0.0.0 www.loguje-sie-2023.click
 0.0.0.0 www.logujesz-sie.life
 0.0.0.0 www.lohs82-a828a.nextinsta.co.pl
 0.0.0.0 www.loifxj.webwave.dev
@@ -87295,6 +87336,7 @@
 0.0.0.0 www.loveincafe.com
 0.0.0.0 www.lovejavepa.cf
 0.0.0.0 www.lovely-heliotrope-4139cc.netlify.app
+0.0.0.0 www.lovely-paletas-91cbc8.netlify.app
 0.0.0.0 www.lovemyjs.com
 0.0.0.0 www.loverhq.com
 0.0.0.0 www.lovintrends.com
@@ -95792,6 +95834,7 @@
 0.0.0.0 www.orlnplsh.com
 0.0.0.0 www.orlnpost.webflow.io
 0.0.0.0 www.orlregpl.site
+0.0.0.0 www.ornate-lebkuchen-9d335a.netlify.app
 0.0.0.0 www.ornithorhynchus.info
 0.0.0.0 www.oropendulo.com
 0.0.0.0 www.orp.dfrtraderxsys.com
@@ -97728,6 +97771,7 @@
 0.0.0.0 www.plprojektnew.surge.sh
 0.0.0.0 www.plprojinpge.info
 0.0.0.0 www.pls90298a-o929.anisimova.pl
+0.0.0.0 www.plskpipe.online
 0.0.0.0 www.plson.space
 0.0.0.0 www.plssowaccessweb.weebly.com
 0.0.0.0 www.plstorcup.unlim-balticpipe.xyz
@@ -98922,6 +98966,7 @@
 0.0.0.0 www.portal-wp-62961907055.azureedge.net
 0.0.0.0 www.portal-wp-82722590994.azureedge.net
 0.0.0.0 www.portal.en.nisteltd.com
+0.0.0.0 www.portal.infura-ipfs.io
 0.0.0.0 www.portal.nisteltd.com
 0.0.0.0 www.portal.p1hc.in
 0.0.0.0 www.portal.service.account.45-125-66-64.cprapid.com
@@ -101057,6 +101102,7 @@
 0.0.0.0 www.rest.strukts5.site
 0.0.0.0 www.rest.timechange.cyou
 0.0.0.0 www.rest.zarobuv.online
+0.0.0.0 www.restauracja-chicago.pl
 0.0.0.0 www.restauracjakgb.pl
 0.0.0.0 www.restaurant-qr-code.com
 0.0.0.0 www.restnimtirasena.gq
@@ -102893,6 +102939,7 @@
 0.0.0.0 www.silhouetti.com
 0.0.0.0 www.silkow.website
 0.0.0.0 www.sill-buyer.webnode.co.uk
+0.0.0.0 www.silly-croissant-e9ba7d.netlify.app
 0.0.0.0 www.silly-florentine-28cc7b.netlify.app
 0.0.0.0 www.silnikstrazak.site
 0.0.0.0 www.silsileinur.com
@@ -105504,6 +105551,7 @@
 0.0.0.0 www.tfhugdearc.joseph-eisenman.workers.dev
 0.0.0.0 www.tfks19yr6ykp3ud.likemyish.com
 0.0.0.0 www.tfrecruit.com
+0.0.0.0 www.tg.for4you.top
 0.0.0.0 www.tg.sv
 0.0.0.0 www.tga.gaznf.xyz
 0.0.0.0 www.tgasw.plfcaty.xyz
@@ -106989,6 +107037,7 @@
 0.0.0.0 www.ubezpieczeniesamochody.site
 0.0.0.0 www.ubezpieczenieumowy.com
 0.0.0.0 www.ubikse.site
+0.0.0.0 www.ubiquitous-raindrop-819301.netlify.app
 0.0.0.0 www.ubitracker.net
 0.0.0.0 www.ubnaster-online.preview-domain.com
 0.0.0.0 www.ubnidownre.tk
@@ -107801,6 +107850,7 @@
 0.0.0.0 www.velobankk.top
 0.0.0.0 www.velobannk.fun
 0.0.0.0 www.velobannk.top
+0.0.0.0 www.velocia.shop
 0.0.0.0 www.vemesok.site
 0.0.0.0 www.ven.reviss.site
 0.0.0.0 www.venace.cn
@@ -109881,6 +109931,7 @@
 0.0.0.0 www.vinted.reservation58944.cloud
 0.0.0.0 www.vinted.reservation64571.cloud
 0.0.0.0 www.vinted.reservation65151.cloud
+0.0.0.0 www.vinted.reservation80215.cloud
 0.0.0.0 www.vinted.reservation82856.cloud
 0.0.0.0 www.vinted.reserve-s.online
 0.0.0.0 www.vinted.reserwe-g.online
@@ -112301,6 +112352,7 @@
 0.0.0.0 www.wowly.xyz
 0.0.0.0 www.wozek-rok-po-roku-cid88-idm0vps6.id-info295.com
 0.0.0.0 www.wp8.primawebovky.cz
+0.0.0.0 www.wp9mtv.webwave.dev
 0.0.0.0 www.wp24-aktualnosci.pl
 0.0.0.0 www.wp-aplikacja.pl
 0.0.0.0 www.wp-info.eu
