@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 06 Apr 2023, 18:21 UTC+02:00
-# Version: 2023.4.6.2
+# Last modified: Thu, 06 Apr 2023, 22:17 UTC+02:00
+# Version: 2023.4.6.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7492,6 +7492,7 @@
 0.0.0.0 107972-moje-6542.app-gro.co.pl
 0.0.0.0 112121.space
 0.0.0.0 112261dalej-aktualizacja.jdhs.pl
+0.0.0.0 112968kodem-kodsms.dawideka.pl
 0.0.0.0 118633-twoje-1293.crtn.co.pl
 0.0.0.0 119687logowanie-konto.jdhs.pl
 0.0.0.0 119920konto.jdhs.pl
@@ -7580,6 +7581,7 @@
 0.0.0.0 214455weryfikacja4938.rejepl.co.pl
 0.0.0.0 215881dalej6292.knto.cloud
 0.0.0.0 216332dalej.jdhs.pl
+0.0.0.0 218373aktualizacja-potwierdz.dawideka.pl
 0.0.0.0 219133aktualizacja4730.allplat.cloud
 0.0.0.0 220271-potwierdz-7964.allapp.co.pl
 0.0.0.0 221798logowanie-poczta.jdhs.pl
@@ -7693,6 +7695,7 @@
 0.0.0.0 385496kodem-potwierdz.jdhs.pl
 0.0.0.0 385883konto9576.knto.cloud
 0.0.0.0 386283kodsms-kodsms.jdhs.pl
+0.0.0.0 386643kodem-logowanie.dawideka.pl
 0.0.0.0 388758moje3208.allplat.cloud
 0.0.0.0 388773-o929a.ntpsla.co.pl
 0.0.0.0 388860weryfikacja-kodsms.jdhs.pl
@@ -7722,6 +7725,8 @@
 0.0.0.0 425772logowanie.jdhs.pl
 0.0.0.0 425837konto-aktualizacja.jdhs.pl
 0.0.0.0 427243poczta.jdhs.pl
+0.0.0.0 428237kodem-poczta.dawideka.pl
+0.0.0.0 429102konto-kodem.djmcy.pl
 0.0.0.0 429779dalej-weryfikacja.jdhs.pl
 0.0.0.0 430465weryfikacja.jdhs.pl
 0.0.0.0 432333.xyz
@@ -7730,6 +7735,7 @@
 0.0.0.0 435757ut.com
 0.0.0.0 435767aktualizacja4311.allplat.cloud
 0.0.0.0 438297dalej-kodsms.jdhs.pl
+0.0.0.0 438787dalej-weryfikacja.djmcy.pl
 0.0.0.0 438982moje4738.rejepl.co.pl
 0.0.0.0 439147-o929a.ntpsla.co.pl
 0.0.0.0 440160kodsms7876.knto.cloud
@@ -7828,6 +7834,7 @@
 0.0.0.0 562701dalej-logowanie.jdhs.pl
 0.0.0.0 562919weryfikacja4827.app-gro.online
 0.0.0.0 564049-o929a.ntpsla.co.pl
+0.0.0.0 564291dalej-konto.chorw.com.pl
 0.0.0.0 564544.xyz
 0.0.0.0 569242-aktualizacja-1504.gro-app.co.pl
 0.0.0.0 571291logowanie-dalej.jdhs.pl
@@ -8028,6 +8035,7 @@
 0.0.0.0 840199dalej-weryfikacja.jdhs.pl
 0.0.0.0 841235potwierdzenie7696.app-gro.online
 0.0.0.0 841277potwierdz-logowanie.jdhs.pl
+0.0.0.0 842993poczta-konto.djmcy.pl
 0.0.0.0 843823kodem.soulcar.pl
 0.0.0.0 848054aktualizacja7584.knto.cloud
 0.0.0.0 850864kodem-potwierdz.jdhs.pl
@@ -8060,6 +8068,7 @@
 0.0.0.0 887601potwierdz2034.rejepl.co.pl
 0.0.0.0 887668-o929a.ntpsla.co.pl
 0.0.0.0 887711-o929a.ntpsla.co.pl
+0.0.0.0 890099aktualizacja-weryfikacja.dawideka.pl
 0.0.0.0 892308kodem.jdhs.pl
 0.0.0.0 892562konto7174.rejepl.co.pl
 0.0.0.0 896556weryfikacja2887.allplat.cloud
@@ -11231,6 +11240,7 @@
 0.0.0.0 b4uno.structuresilly.co.in
 0.0.0.0 b5.newappco.xyz
 0.0.0.0 b5l53s519v.madzisku.pl
+0.0.0.0 b5l53s519v.mrdrewniak.pl
 0.0.0.0 b5v7xjou8h.majeraneksa.com.pl
 0.0.0.0 b6yf5b.webwave.dev
 0.0.0.0 b7.newappco.xyz
@@ -11419,6 +11429,7 @@
 0.0.0.0 bafybeidqlgmdiqsitbnuywpnayqvkkqrbzalcy4bqkfixdgvlswzoevrb4.ipfs.dweb.link
 0.0.0.0 bafybeidr2yg3kdxuvhkv3hsk6vwbrqng4eolnmvdlpzgnwycrpm2rud4wm.ipfs.infura-ipfs.io
 0.0.0.0 bafybeidyd5emtq7jc7dvziaft5ypjyybbxnsr6pk54737gnrl2nzzd2cbm.ipfs.dweb.link
+0.0.0.0 bafybeie3evzsbe5factirch2eoljhgsuiepeft6npxbb2l6n4h6lvfpkpu.ipfs.dweb.link
 0.0.0.0 bafybeie3i6y5dlidgw5ltigqmbw6x3repfk2szduiwbroe4mesftargjvy.ipfs.dweb.link
 0.0.0.0 bafybeie4uyhur76y2bv2zkaiflkuyp7rdkvlq63sc3rrnn53b762h3y4pe.ipfs.dweb.link
 0.0.0.0 bafybeiej3xgub3jr7kv4riobjphn2kfrnvaem5isido5lcfgjzz6m3kuzq.ipfs.dweb.link
@@ -11615,6 +11626,7 @@
 0.0.0.0 baltprogr.hotpr0g.site
 0.0.0.0 baltsinf.cfd
 0.0.0.0 baltticpl.club
+0.0.0.0 baltticpl.life
 0.0.0.0 baltticpl.top
 0.0.0.0 baltticpll.club
 0.0.0.0 baltz.bndrprogram.site
@@ -13653,6 +13665,7 @@
 0.0.0.0 c5qt2y.webwave.dev
 0.0.0.0 c6bfd292ea3bd1e29ed70097aa0ce889.przekierowanie-bnpparibas.com
 0.0.0.0 c6nhgk.webwave.dev
+0.0.0.0 c18hox.webwave.dev
 0.0.0.0 c25fb524-9055-4d33-869b-94cd7d51717e.id.repl.co
 0.0.0.0 c39b126b5cec.ngrok.io
 0.0.0.0 c39ram.webwave.dev
@@ -18230,6 +18243,7 @@
 0.0.0.0 delivery.olx.safedeal.casa
 0.0.0.0 delivery.olx.shipment.casa
 0.0.0.0 delivery.olx.umowa.live
+0.0.0.0 delivery.pitcairnvw.com
 0.0.0.0 delivery.rollandorder.com
 0.0.0.0 delivery.shopping-sms-87.com
 0.0.0.0 delivery.superkushbros.com
@@ -22783,6 +22797,7 @@
 0.0.0.0 fioletowy661.site
 0.0.0.0 fiozla.com
 0.0.0.0 fipuzomedia.buzz
+0.0.0.0 fiqazem.online
 0.0.0.0 fireboatpr.com
 0.0.0.0 firecash.org
 0.0.0.0 fireclients.com
@@ -25098,6 +25113,7 @@
 0.0.0.0 hak.sportbetsignupcode.com
 0.0.0.0 hakbukmknbt4.tk
 0.0.0.0 hakelbery.pl
+0.0.0.0 hakiloill.online
 0.0.0.0 hakjru.webwave.dev
 0.0.0.0 hakloone.space
 0.0.0.0 hal.globaltradruv.com
@@ -25634,6 +25650,7 @@
 0.0.0.0 hn.progrr.top
 0.0.0.0 hn.prowrld.top
 0.0.0.0 hnccommunications.com
+0.0.0.0 hnh.agroline-dis.com
 0.0.0.0 hni23q.webwave.dev
 0.0.0.0 ho21.tineda.xyz
 0.0.0.0 ho828a8z-f727az.fopalwv.co.pl
@@ -29861,10 +29878,12 @@
 0.0.0.0 inpost.16663332.xyz
 0.0.0.0 inpost.24122145.xyz
 0.0.0.0 inpost.26663332.xyz
+0.0.0.0 inpost.35154122.xyz
 0.0.0.0 inpost.39566666.xyz
 0.0.0.0 inpost.45456431.xyz
 0.0.0.0 inpost.46663332.xyz
 0.0.0.0 inpost.56663332.xyz
+0.0.0.0 inpost.65154122.xyz
 0.0.0.0 inpost.65220021.xyz
 0.0.0.0 inpost.65323122.xyz
 0.0.0.0 inpost.65986542.xyz
@@ -34690,6 +34709,7 @@
 0.0.0.0 lnpost.1nightstand.xyz
 0.0.0.0 lnpost.3535.website
 0.0.0.0 lnpost.10002.xyz
+0.0.0.0 lnpost.3695845.xyz
 0.0.0.0 lnpost.75322333.xyz
 0.0.0.0 lnpost.063245165121.xyz
 0.0.0.0 lnpost.abchomes.xyz
@@ -39109,6 +39129,7 @@
 0.0.0.0 nikon-syst22.guru
 0.0.0.0 nikon-system.bond
 0.0.0.0 nikotesl.win
+0.0.0.0 nikprofitpl.com
 0.0.0.0 nikz.olled.xyz
 0.0.0.0 nildenaksoy.com
 0.0.0.0 nimagser-site.preview-domain.com
@@ -39506,6 +39527,7 @@
 0.0.0.0 nowy612.site
 0.0.0.0 nowy8276a8-psi927a09.infotvnt.co.pl
 0.0.0.0 nowyfaceebook.pl
+0.0.0.0 nowyportal.eu5.net
 0.0.0.0 noz.fishess.site
 0.0.0.0 np-ivest.web.app
 0.0.0.0 npl.maxipl-system.xyz
@@ -40074,6 +40096,7 @@
 0.0.0.0 offer.q8fe7jh2d79fg9n.jacazma.ir
 0.0.0.0 offer.rdtscgaxoicsu0d.jahanvalve.ir
 0.0.0.0 offerads5.xyz
+0.0.0.0 offercomthree.com
 0.0.0.0 offercomurltwo.com
 0.0.0.0 officai1.program-pro2.xyz
 0.0.0.0 office365-nevion.com
@@ -41422,12 +41445,14 @@
 0.0.0.0 olx.1510212.xyz
 0.0.0.0 olx.01541215.xyz
 0.0.0.0 olx.1632222.xyz
+0.0.0.0 olx.1695845.xyz
 0.0.0.0 olx.02265996.xyz
 0.0.0.0 olx.2383655.xyz
 0.0.0.0 olx.2383659.xyz
 0.0.0.0 olx.2484888.xyz
 0.0.0.0 olx.2565663.xyz
 0.0.0.0 olx.2598963.xyz
+0.0.0.0 olx.2695845.xyz
 0.0.0.0 olx.3222230.xyz
 0.0.0.0 olx.3222231.xyz
 0.0.0.0 olx.3222237.xyz
@@ -44991,6 +45016,7 @@
 0.0.0.0 photo.dgv4y.sbs
 0.0.0.0 photo.drer4.club
 0.0.0.0 photo.drer4.sbs
+0.0.0.0 photo.ergh34.sbs
 0.0.0.0 photo.feb45.sbs
 0.0.0.0 photo.gfer4.xyz
 0.0.0.0 photo.hds6.sbs
@@ -45750,6 +45776,7 @@
 0.0.0.0 pleise.com
 0.0.0.0 pleiss-net.info
 0.0.0.0 plejada24.online
+0.0.0.0 plejada-gwiazd.com.pl
 0.0.0.0 plejada-gwiazd.eu
 0.0.0.0 plejada-gwiazd.pl
 0.0.0.0 plejada-gwiazd.tv
@@ -46969,6 +46996,7 @@
 0.0.0.0 polskastal3.wixsite.com
 0.0.0.0 polskayear.pl
 0.0.0.0 polski-artykul-24h.pl
+0.0.0.0 polski-obiektyw24h.eu5.net
 0.0.0.0 polski-track.msz-pl.online
 0.0.0.0 polskiagazeta24.serwerplus.pl
 0.0.0.0 polskidochod.online
@@ -48117,6 +48145,7 @@
 0.0.0.0 profplas.com
 0.0.0.0 proft-it.xyz
 0.0.0.0 proft-pl.xyz
+0.0.0.0 proft-stst.ftrpr0grambrd.site
 0.0.0.0 proft.work
 0.0.0.0 profteam-pl.autos
 0.0.0.0 profteam-pl.homes
@@ -50183,6 +50212,7 @@
 0.0.0.0 santander-cancel-card.com
 0.0.0.0 santander-homebank.alpenglowranch.net
 0.0.0.0 santander-info.app
+0.0.0.0 santander-odnowienie.com
 0.0.0.0 santander-pl.app
 0.0.0.0 santander-pl.com
 0.0.0.0 santander-pl.info
@@ -52096,6 +52126,7 @@
 0.0.0.0 sprzeda-firmy.online
 0.0.0.0 sprzeda-firmy.xyz
 0.0.0.0 sprzedajauto.com.pl
+0.0.0.0 sprzedajemyauta.com.pl
 0.0.0.0 sprzedajemyfb.pl
 0.0.0.0 sprzedam-basen.waw.pl
 0.0.0.0 sprzedamkoszty.com
@@ -62474,6 +62505,7 @@
 0.0.0.0 www.107972-moje-6542.app-gro.co.pl
 0.0.0.0 www.112121.space
 0.0.0.0 www.112261dalej-aktualizacja.jdhs.pl
+0.0.0.0 www.112968kodem-kodsms.dawideka.pl
 0.0.0.0 www.118633-twoje-1293.crtn.co.pl
 0.0.0.0 www.119687logowanie-konto.jdhs.pl
 0.0.0.0 www.119920konto.jdhs.pl
@@ -62562,6 +62594,7 @@
 0.0.0.0 www.214455weryfikacja4938.rejepl.co.pl
 0.0.0.0 www.215881dalej6292.knto.cloud
 0.0.0.0 www.216332dalej.jdhs.pl
+0.0.0.0 www.218373aktualizacja-potwierdz.dawideka.pl
 0.0.0.0 www.219133aktualizacja4730.allplat.cloud
 0.0.0.0 www.220271-potwierdz-7964.allapp.co.pl
 0.0.0.0 www.221798logowanie-poczta.jdhs.pl
@@ -62675,6 +62708,7 @@
 0.0.0.0 www.385496kodem-potwierdz.jdhs.pl
 0.0.0.0 www.385883konto9576.knto.cloud
 0.0.0.0 www.386283kodsms-kodsms.jdhs.pl
+0.0.0.0 www.386643kodem-logowanie.dawideka.pl
 0.0.0.0 www.388758moje3208.allplat.cloud
 0.0.0.0 www.388773-o929a.ntpsla.co.pl
 0.0.0.0 www.388860weryfikacja-kodsms.jdhs.pl
@@ -62704,6 +62738,8 @@
 0.0.0.0 www.425772logowanie.jdhs.pl
 0.0.0.0 www.425837konto-aktualizacja.jdhs.pl
 0.0.0.0 www.427243poczta.jdhs.pl
+0.0.0.0 www.428237kodem-poczta.dawideka.pl
+0.0.0.0 www.429102konto-kodem.djmcy.pl
 0.0.0.0 www.429779dalej-weryfikacja.jdhs.pl
 0.0.0.0 www.430465weryfikacja.jdhs.pl
 0.0.0.0 www.432333.xyz
@@ -62712,6 +62748,7 @@
 0.0.0.0 www.435757ut.com
 0.0.0.0 www.435767aktualizacja4311.allplat.cloud
 0.0.0.0 www.438297dalej-kodsms.jdhs.pl
+0.0.0.0 www.438787dalej-weryfikacja.djmcy.pl
 0.0.0.0 www.438982moje4738.rejepl.co.pl
 0.0.0.0 www.439147-o929a.ntpsla.co.pl
 0.0.0.0 www.440160kodsms7876.knto.cloud
@@ -62810,6 +62847,7 @@
 0.0.0.0 www.562701dalej-logowanie.jdhs.pl
 0.0.0.0 www.562919weryfikacja4827.app-gro.online
 0.0.0.0 www.564049-o929a.ntpsla.co.pl
+0.0.0.0 www.564291dalej-konto.chorw.com.pl
 0.0.0.0 www.564544.xyz
 0.0.0.0 www.569242-aktualizacja-1504.gro-app.co.pl
 0.0.0.0 www.571291logowanie-dalej.jdhs.pl
@@ -63010,6 +63048,7 @@
 0.0.0.0 www.840199dalej-weryfikacja.jdhs.pl
 0.0.0.0 www.841235potwierdzenie7696.app-gro.online
 0.0.0.0 www.841277potwierdz-logowanie.jdhs.pl
+0.0.0.0 www.842993poczta-konto.djmcy.pl
 0.0.0.0 www.843823kodem.soulcar.pl
 0.0.0.0 www.848054aktualizacja7584.knto.cloud
 0.0.0.0 www.850864kodem-potwierdz.jdhs.pl
@@ -63042,6 +63081,7 @@
 0.0.0.0 www.887601potwierdz2034.rejepl.co.pl
 0.0.0.0 www.887668-o929a.ntpsla.co.pl
 0.0.0.0 www.887711-o929a.ntpsla.co.pl
+0.0.0.0 www.890099aktualizacja-weryfikacja.dawideka.pl
 0.0.0.0 www.892308kodem.jdhs.pl
 0.0.0.0 www.892562konto7174.rejepl.co.pl
 0.0.0.0 www.896556weryfikacja2887.allplat.cloud
@@ -66213,6 +66253,7 @@
 0.0.0.0 www.b4uno.structuresilly.co.in
 0.0.0.0 www.b5.newappco.xyz
 0.0.0.0 www.b5l53s519v.madzisku.pl
+0.0.0.0 www.b5l53s519v.mrdrewniak.pl
 0.0.0.0 www.b5v7xjou8h.majeraneksa.com.pl
 0.0.0.0 www.b6yf5b.webwave.dev
 0.0.0.0 www.b7.newappco.xyz
@@ -66401,6 +66442,7 @@
 0.0.0.0 www.bafybeidqlgmdiqsitbnuywpnayqvkkqrbzalcy4bqkfixdgvlswzoevrb4.ipfs.dweb.link
 0.0.0.0 www.bafybeidr2yg3kdxuvhkv3hsk6vwbrqng4eolnmvdlpzgnwycrpm2rud4wm.ipfs.infura-ipfs.io
 0.0.0.0 www.bafybeidyd5emtq7jc7dvziaft5ypjyybbxnsr6pk54737gnrl2nzzd2cbm.ipfs.dweb.link
+0.0.0.0 www.bafybeie3evzsbe5factirch2eoljhgsuiepeft6npxbb2l6n4h6lvfpkpu.ipfs.dweb.link
 0.0.0.0 www.bafybeie3i6y5dlidgw5ltigqmbw6x3repfk2szduiwbroe4mesftargjvy.ipfs.dweb.link
 0.0.0.0 www.bafybeie4uyhur76y2bv2zkaiflkuyp7rdkvlq63sc3rrnn53b762h3y4pe.ipfs.dweb.link
 0.0.0.0 www.bafybeiej3xgub3jr7kv4riobjphn2kfrnvaem5isido5lcfgjzz6m3kuzq.ipfs.dweb.link
@@ -66597,6 +66639,7 @@
 0.0.0.0 www.baltprogr.hotpr0g.site
 0.0.0.0 www.baltsinf.cfd
 0.0.0.0 www.baltticpl.club
+0.0.0.0 www.baltticpl.life
 0.0.0.0 www.baltticpl.top
 0.0.0.0 www.baltticpll.club
 0.0.0.0 www.baltz.bndrprogram.site
@@ -68635,6 +68678,7 @@
 0.0.0.0 www.c5qt2y.webwave.dev
 0.0.0.0 www.c6bfd292ea3bd1e29ed70097aa0ce889.przekierowanie-bnpparibas.com
 0.0.0.0 www.c6nhgk.webwave.dev
+0.0.0.0 www.c18hox.webwave.dev
 0.0.0.0 www.c25fb524-9055-4d33-869b-94cd7d51717e.id.repl.co
 0.0.0.0 www.c39b126b5cec.ngrok.io
 0.0.0.0 www.c39ram.webwave.dev
@@ -73212,6 +73256,7 @@
 0.0.0.0 www.delivery.olx.safedeal.casa
 0.0.0.0 www.delivery.olx.shipment.casa
 0.0.0.0 www.delivery.olx.umowa.live
+0.0.0.0 www.delivery.pitcairnvw.com
 0.0.0.0 www.delivery.rollandorder.com
 0.0.0.0 www.delivery.shopping-sms-87.com
 0.0.0.0 www.delivery.superkushbros.com
@@ -77765,6 +77810,7 @@
 0.0.0.0 www.fioletowy661.site
 0.0.0.0 www.fiozla.com
 0.0.0.0 www.fipuzomedia.buzz
+0.0.0.0 www.fiqazem.online
 0.0.0.0 www.fireboatpr.com
 0.0.0.0 www.firecash.org
 0.0.0.0 www.fireclients.com
@@ -80080,6 +80126,7 @@
 0.0.0.0 www.hak.sportbetsignupcode.com
 0.0.0.0 www.hakbukmknbt4.tk
 0.0.0.0 www.hakelbery.pl
+0.0.0.0 www.hakiloill.online
 0.0.0.0 www.hakjru.webwave.dev
 0.0.0.0 www.hakloone.space
 0.0.0.0 www.hal.globaltradruv.com
@@ -80616,6 +80663,7 @@
 0.0.0.0 www.hn.progrr.top
 0.0.0.0 www.hn.prowrld.top
 0.0.0.0 www.hnccommunications.com
+0.0.0.0 www.hnh.agroline-dis.com
 0.0.0.0 www.hni23q.webwave.dev
 0.0.0.0 www.ho21.tineda.xyz
 0.0.0.0 www.ho828a8z-f727az.fopalwv.co.pl
@@ -84843,10 +84891,12 @@
 0.0.0.0 www.inpost.16663332.xyz
 0.0.0.0 www.inpost.24122145.xyz
 0.0.0.0 www.inpost.26663332.xyz
+0.0.0.0 www.inpost.35154122.xyz
 0.0.0.0 www.inpost.39566666.xyz
 0.0.0.0 www.inpost.45456431.xyz
 0.0.0.0 www.inpost.46663332.xyz
 0.0.0.0 www.inpost.56663332.xyz
+0.0.0.0 www.inpost.65154122.xyz
 0.0.0.0 www.inpost.65220021.xyz
 0.0.0.0 www.inpost.65323122.xyz
 0.0.0.0 www.inpost.65986542.xyz
@@ -89672,6 +89722,7 @@
 0.0.0.0 www.lnpost.1nightstand.xyz
 0.0.0.0 www.lnpost.3535.website
 0.0.0.0 www.lnpost.10002.xyz
+0.0.0.0 www.lnpost.3695845.xyz
 0.0.0.0 www.lnpost.75322333.xyz
 0.0.0.0 www.lnpost.063245165121.xyz
 0.0.0.0 www.lnpost.abchomes.xyz
@@ -94092,6 +94143,7 @@
 0.0.0.0 www.nikon-syst22.guru
 0.0.0.0 www.nikon-system.bond
 0.0.0.0 www.nikotesl.win
+0.0.0.0 www.nikprofitpl.com
 0.0.0.0 www.nikz.olled.xyz
 0.0.0.0 www.nildenaksoy.com
 0.0.0.0 www.nimagser-site.preview-domain.com
@@ -94489,6 +94541,7 @@
 0.0.0.0 www.nowy612.site
 0.0.0.0 www.nowy8276a8-psi927a09.infotvnt.co.pl
 0.0.0.0 www.nowyfaceebook.pl
+0.0.0.0 www.nowyportal.eu5.net
 0.0.0.0 www.noz.fishess.site
 0.0.0.0 www.np-ivest.web.app
 0.0.0.0 www.npl.maxipl-system.xyz
@@ -95057,6 +95110,7 @@
 0.0.0.0 www.offer.q8fe7jh2d79fg9n.jacazma.ir
 0.0.0.0 www.offer.rdtscgaxoicsu0d.jahanvalve.ir
 0.0.0.0 www.offerads5.xyz
+0.0.0.0 www.offercomthree.com
 0.0.0.0 www.offercomurltwo.com
 0.0.0.0 www.officai1.program-pro2.xyz
 0.0.0.0 www.office365-nevion.com
@@ -96405,12 +96459,14 @@
 0.0.0.0 www.olx.1510212.xyz
 0.0.0.0 www.olx.01541215.xyz
 0.0.0.0 www.olx.1632222.xyz
+0.0.0.0 www.olx.1695845.xyz
 0.0.0.0 www.olx.02265996.xyz
 0.0.0.0 www.olx.2383655.xyz
 0.0.0.0 www.olx.2383659.xyz
 0.0.0.0 www.olx.2484888.xyz
 0.0.0.0 www.olx.2565663.xyz
 0.0.0.0 www.olx.2598963.xyz
+0.0.0.0 www.olx.2695845.xyz
 0.0.0.0 www.olx.3222230.xyz
 0.0.0.0 www.olx.3222231.xyz
 0.0.0.0 www.olx.3222237.xyz
@@ -99974,6 +100030,7 @@
 0.0.0.0 www.photo.dgv4y.sbs
 0.0.0.0 www.photo.drer4.club
 0.0.0.0 www.photo.drer4.sbs
+0.0.0.0 www.photo.ergh34.sbs
 0.0.0.0 www.photo.feb45.sbs
 0.0.0.0 www.photo.gfer4.xyz
 0.0.0.0 www.photo.hds6.sbs
@@ -100537,6 +100594,7 @@
 0.0.0.0 www.pleise.com
 0.0.0.0 www.pleiss-net.info
 0.0.0.0 www.plejada24.online
+0.0.0.0 www.plejada-gwiazd.com.pl
 0.0.0.0 www.plejada-gwiazd.eu
 0.0.0.0 www.plejada-gwiazd.pl
 0.0.0.0 www.plejada-gwiazd.tv
@@ -101756,6 +101814,7 @@
 0.0.0.0 www.polskastal3.wixsite.com
 0.0.0.0 www.polskayear.pl
 0.0.0.0 www.polski-artykul-24h.pl
+0.0.0.0 www.polski-obiektyw24h.eu5.net
 0.0.0.0 www.polski-track.msz-pl.online
 0.0.0.0 www.polskiagazeta24.serwerplus.pl
 0.0.0.0 www.polskidochod.online
@@ -102904,6 +102963,7 @@
 0.0.0.0 www.profplas.com
 0.0.0.0 www.proft-it.xyz
 0.0.0.0 www.proft-pl.xyz
+0.0.0.0 www.proft-stst.ftrpr0grambrd.site
 0.0.0.0 www.proft.work
 0.0.0.0 www.profteam-pl.autos
 0.0.0.0 www.profteam-pl.homes
@@ -104970,6 +105030,7 @@
 0.0.0.0 www.santander-cancel-card.com
 0.0.0.0 www.santander-homebank.alpenglowranch.net
 0.0.0.0 www.santander-info.app
+0.0.0.0 www.santander-odnowienie.com
 0.0.0.0 www.santander-pl.app
 0.0.0.0 www.santander-pl.com
 0.0.0.0 www.santander-pl.info
@@ -106883,6 +106944,7 @@
 0.0.0.0 www.sprzeda-firmy.online
 0.0.0.0 www.sprzeda-firmy.xyz
 0.0.0.0 www.sprzedajauto.com.pl
+0.0.0.0 www.sprzedajemyauta.com.pl
 0.0.0.0 www.sprzedajemyfb.pl
 0.0.0.0 www.sprzedam-basen.waw.pl
 0.0.0.0 www.sprzedamkoszty.com
@@ -116920,6 +116982,7 @@
 0.0.0.0 www.zebyzycjakos.rest
 0.0.0.0 www.zech-studio.com
 0.0.0.0 www.zechbox.com
+0.0.0.0 www.zechonline.com
 0.0.0.0 www.zeendor-xyz.preview-domain.com
 0.0.0.0 www.zefafy.com
 0.0.0.0 www.zehsasko.com
@@ -118325,6 +118388,7 @@
 0.0.0.0 zebyzycjakos.rest
 0.0.0.0 zech-studio.com
 0.0.0.0 zechbox.com
+0.0.0.0 zechonline.com
 0.0.0.0 zeendor-xyz.preview-domain.com
 0.0.0.0 zefafy.com
 0.0.0.0 zehsasko.com
