@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 07 Apr 2023, 22:16 UTC+02:00
-# Version: 2023.4.7.3
+# Last modified: Fri, 07 Apr 2023, 23:46 UTC+02:00
+# Version: 2023.4.7.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -190,6 +190,7 @@
 0.0.0.0 baccanera.com
 0.0.0.0 badizaz.com
 0.0.0.0 badshop.pl
+0.0.0.0 baibiiany.com
 0.0.0.0 baiibuy.com
 0.0.0.0 bajeranckie.pl
 0.0.0.0 bakaron.com
@@ -617,6 +618,8 @@
 0.0.0.0 domki-kopalino.com.pl
 0.0.0.0 dopalacze-sklep.org
 0.0.0.0 dopekurtka.pl
+0.0.0.0 dopesnow-polska.com
+0.0.0.0 dopesnowsklep.com
 0.0.0.0 dopestore.pl
 0.0.0.0 dorseo.pl
 0.0.0.0 dowmarkets.com
@@ -757,6 +760,7 @@
 0.0.0.0 f4u.pl
 0.0.0.0 f-ads.pl
 0.0.0.0 fabryka-nagrod.com
+0.0.0.0 fadasshop.com
 0.0.0.0 faitheoy.shop
 0.0.0.0 fajnefanty.com
 0.0.0.0 faldo.pl
@@ -1097,6 +1101,7 @@
 0.0.0.0 jezpow.pl
 0.0.0.0 jiajinna.com
 0.0.0.0 jimmychoosklep.pl
+0.0.0.0 jnbsireuytpsahgen.com
 0.0.0.0 jnhxs.shop
 0.0.0.0 joga-makai.pl
 0.0.0.0 jogalodz.pl
@@ -1535,6 +1540,7 @@
 0.0.0.0 neocam.pl
 0.0.0.0 nestandland.com
 0.0.0.0 net-s.pl
+0.0.0.0 netcotto.com
 0.0.0.0 netleaders.com
 0.0.0.0 new.yttdzmds.com
 0.0.0.0 newbalancepolska.pl
@@ -2389,6 +2395,7 @@
 0.0.0.0 tomsbuty.com
 0.0.0.0 tomsbutypolska.com
 0.0.0.0 tomspolska.com
+0.0.0.0 tooles.net
 0.0.0.0 toomde.com
 0.0.0.0 toonk.pl
 0.0.0.0 topceny.pl
@@ -2463,6 +2470,7 @@
 0.0.0.0 vagabondbuty.com
 0.0.0.0 vagabondpolska.com
 0.0.0.0 vagabondsklep.me
+0.0.0.0 vakiline.com
 0.0.0.0 valenti-torinto.pl
 0.0.0.0 valetta.pl
 0.0.0.0 valinmix.com
@@ -2812,6 +2820,7 @@
 0.0.0.0 www.baccanera.com
 0.0.0.0 www.badizaz.com
 0.0.0.0 www.badshop.pl
+0.0.0.0 www.baibiiany.com
 0.0.0.0 www.baiibuy.com
 0.0.0.0 www.bajeranckie.pl
 0.0.0.0 www.bakaron.com
@@ -3239,6 +3248,8 @@
 0.0.0.0 www.domki-kopalino.com.pl
 0.0.0.0 www.dopalacze-sklep.org
 0.0.0.0 www.dopekurtka.pl
+0.0.0.0 www.dopesnow-polska.com
+0.0.0.0 www.dopesnowsklep.com
 0.0.0.0 www.dopestore.pl
 0.0.0.0 www.dorseo.pl
 0.0.0.0 www.dowmarkets.com
@@ -3380,6 +3391,7 @@
 0.0.0.0 www.f4u.pl
 0.0.0.0 www.f-ads.pl
 0.0.0.0 www.fabryka-nagrod.com
+0.0.0.0 www.fadasshop.com
 0.0.0.0 www.faitheoy.shop
 0.0.0.0 www.fajnefanty.com
 0.0.0.0 www.faldo.pl
@@ -3720,6 +3732,7 @@
 0.0.0.0 www.jezpow.pl
 0.0.0.0 www.jiajinna.com
 0.0.0.0 www.jimmychoosklep.pl
+0.0.0.0 www.jnbsireuytpsahgen.com
 0.0.0.0 www.jnhxs.shop
 0.0.0.0 www.joga-makai.pl
 0.0.0.0 www.jogalodz.pl
@@ -4158,6 +4171,7 @@
 0.0.0.0 www.neocam.pl
 0.0.0.0 www.nestandland.com
 0.0.0.0 www.net-s.pl
+0.0.0.0 www.netcotto.com
 0.0.0.0 www.netleaders.com
 0.0.0.0 www.new.yttdzmds.com
 0.0.0.0 www.newbalancepolska.pl
@@ -4992,6 +5006,7 @@
 0.0.0.0 www.tomsbuty.com
 0.0.0.0 www.tomsbutypolska.com
 0.0.0.0 www.tomspolska.com
+0.0.0.0 www.tooles.net
 0.0.0.0 www.toomde.com
 0.0.0.0 www.toonk.pl
 0.0.0.0 www.topceny.pl
@@ -5066,6 +5081,7 @@
 0.0.0.0 www.vagabondbuty.com
 0.0.0.0 www.vagabondpolska.com
 0.0.0.0 www.vagabondsklep.me
+0.0.0.0 www.vakiline.com
 0.0.0.0 www.valenti-torinto.pl
 0.0.0.0 www.valetta.pl
 0.0.0.0 www.valinmix.com
@@ -7561,6 +7577,7 @@
 0.0.0.0 177911potwierdz-aktualizacja.jdhs.pl
 0.0.0.0 178068logowanie9424.knto.cloud
 0.0.0.0 179277-wery-3791.allapp.co.pl
+0.0.0.0 179501aktualizacja-dalej.mszmidt.pl
 0.0.0.0 180214twoje3065.app-gro.online
 0.0.0.0 181506konto-kodsms.mszmidt.pl
 0.0.0.0 182668aktualizacja8538.knto.cloud
@@ -7720,6 +7737,7 @@
 0.0.0.0 380335aktualizacja4730.app-gro.online
 0.0.0.0 380935.xyz
 0.0.0.0 381363dalej-kodsms.jdhs.pl
+0.0.0.0 382253potwierdz-poczta.poityi.pl
 0.0.0.0 383161weryfikacja5526.knto.cloud
 0.0.0.0 383702aktualizacja-potwierdz.klaudiaps.pl
 0.0.0.0 384701-moje-1046.kntlgr.co.pl
@@ -7760,6 +7778,7 @@
 0.0.0.0 428237kodem-poczta.dawideka.pl
 0.0.0.0 429102konto-kodem.djmcy.pl
 0.0.0.0 429779dalej-weryfikacja.jdhs.pl
+0.0.0.0 429921dalej-logowanie.poityi.pl
 0.0.0.0 430465weryfikacja.jdhs.pl
 0.0.0.0 432333.xyz
 0.0.0.0 433083poczta7956.all-app.cfd
@@ -7768,6 +7787,7 @@
 0.0.0.0 435757ut.com
 0.0.0.0 435767aktualizacja4311.allplat.cloud
 0.0.0.0 436621kodem-potwierdz.klaudiaps.pl
+0.0.0.0 437066kodsms-konto.mszmidt.pl
 0.0.0.0 437438kodem-kodsms.mszmidt.pl
 0.0.0.0 438297dalej-kodsms.jdhs.pl
 0.0.0.0 438787dalej-weryfikacja.djmcy.pl
@@ -7884,6 +7904,7 @@
 0.0.0.0 562701dalej-logowanie.jdhs.pl
 0.0.0.0 562919weryfikacja4827.app-gro.online
 0.0.0.0 564049-o929a.ntpsla.co.pl
+0.0.0.0 564242dalej-logowanie.poityi.pl
 0.0.0.0 564291dalej-konto.chorw.com.pl
 0.0.0.0 564544.xyz
 0.0.0.0 567110potwierdz-weryfikacja.ernies.pl
@@ -7945,6 +7966,7 @@
 0.0.0.0 637032poczta.idnd.pl
 0.0.0.0 637287wery7907.app-gro.online
 0.0.0.0 637606kodem.jdhs.pl
+0.0.0.0 639105weryfikacja-dalej.poityi.pl
 0.0.0.0 641427-konto-2930.allapp.co.pl
 0.0.0.0 642154-wery-4812.app-gro.co.pl
 0.0.0.0 642289-o929a.ntpsla.co.pl
@@ -8063,6 +8085,7 @@
 0.0.0.0 763672weryfikacja3872.app-gro.online
 0.0.0.0 764537konto-aktualizacja.ernies.pl
 0.0.0.0 765269dalej-kodsms.ernies.pl
+0.0.0.0 766741potwierdz-konto.poityi.pl
 0.0.0.0 767917-weryfikacja-3786.kntlgr.co.pl
 0.0.0.0 768183-potwierdzenie-3358.allapp.co.pl
 0.0.0.0 768239.000webhostapp.com
@@ -8086,6 +8109,7 @@
 0.0.0.0 797436-potwierdz-7864.app-gro.co.pl
 0.0.0.0 799840logowanie-poczta.mszmidt.pl
 0.0.0.0 800221-o929a.ntpsla.co.pl
+0.0.0.0 800357logowanie-kodem.mszmidt.pl
 0.0.0.0 800448dalej-konto.mszmidt.pl
 0.0.0.0 801316poczta-weryfikacja.ernies.pl
 0.0.0.0 805800-o929a.ntpsla.co.pl
@@ -8150,6 +8174,7 @@
 0.0.0.0 886034potwierdzenie2985.allplat.cloud
 0.0.0.0 887601potwierdz2034.rejepl.co.pl
 0.0.0.0 887668-o929a.ntpsla.co.pl
+0.0.0.0 887686konto-kodem.mszmidt.pl
 0.0.0.0 887711-o929a.ntpsla.co.pl
 0.0.0.0 890099aktualizacja-weryfikacja.dawideka.pl
 0.0.0.0 892308kodem.jdhs.pl
@@ -41586,6 +41611,7 @@
 0.0.0.0 olx.02265996.xyz
 0.0.0.0 olx.2383655.xyz
 0.0.0.0 olx.2383659.xyz
+0.0.0.0 olx.2451212.xyz
 0.0.0.0 olx.2484888.xyz
 0.0.0.0 olx.2565663.xyz
 0.0.0.0 olx.2598963.xyz
@@ -62744,6 +62770,7 @@
 0.0.0.0 www.177911potwierdz-aktualizacja.jdhs.pl
 0.0.0.0 www.178068logowanie9424.knto.cloud
 0.0.0.0 www.179277-wery-3791.allapp.co.pl
+0.0.0.0 www.179501aktualizacja-dalej.mszmidt.pl
 0.0.0.0 www.180214twoje3065.app-gro.online
 0.0.0.0 www.181506konto-kodsms.mszmidt.pl
 0.0.0.0 www.182668aktualizacja8538.knto.cloud
@@ -62903,6 +62930,7 @@
 0.0.0.0 www.380335aktualizacja4730.app-gro.online
 0.0.0.0 www.380935.xyz
 0.0.0.0 www.381363dalej-kodsms.jdhs.pl
+0.0.0.0 www.382253potwierdz-poczta.poityi.pl
 0.0.0.0 www.383161weryfikacja5526.knto.cloud
 0.0.0.0 www.383702aktualizacja-potwierdz.klaudiaps.pl
 0.0.0.0 www.384701-moje-1046.kntlgr.co.pl
@@ -62943,6 +62971,7 @@
 0.0.0.0 www.428237kodem-poczta.dawideka.pl
 0.0.0.0 www.429102konto-kodem.djmcy.pl
 0.0.0.0 www.429779dalej-weryfikacja.jdhs.pl
+0.0.0.0 www.429921dalej-logowanie.poityi.pl
 0.0.0.0 www.430465weryfikacja.jdhs.pl
 0.0.0.0 www.432333.xyz
 0.0.0.0 www.433083poczta7956.all-app.cfd
@@ -62951,6 +62980,7 @@
 0.0.0.0 www.435757ut.com
 0.0.0.0 www.435767aktualizacja4311.allplat.cloud
 0.0.0.0 www.436621kodem-potwierdz.klaudiaps.pl
+0.0.0.0 www.437066kodsms-konto.mszmidt.pl
 0.0.0.0 www.437438kodem-kodsms.mszmidt.pl
 0.0.0.0 www.438297dalej-kodsms.jdhs.pl
 0.0.0.0 www.438787dalej-weryfikacja.djmcy.pl
@@ -63067,6 +63097,7 @@
 0.0.0.0 www.562701dalej-logowanie.jdhs.pl
 0.0.0.0 www.562919weryfikacja4827.app-gro.online
 0.0.0.0 www.564049-o929a.ntpsla.co.pl
+0.0.0.0 www.564242dalej-logowanie.poityi.pl
 0.0.0.0 www.564291dalej-konto.chorw.com.pl
 0.0.0.0 www.564544.xyz
 0.0.0.0 www.567110potwierdz-weryfikacja.ernies.pl
@@ -63128,6 +63159,7 @@
 0.0.0.0 www.637032poczta.idnd.pl
 0.0.0.0 www.637287wery7907.app-gro.online
 0.0.0.0 www.637606kodem.jdhs.pl
+0.0.0.0 www.639105weryfikacja-dalej.poityi.pl
 0.0.0.0 www.641427-konto-2930.allapp.co.pl
 0.0.0.0 www.642154-wery-4812.app-gro.co.pl
 0.0.0.0 www.642289-o929a.ntpsla.co.pl
@@ -63246,6 +63278,7 @@
 0.0.0.0 www.763672weryfikacja3872.app-gro.online
 0.0.0.0 www.764537konto-aktualizacja.ernies.pl
 0.0.0.0 www.765269dalej-kodsms.ernies.pl
+0.0.0.0 www.766741potwierdz-konto.poityi.pl
 0.0.0.0 www.767917-weryfikacja-3786.kntlgr.co.pl
 0.0.0.0 www.768183-potwierdzenie-3358.allapp.co.pl
 0.0.0.0 www.768239.000webhostapp.com
@@ -63269,6 +63302,7 @@
 0.0.0.0 www.797436-potwierdz-7864.app-gro.co.pl
 0.0.0.0 www.799840logowanie-poczta.mszmidt.pl
 0.0.0.0 www.800221-o929a.ntpsla.co.pl
+0.0.0.0 www.800357logowanie-kodem.mszmidt.pl
 0.0.0.0 www.800448dalej-konto.mszmidt.pl
 0.0.0.0 www.801316poczta-weryfikacja.ernies.pl
 0.0.0.0 www.805800-o929a.ntpsla.co.pl
@@ -63333,6 +63367,7 @@
 0.0.0.0 www.886034potwierdzenie2985.allplat.cloud
 0.0.0.0 www.887601potwierdz2034.rejepl.co.pl
 0.0.0.0 www.887668-o929a.ntpsla.co.pl
+0.0.0.0 www.887686konto-kodem.mszmidt.pl
 0.0.0.0 www.887711-o929a.ntpsla.co.pl
 0.0.0.0 www.890099aktualizacja-weryfikacja.dawideka.pl
 0.0.0.0 www.892308kodem.jdhs.pl
@@ -96770,6 +96805,7 @@
 0.0.0.0 www.olx.02265996.xyz
 0.0.0.0 www.olx.2383655.xyz
 0.0.0.0 www.olx.2383659.xyz
+0.0.0.0 www.olx.2451212.xyz
 0.0.0.0 www.olx.2484888.xyz
 0.0.0.0 www.olx.2565663.xyz
 0.0.0.0 www.olx.2598963.xyz
