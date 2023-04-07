@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 06 Apr 2023, 22:17 UTC+02:00
-# Version: 2023.4.6.3
+# Last modified: Fri, 07 Apr 2023, 10:20 UTC+02:00
+# Version: 2023.4.7.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7567,6 +7567,7 @@
 0.0.0.0 189054.xyz
 0.0.0.0 189436kodsms-kodem.jdhs.pl
 0.0.0.0 197421moje1732.allplat.cloud
+0.0.0.0 201334dalej-potwierdz.ernies.pl
 0.0.0.0 204060konto8735.rejepl.co.pl
 0.0.0.0 205612weryfikacja-konto.jdhs.pl
 0.0.0.0 206177logowanie-kodem.jdhs.pl
@@ -7581,6 +7582,7 @@
 0.0.0.0 214455weryfikacja4938.rejepl.co.pl
 0.0.0.0 215881dalej6292.knto.cloud
 0.0.0.0 216332dalej.jdhs.pl
+0.0.0.0 218115poczta-kodsms.ernies.pl
 0.0.0.0 218373aktualizacja-potwierdz.dawideka.pl
 0.0.0.0 219133aktualizacja4730.allplat.cloud
 0.0.0.0 220271-potwierdz-7964.allapp.co.pl
@@ -7589,6 +7591,7 @@
 0.0.0.0 226503poczta4261.knto.cloud
 0.0.0.0 227203poczta.jdhs.pl
 0.0.0.0 229820kodem.jdhs.pl
+0.0.0.0 229852kodsms-aktualizacja.ernies.pl
 0.0.0.0 229878-konto-8926.gro-app.co.pl
 0.0.0.0 234234.pro-activprofit.site
 0.0.0.0 234503-wery-5185.kntlgr.co.pl
@@ -7612,13 +7615,16 @@
 0.0.0.0 258488twoje2059.app-gro.online
 0.0.0.0 258624aktualizacja-poczta.jdhs.pl
 0.0.0.0 260442-o929a.ntpsla.co.pl
+0.0.0.0 260710poczta-konto.ernies.pl
 0.0.0.0 260878-o929a.ntpsla.co.pl
+0.0.0.0 265813potwierdz-kodsms.ernies.pl
 0.0.0.0 266406logowanie-aktualizacja.jdhs.pl
 0.0.0.0 268408aktualizacja-logowanie.jdhs.pl
 0.0.0.0 269103aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 269934-istotny-2601.gro-app.co.pl
 0.0.0.0 270881konto-poczta.jdhs.pl
 0.0.0.0 271743-moje-7994.gro-app.co.pl
+0.0.0.0 273265weryfikacja-potwierdz.ernies.pl
 0.0.0.0 275264kodem.knto.cloud
 0.0.0.0 276780konto2381.actnf.cfd
 0.0.0.0 277414konto.jdhs.pl
@@ -7633,25 +7639,31 @@
 0.0.0.0 289760dalej-poczta.jdhs.pl
 0.0.0.0 291326logowanie.tslv.co.pl
 0.0.0.0 292627-potwierdzenie-1260.allapp.co.pl
+0.0.0.0 292891potwierdz-poczta.ernies.pl
 0.0.0.0 293172weryfikacja-logowanie.jdhs.pl
 0.0.0.0 295648poczta6338.knto.cloud
 0.0.0.0 295873-o929a.ntpsla.co.pl
+0.0.0.0 296410potwierdz-poczta.ernies.pl
 0.0.0.0 297212-moje-9708.app-all.co.pl
+0.0.0.0 298503konto-kodem.ernies.pl
 0.0.0.0 299110.allegrolokalnie.ink
 0.0.0.0 300522aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 301723istotny9636.rejepl.co.pl
 0.0.0.0 303015potwierdz.jdhs.pl
+0.0.0.0 303365dalej-poczta.ernies.pl
 0.0.0.0 304939konto.jdhs.pl
 0.0.0.0 307902istotny4919.rejepl.co.pl
 0.0.0.0 308032-moje-2943.sslsr.co.pl
 0.0.0.0 308249potwierdzenie4362.app-gro.online
 0.0.0.0 308348kodem-konto.jdhs.pl
+0.0.0.0 309885potwierdz-dalej.ernies.pl
 0.0.0.0 310707-potwierdz-4907.app-all.co.pl
 0.0.0.0 311505logowanie-kodsms.jdhs.pl
 0.0.0.0 314175-moje-8365.allapp.co.pl
 0.0.0.0 316421-twoje-4235.gro-app.co.pl
 0.0.0.0 316997dalej-poczta.jdhs.pl
 0.0.0.0 323741kodsms7749.knto.cloud
+0.0.0.0 324703potwierdz-weryfikacja.ernies.pl
 0.0.0.0 325494-konto-3982.crtn.co.pl
 0.0.0.0 327578wery9421.rejepl.co.pl
 0.0.0.0 327651fedd5.chefs-kitchen.co.uk
@@ -7673,6 +7685,7 @@
 0.0.0.0 351595kodsms.mail-all.cfd
 0.0.0.0 352849kodsms-weryfikacja.jdhs.pl
 0.0.0.0 353275potwierdz-logowanie.jdhs.pl
+0.0.0.0 353896logowanie-dalej.ernies.pl
 0.0.0.0 356644moje9658.allplat.cloud
 0.0.0.0 358610-twoje-4805.app-all.co.pl
 0.0.0.0 359386-wery-1194.tjall.co.pl
@@ -7731,6 +7744,7 @@
 0.0.0.0 430465weryfikacja.jdhs.pl
 0.0.0.0 432333.xyz
 0.0.0.0 433083poczta7956.all-app.cfd
+0.0.0.0 433703potwierdz-konto.ernies.pl
 0.0.0.0 435423.xyz
 0.0.0.0 435757ut.com
 0.0.0.0 435767aktualizacja4311.allplat.cloud
@@ -7773,6 +7787,7 @@
 0.0.0.0 480788logowanie-weryfikacja.jdhs.pl
 0.0.0.0 482205dalej-kodem.jdhs.pl
 0.0.0.0 483158-konto-7352.app-all.co.pl
+0.0.0.0 486522poczta-potwierdz.ernies.pl
 0.0.0.0 486745kodem-kodem.jdhs.pl
 0.0.0.0 488381-aktualizacja-7219.allapp.co.pl
 0.0.0.0 488907aktualizacja7319.rejepl.co.pl
@@ -7780,10 +7795,13 @@
 0.0.0.0 491685aktualizacja6780.rejepl.co.pl
 0.0.0.0 495559logowanie-logowanie.jdhs.pl
 0.0.0.0 496601konto2172.knto.cloud
+0.0.0.0 500259logowanie-dalej.ernies.pl
+0.0.0.0 500792potwierdz-kodsms.ernies.pl
 0.0.0.0 503374weryfikacja-weryfikacja.jdhs.pl
 0.0.0.0 504593logowanie3201.knto.cloud
 0.0.0.0 504722moje3468.app-gro.online
 0.0.0.0 506244potwierdzenie1010.app-gro.online
+0.0.0.0 509492weryfikacja-kodsms.ernies.pl
 0.0.0.0 510832potwierdz8343.rejepl.co.pl
 0.0.0.0 511929-twoje-1618.app-gro.co.pl
 0.0.0.0 512042kodsms-kodem.dawideka.pl
@@ -7815,9 +7833,11 @@
 0.0.0.0 543500-o929a.ntpsla.co.pl
 0.0.0.0 543658konto8229.rejepl.co.pl
 0.0.0.0 544345-wery-2592.allapp.co.pl
+0.0.0.0 545443dalej-aktualizacja.ernies.pl
 0.0.0.0 546454istotny8458.rejepl.co.pl
 0.0.0.0 547069weryfikacja-poczta.jdhs.pl
 0.0.0.0 547925kodem.soulcar.pl
+0.0.0.0 548293logowanie-poczta.ernies.pl
 0.0.0.0 548739.space
 0.0.0.0 549142dalej-poczta.jdhs.pl
 0.0.0.0 553521.selcdn.ru
@@ -7830,12 +7850,14 @@
 0.0.0.0 558481aktualizacja6311.app-gro.online
 0.0.0.0 559035moje4080.rejepl.co.pl
 0.0.0.0 559838dalej6167.all-app.cfd
+0.0.0.0 561382dalej-logowanie.ernies.pl
 0.0.0.0 562208weryfikacja-logowanie.jdhs.pl
 0.0.0.0 562701dalej-logowanie.jdhs.pl
 0.0.0.0 562919weryfikacja4827.app-gro.online
 0.0.0.0 564049-o929a.ntpsla.co.pl
 0.0.0.0 564291dalej-konto.chorw.com.pl
 0.0.0.0 564544.xyz
+0.0.0.0 567110potwierdz-weryfikacja.ernies.pl
 0.0.0.0 569242-aktualizacja-1504.gro-app.co.pl
 0.0.0.0 571291logowanie-dalej.jdhs.pl
 0.0.0.0 571680konto1933.knto.cloud
@@ -7851,11 +7873,13 @@
 0.0.0.0 577927potwierdz4334.app-gro.online
 0.0.0.0 579061konto5497.rejepl.co.pl
 0.0.0.0 579274-aktualizacja-9159.kntlgr.co.pl
+0.0.0.0 579359weryfikacja-weryfikacja.ernies.pl
 0.0.0.0 582816.selcdn.ru
 0.0.0.0 583220konto9613.rejepl.co.pl
 0.0.0.0 584056potwierdzenie9317.allplat.cloud
 0.0.0.0 588265-potwierdz-8862.app-gro.co.pl
 0.0.0.0 588525konto-poczta.jdhs.pl
+0.0.0.0 591017kodem-kodsms.ernies.pl
 0.0.0.0 591370aktualizacja-kodem.jdhs.pl
 0.0.0.0 592108weryfikacja.jdhs.pl
 0.0.0.0 592965logowanie.jdhs.pl
@@ -7864,6 +7888,7 @@
 0.0.0.0 597189logowanie1374.knto.cloud
 0.0.0.0 597535moje2918.rejepl.co.pl
 0.0.0.0 598533logowanie-dalej.jdhs.pl
+0.0.0.0 602115kodsms-konto.ernies.pl
 0.0.0.0 605188poczta.knto.cloud
 0.0.0.0 605946logowanie.htgw.pl
 0.0.0.0 606858poczta.jdhs.pl
@@ -7937,6 +7962,7 @@
 0.0.0.0 702391dalej-konto.jdhs.pl
 0.0.0.0 702786potwierdz4302.app-gro.online
 0.0.0.0 703023konto5698.rejepl.co.pl
+0.0.0.0 703644poczta-poczta.ernies.pl
 0.0.0.0 705490-wery-9116.app-gro.co.pl
 0.0.0.0 706914aktualizacja-potwierdz.jdhs.pl
 0.0.0.0 706995kodem.soulcar.pl
@@ -7970,6 +7996,7 @@
 0.0.0.0 735175weryfikacja5446.rejepl.co.pl
 0.0.0.0 736607aktualizacja1833.all-app.cfd
 0.0.0.0 736814kodsms.jdhs.pl
+0.0.0.0 737755konto-kodem.ernies.pl
 0.0.0.0 738433aktualizacja-dalej.jdhs.pl
 0.0.0.0 740393logowanie-kodsms.jdhs.pl
 0.0.0.0 741235potwierdz7468.allplat.cloud
@@ -7983,6 +8010,7 @@
 0.0.0.0 746532.xyz
 0.0.0.0 747832aktualizacja.jdhs.pl
 0.0.0.0 748219.000webhostapp.com
+0.0.0.0 750037weryfikacja-konto.ernies.pl
 0.0.0.0 750815potwierdz8077.rejepl.co.pl
 0.0.0.0 751391kodem-dalej.jdhs.pl
 0.0.0.0 751402-konto-7236.app-all.co.pl
@@ -7995,6 +8023,8 @@
 0.0.0.0 760575-aktualizacja-9074.app-gro.co.pl
 0.0.0.0 760933weryfikacja-poczta.jdhs.pl
 0.0.0.0 763672weryfikacja3872.app-gro.online
+0.0.0.0 764537konto-aktualizacja.ernies.pl
+0.0.0.0 765269dalej-kodsms.ernies.pl
 0.0.0.0 767917-weryfikacja-3786.kntlgr.co.pl
 0.0.0.0 768183-potwierdzenie-3358.allapp.co.pl
 0.0.0.0 768239.000webhostapp.com
@@ -8002,6 +8032,7 @@
 0.0.0.0 770351poczta-dalej.jdhs.pl
 0.0.0.0 771178kodsms-kodem.jdhs.pl
 0.0.0.0 771923.000webhostapp.com
+0.0.0.0 771953poczta-potwierdz.ernies.pl
 0.0.0.0 780909-aktualizacja-8344.app-gro.co.pl
 0.0.0.0 782402kodem-weryfikacja.jdhs.pl
 0.0.0.0 783007-twoje-8149.allapp.co.pl
@@ -8015,28 +8046,33 @@
 0.0.0.0 797363potwierdz4617.rejepl.co.pl
 0.0.0.0 797436-potwierdz-7864.app-gro.co.pl
 0.0.0.0 800221-o929a.ntpsla.co.pl
+0.0.0.0 801316poczta-weryfikacja.ernies.pl
 0.0.0.0 805800-o929a.ntpsla.co.pl
 0.0.0.0 808397kodsms-dalej.jdhs.pl
 0.0.0.0 811448f08b4.chefs-kitchen.co.uk
 0.0.0.0 814101weryfikacja-weryfikacja.jdhs.pl
 0.0.0.0 814129kodsms-aktualizacja.jdhs.pl
 0.0.0.0 815426-o929a.ntpsla.co.pl
+0.0.0.0 816874aktualizacja-kodsms.ernies.pl
 0.0.0.0 817565dalej.jdhs.pl
 0.0.0.0 820221kodem.jdhs.pl
 0.0.0.0 824776potwierdz-kodsms.jdhs.pl
 0.0.0.0 825470konto2875.knto.cloud
+0.0.0.0 827260logowanie-logowanie.ernies.pl
 0.0.0.0 827512poczta.jdhs.pl
 0.0.0.0 827523-wery-2911.tjall.co.pl
 0.0.0.0 828302o172-p02393o.plattvntfx.co.pl
 0.0.0.0 830618aktualizacja2294.rejepl.co.pl
 0.0.0.0 832934konto5204.rejepl.co.pl
 0.0.0.0 834443-aktualizacja-4098.crtn.co.pl
+0.0.0.0 837520aktualizacja-potwierdz.ernies.pl
 0.0.0.0 839140-weryfikacja-3302.allapp.co.pl
 0.0.0.0 840199dalej-weryfikacja.jdhs.pl
 0.0.0.0 841235potwierdzenie7696.app-gro.online
 0.0.0.0 841277potwierdz-logowanie.jdhs.pl
 0.0.0.0 842993poczta-konto.djmcy.pl
 0.0.0.0 843823kodem.soulcar.pl
+0.0.0.0 847411dalej-aktualizacja.ernies.pl
 0.0.0.0 848054aktualizacja7584.knto.cloud
 0.0.0.0 850864kodem-potwierdz.jdhs.pl
 0.0.0.0 851307konto7485.rejepl.co.pl
@@ -8060,10 +8096,12 @@
 0.0.0.0 872548-potwierdz-6408.app-all.co.pl
 0.0.0.0 874908kodem.jdhs.pl
 0.0.0.0 876847weryfikacja.soulcar.pl
+0.0.0.0 877647poczta-logowanie.ernies.pl
 0.0.0.0 879425kodem4068.knto.cloud
 0.0.0.0 881993aktualizacja7388.app-gro.online
 0.0.0.0 884200potwierdz5957.all-app.cfd
 0.0.0.0 885812kodsms-kodsms.jdhs.pl
+0.0.0.0 885977kodsms-kodsms.ernies.pl
 0.0.0.0 886034potwierdzenie2985.allplat.cloud
 0.0.0.0 887601potwierdz2034.rejepl.co.pl
 0.0.0.0 887668-o929a.ntpsla.co.pl
@@ -8074,6 +8112,7 @@
 0.0.0.0 896556weryfikacja2887.allplat.cloud
 0.0.0.0 899259-o929a.ntpsla.co.pl
 0.0.0.0 899375weryfikacja7511.knto.cloud
+0.0.0.0 899402kodsms-kodem.ernies.pl
 0.0.0.0 900196dalej-kodsms.jdhs.pl
 0.0.0.0 904611.xyz
 0.0.0.0 907596-konto-4878.tjall.co.pl
@@ -8084,6 +8123,7 @@
 0.0.0.0 918385aktualizacja-dalej.jdhs.pl
 0.0.0.0 919126konto-logowanie.jdhs.pl
 0.0.0.0 919371dalej-logowanie.jdhs.pl
+0.0.0.0 919811poczta-poczta.ernies.pl
 0.0.0.0 922095dalej-potwierdz.jdhs.pl
 0.0.0.0 922872moje6680.rejepl.co.pl
 0.0.0.0 924524istotny4096.rejepl.co.pl
@@ -8092,6 +8132,7 @@
 0.0.0.0 933646-wery-2159.allapp.co.pl
 0.0.0.0 934523kodem4860.knto.cloud
 0.0.0.0 941320logowanie-logowanie.jdhs.pl
+0.0.0.0 942618dalej-logowanie.ernies.pl
 0.0.0.0 944923weryfikacja-dalej.jdhs.pl
 0.0.0.0 945349aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 945896-moje-8690.kntlgr.co.pl
@@ -8100,6 +8141,7 @@
 0.0.0.0 950448potwierdz6948.allplat.cloud
 0.0.0.0 951556twoje4217.app-gro.online
 0.0.0.0 952809weryfikacja.jdhs.pl
+0.0.0.0 953534weryfikacja-potwierdz.ernies.pl
 0.0.0.0 957058aktualizacja8408.rejepl.co.pl
 0.0.0.0 958845-twoje-3173.allapp.co.pl
 0.0.0.0 958921potwierdz.idnd.pl
@@ -8119,6 +8161,7 @@
 0.0.0.0 986342weryfikacja.tslv.co.pl
 0.0.0.0 988289dalej-poczta.jdhs.pl
 0.0.0.0 989178weryfikacja6562.knto.cloud
+0.0.0.0 989805potwierdz-konto.ernies.pl
 0.0.0.0 990334konto.soulcar.pl
 0.0.0.0 990758aktualizacja-poczta.jdhs.pl
 0.0.0.0 993725poczta-aktualizacja.jdhs.pl
@@ -9301,6 +9344,7 @@
 0.0.0.0 alicjagiezek.pl
 0.0.0.0 alicks.life
 0.0.0.0 alictoecu.cf
+0.0.0.0 aliegro168-port-kalen.fractions.cfd
 0.0.0.0 aliegro194-sun-kalen.duvet.sbs
 0.0.0.0 aliegro.dispatch-aqeds.space
 0.0.0.0 aliegrol1okahna.doxshop.top
@@ -11435,6 +11479,7 @@
 0.0.0.0 bafybeiej3xgub3jr7kv4riobjphn2kfrnvaem5isido5lcfgjzz6m3kuzq.ipfs.dweb.link
 0.0.0.0 bafybeiepqoypg2iv3qg73ktd4i5omkdkynbx2e2z4vbri6cyz43evr2mzy.ipfs.fleek.cool
 0.0.0.0 bafybeieqguhrfvusx427nhwq6zi75q3yp6j5aipdmvgr6erxa5qeneoqni.ipfs.w3s.link
+0.0.0.0 bafybeierd7h7bqqd4qlcurni3snsir3ojsxayjzvas2iy5u6lozp52hxwy.ipfs.dweb.link
 0.0.0.0 bafybeierz2fpkkgq33yoi7gjta3isjaeh6ecd7v47pyih3u7ov73irb6ea.ipfs.dweb.link
 0.0.0.0 bafybeierzqpv4slq6xc3jti5e7ydl7njtldtul6u3fekdurmtmaeux3gqa.ipfs.dweb.link
 0.0.0.0 bafybeiet32khm6hfe2irfuemd65tsn42kb5gmqju6dmrz3ql7eosrrlxfq.ipfs.dweb.link
@@ -28631,6 +28676,7 @@
 0.0.0.0 inpost-pl.internetgratis.xyz
 0.0.0.0 inpost-pl.isafepay-order.site
 0.0.0.0 inpost-pl.ixchel.space
+0.0.0.0 inpost-pl.jaredrea.xyz
 0.0.0.0 inpost-pl.jav-online.xyz
 0.0.0.0 inpost-pl.joyregbuyitem.pw
 0.0.0.0 inpost-pl.kabarsatu.shop
@@ -34232,6 +34278,7 @@
 0.0.0.0 lezn.zaned.click
 0.0.0.0 lezrweb.com
 0.0.0.0 lezt.reviss.site
+0.0.0.0 lf9kmfp22x3eamoxnrprhlbg1lij3vyecjhzfv6w.mgmcare.com
 0.0.0.0 lg006.tidactar.pro
 0.0.0.0 lgd.dfrtraderxsys.com
 0.0.0.0 lgewxx.s3.us-east-005.backblazeb2.com
@@ -40427,6 +40474,7 @@
 0.0.0.0 olakar.xyz
 0.0.0.0 olasp.apprety.site
 0.0.0.0 olayaninvt.com
+0.0.0.0 old-surf-0774.on.fleek.co
 0.0.0.0 old-vinted.xyz
 0.0.0.0 oldcarreviews.com
 0.0.0.0 oldmethodm.site
@@ -41586,6 +41634,7 @@
 0.0.0.0 olx.com-id381949.xyz
 0.0.0.0 olx.conactless-pay.store
 0.0.0.0 olx.cukpolotero.org
+0.0.0.0 olx.dakiledophu.org
 0.0.0.0 olx.deliverry.org
 0.0.0.0 olx.deliverry.su
 0.0.0.0 olx.delivery-pl.shop
@@ -44356,6 +44405,7 @@
 0.0.0.0 past.reviss.site
 0.0.0.0 pastedness.life
 0.0.0.0 pastedputrefy.com
+0.0.0.0 pastelcromes.com
 0.0.0.0 pastelguess.com
 0.0.0.0 pasticcerialonghitano.it
 0.0.0.0 pastle.pl
@@ -45021,6 +45071,7 @@
 0.0.0.0 photo.gfer4.xyz
 0.0.0.0 photo.hds6.sbs
 0.0.0.0 photo.jr948o.us
+0.0.0.0 photo.krj7jt0.shop
 0.0.0.0 photo.zarobuv.xyz
 0.0.0.0 photobiologiessongful.com
 0.0.0.0 photographymentor.com
@@ -52906,6 +52957,7 @@
 0.0.0.0 sunetwas.com
 0.0.0.0 sunflagsteel.com
 0.0.0.0 sunfun.mestopoland.space
+0.0.0.0 sungaii.com
 0.0.0.0 sungateinvestment.com
 0.0.0.0 sungow.space
 0.0.0.0 sungow.win
@@ -54678,6 +54730,7 @@
 0.0.0.0 tracinghands.com
 0.0.0.0 track-app.collectyour-toporders.com
 0.0.0.0 track-fs.p5kz.in
+0.0.0.0 track-poctza-polska.com
 0.0.0.0 track.profit-tips.xyz
 0.0.0.0 track.trankitupep.com
 0.0.0.0 trackfiz.com
@@ -58354,6 +58407,7 @@
 0.0.0.0 vinted.load-23151.cfd
 0.0.0.0 vinted.load-safe.cfd
 0.0.0.0 vinted.loado.online
+0.0.0.0 vinted.loadr-out.online
 0.0.0.0 vinted.loady-out.online
 0.0.0.0 vinted.lu33.top
 0.0.0.0 vinted.mahotrops.org
@@ -60208,6 +60262,7 @@
 0.0.0.0 wet-cleaning.jp
 0.0.0.0 wetgows.com
 0.0.0.0 wetieria.com
+0.0.0.0 wetransfer-cloud.zora-vc.com
 0.0.0.0 wetsararob.pl
 0.0.0.0 wex4a5.webwave.dev
 0.0.0.0 wexness.cc
@@ -62580,6 +62635,7 @@
 0.0.0.0 www.189054.xyz
 0.0.0.0 www.189436kodsms-kodem.jdhs.pl
 0.0.0.0 www.197421moje1732.allplat.cloud
+0.0.0.0 www.201334dalej-potwierdz.ernies.pl
 0.0.0.0 www.204060konto8735.rejepl.co.pl
 0.0.0.0 www.205612weryfikacja-konto.jdhs.pl
 0.0.0.0 www.206177logowanie-kodem.jdhs.pl
@@ -62594,6 +62650,7 @@
 0.0.0.0 www.214455weryfikacja4938.rejepl.co.pl
 0.0.0.0 www.215881dalej6292.knto.cloud
 0.0.0.0 www.216332dalej.jdhs.pl
+0.0.0.0 www.218115poczta-kodsms.ernies.pl
 0.0.0.0 www.218373aktualizacja-potwierdz.dawideka.pl
 0.0.0.0 www.219133aktualizacja4730.allplat.cloud
 0.0.0.0 www.220271-potwierdz-7964.allapp.co.pl
@@ -62602,6 +62659,7 @@
 0.0.0.0 www.226503poczta4261.knto.cloud
 0.0.0.0 www.227203poczta.jdhs.pl
 0.0.0.0 www.229820kodem.jdhs.pl
+0.0.0.0 www.229852kodsms-aktualizacja.ernies.pl
 0.0.0.0 www.229878-konto-8926.gro-app.co.pl
 0.0.0.0 www.234234.pro-activprofit.site
 0.0.0.0 www.234503-wery-5185.kntlgr.co.pl
@@ -62625,13 +62683,16 @@
 0.0.0.0 www.258488twoje2059.app-gro.online
 0.0.0.0 www.258624aktualizacja-poczta.jdhs.pl
 0.0.0.0 www.260442-o929a.ntpsla.co.pl
+0.0.0.0 www.260710poczta-konto.ernies.pl
 0.0.0.0 www.260878-o929a.ntpsla.co.pl
+0.0.0.0 www.265813potwierdz-kodsms.ernies.pl
 0.0.0.0 www.266406logowanie-aktualizacja.jdhs.pl
 0.0.0.0 www.268408aktualizacja-logowanie.jdhs.pl
 0.0.0.0 www.269103aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 www.269934-istotny-2601.gro-app.co.pl
 0.0.0.0 www.270881konto-poczta.jdhs.pl
 0.0.0.0 www.271743-moje-7994.gro-app.co.pl
+0.0.0.0 www.273265weryfikacja-potwierdz.ernies.pl
 0.0.0.0 www.275264kodem.knto.cloud
 0.0.0.0 www.276780konto2381.actnf.cfd
 0.0.0.0 www.277414konto.jdhs.pl
@@ -62646,25 +62707,31 @@
 0.0.0.0 www.289760dalej-poczta.jdhs.pl
 0.0.0.0 www.291326logowanie.tslv.co.pl
 0.0.0.0 www.292627-potwierdzenie-1260.allapp.co.pl
+0.0.0.0 www.292891potwierdz-poczta.ernies.pl
 0.0.0.0 www.293172weryfikacja-logowanie.jdhs.pl
 0.0.0.0 www.295648poczta6338.knto.cloud
 0.0.0.0 www.295873-o929a.ntpsla.co.pl
+0.0.0.0 www.296410potwierdz-poczta.ernies.pl
 0.0.0.0 www.297212-moje-9708.app-all.co.pl
+0.0.0.0 www.298503konto-kodem.ernies.pl
 0.0.0.0 www.299110.allegrolokalnie.ink
 0.0.0.0 www.300522aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 www.301723istotny9636.rejepl.co.pl
 0.0.0.0 www.303015potwierdz.jdhs.pl
+0.0.0.0 www.303365dalej-poczta.ernies.pl
 0.0.0.0 www.304939konto.jdhs.pl
 0.0.0.0 www.307902istotny4919.rejepl.co.pl
 0.0.0.0 www.308032-moje-2943.sslsr.co.pl
 0.0.0.0 www.308249potwierdzenie4362.app-gro.online
 0.0.0.0 www.308348kodem-konto.jdhs.pl
+0.0.0.0 www.309885potwierdz-dalej.ernies.pl
 0.0.0.0 www.310707-potwierdz-4907.app-all.co.pl
 0.0.0.0 www.311505logowanie-kodsms.jdhs.pl
 0.0.0.0 www.314175-moje-8365.allapp.co.pl
 0.0.0.0 www.316421-twoje-4235.gro-app.co.pl
 0.0.0.0 www.316997dalej-poczta.jdhs.pl
 0.0.0.0 www.323741kodsms7749.knto.cloud
+0.0.0.0 www.324703potwierdz-weryfikacja.ernies.pl
 0.0.0.0 www.325494-konto-3982.crtn.co.pl
 0.0.0.0 www.327578wery9421.rejepl.co.pl
 0.0.0.0 www.327651fedd5.chefs-kitchen.co.uk
@@ -62686,6 +62753,7 @@
 0.0.0.0 www.351595kodsms.mail-all.cfd
 0.0.0.0 www.352849kodsms-weryfikacja.jdhs.pl
 0.0.0.0 www.353275potwierdz-logowanie.jdhs.pl
+0.0.0.0 www.353896logowanie-dalej.ernies.pl
 0.0.0.0 www.356644moje9658.allplat.cloud
 0.0.0.0 www.358610-twoje-4805.app-all.co.pl
 0.0.0.0 www.359386-wery-1194.tjall.co.pl
@@ -62744,6 +62812,7 @@
 0.0.0.0 www.430465weryfikacja.jdhs.pl
 0.0.0.0 www.432333.xyz
 0.0.0.0 www.433083poczta7956.all-app.cfd
+0.0.0.0 www.433703potwierdz-konto.ernies.pl
 0.0.0.0 www.435423.xyz
 0.0.0.0 www.435757ut.com
 0.0.0.0 www.435767aktualizacja4311.allplat.cloud
@@ -62786,6 +62855,7 @@
 0.0.0.0 www.480788logowanie-weryfikacja.jdhs.pl
 0.0.0.0 www.482205dalej-kodem.jdhs.pl
 0.0.0.0 www.483158-konto-7352.app-all.co.pl
+0.0.0.0 www.486522poczta-potwierdz.ernies.pl
 0.0.0.0 www.486745kodem-kodem.jdhs.pl
 0.0.0.0 www.488381-aktualizacja-7219.allapp.co.pl
 0.0.0.0 www.488907aktualizacja7319.rejepl.co.pl
@@ -62793,10 +62863,13 @@
 0.0.0.0 www.491685aktualizacja6780.rejepl.co.pl
 0.0.0.0 www.495559logowanie-logowanie.jdhs.pl
 0.0.0.0 www.496601konto2172.knto.cloud
+0.0.0.0 www.500259logowanie-dalej.ernies.pl
+0.0.0.0 www.500792potwierdz-kodsms.ernies.pl
 0.0.0.0 www.503374weryfikacja-weryfikacja.jdhs.pl
 0.0.0.0 www.504593logowanie3201.knto.cloud
 0.0.0.0 www.504722moje3468.app-gro.online
 0.0.0.0 www.506244potwierdzenie1010.app-gro.online
+0.0.0.0 www.509492weryfikacja-kodsms.ernies.pl
 0.0.0.0 www.510832potwierdz8343.rejepl.co.pl
 0.0.0.0 www.511929-twoje-1618.app-gro.co.pl
 0.0.0.0 www.512042kodsms-kodem.dawideka.pl
@@ -62828,9 +62901,11 @@
 0.0.0.0 www.543500-o929a.ntpsla.co.pl
 0.0.0.0 www.543658konto8229.rejepl.co.pl
 0.0.0.0 www.544345-wery-2592.allapp.co.pl
+0.0.0.0 www.545443dalej-aktualizacja.ernies.pl
 0.0.0.0 www.546454istotny8458.rejepl.co.pl
 0.0.0.0 www.547069weryfikacja-poczta.jdhs.pl
 0.0.0.0 www.547925kodem.soulcar.pl
+0.0.0.0 www.548293logowanie-poczta.ernies.pl
 0.0.0.0 www.548739.space
 0.0.0.0 www.549142dalej-poczta.jdhs.pl
 0.0.0.0 www.553521.selcdn.ru
@@ -62843,12 +62918,14 @@
 0.0.0.0 www.558481aktualizacja6311.app-gro.online
 0.0.0.0 www.559035moje4080.rejepl.co.pl
 0.0.0.0 www.559838dalej6167.all-app.cfd
+0.0.0.0 www.561382dalej-logowanie.ernies.pl
 0.0.0.0 www.562208weryfikacja-logowanie.jdhs.pl
 0.0.0.0 www.562701dalej-logowanie.jdhs.pl
 0.0.0.0 www.562919weryfikacja4827.app-gro.online
 0.0.0.0 www.564049-o929a.ntpsla.co.pl
 0.0.0.0 www.564291dalej-konto.chorw.com.pl
 0.0.0.0 www.564544.xyz
+0.0.0.0 www.567110potwierdz-weryfikacja.ernies.pl
 0.0.0.0 www.569242-aktualizacja-1504.gro-app.co.pl
 0.0.0.0 www.571291logowanie-dalej.jdhs.pl
 0.0.0.0 www.571680konto1933.knto.cloud
@@ -62864,11 +62941,13 @@
 0.0.0.0 www.577927potwierdz4334.app-gro.online
 0.0.0.0 www.579061konto5497.rejepl.co.pl
 0.0.0.0 www.579274-aktualizacja-9159.kntlgr.co.pl
+0.0.0.0 www.579359weryfikacja-weryfikacja.ernies.pl
 0.0.0.0 www.582816.selcdn.ru
 0.0.0.0 www.583220konto9613.rejepl.co.pl
 0.0.0.0 www.584056potwierdzenie9317.allplat.cloud
 0.0.0.0 www.588265-potwierdz-8862.app-gro.co.pl
 0.0.0.0 www.588525konto-poczta.jdhs.pl
+0.0.0.0 www.591017kodem-kodsms.ernies.pl
 0.0.0.0 www.591370aktualizacja-kodem.jdhs.pl
 0.0.0.0 www.592108weryfikacja.jdhs.pl
 0.0.0.0 www.592965logowanie.jdhs.pl
@@ -62877,6 +62956,7 @@
 0.0.0.0 www.597189logowanie1374.knto.cloud
 0.0.0.0 www.597535moje2918.rejepl.co.pl
 0.0.0.0 www.598533logowanie-dalej.jdhs.pl
+0.0.0.0 www.602115kodsms-konto.ernies.pl
 0.0.0.0 www.605188poczta.knto.cloud
 0.0.0.0 www.605946logowanie.htgw.pl
 0.0.0.0 www.606858poczta.jdhs.pl
@@ -62950,6 +63030,7 @@
 0.0.0.0 www.702391dalej-konto.jdhs.pl
 0.0.0.0 www.702786potwierdz4302.app-gro.online
 0.0.0.0 www.703023konto5698.rejepl.co.pl
+0.0.0.0 www.703644poczta-poczta.ernies.pl
 0.0.0.0 www.705490-wery-9116.app-gro.co.pl
 0.0.0.0 www.706914aktualizacja-potwierdz.jdhs.pl
 0.0.0.0 www.706995kodem.soulcar.pl
@@ -62983,6 +63064,7 @@
 0.0.0.0 www.735175weryfikacja5446.rejepl.co.pl
 0.0.0.0 www.736607aktualizacja1833.all-app.cfd
 0.0.0.0 www.736814kodsms.jdhs.pl
+0.0.0.0 www.737755konto-kodem.ernies.pl
 0.0.0.0 www.738433aktualizacja-dalej.jdhs.pl
 0.0.0.0 www.740393logowanie-kodsms.jdhs.pl
 0.0.0.0 www.741235potwierdz7468.allplat.cloud
@@ -62996,6 +63078,7 @@
 0.0.0.0 www.746532.xyz
 0.0.0.0 www.747832aktualizacja.jdhs.pl
 0.0.0.0 www.748219.000webhostapp.com
+0.0.0.0 www.750037weryfikacja-konto.ernies.pl
 0.0.0.0 www.750815potwierdz8077.rejepl.co.pl
 0.0.0.0 www.751391kodem-dalej.jdhs.pl
 0.0.0.0 www.751402-konto-7236.app-all.co.pl
@@ -63008,6 +63091,8 @@
 0.0.0.0 www.760575-aktualizacja-9074.app-gro.co.pl
 0.0.0.0 www.760933weryfikacja-poczta.jdhs.pl
 0.0.0.0 www.763672weryfikacja3872.app-gro.online
+0.0.0.0 www.764537konto-aktualizacja.ernies.pl
+0.0.0.0 www.765269dalej-kodsms.ernies.pl
 0.0.0.0 www.767917-weryfikacja-3786.kntlgr.co.pl
 0.0.0.0 www.768183-potwierdzenie-3358.allapp.co.pl
 0.0.0.0 www.768239.000webhostapp.com
@@ -63015,6 +63100,7 @@
 0.0.0.0 www.770351poczta-dalej.jdhs.pl
 0.0.0.0 www.771178kodsms-kodem.jdhs.pl
 0.0.0.0 www.771923.000webhostapp.com
+0.0.0.0 www.771953poczta-potwierdz.ernies.pl
 0.0.0.0 www.780909-aktualizacja-8344.app-gro.co.pl
 0.0.0.0 www.782402kodem-weryfikacja.jdhs.pl
 0.0.0.0 www.783007-twoje-8149.allapp.co.pl
@@ -63028,28 +63114,33 @@
 0.0.0.0 www.797363potwierdz4617.rejepl.co.pl
 0.0.0.0 www.797436-potwierdz-7864.app-gro.co.pl
 0.0.0.0 www.800221-o929a.ntpsla.co.pl
+0.0.0.0 www.801316poczta-weryfikacja.ernies.pl
 0.0.0.0 www.805800-o929a.ntpsla.co.pl
 0.0.0.0 www.808397kodsms-dalej.jdhs.pl
 0.0.0.0 www.811448f08b4.chefs-kitchen.co.uk
 0.0.0.0 www.814101weryfikacja-weryfikacja.jdhs.pl
 0.0.0.0 www.814129kodsms-aktualizacja.jdhs.pl
 0.0.0.0 www.815426-o929a.ntpsla.co.pl
+0.0.0.0 www.816874aktualizacja-kodsms.ernies.pl
 0.0.0.0 www.817565dalej.jdhs.pl
 0.0.0.0 www.820221kodem.jdhs.pl
 0.0.0.0 www.824776potwierdz-kodsms.jdhs.pl
 0.0.0.0 www.825470konto2875.knto.cloud
+0.0.0.0 www.827260logowanie-logowanie.ernies.pl
 0.0.0.0 www.827512poczta.jdhs.pl
 0.0.0.0 www.827523-wery-2911.tjall.co.pl
 0.0.0.0 www.828302o172-p02393o.plattvntfx.co.pl
 0.0.0.0 www.830618aktualizacja2294.rejepl.co.pl
 0.0.0.0 www.832934konto5204.rejepl.co.pl
 0.0.0.0 www.834443-aktualizacja-4098.crtn.co.pl
+0.0.0.0 www.837520aktualizacja-potwierdz.ernies.pl
 0.0.0.0 www.839140-weryfikacja-3302.allapp.co.pl
 0.0.0.0 www.840199dalej-weryfikacja.jdhs.pl
 0.0.0.0 www.841235potwierdzenie7696.app-gro.online
 0.0.0.0 www.841277potwierdz-logowanie.jdhs.pl
 0.0.0.0 www.842993poczta-konto.djmcy.pl
 0.0.0.0 www.843823kodem.soulcar.pl
+0.0.0.0 www.847411dalej-aktualizacja.ernies.pl
 0.0.0.0 www.848054aktualizacja7584.knto.cloud
 0.0.0.0 www.850864kodem-potwierdz.jdhs.pl
 0.0.0.0 www.851307konto7485.rejepl.co.pl
@@ -63073,10 +63164,12 @@
 0.0.0.0 www.872548-potwierdz-6408.app-all.co.pl
 0.0.0.0 www.874908kodem.jdhs.pl
 0.0.0.0 www.876847weryfikacja.soulcar.pl
+0.0.0.0 www.877647poczta-logowanie.ernies.pl
 0.0.0.0 www.879425kodem4068.knto.cloud
 0.0.0.0 www.881993aktualizacja7388.app-gro.online
 0.0.0.0 www.884200potwierdz5957.all-app.cfd
 0.0.0.0 www.885812kodsms-kodsms.jdhs.pl
+0.0.0.0 www.885977kodsms-kodsms.ernies.pl
 0.0.0.0 www.886034potwierdzenie2985.allplat.cloud
 0.0.0.0 www.887601potwierdz2034.rejepl.co.pl
 0.0.0.0 www.887668-o929a.ntpsla.co.pl
@@ -63087,6 +63180,7 @@
 0.0.0.0 www.896556weryfikacja2887.allplat.cloud
 0.0.0.0 www.899259-o929a.ntpsla.co.pl
 0.0.0.0 www.899375weryfikacja7511.knto.cloud
+0.0.0.0 www.899402kodsms-kodem.ernies.pl
 0.0.0.0 www.900196dalej-kodsms.jdhs.pl
 0.0.0.0 www.904611.xyz
 0.0.0.0 www.907596-konto-4878.tjall.co.pl
@@ -63097,6 +63191,7 @@
 0.0.0.0 www.918385aktualizacja-dalej.jdhs.pl
 0.0.0.0 www.919126konto-logowanie.jdhs.pl
 0.0.0.0 www.919371dalej-logowanie.jdhs.pl
+0.0.0.0 www.919811poczta-poczta.ernies.pl
 0.0.0.0 www.922095dalej-potwierdz.jdhs.pl
 0.0.0.0 www.922872moje6680.rejepl.co.pl
 0.0.0.0 www.924524istotny4096.rejepl.co.pl
@@ -63105,6 +63200,7 @@
 0.0.0.0 www.933646-wery-2159.allapp.co.pl
 0.0.0.0 www.934523kodem4860.knto.cloud
 0.0.0.0 www.941320logowanie-logowanie.jdhs.pl
+0.0.0.0 www.942618dalej-logowanie.ernies.pl
 0.0.0.0 www.944923weryfikacja-dalej.jdhs.pl
 0.0.0.0 www.945349aktualizacja-aktualizacja.jdhs.pl
 0.0.0.0 www.945896-moje-8690.kntlgr.co.pl
@@ -63113,6 +63209,7 @@
 0.0.0.0 www.950448potwierdz6948.allplat.cloud
 0.0.0.0 www.951556twoje4217.app-gro.online
 0.0.0.0 www.952809weryfikacja.jdhs.pl
+0.0.0.0 www.953534weryfikacja-potwierdz.ernies.pl
 0.0.0.0 www.957058aktualizacja8408.rejepl.co.pl
 0.0.0.0 www.958845-twoje-3173.allapp.co.pl
 0.0.0.0 www.958921potwierdz.idnd.pl
@@ -63132,6 +63229,7 @@
 0.0.0.0 www.986342weryfikacja.tslv.co.pl
 0.0.0.0 www.988289dalej-poczta.jdhs.pl
 0.0.0.0 www.989178weryfikacja6562.knto.cloud
+0.0.0.0 www.989805potwierdz-konto.ernies.pl
 0.0.0.0 www.990334konto.soulcar.pl
 0.0.0.0 www.990758aktualizacja-poczta.jdhs.pl
 0.0.0.0 www.993725poczta-aktualizacja.jdhs.pl
@@ -64314,6 +64412,7 @@
 0.0.0.0 www.alicjagiezek.pl
 0.0.0.0 www.alicks.life
 0.0.0.0 www.alictoecu.cf
+0.0.0.0 www.aliegro168-port-kalen.fractions.cfd
 0.0.0.0 www.aliegro194-sun-kalen.duvet.sbs
 0.0.0.0 www.aliegro.dispatch-aqeds.space
 0.0.0.0 www.aliegrol1okahna.doxshop.top
@@ -66448,6 +66547,7 @@
 0.0.0.0 www.bafybeiej3xgub3jr7kv4riobjphn2kfrnvaem5isido5lcfgjzz6m3kuzq.ipfs.dweb.link
 0.0.0.0 www.bafybeiepqoypg2iv3qg73ktd4i5omkdkynbx2e2z4vbri6cyz43evr2mzy.ipfs.fleek.cool
 0.0.0.0 www.bafybeieqguhrfvusx427nhwq6zi75q3yp6j5aipdmvgr6erxa5qeneoqni.ipfs.w3s.link
+0.0.0.0 www.bafybeierd7h7bqqd4qlcurni3snsir3ojsxayjzvas2iy5u6lozp52hxwy.ipfs.dweb.link
 0.0.0.0 www.bafybeierz2fpkkgq33yoi7gjta3isjaeh6ecd7v47pyih3u7ov73irb6ea.ipfs.dweb.link
 0.0.0.0 www.bafybeierzqpv4slq6xc3jti5e7ydl7njtldtul6u3fekdurmtmaeux3gqa.ipfs.dweb.link
 0.0.0.0 www.bafybeiet32khm6hfe2irfuemd65tsn42kb5gmqju6dmrz3ql7eosrrlxfq.ipfs.dweb.link
@@ -83644,6 +83744,7 @@
 0.0.0.0 www.inpost-pl.internetgratis.xyz
 0.0.0.0 www.inpost-pl.isafepay-order.site
 0.0.0.0 www.inpost-pl.ixchel.space
+0.0.0.0 www.inpost-pl.jaredrea.xyz
 0.0.0.0 www.inpost-pl.jav-online.xyz
 0.0.0.0 www.inpost-pl.joyregbuyitem.pw
 0.0.0.0 www.inpost-pl.kabarsatu.shop
@@ -89245,6 +89346,7 @@
 0.0.0.0 www.lezn.zaned.click
 0.0.0.0 www.lezrweb.com
 0.0.0.0 www.lezt.reviss.site
+0.0.0.0 www.lf9kmfp22x3eamoxnrprhlbg1lij3vyecjhzfv6w.mgmcare.com
 0.0.0.0 www.lg006.tidactar.pro
 0.0.0.0 www.lgd.dfrtraderxsys.com
 0.0.0.0 www.lgewxx.s3.us-east-005.backblazeb2.com
@@ -95441,6 +95543,7 @@
 0.0.0.0 www.olakar.xyz
 0.0.0.0 www.olasp.apprety.site
 0.0.0.0 www.olayaninvt.com
+0.0.0.0 www.old-surf-0774.on.fleek.co
 0.0.0.0 www.old-vinted.xyz
 0.0.0.0 www.oldcarreviews.com
 0.0.0.0 www.oldmethodm.site
@@ -96600,6 +96703,7 @@
 0.0.0.0 www.olx.com-id381949.xyz
 0.0.0.0 www.olx.conactless-pay.store
 0.0.0.0 www.olx.cukpolotero.org
+0.0.0.0 www.olx.dakiledophu.org
 0.0.0.0 www.olx.deliverry.org
 0.0.0.0 www.olx.deliverry.su
 0.0.0.0 www.olx.delivery-pl.shop
@@ -99370,6 +99474,7 @@
 0.0.0.0 www.past.reviss.site
 0.0.0.0 www.pastedness.life
 0.0.0.0 www.pastedputrefy.com
+0.0.0.0 www.pastelcromes.com
 0.0.0.0 www.pastelguess.com
 0.0.0.0 www.pasticcerialonghitano.it
 0.0.0.0 www.pastle.pl
@@ -100035,6 +100140,7 @@
 0.0.0.0 www.photo.gfer4.xyz
 0.0.0.0 www.photo.hds6.sbs
 0.0.0.0 www.photo.jr948o.us
+0.0.0.0 www.photo.krj7jt0.shop
 0.0.0.0 www.photo.zarobuv.xyz
 0.0.0.0 www.photobiologiessongful.com
 0.0.0.0 www.photographymentor.com
@@ -107724,6 +107830,7 @@
 0.0.0.0 www.sunetwas.com
 0.0.0.0 www.sunflagsteel.com
 0.0.0.0 www.sunfun.mestopoland.space
+0.0.0.0 www.sungaii.com
 0.0.0.0 www.sungateinvestment.com
 0.0.0.0 www.sungow.space
 0.0.0.0 www.sungow.win
@@ -109496,6 +109603,7 @@
 0.0.0.0 www.tracinghands.com
 0.0.0.0 www.track-app.collectyour-toporders.com
 0.0.0.0 www.track-fs.p5kz.in
+0.0.0.0 www.track-poctza-polska.com
 0.0.0.0 www.track.profit-tips.xyz
 0.0.0.0 www.track.trankitupep.com
 0.0.0.0 www.trackfiz.com
@@ -113172,6 +113280,7 @@
 0.0.0.0 www.vinted.load-23151.cfd
 0.0.0.0 www.vinted.load-safe.cfd
 0.0.0.0 www.vinted.loado.online
+0.0.0.0 www.vinted.loadr-out.online
 0.0.0.0 www.vinted.loady-out.online
 0.0.0.0 www.vinted.lu33.top
 0.0.0.0 www.vinted.mahotrops.org
@@ -115026,6 +115135,7 @@
 0.0.0.0 www.wet-cleaning.jp
 0.0.0.0 www.wetgows.com
 0.0.0.0 www.wetieria.com
+0.0.0.0 www.wetransfer-cloud.zora-vc.com
 0.0.0.0 www.wetsararob.pl
 0.0.0.0 www.wex4a5.webwave.dev
 0.0.0.0 www.wexness.cc
