@@ -1,8 +1,8 @@
 # Title: KADomeny
 # KADomains
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 08 Apr 2023, 14:28 UTC+02:00
-# Version: 2023.4.8.1
+# Last modified: Sat, 08 Apr 2023, 18:19 UTC+02:00
+# Version: 2023.4.8.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/FiltersHeroes/KADhosts
@@ -6404,6 +6404,7 @@ zgarniij_vouchher.skroc.pl
 00lx.23321236.xyz
 00lx.23321237.xyz
 0lx.24125455.xyz
+0lx.25152122.xyz
 0lx.25465425.xyz
 0lx.25555500.xyz
 0lx.30945112.xyz
@@ -7608,6 +7609,7 @@ zgarniij_vouchher.skroc.pl
 178068logowanie9424.knto.cloud
 179277-wery-3791.allapp.co.pl
 179501aktualizacja-dalej.mszmidt.pl
+179815konto-aktualizacja.prepci.pl
 180214twoje3065.app-gro.online
 181506konto-kodsms.mszmidt.pl
 182668aktualizacja8538.knto.cloud
@@ -7646,6 +7648,7 @@ zgarniij_vouchher.skroc.pl
 215881dalej6292.knto.cloud
 216332dalej.jdhs.pl
 218115poczta-kodsms.ernies.pl
+218176poczta-logowanie.prepci.pl
 218373aktualizacja-potwierdz.dawideka.pl
 219133aktualizacja4730.allplat.cloud
 219740logowanie-weryfikacja.malenst.pl
@@ -7673,6 +7676,7 @@ zgarniij_vouchher.skroc.pl
 246851logowanie.jdhs.pl
 246898-o929a.ntpsla.co.pl
 248607logowanie.idnd.pl
+248612konto-kodsms.prepci.pl
 249670-potwierdzenie-7622.gro-app.co.pl
 250704-o929a.ntpsla.co.pl
 251710twoje4849.allplat.cloud
@@ -7703,6 +7707,7 @@ zgarniij_vouchher.skroc.pl
 282685poczta-logowanie.jdhs.pl
 282736potwierdz-kodem.malenst.pl
 282918.me
+284841potwierdz-aktualizacja.mszmidt.pl
 284860potwierdz4911.allplat.cloud
 285481konto-logowanie.ernies.pl
 285861-potwierdz-3330.tjall.co.pl
@@ -7836,6 +7841,7 @@ zgarniij_vouchher.skroc.pl
 429779dalej-weryfikacja.jdhs.pl
 429921dalej-logowanie.poityi.pl
 430465weryfikacja.jdhs.pl
+431122weryfikacja-kodsms.prepci.pl
 432333.xyz
 433083poczta7956.all-app.cfd
 433703potwierdz-konto.ernies.pl
@@ -7881,7 +7887,9 @@ zgarniij_vouchher.skroc.pl
 471282-istotny-4741.allapp.co.pl
 472263weryfikacja-weryfikacja.jdhs.pl
 472487-twoje-1954.app-gro.co.pl
+474390weryfikacja-poczta.mszmidt.pl
 476865potwierdz-kodsms.chorw.com.pl
+477043potwierdz-weryfikacja.mszmidt.pl
 477147-twoje-3213.gro-app.co.pl
 477494potwierdz.soulcar.pl
 479188-aktualizacja-4110.crtn.co.pl
@@ -7907,6 +7915,8 @@ zgarniij_vouchher.skroc.pl
 504593logowanie3201.knto.cloud
 504722moje3468.app-gro.online
 506244potwierdzenie1010.app-gro.online
+506484kodsms-potwierdz.prepci.pl
+508272kodsms-kodem.prepci.pl
 509492weryfikacja-kodsms.ernies.pl
 510832potwierdz8343.rejepl.co.pl
 511929-twoje-1618.app-gro.co.pl
@@ -8030,6 +8040,7 @@ zgarniij_vouchher.skroc.pl
 618308-moje-2589.tjall.co.pl
 619738-potwierdzenie-8776.tjall.co.pl
 622180aktualizacja8949.rejepl.co.pl
+624458potwierdz-potwierdz.prepci.pl
 0625886bde5.chefs-kitchen.co.uk
 626525.selcdn.ru
 626734logowanie.jdhs.pl
@@ -8079,6 +8090,7 @@ zgarniij_vouchher.skroc.pl
 674400potwierdz-aktualizacja.malenst.pl
 675068potwierdz-weryfikacja.jdhs.pl
 675228aktualizacja7307.rejepl.co.pl
+675231kodem-konto.prepci.pl
 675316-potwierdzenie-7931.app-all.co.pl
 675432-wery-9913.gro-app.co.pl
 675664.xyz
@@ -8094,6 +8106,7 @@ zgarniij_vouchher.skroc.pl
 688906-potwierdzenie-6092.allapp.co.pl
 689339kodem-weryfikacja.malenst.pl
 689575weryfikacja-poczta.malenst.pl
+689997poczta-dalej.prepci.pl
 690126istotny8703.rejepl.co.pl
 690261weryfikacja-poczta.jdhs.pl
 692422kodsms-konto.jdhs.pl
@@ -8177,9 +8190,11 @@ zgarniij_vouchher.skroc.pl
 762907kodem-poczta.malenst.pl
 763259weryfikacja-kodsms.malenst.pl
 763672weryfikacja3872.app-gro.online
+764525kodsms-kodsms.syntiag.pl
 764537konto-aktualizacja.ernies.pl
 765269dalej-kodsms.ernies.pl
 766741potwierdz-konto.poityi.pl
+766765aktualizacja-dalej.syntiag.pl
 766946aktualizacja-aktualizacja.malenst.pl
 767917-weryfikacja-3786.kntlgr.co.pl
 768183-potwierdzenie-3358.allapp.co.pl
@@ -8217,6 +8232,7 @@ zgarniij_vouchher.skroc.pl
 814101weryfikacja-weryfikacja.jdhs.pl
 814129kodsms-aktualizacja.jdhs.pl
 815426-o929a.ntpsla.co.pl
+816619kodem-kodsms.prepci.pl
 816874aktualizacja-kodsms.ernies.pl
 817565dalej.jdhs.pl
 820221kodem.jdhs.pl
@@ -8259,6 +8275,7 @@ zgarniij_vouchher.skroc.pl
 860545weryfikacja7273.all-app.cfd
 862166aktualizacja.mail-all.cfd
 862218konto-potwierdz.jdhs.pl
+862548potwierdz-weryfikacja.prepci.pl
 862824dalej-kodem.malenst.pl
 866277weryfikacja8652.rejepl.co.pl
 866775-o929a.ntpsla.co.pl
@@ -8300,6 +8317,7 @@ zgarniij_vouchher.skroc.pl
 909011konto6002.rejepl.co.pl
 910538logowanie.soulcar.pl
 911107dalej-kodsms.jdhs.pl
+913251kodsms-poczta.syntiag.pl
 913769-o929a.ntpsla.co.pl
 915067konto-kodsms.malenst.pl
 918385aktualizacja-dalej.jdhs.pl
@@ -8333,6 +8351,7 @@ zgarniij_vouchher.skroc.pl
 958921potwierdz.idnd.pl
 961508weryfikacja-logowanie.jdhs.pl
 961712kodem-potwierdz.malenst.pl
+962283konto-kodem.syntiag.pl
 962930konto9799.knto.cloud
 965233dalej-dalej.jdhs.pl
 965833wery3165.rejepl.co.pl
@@ -8344,6 +8363,7 @@ zgarniij_vouchher.skroc.pl
 977158potwierdzenie3277.allplat.cloud
 977873-aktualizacja-7028.app-all.co.pl
 978024.xyz
+978056aktualizacja-logowanie.prepci.pl
 980307dalej-potwierdz.mszmidt.pl
 983289-twoje-2236.gro-app.co.pl
 984702aktualizacja-konto.jdhs.pl
@@ -10970,6 +10990,7 @@ aspartyl.info
 aspenholding.co
 aspenholding.com
 aspirujacy293.site
+aspn-ra-704753416-ch-dev.builderallwppro.com
 asrepotlyjeepste.cf
 asriachrol.ga
 ass.apprety.site
@@ -20261,6 +20282,7 @@ dpd.valemyb.org
 dpd.vywpykje.org
 dpd.wiqosn.org
 dpd.yakulepes.org
+dpd.ybujedo.org
 dpd.yolakleho.org
 dpd.yorefad.org
 dpd.yredgaskepase.org
@@ -28925,6 +28947,7 @@ inpost-pl.nadeko.xyz
 inpost-pl.natek.online
 inpost-pl.net
 inpost-pl.newsprawa234981.lol
+inpost-pl.nidon.lol
 inpost-pl.numer-sciezki-id498321.xyz
 inpost-pl.numer-sciezki-id548683.xyz
 inpost-pl.obrazek.top
@@ -36156,6 +36179,7 @@ marcetserv895.cfd
 marchese.life
 marchoj13.pl
 marcin.adaolga.warszawa.pl
+marcin.patrycja.warszawa.pl
 marcinx.atthost24.pl
 marcofama.it
 marczewsksi.pl
@@ -45919,6 +45943,7 @@ pl.stores2020.net
 pl.subjectsuccess.co.in
 pl.teatrticket.online
 pl.theinvestingstrat.xyz
+pl.theorydetermin.cc
 pl.thirteenpleasant.cc
 pl.tpeoples.xyz
 pl.tprogapp.xyz
@@ -47593,6 +47618,7 @@ porwanie-17.azureedge.net
 porwanie-18.azureedge.net
 porwanie-19.azureedge.net
 porwanie-20.azureedge.net
+pos.reginapacis.app
 pos.torz.xyz
 posadn.com
 poscig996.rest
@@ -49501,6 +49527,7 @@ recardinic.com
 recasitrant-revools-portal-4463939.us-south.cf.appdomain.cloud
 recasthypercube.pl
 recastwheelers.pl
+receipt-vinted.reservation82095.cloud
 receivebiss.club
 receivebiss.life
 receivebiss.top
@@ -53528,6 +53555,7 @@ szlomo.ameliagosia.com.pl
 szlomo.gabrielazuzanna.info.pl
 szmuel.kaminski.info.pl
 szmuel.moonyalfa.pl
+szmuel.nataliakowelaskeb.pl
 szmul.powiadomienia.org.pl
 szoi.nfz-centrala.com
 szok-zobaczenie.eu
@@ -53627,6 +53655,7 @@ t-pl.newplx.site
 t-pro.online-one.site
 t-prog.tes21active.xyz
 t-slx.program-pro2.xyz
+t-world.one
 t.neggs.xyz
 t.plprogram-new.xyz
 t.tpros.xyz
@@ -55371,6 +55400,7 @@ tshimi.interasf.xyz
 tsi.maxi9blog.xyz
 tsl2l.strukts5.site
 tsl-co.infopls.xyz
+tsl-coin.world
 tsl-priv.co-app-eu.xyz
 tsl-x.infopls.xyz
 tsl.cryp-b.xyz
@@ -58612,6 +58642,7 @@ vinted.3298211.xyz
 vinted.3423213.xyz
 vinted.3452347.xyz
 vinted.3712222.xyz
+vinted.05152122.xyz
 vinted.5712222.xyz
 vinted.6591452.xyz
 vinted.06998999.xyz
@@ -58620,8 +58651,11 @@ vinted.30264522.xyz
 vinted.35322333.xyz
 vinted.35663330.xyz
 vinted.041512555.xyz
+vinted.45152122.xyz
 vinted.45663330.xyz
+vinted.55152122.xyz
 vinted.55232122.xyz
+vinted.65152122.xyz
 vinted.65941254.xyz
 vinted.84563877.xyz
 vinted.177887887.xyz
@@ -61710,6 +61744,7 @@ www.0lx.15322300.xyz
 www.00lx.23321236.xyz
 www.00lx.23321237.xyz
 www.0lx.24125455.xyz
+www.0lx.25152122.xyz
 www.0lx.25465425.xyz
 www.0lx.25555500.xyz
 www.0lx.30945112.xyz
@@ -62914,6 +62949,7 @@ www.177911potwierdz-aktualizacja.jdhs.pl
 www.178068logowanie9424.knto.cloud
 www.179277-wery-3791.allapp.co.pl
 www.179501aktualizacja-dalej.mszmidt.pl
+www.179815konto-aktualizacja.prepci.pl
 www.180214twoje3065.app-gro.online
 www.181506konto-kodsms.mszmidt.pl
 www.182668aktualizacja8538.knto.cloud
@@ -62952,6 +62988,7 @@ www.214455weryfikacja4938.rejepl.co.pl
 www.215881dalej6292.knto.cloud
 www.216332dalej.jdhs.pl
 www.218115poczta-kodsms.ernies.pl
+www.218176poczta-logowanie.prepci.pl
 www.218373aktualizacja-potwierdz.dawideka.pl
 www.219133aktualizacja4730.allplat.cloud
 www.219740logowanie-weryfikacja.malenst.pl
@@ -62979,6 +63016,7 @@ www.246247kodsms-kodem.jdhs.pl
 www.246851logowanie.jdhs.pl
 www.246898-o929a.ntpsla.co.pl
 www.248607logowanie.idnd.pl
+www.248612konto-kodsms.prepci.pl
 www.249670-potwierdzenie-7622.gro-app.co.pl
 www.250704-o929a.ntpsla.co.pl
 www.251710twoje4849.allplat.cloud
@@ -63009,6 +63047,7 @@ www.282612aktualizacja8564.rejepl.co.pl
 www.282685poczta-logowanie.jdhs.pl
 www.282736potwierdz-kodem.malenst.pl
 www.282918.me
+www.284841potwierdz-aktualizacja.mszmidt.pl
 www.284860potwierdz4911.allplat.cloud
 www.285481konto-logowanie.ernies.pl
 www.285861-potwierdz-3330.tjall.co.pl
@@ -63142,6 +63181,7 @@ www.429102konto-kodem.djmcy.pl
 www.429779dalej-weryfikacja.jdhs.pl
 www.429921dalej-logowanie.poityi.pl
 www.430465weryfikacja.jdhs.pl
+www.431122weryfikacja-kodsms.prepci.pl
 www.432333.xyz
 www.433083poczta7956.all-app.cfd
 www.433703potwierdz-konto.ernies.pl
@@ -63187,7 +63227,9 @@ www.471058.pw
 www.471282-istotny-4741.allapp.co.pl
 www.472263weryfikacja-weryfikacja.jdhs.pl
 www.472487-twoje-1954.app-gro.co.pl
+www.474390weryfikacja-poczta.mszmidt.pl
 www.476865potwierdz-kodsms.chorw.com.pl
+www.477043potwierdz-weryfikacja.mszmidt.pl
 www.477147-twoje-3213.gro-app.co.pl
 www.477494potwierdz.soulcar.pl
 www.479188-aktualizacja-4110.crtn.co.pl
@@ -63213,6 +63255,8 @@ www.503374weryfikacja-weryfikacja.jdhs.pl
 www.504593logowanie3201.knto.cloud
 www.504722moje3468.app-gro.online
 www.506244potwierdzenie1010.app-gro.online
+www.506484kodsms-potwierdz.prepci.pl
+www.508272kodsms-kodem.prepci.pl
 www.509492weryfikacja-kodsms.ernies.pl
 www.510832potwierdz8343.rejepl.co.pl
 www.511929-twoje-1618.app-gro.co.pl
@@ -63336,6 +63380,7 @@ www.617632kodsms1578.knto.cloud
 www.618308-moje-2589.tjall.co.pl
 www.619738-potwierdzenie-8776.tjall.co.pl
 www.622180aktualizacja8949.rejepl.co.pl
+www.624458potwierdz-potwierdz.prepci.pl
 www.0625886bde5.chefs-kitchen.co.uk
 www.626525.selcdn.ru
 www.626734logowanie.jdhs.pl
@@ -63385,6 +63430,7 @@ www.672400potwierdz-dalej.malenst.pl
 www.674400potwierdz-aktualizacja.malenst.pl
 www.675068potwierdz-weryfikacja.jdhs.pl
 www.675228aktualizacja7307.rejepl.co.pl
+www.675231kodem-konto.prepci.pl
 www.675316-potwierdzenie-7931.app-all.co.pl
 www.675432-wery-9913.gro-app.co.pl
 www.675664.xyz
@@ -63400,6 +63446,7 @@ www.687900.xyz
 www.688906-potwierdzenie-6092.allapp.co.pl
 www.689339kodem-weryfikacja.malenst.pl
 www.689575weryfikacja-poczta.malenst.pl
+www.689997poczta-dalej.prepci.pl
 www.690126istotny8703.rejepl.co.pl
 www.690261weryfikacja-poczta.jdhs.pl
 www.692422kodsms-konto.jdhs.pl
@@ -63483,9 +63530,11 @@ www.760933weryfikacja-poczta.jdhs.pl
 www.762907kodem-poczta.malenst.pl
 www.763259weryfikacja-kodsms.malenst.pl
 www.763672weryfikacja3872.app-gro.online
+www.764525kodsms-kodsms.syntiag.pl
 www.764537konto-aktualizacja.ernies.pl
 www.765269dalej-kodsms.ernies.pl
 www.766741potwierdz-konto.poityi.pl
+www.766765aktualizacja-dalej.syntiag.pl
 www.766946aktualizacja-aktualizacja.malenst.pl
 www.767917-weryfikacja-3786.kntlgr.co.pl
 www.768183-potwierdzenie-3358.allapp.co.pl
@@ -63523,6 +63572,7 @@ www.811657kodem-potwierdz.ernies.pl
 www.814101weryfikacja-weryfikacja.jdhs.pl
 www.814129kodsms-aktualizacja.jdhs.pl
 www.815426-o929a.ntpsla.co.pl
+www.816619kodem-kodsms.prepci.pl
 www.816874aktualizacja-kodsms.ernies.pl
 www.817565dalej.jdhs.pl
 www.820221kodem.jdhs.pl
@@ -63565,6 +63615,7 @@ www.858547twoje5501.allplat.cloud
 www.860545weryfikacja7273.all-app.cfd
 www.862166aktualizacja.mail-all.cfd
 www.862218konto-potwierdz.jdhs.pl
+www.862548potwierdz-weryfikacja.prepci.pl
 www.862824dalej-kodem.malenst.pl
 www.866277weryfikacja8652.rejepl.co.pl
 www.866775-o929a.ntpsla.co.pl
@@ -63606,6 +63657,7 @@ www.907596-konto-4878.tjall.co.pl
 www.909011konto6002.rejepl.co.pl
 www.910538logowanie.soulcar.pl
 www.911107dalej-kodsms.jdhs.pl
+www.913251kodsms-poczta.syntiag.pl
 www.913769-o929a.ntpsla.co.pl
 www.915067konto-kodsms.malenst.pl
 www.918385aktualizacja-dalej.jdhs.pl
@@ -63639,6 +63691,7 @@ www.958845-twoje-3173.allapp.co.pl
 www.958921potwierdz.idnd.pl
 www.961508weryfikacja-logowanie.jdhs.pl
 www.961712kodem-potwierdz.malenst.pl
+www.962283konto-kodem.syntiag.pl
 www.962930konto9799.knto.cloud
 www.965233dalej-dalej.jdhs.pl
 www.965833wery3165.rejepl.co.pl
@@ -63650,6 +63703,7 @@ www.976722-istotny-5615.gro-app.co.pl
 www.977158potwierdzenie3277.allplat.cloud
 www.977873-aktualizacja-7028.app-all.co.pl
 www.978024.xyz
+www.978056aktualizacja-logowanie.prepci.pl
 www.980307dalej-potwierdz.mszmidt.pl
 www.983289-twoje-2236.gro-app.co.pl
 www.984702aktualizacja-konto.jdhs.pl
@@ -66276,6 +66330,7 @@ www.aspartyl.info
 www.aspenholding.co
 www.aspenholding.com
 www.aspirujacy293.site
+www.aspn-ra-704753416-ch-dev.builderallwppro.com
 www.asrepotlyjeepste.cf
 www.asriachrol.ga
 www.ass.apprety.site
@@ -75567,6 +75622,7 @@ www.dpd.valemyb.org
 www.dpd.vywpykje.org
 www.dpd.wiqosn.org
 www.dpd.yakulepes.org
+www.dpd.ybujedo.org
 www.dpd.yolakleho.org
 www.dpd.yorefad.org
 www.dpd.yredgaskepase.org
@@ -84231,6 +84287,7 @@ www.inpost-pl.nadeko.xyz
 www.inpost-pl.natek.online
 www.inpost-pl.net
 www.inpost-pl.newsprawa234981.lol
+www.inpost-pl.nidon.lol
 www.inpost-pl.numer-sciezki-id498321.xyz
 www.inpost-pl.numer-sciezki-id548683.xyz
 www.inpost-pl.obrazek.top
@@ -91462,6 +91519,7 @@ www.marcetserv895.cfd
 www.marchese.life
 www.marchoj13.pl
 www.marcin.adaolga.warszawa.pl
+www.marcin.patrycja.warszawa.pl
 www.marcinx.atthost24.pl
 www.marcofama.it
 www.marczewsksi.pl
@@ -102704,6 +102762,7 @@ www.porwanie-17.azureedge.net
 www.porwanie-18.azureedge.net
 www.porwanie-19.azureedge.net
 www.porwanie-20.azureedge.net
+www.pos.reginapacis.app
 www.pos.torz.xyz
 www.posadn.com
 www.poscig996.rest
@@ -104612,6 +104671,7 @@ www.recardinic.com
 www.recasitrant-revools-portal-4463939.us-south.cf.appdomain.cloud
 www.recasthypercube.pl
 www.recastwheelers.pl
+www.receipt-vinted.reservation82095.cloud
 www.receivebiss.club
 www.receivebiss.life
 www.receivebiss.top
@@ -108639,6 +108699,7 @@ www.szlomo.ameliagosia.com.pl
 www.szlomo.gabrielazuzanna.info.pl
 www.szmuel.kaminski.info.pl
 www.szmuel.moonyalfa.pl
+www.szmuel.nataliakowelaskeb.pl
 www.szmul.powiadomienia.org.pl
 www.szoi.nfz-centrala.com
 www.szok-zobaczenie.eu
@@ -108738,6 +108799,7 @@ www.t-pl.newplx.site
 www.t-pro.online-one.site
 www.t-prog.tes21active.xyz
 www.t-slx.program-pro2.xyz
+www.t-world.one
 www.t.neggs.xyz
 www.t.plprogram-new.xyz
 www.t.tpros.xyz
@@ -110482,6 +110544,7 @@ www.tshimi.interasf.xyz
 www.tsi.maxi9blog.xyz
 www.tsl2l.strukts5.site
 www.tsl-co.infopls.xyz
+www.tsl-coin.world
 www.tsl-priv.co-app-eu.xyz
 www.tsl-x.infopls.xyz
 www.tsl.cryp-b.xyz
@@ -113723,6 +113786,7 @@ www.vinted.3298211.xyz
 www.vinted.3423213.xyz
 www.vinted.3452347.xyz
 www.vinted.3712222.xyz
+www.vinted.05152122.xyz
 www.vinted.5712222.xyz
 www.vinted.6591452.xyz
 www.vinted.06998999.xyz
@@ -113731,8 +113795,11 @@ www.vinted.30264522.xyz
 www.vinted.35322333.xyz
 www.vinted.35663330.xyz
 www.vinted.041512555.xyz
+www.vinted.45152122.xyz
 www.vinted.45663330.xyz
+www.vinted.55152122.xyz
 www.vinted.55232122.xyz
+www.vinted.65152122.xyz
 www.vinted.65941254.xyz
 www.vinted.84563877.xyz
 www.vinted.177887887.xyz
