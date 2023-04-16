@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 16 Apr 2023, 02:17 UTC+02:00
-# Version: 2023.4.16.0
+# Last modified: Sun, 16 Apr 2023, 10:19 UTC+02:00
+# Version: 2023.4.16.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7514,6 +7514,7 @@
 0.0.0.0 1512c.financialdvisorapp.bond
 0.0.0.0 1512d.financialdvisorapp.bond
 0.0.0.0 1554fca6a66.johncornell.com
+0.0.0.0 1761kod-dom.assl.co.pl
 0.0.0.0 1768-weryfikacja505913-potwierdzac.redrdr.pl
 0.0.0.0 1793kodsms-nastepny.assl.co.pl
 0.0.0.0 1800p.com
@@ -7533,6 +7534,8 @@
 0.0.0.0 02345sending-g0ds23.079586.xyz
 0.0.0.0 2421-logowaniu240175-wydanie.tssl.co.pl
 0.0.0.0 2483-logowania669930-wydanie.trnsc.co.pl
+0.0.0.0 2500konta-wydanie.assl.co.pl
+0.0.0.0 2528weryfikacja-wydanie.assl.co.pl
 0.0.0.0 2622b291490.chefs-kitchen.co.uk
 0.0.0.0 2713logowania-wydanie.ktls.co.pl
 0.0.0.0 2778e8deb3c.chefs-kitchen.co.uk
@@ -7550,6 +7553,7 @@
 0.0.0.0 3259-zaloguj256034-organizowac.trnsc.co.pl
 0.0.0.0 3262aktualizacja-wydanie.assl.co.pl
 0.0.0.0 3296e14f61e.chefs-kitchen.co.uk
+0.0.0.0 3408kod-praca.assl.co.pl
 0.0.0.0 3505acb3eab.chefs-kitchen.co.uk
 0.0.0.0 3508-logowania860508-potwierdzac.redrdr.pl
 0.0.0.0 3536z-unps.info
@@ -7571,6 +7575,7 @@
 0.0.0.0 4322-zaloguj718661-potwierdzac.rer-1.pl
 0.0.0.0 4352-poczta973555-nastepny.hssl.co.pl
 0.0.0.0 4390e381557.chefs-kitchen.co.uk
+0.0.0.0 4390logowania-dom.assl.co.pl
 0.0.0.0 4415weryfikacja-uslugi.ktls.co.pl
 0.0.0.0 4454-poczta165503-organizowac.trnsc.co.pl
 0.0.0.0 4486konta-organizowac.assl.co.pl
@@ -7578,6 +7583,7 @@
 0.0.0.0 4550zaloguj-wydanie.ktls.co.pl
 0.0.0.0 4580ce02bfa.chefs-kitchen.co.uk
 0.0.0.0 4589-zaloguj704937-dom.assl.co.pl
+0.0.0.0 4606logowaniu-nastepny.assl.co.pl
 0.0.0.0 4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com
 0.0.0.0 4619-logowania471731-zaakceptowac.trnsc.co.pl
 0.0.0.0 4740kodsms-praca.ktls.co.pl
@@ -7609,6 +7615,7 @@
 0.0.0.0 6512-zaloguj425193-praca.nfrdr.pl
 0.0.0.0 6644weryfikacja-praca.vfrf.co.pl
 0.0.0.0 6696aktualizacja-dom.ktls.co.pl
+0.0.0.0 6791weryfikacja-zaakceptowac.assl.co.pl
 0.0.0.0 6820weryfikacja-nastepny.ktls.co.pl
 0.0.0.0 6851-weryfikacja552296.rer-1.pl
 0.0.0.0 6958c-upgs.club
@@ -64392,6 +64399,7 @@
 0.0.0.0 www.1512c.financialdvisorapp.bond
 0.0.0.0 www.1512d.financialdvisorapp.bond
 0.0.0.0 www.1554fca6a66.johncornell.com
+0.0.0.0 www.1761kod-dom.assl.co.pl
 0.0.0.0 www.1768-weryfikacja505913-potwierdzac.redrdr.pl
 0.0.0.0 www.1793kodsms-nastepny.assl.co.pl
 0.0.0.0 www.1800p.com
@@ -64411,6 +64419,8 @@
 0.0.0.0 www.02345sending-g0ds23.079586.xyz
 0.0.0.0 www.2421-logowaniu240175-wydanie.tssl.co.pl
 0.0.0.0 www.2483-logowania669930-wydanie.trnsc.co.pl
+0.0.0.0 www.2500konta-wydanie.assl.co.pl
+0.0.0.0 www.2528weryfikacja-wydanie.assl.co.pl
 0.0.0.0 www.2622b291490.chefs-kitchen.co.uk
 0.0.0.0 www.2713logowania-wydanie.ktls.co.pl
 0.0.0.0 www.2778e8deb3c.chefs-kitchen.co.uk
@@ -64428,6 +64438,7 @@
 0.0.0.0 www.3259-zaloguj256034-organizowac.trnsc.co.pl
 0.0.0.0 www.3262aktualizacja-wydanie.assl.co.pl
 0.0.0.0 www.3296e14f61e.chefs-kitchen.co.uk
+0.0.0.0 www.3408kod-praca.assl.co.pl
 0.0.0.0 www.3505acb3eab.chefs-kitchen.co.uk
 0.0.0.0 www.3508-logowania860508-potwierdzac.redrdr.pl
 0.0.0.0 www.3536z-unps.info
@@ -64449,6 +64460,7 @@
 0.0.0.0 www.4322-zaloguj718661-potwierdzac.rer-1.pl
 0.0.0.0 www.4352-poczta973555-nastepny.hssl.co.pl
 0.0.0.0 www.4390e381557.chefs-kitchen.co.uk
+0.0.0.0 www.4390logowania-dom.assl.co.pl
 0.0.0.0 www.4415weryfikacja-uslugi.ktls.co.pl
 0.0.0.0 www.4454-poczta165503-organizowac.trnsc.co.pl
 0.0.0.0 www.4486konta-organizowac.assl.co.pl
@@ -64456,6 +64468,7 @@
 0.0.0.0 www.4550zaloguj-wydanie.ktls.co.pl
 0.0.0.0 www.4580ce02bfa.chefs-kitchen.co.uk
 0.0.0.0 www.4589-zaloguj704937-dom.assl.co.pl
+0.0.0.0 www.4606logowaniu-nastepny.assl.co.pl
 0.0.0.0 www.4615her524h5k4dd8305d3b0d52a2616-dot-sylvan-willow-291119.df.r.appspot.com
 0.0.0.0 www.4619-logowania471731-zaakceptowac.trnsc.co.pl
 0.0.0.0 www.4740kodsms-praca.ktls.co.pl
@@ -64487,6 +64500,7 @@
 0.0.0.0 www.6512-zaloguj425193-praca.nfrdr.pl
 0.0.0.0 www.6644weryfikacja-praca.vfrf.co.pl
 0.0.0.0 www.6696aktualizacja-dom.ktls.co.pl
+0.0.0.0 www.6791weryfikacja-zaakceptowac.assl.co.pl
 0.0.0.0 www.6820weryfikacja-nastepny.ktls.co.pl
 0.0.0.0 www.6851-weryfikacja552296.rer-1.pl
 0.0.0.0 www.6958c-upgs.club
