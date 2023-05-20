@@ -1,0 +1,28 @@
+name: 'Keeper'
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: dessant/lock-threads@v4
+        with:
+          github-token: ${{ github.token }}
+          issue-inactive-days: '40'
+          exclude-issue-created-before: ''
+          exclude-any-issue-labels: ''
+          add-issue-labels: ''
+          issue-comment: 'This thread was automatically locked as/because there was no activity after it was closed. Please open a new ticket for related issues.'
+          issue-lock-reason: 'resolved'
+          pr-inactive-days: '365'
+          exclude-pr-created-before: ''
+          exclude-any-pr-labels: ''
+          add-pr-labels: ''
+          pr-comment: ''
+          pr-lock-reason: 'resolved'
+          process-only: 'issues'
