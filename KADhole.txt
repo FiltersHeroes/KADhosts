@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Sat, 20 May 2023, 18:19 UTC+02:00
-# Version: 2023.5.20.0
+# Last modified: Sun, 11 Jun 2023, 20:47 UTC+02:00
+# Version: 2023.6.11.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -75,6 +75,7 @@
 (^|\.)polityka[0-9]+\.mobiklivestmox\.pl$
 (^|\.)polska[0-9]+\.enchantevent\.com$
 (^|\.)polskapolicja24\.pl\..*\..*\.cz$
+(^|\.)protected\.net$
 (^|\.)randkiero\.date$
 (^|\.)reasonoppositewash\.top$
 (^|\.)shop.*\.suaposales\.com$
