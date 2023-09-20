@@ -55,6 +55,8 @@ WWW_PAT = re.compile(r"^(www[0-9]\.|www\.)")
 for i, page in enumerate(pages):
     pages[i] = re.sub(WWW_PAT, "", page, count=1)
 
+pages = sorted(set(pages))
+
 sem_value = 10
 exclusions_path = pj(main_path, "exclusions")
 
