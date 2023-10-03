@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 03 Oct 2023, 22:17 UTC+02:00
-# Version: 2023.10.3.3
+# Last modified: Tue, 03 Oct 2023, 22:31 UTC+02:00
+# Version: 2023.10.3.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -12603,6 +12603,7 @@
 0.0.0.0 captivityd.com
 0.0.0.0 captureddreams.com.au
 0.0.0.0 capuanuss.live
+0.0.0.0 car-poland.com
 0.0.0.0 caracarasw.com
 0.0.0.0 caracoling.xyz
 0.0.0.0 carambaba.com
@@ -20103,6 +20104,7 @@
 0.0.0.0 friendmost.site
 0.0.0.0 friendsofunida.org
 0.0.0.0 frihtoni.com
+0.0.0.0 friiday.se-sto-1.linodeobjects.com
 0.0.0.0 fring.online
 0.0.0.0 frissites1.blogspot.com
 0.0.0.0 fritz-offers.com
@@ -23122,7 +23124,6 @@
 0.0.0.0 i.p2p-union.com
 0.0.0.0 i.polskadep.xyz
 0.0.0.0 i.yas3n.website
-0.0.0.0 ia601500.us.archive.org
 0.0.0.0 ia-renewal.com
 0.0.0.0 iabelats.site
 0.0.0.0 iainsorong.ac.id
@@ -27166,6 +27167,8 @@
 0.0.0.0 lgn2023auth.000webhostapp.com
 0.0.0.0 lgy.skin
 0.0.0.0 lh-pl-0d80a1984f9.digiuaisolutions.com.br
+0.0.0.0 lh-pl-1d3fa5da194.digiuaisolutions.com.br
+0.0.0.0 lh-pl-1e5a50f1f63.digiuaisolutions.com.br
 0.0.0.0 lh-pl-3e8b4988e36.digiuaisolutions.com.br
 0.0.0.0 lh-pl-4bdce68ab68.digiuaisolutions.com.br
 0.0.0.0 lh-pl-5cd9d107306.digiuaisolutions.com.br
@@ -27173,30 +27176,43 @@
 0.0.0.0 lh-pl-8c3c2d7fa1e.digiuaisolutions.com.br
 0.0.0.0 lh-pl-8c4358e22a9.digiuaisolutions.com.br
 0.0.0.0 lh-pl-8d61e1d20bd.digiuaisolutions.com.br
+0.0.0.0 lh-pl-9c12a77fcdf.digiuaisolutions.com.br
+0.0.0.0 lh-pl-9d27bc0db80.digiuaisolutions.com.br
 0.0.0.0 lh-pl-9e3999d8ce7.digiuaisolutions.com.br
 0.0.0.0 lh-pl-24f12f2203f.digiuaisolutions.com.br
+0.0.0.0 lh-pl-26d25b9f5e2.digiuaisolutions.com.br
 0.0.0.0 lh-pl-59f07aca622.digiuaisolutions.com.br
 0.0.0.0 lh-pl-64e4f093a43.digiuaisolutions.com.br
 0.0.0.0 lh-pl-81cd2170b05.digiuaisolutions.com.br
 0.0.0.0 lh-pl-573ff068a65.digiuaisolutions.com.br
 0.0.0.0 lh-pl-635c58cc4ab.digiuaisolutions.com.br
 0.0.0.0 lh-pl-737cb0e7592.digiuaisolutions.com.br
+0.0.0.0 lh-pl-846c4aa531b.digiuaisolutions.com.br
 0.0.0.0 lh-pl-2845c89d023.digiuaisolutions.com.br
+0.0.0.0 lh-pl-45705b84e59.digiuaisolutions.com.br
 0.0.0.0 lh-pl-55835c5e957.digiuaisolutions.com.br
 0.0.0.0 lh-pl-927784bc104.digiuaisolutions.com.br
 0.0.0.0 lh-pl-9371764ba6c.digiuaisolutions.com.br
+0.0.0.0 lh-pl-20336475f72.digiuaisolutions.com.br
 0.0.0.0 lh-pl-14656384733.digiuaisolutions.com.br
+0.0.0.0 lh-pl-a50ed4dd93b.digiuaisolutions.com.br
+0.0.0.0 lh-pl-a4889c0db83.digiuaisolutions.com.br
 0.0.0.0 lh-pl-b049408d912.digiuaisolutions.com.br
 0.0.0.0 lh-pl-bc34dc0bf5c.digiuaisolutions.com.br
 0.0.0.0 lh-pl-bfaf20e91ae.digiuaisolutions.com.br
 0.0.0.0 lh-pl-c69f31f6091.digiuaisolutions.com.br
+0.0.0.0 lh-pl-c96c0b0336e.digiuaisolutions.com.br
 0.0.0.0 lh-pl-c90397f6067.digiuaisolutions.com.br
+0.0.0.0 lh-pl-cba7a55ba2b.digiuaisolutions.com.br
 0.0.0.0 lh-pl-cf0b79936f4.digiuaisolutions.com.br
 0.0.0.0 lh-pl-cf9574287c9.digiuaisolutions.com.br
 0.0.0.0 lh-pl-d62ab045d2c.digiuaisolutions.com.br
 0.0.0.0 lh-pl-d6970e969fc.digiuaisolutions.com.br
+0.0.0.0 lh-pl-e7dd8132675.digiuaisolutions.com.br
+0.0.0.0 lh-pl-e9d774984a6.digiuaisolutions.com.br
 0.0.0.0 lh-pl-e016fca061b.digiuaisolutions.com.br
 0.0.0.0 lh-pl-e392424b81d.digiuaisolutions.com.br
+0.0.0.0 lh-pl-ed568e6af80.digiuaisolutions.com.br
 0.0.0.0 lh-pl-fa385d8fd71.digiuaisolutions.com.br
 0.0.0.0 lhc-solutions.com
 0.0.0.0 li-br.infbal.site
@@ -41077,6 +41093,7 @@
 0.0.0.0 speedometer.life
 0.0.0.0 speedometerusa.com
 0.0.0.0 speedupsm.com
+0.0.0.0 speedytrace.com
 0.0.0.0 speek01.website
 0.0.0.0 speissdrin.com
 0.0.0.0 spektrapay.com
@@ -55405,6 +55422,7 @@
 0.0.0.0 www.captivityd.com
 0.0.0.0 www.captureddreams.com.au
 0.0.0.0 www.capuanuss.live
+0.0.0.0 www.car-poland.com
 0.0.0.0 www.caracarasw.com
 0.0.0.0 www.caracoling.xyz
 0.0.0.0 www.carambaba.com
@@ -62905,6 +62923,7 @@
 0.0.0.0 www.friendmost.site
 0.0.0.0 www.friendsofunida.org
 0.0.0.0 www.frihtoni.com
+0.0.0.0 www.friiday.se-sto-1.linodeobjects.com
 0.0.0.0 www.fring.online
 0.0.0.0 www.frissites1.blogspot.com
 0.0.0.0 www.fritz-offers.com
@@ -65924,7 +65943,6 @@
 0.0.0.0 www.i.p2p-union.com
 0.0.0.0 www.i.polskadep.xyz
 0.0.0.0 www.i.yas3n.website
-0.0.0.0 www.ia601500.us.archive.org
 0.0.0.0 www.ia-renewal.com
 0.0.0.0 www.iabelats.site
 0.0.0.0 www.iainsorong.ac.id
@@ -69968,6 +69986,8 @@
 0.0.0.0 www.lgn2023auth.000webhostapp.com
 0.0.0.0 www.lgy.skin
 0.0.0.0 www.lh-pl-0d80a1984f9.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-1d3fa5da194.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-1e5a50f1f63.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-3e8b4988e36.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-4bdce68ab68.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-5cd9d107306.digiuaisolutions.com.br
@@ -69975,30 +69995,43 @@
 0.0.0.0 www.lh-pl-8c3c2d7fa1e.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-8c4358e22a9.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-8d61e1d20bd.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-9c12a77fcdf.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-9d27bc0db80.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-9e3999d8ce7.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-24f12f2203f.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-26d25b9f5e2.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-59f07aca622.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-64e4f093a43.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-81cd2170b05.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-573ff068a65.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-635c58cc4ab.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-737cb0e7592.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-846c4aa531b.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-2845c89d023.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-45705b84e59.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-55835c5e957.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-927784bc104.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-9371764ba6c.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-20336475f72.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-14656384733.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-a50ed4dd93b.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-a4889c0db83.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-b049408d912.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-bc34dc0bf5c.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-bfaf20e91ae.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-c69f31f6091.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-c96c0b0336e.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-c90397f6067.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-cba7a55ba2b.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-cf0b79936f4.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-cf9574287c9.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-d62ab045d2c.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-d6970e969fc.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-e7dd8132675.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-e9d774984a6.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-e016fca061b.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-e392424b81d.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-ed568e6af80.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-fa385d8fd71.digiuaisolutions.com.br
 0.0.0.0 www.lhc-solutions.com
 0.0.0.0 www.li-br.infbal.site
@@ -83778,6 +83811,7 @@
 0.0.0.0 www.speedometer.life
 0.0.0.0 www.speedometerusa.com
 0.0.0.0 www.speedupsm.com
+0.0.0.0 www.speedytrace.com
 0.0.0.0 www.speek01.website
 0.0.0.0 www.speissdrin.com
 0.0.0.0 www.spektrapay.com
