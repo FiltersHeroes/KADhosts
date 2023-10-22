@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 22 Oct 2023, 10:19 UTC+02:00
-# Version: 2023.10.22.1
+# Last modified: Sun, 22 Oct 2023, 14:28 UTC+02:00
+# Version: 2023.10.22.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5985,6 +5985,7 @@
 0.0.0.0 90doddsln.info
 0.0.0.0 090jo0iu.azurefd.net
 0.0.0.0 92-dgi.cfd
+0.0.0.0 92-fg3.cfd
 0.0.0.0 93-93-117-179.cprapid.com
 0.0.0.0 93a6d7ab5f7.chefs-kitchen.co.uk
 0.0.0.0 93bc7b11.bcdashboards.com.br
@@ -6226,6 +6227,7 @@
 0.0.0.0 3505acb3eab.chefs-kitchen.co.uk
 0.0.0.0 3678a670.32ed7da54b02496ca207077e.workers.dev
 0.0.0.0 3782b03fe9b8aa51be27740a261413c1.adawards.com.pl
+0.0.0.0 3888-logowaniu-zaakceptowac.neowis.pl
 0.0.0.0 3900d018bf3.chefs-kitchen.co.uk
 0.0.0.0 4354-pl.brizy.site
 0.0.0.0 4371.000webhostapp.com
@@ -6258,6 +6260,7 @@
 0.0.0.0 7067-kodsms-nastepny.zakxx.pl
 0.0.0.0 7069f54b94d92dc6159c994d14326394.lisapwa.pl
 0.0.0.0 7081df195ba.johncornell.com
+0.0.0.0 7204-zaloguj-dom.neowis.pl
 0.0.0.0 7228.eu
 0.0.0.0 7554f3ab.sibforms.com
 0.0.0.0 07615c5c600.chefs-kitchen.co.uk
@@ -8146,6 +8149,7 @@
 0.0.0.0 allegrolokalnie.bezpieczne-transakcje.pl
 0.0.0.0 allegrolokalnie.bezpieczne-zamowienia.pl
 0.0.0.0 allegrolokalnie.bezpieczne-zamowienie.pl
+0.0.0.0 allegrolokalnie.bezpieczny-kupiec.pl
 0.0.0.0 allegrolokalnie.bezpieczny-platnosci.pl
 0.0.0.0 allegrolokalnie.check-out.pl
 0.0.0.0 allegrolokalnie.com.de
@@ -8156,10 +8160,12 @@
 0.0.0.0 allegrolokalnie.dostawa-bezpieczna.pl
 0.0.0.0 allegrolokalnie.e-zakup24h.pl
 0.0.0.0 allegrolokalnie.e-zakupy24h.pl
+0.0.0.0 allegrolokalnie.ekspresowa-dostawa.pl
 0.0.0.0 allegrolokalnie.euweb.cz
 0.0.0.0 allegrolokalnie.expressplatnosci.pl
 0.0.0.0 allegrolokalnie.ezakup24h-7.pl
 0.0.0.0 allegrolokalnie.ezakup24h.pl
+0.0.0.0 allegrolokalnie.ezakupy24h.pl
 0.0.0.0 allegrolokalnie.internetowe-zamowienia.pl
 0.0.0.0 allegrolokalnie.kup24h-7.pl
 0.0.0.0 allegrolokalnie.kup-online24h.pl
@@ -9819,6 +9825,7 @@
 0.0.0.0 auta-bartek.pl
 0.0.0.0 auta-blazej.pl
 0.0.0.0 auta-bogdan.pl
+0.0.0.0 auta-borys.pl
 0.0.0.0 auta-brzozowski.pl
 0.0.0.0 auta-bydgoszcz.pl
 0.0.0.0 auta-bytom.pl
@@ -11643,6 +11650,7 @@
 0.0.0.0 bezpieczne-transakcje.pl
 0.0.0.0 bezpieczne-zamowienia.pl
 0.0.0.0 bezpieczne-zamowienie.pl
+0.0.0.0 bezpieczny-kupiec.pl
 0.0.0.0 bezpieczny-platnosci.pl
 0.0.0.0 bezposrednie-przetwarzanie-online.xyz
 0.0.0.0 bezposredniosc.click
@@ -19088,6 +19096,7 @@
 0.0.0.0 eksperttryb.site
 0.0.0.0 ekspertyza.org
 0.0.0.0 eksploracjamnieedukacja.fun
+0.0.0.0 ekspresowa-dostawa.pl
 0.0.0.0 ekspresowo-pl.cloud
 0.0.0.0 ekspresowo.cloud
 0.0.0.0 ekstrawagancka.site
@@ -20156,6 +20165,7 @@
 0.0.0.0 ez-erc-business.com
 0.0.0.0 ezakup24h-7.pl
 0.0.0.0 ezakup24h.pl
+0.0.0.0 ezakupy24h.pl
 0.0.0.0 ezdbocyhjyleos.com
 0.0.0.0 ezdnshost.com
 0.0.0.0 ezinemag.com
@@ -30879,6 +30889,7 @@
 0.0.0.0 lnpost.advous.top
 0.0.0.0 lnpost.ahzc.shop
 0.0.0.0 lnpost.ailoma.space
+0.0.0.0 lnpost.alesni.pw
 0.0.0.0 lnpost.bestbuds.space
 0.0.0.0 lnpost.bignaturals.xyz
 0.0.0.0 lnpost.blockno2.shop
@@ -39386,7 +39397,9 @@
 0.0.0.0 poczta-polskas-pw.icu
 0.0.0.0 poczta-polskas.cyou
 0.0.0.0 poczta-polske-pl.buzz
+0.0.0.0 poczta-polske.top
 0.0.0.0 poczta-polskv.top
+0.0.0.0 poczta-polskx.top
 0.0.0.0 poczta-pomoc.com
 0.0.0.0 poczta-post-net.com
 0.0.0.0 poczta-post-pl.com
@@ -41150,6 +41163,7 @@
 0.0.0.0 pub-77d4749e4db64a639f08c0343f836364.r2.dev
 0.0.0.0 pub-89aa139972e24417a43dd9da527baadb.r2.dev
 0.0.0.0 pub-455e03f75b7840a6a7728a4f227ad427.r2.dev
+0.0.0.0 pub-465dcec2db87496cae01789dd548e336.r2.dev
 0.0.0.0 pub-587e0bdd9930470e8de7f1651420a33b.r2.dev
 0.0.0.0 pub-620d6c7d0bb74dc3a53e932037efb433.r2.dev
 0.0.0.0 pub-631af03edd28472fac0716b74c7dbb15.r2.dev
@@ -44071,6 +44085,7 @@
 0.0.0.0 serwer.pwr-edu-stud.space
 0.0.0.0 serwis-laptopow.waw.pl
 0.0.0.0 serwis-mbank-bezpieczny.com
+0.0.0.0 serwiszieleni.konstancjaemilia.com.pl
 0.0.0.0 seryapibilisim.com
 0.0.0.0 ses.historiawook.xyz
 0.0.0.0 sesoun-offers.com
@@ -53262,6 +53277,7 @@
 0.0.0.0 www.90doddsln.info
 0.0.0.0 www.090jo0iu.azurefd.net
 0.0.0.0 www.92-dgi.cfd
+0.0.0.0 www.92-fg3.cfd
 0.0.0.0 www.93-93-117-179.cprapid.com
 0.0.0.0 www.93a6d7ab5f7.chefs-kitchen.co.uk
 0.0.0.0 www.93bc7b11.bcdashboards.com.br
@@ -53503,6 +53519,7 @@
 0.0.0.0 www.3505acb3eab.chefs-kitchen.co.uk
 0.0.0.0 www.3678a670.32ed7da54b02496ca207077e.workers.dev
 0.0.0.0 www.3782b03fe9b8aa51be27740a261413c1.adawards.com.pl
+0.0.0.0 www.3888-logowaniu-zaakceptowac.neowis.pl
 0.0.0.0 www.3900d018bf3.chefs-kitchen.co.uk
 0.0.0.0 www.4354-pl.brizy.site
 0.0.0.0 www.4371.000webhostapp.com
@@ -53535,6 +53552,7 @@
 0.0.0.0 www.7067-kodsms-nastepny.zakxx.pl
 0.0.0.0 www.7069f54b94d92dc6159c994d14326394.lisapwa.pl
 0.0.0.0 www.7081df195ba.johncornell.com
+0.0.0.0 www.7204-zaloguj-dom.neowis.pl
 0.0.0.0 www.7228.eu
 0.0.0.0 www.7554f3ab.sibforms.com
 0.0.0.0 www.07615c5c600.chefs-kitchen.co.uk
@@ -55423,6 +55441,7 @@
 0.0.0.0 www.allegrolokalnie.bezpieczne-transakcje.pl
 0.0.0.0 www.allegrolokalnie.bezpieczne-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.bezpieczne-zamowienie.pl
+0.0.0.0 www.allegrolokalnie.bezpieczny-kupiec.pl
 0.0.0.0 www.allegrolokalnie.bezpieczny-platnosci.pl
 0.0.0.0 www.allegrolokalnie.check-out.pl
 0.0.0.0 www.allegrolokalnie.com.de
@@ -55433,10 +55452,12 @@
 0.0.0.0 www.allegrolokalnie.dostawa-bezpieczna.pl
 0.0.0.0 www.allegrolokalnie.e-zakup24h.pl
 0.0.0.0 www.allegrolokalnie.e-zakupy24h.pl
+0.0.0.0 www.allegrolokalnie.ekspresowa-dostawa.pl
 0.0.0.0 www.allegrolokalnie.euweb.cz
 0.0.0.0 www.allegrolokalnie.expressplatnosci.pl
 0.0.0.0 www.allegrolokalnie.ezakup24h-7.pl
 0.0.0.0 www.allegrolokalnie.ezakup24h.pl
+0.0.0.0 www.allegrolokalnie.ezakupy24h.pl
 0.0.0.0 www.allegrolokalnie.internetowe-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.kup24h-7.pl
 0.0.0.0 www.allegrolokalnie.kup-online24h.pl
@@ -57096,6 +57117,7 @@
 0.0.0.0 www.auta-bartek.pl
 0.0.0.0 www.auta-blazej.pl
 0.0.0.0 www.auta-bogdan.pl
+0.0.0.0 www.auta-borys.pl
 0.0.0.0 www.auta-brzozowski.pl
 0.0.0.0 www.auta-bydgoszcz.pl
 0.0.0.0 www.auta-bytom.pl
@@ -58920,6 +58942,7 @@
 0.0.0.0 www.bezpieczne-transakcje.pl
 0.0.0.0 www.bezpieczne-zamowienia.pl
 0.0.0.0 www.bezpieczne-zamowienie.pl
+0.0.0.0 www.bezpieczny-kupiec.pl
 0.0.0.0 www.bezpieczny-platnosci.pl
 0.0.0.0 www.bezposrednie-przetwarzanie-online.xyz
 0.0.0.0 www.bezposredniosc.click
@@ -66365,6 +66388,7 @@
 0.0.0.0 www.eksperttryb.site
 0.0.0.0 www.ekspertyza.org
 0.0.0.0 www.eksploracjamnieedukacja.fun
+0.0.0.0 www.ekspresowa-dostawa.pl
 0.0.0.0 www.ekspresowo-pl.cloud
 0.0.0.0 www.ekspresowo.cloud
 0.0.0.0 www.ekstrawagancka.site
@@ -67433,6 +67457,7 @@
 0.0.0.0 www.ez-erc-business.com
 0.0.0.0 www.ezakup24h-7.pl
 0.0.0.0 www.ezakup24h.pl
+0.0.0.0 www.ezakupy24h.pl
 0.0.0.0 www.ezdbocyhjyleos.com
 0.0.0.0 www.ezdnshost.com
 0.0.0.0 www.ezinemag.com
@@ -78156,6 +78181,7 @@
 0.0.0.0 www.lnpost.advous.top
 0.0.0.0 www.lnpost.ahzc.shop
 0.0.0.0 www.lnpost.ailoma.space
+0.0.0.0 www.lnpost.alesni.pw
 0.0.0.0 www.lnpost.bestbuds.space
 0.0.0.0 www.lnpost.bignaturals.xyz
 0.0.0.0 www.lnpost.blockno2.shop
@@ -86558,7 +86584,9 @@
 0.0.0.0 www.poczta-polskas-pw.icu
 0.0.0.0 www.poczta-polskas.cyou
 0.0.0.0 www.poczta-polske-pl.buzz
+0.0.0.0 www.poczta-polske.top
 0.0.0.0 www.poczta-polskv.top
+0.0.0.0 www.poczta-polskx.top
 0.0.0.0 www.poczta-pomoc.com
 0.0.0.0 www.poczta-post-net.com
 0.0.0.0 www.poczta-post-pl.com
@@ -88322,6 +88350,7 @@
 0.0.0.0 www.pub-77d4749e4db64a639f08c0343f836364.r2.dev
 0.0.0.0 www.pub-89aa139972e24417a43dd9da527baadb.r2.dev
 0.0.0.0 www.pub-455e03f75b7840a6a7728a4f227ad427.r2.dev
+0.0.0.0 www.pub-465dcec2db87496cae01789dd548e336.r2.dev
 0.0.0.0 www.pub-587e0bdd9930470e8de7f1651420a33b.r2.dev
 0.0.0.0 www.pub-620d6c7d0bb74dc3a53e932037efb433.r2.dev
 0.0.0.0 www.pub-631af03edd28472fac0716b74c7dbb15.r2.dev
@@ -91243,6 +91272,7 @@
 0.0.0.0 www.serwer.pwr-edu-stud.space
 0.0.0.0 www.serwis-laptopow.waw.pl
 0.0.0.0 www.serwis-mbank-bezpieczny.com
+0.0.0.0 www.serwiszieleni.konstancjaemilia.com.pl
 0.0.0.0 www.seryapibilisim.com
 0.0.0.0 www.ses.historiawook.xyz
 0.0.0.0 www.sesoun-offers.com
