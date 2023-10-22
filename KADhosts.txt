@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 22 Oct 2023, 18:19 UTC+02:00
-# Version: 2023.10.22.3
+# Last modified: Sun, 22 Oct 2023, 19:10 UTC+02:00
+# Version: 2023.10.22.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -78,6 +78,7 @@
 0.0.0.0 air90shop.com
 0.0.0.0 airycloth.com
 0.0.0.0 airydress.com
+0.0.0.0 ajrehtrade.com
 0.0.0.0 akcjasgk.pl
 0.0.0.0 akredytowane.pl
 0.0.0.0 aktywnytylicz.pl
@@ -152,6 +153,7 @@
 0.0.0.0 assenoo.com
 0.0.0.0 atcofiles.com
 0.0.0.0 atrium-konie.pl
+0.0.0.0 attirra.com
 0.0.0.0 atwi.pl
 0.0.0.0 audio-book.net.pl
 0.0.0.0 audmax.pl
@@ -323,6 +325,7 @@
 0.0.0.0 buyelectro.pl
 0.0.0.0 buyfashionzone.com
 0.0.0.0 buzzonclick.com
+0.0.0.0 bzndsz.top
 0.0.0.0 caffeepolit.pl
 0.0.0.0 caicamall.com
 0.0.0.0 caicshop.com
@@ -784,6 +787,9 @@
 0.0.0.0 health-line.me
 0.0.0.0 health-partner.net
 0.0.0.0 healthy-news.biz
+0.0.0.0 healy.shop
+0.0.0.0 healy.world
+0.0.0.0 healyworld.net
 0.0.0.0 hejmosie.com
 0.0.0.0 herbalife.pl
 0.0.0.0 heywood.pl
@@ -1454,6 +1460,7 @@
 0.0.0.0 podrozeposwiecie.pl
 0.0.0.0 pogonruda.pl
 0.0.0.0 pokazn.com
+0.0.0.0 pol-dywan.pl
 0.0.0.0 poland.fizzyslim.biz
 0.0.0.0 polandsalomon.com
 0.0.0.0 polarizeshop.com
@@ -1619,6 +1626,7 @@
 0.0.0.0 rushpay.pl
 0.0.0.0 russellbromleypolska.com
 0.0.0.0 ryderwearpolska.com
+0.0.0.0 rywsnikm.com
 0.0.0.0 rzezak.pl
 0.0.0.0 s-mania.com
 0.0.0.0 sabina.com
@@ -2265,6 +2273,7 @@
 0.0.0.0 www.air90shop.com
 0.0.0.0 www.airycloth.com
 0.0.0.0 www.airydress.com
+0.0.0.0 www.ajrehtrade.com
 0.0.0.0 www.akcjasgk.pl
 0.0.0.0 www.akredytowane.pl
 0.0.0.0 www.aktywnytylicz.pl
@@ -2339,6 +2348,7 @@
 0.0.0.0 www.assenoo.com
 0.0.0.0 www.atcofiles.com
 0.0.0.0 www.atrium-konie.pl
+0.0.0.0 www.attirra.com
 0.0.0.0 www.atwi.pl
 0.0.0.0 www.audio-book.net.pl
 0.0.0.0 www.audmax.pl
@@ -2510,6 +2520,7 @@
 0.0.0.0 www.buyelectro.pl
 0.0.0.0 www.buyfashionzone.com
 0.0.0.0 www.buzzonclick.com
+0.0.0.0 www.bzndsz.top
 0.0.0.0 www.caffeepolit.pl
 0.0.0.0 www.caicamall.com
 0.0.0.0 www.caicshop.com
@@ -2972,6 +2983,9 @@
 0.0.0.0 www.health-line.me
 0.0.0.0 www.health-partner.net
 0.0.0.0 www.healthy-news.biz
+0.0.0.0 www.healy.shop
+0.0.0.0 www.healy.world
+0.0.0.0 www.healyworld.net
 0.0.0.0 www.hejmosie.com
 0.0.0.0 www.herbalife.pl
 0.0.0.0 www.heywood.pl
@@ -3627,6 +3641,7 @@
 0.0.0.0 www.podrozeposwiecie.pl
 0.0.0.0 www.pogonruda.pl
 0.0.0.0 www.pokazn.com
+0.0.0.0 www.pol-dywan.pl
 0.0.0.0 www.poland.fizzyslim.biz
 0.0.0.0 www.polandsalomon.com
 0.0.0.0 www.polarizeshop.com
@@ -3792,6 +3807,7 @@
 0.0.0.0 www.rushpay.pl
 0.0.0.0 www.russellbromleypolska.com
 0.0.0.0 www.ryderwearpolska.com
+0.0.0.0 www.rywsnikm.com
 0.0.0.0 www.rzezak.pl
 0.0.0.0 www.s-mania.com
 0.0.0.0 www.sabina.com
@@ -8213,8 +8229,10 @@
 0.0.0.0 allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 allegrolokalnie.przelew-online24.pl
 0.0.0.0 allegrolokalnie.przesylka-bezpieczna24.pl
+0.0.0.0 allegrolokalnie.przesylka-gwarantowana.pl
 0.0.0.0 allegrolokalnie.przesylka-szybka24.pl
 0.0.0.0 allegrolokalnie.przesylka-szybko.pl
+0.0.0.0 allegrolokalnie.przyjazna-dostawa.pl
 0.0.0.0 allegrolokalnie.przyjazne-zakupom.pl
 0.0.0.0 allegrolokalnie.przyjazne-zakupy24.pl
 0.0.0.0 allegrolokalnie.przyjazne-zakupy.pl
@@ -9877,6 +9895,7 @@
 0.0.0.0 auta-opole.pl
 0.0.0.0 auta-pawel.pl
 0.0.0.0 auta-pawlikowski.pl
+0.0.0.0 auta-piotrek.pl
 0.0.0.0 auta-plock.pl
 0.0.0.0 auta-poland.pl
 0.0.0.0 auta-radek.pl
@@ -11915,6 +11934,7 @@
 0.0.0.0 bitcoin360aiapp-net.financialmarketsworld.com
 0.0.0.0 bitcoin-champion.app
 0.0.0.0 bitcoin-decoder.financialmarketsworld.com
+0.0.0.0 bitcoin-era.pl
 0.0.0.0 bitcoin-era.pro
 0.0.0.0 bitcoin-evolutionpro.com
 0.0.0.0 bitcoin-formula.org
@@ -27107,6 +27127,7 @@
 0.0.0.0 inpost-pl.odfsaod.online
 0.0.0.0 inpost-pl.ojoevoip.pw
 0.0.0.0 inpost-pl.onebyone.pw
+0.0.0.0 inpost-pl.opasf.pw
 0.0.0.0 inpost-pl.payauth-pass.site
 0.0.0.0 inpost-pl.payment003452.xyz
 0.0.0.0 inpost-pl.payment100790.xyz
@@ -41073,6 +41094,7 @@
 0.0.0.0 przestrzeennosc.site
 0.0.0.0 przesylek-sledzenie.com
 0.0.0.0 przesylka-bezpieczna24.pl
+0.0.0.0 przesylka-gwarantowana.pl
 0.0.0.0 przesylka-oix.com
 0.0.0.0 przesylka-szybka24.pl
 0.0.0.0 przesylka-szybka24h.pl
@@ -41087,6 +41109,7 @@
 0.0.0.0 przybyslaw.badura.warszawa.pl
 0.0.0.0 przybyslaw.maximilianbialek.pl
 0.0.0.0 przygodapewnozrownowazenie.bond
+0.0.0.0 przyjazna-dostawa.pl
 0.0.0.0 przyjazna-przesylka.pl
 0.0.0.0 przyjazne-kupowanie.pl
 0.0.0.0 przyjazne-zakupom.pl
@@ -41544,14 +41567,17 @@
 0.0.0.0 quantum1ai.web.app
 0.0.0.0 quantum2.space
 0.0.0.0 quantum-ai-trading.com
+0.0.0.0 quantum-code.app
 0.0.0.0 quantum-fusion.site
 0.0.0.0 quantum-in.pw
 0.0.0.0 quantum.firewallzoqe.cyou
 0.0.0.0 quantum.homezoaisd.shop
+0.0.0.0 quantumcode.info
 0.0.0.0 quantumeducation.fun
 0.0.0.0 quantumlive.space
 0.0.0.0 quantummarket.net
 0.0.0.0 quantumpl.site
+0.0.0.0 quantumprimeprofit.app
 0.0.0.0 quantumpro.space
 0.0.0.0 quantums-trade.com
 0.0.0.0 quardoiltrade1.online
@@ -50646,6 +50672,7 @@
 0.0.0.0 vintedsite-purchase.5444343.xyz
 0.0.0.0 vintedsk.order1064.eu
 0.0.0.0 vintedsk.order1120.eu
+0.0.0.0 vintedsk.order1177.eu
 0.0.0.0 vintedsk.order1287.eu
 0.0.0.0 vintedsk.order1848.eu
 0.0.0.0 vintedsk.order2974.eu
@@ -55527,8 +55554,10 @@
 0.0.0.0 www.allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 www.allegrolokalnie.przelew-online24.pl
 0.0.0.0 www.allegrolokalnie.przesylka-bezpieczna24.pl
+0.0.0.0 www.allegrolokalnie.przesylka-gwarantowana.pl
 0.0.0.0 www.allegrolokalnie.przesylka-szybka24.pl
 0.0.0.0 www.allegrolokalnie.przesylka-szybko.pl
+0.0.0.0 www.allegrolokalnie.przyjazna-dostawa.pl
 0.0.0.0 www.allegrolokalnie.przyjazne-zakupom.pl
 0.0.0.0 www.allegrolokalnie.przyjazne-zakupy24.pl
 0.0.0.0 www.allegrolokalnie.przyjazne-zakupy.pl
@@ -57191,6 +57220,7 @@
 0.0.0.0 www.auta-opole.pl
 0.0.0.0 www.auta-pawel.pl
 0.0.0.0 www.auta-pawlikowski.pl
+0.0.0.0 www.auta-piotrek.pl
 0.0.0.0 www.auta-plock.pl
 0.0.0.0 www.auta-poland.pl
 0.0.0.0 www.auta-radek.pl
@@ -59229,6 +59259,7 @@
 0.0.0.0 www.bitcoin360aiapp-net.financialmarketsworld.com
 0.0.0.0 www.bitcoin-champion.app
 0.0.0.0 www.bitcoin-decoder.financialmarketsworld.com
+0.0.0.0 www.bitcoin-era.pl
 0.0.0.0 www.bitcoin-era.pro
 0.0.0.0 www.bitcoin-evolutionpro.com
 0.0.0.0 www.bitcoin-formula.org
@@ -74421,6 +74452,7 @@
 0.0.0.0 www.inpost-pl.odfsaod.online
 0.0.0.0 www.inpost-pl.ojoevoip.pw
 0.0.0.0 www.inpost-pl.onebyone.pw
+0.0.0.0 www.inpost-pl.opasf.pw
 0.0.0.0 www.inpost-pl.payauth-pass.site
 0.0.0.0 www.inpost-pl.payment003452.xyz
 0.0.0.0 www.inpost-pl.payment100790.xyz
@@ -88282,6 +88314,7 @@
 0.0.0.0 www.przestrzeennosc.site
 0.0.0.0 www.przesylek-sledzenie.com
 0.0.0.0 www.przesylka-bezpieczna24.pl
+0.0.0.0 www.przesylka-gwarantowana.pl
 0.0.0.0 www.przesylka-oix.com
 0.0.0.0 www.przesylka-szybka24.pl
 0.0.0.0 www.przesylka-szybka24h.pl
@@ -88296,6 +88329,7 @@
 0.0.0.0 www.przybyslaw.badura.warszawa.pl
 0.0.0.0 www.przybyslaw.maximilianbialek.pl
 0.0.0.0 www.przygodapewnozrownowazenie.bond
+0.0.0.0 www.przyjazna-dostawa.pl
 0.0.0.0 www.przyjazna-przesylka.pl
 0.0.0.0 www.przyjazne-kupowanie.pl
 0.0.0.0 www.przyjazne-zakupom.pl
@@ -88753,14 +88787,17 @@
 0.0.0.0 www.quantum1ai.web.app
 0.0.0.0 www.quantum2.space
 0.0.0.0 www.quantum-ai-trading.com
+0.0.0.0 www.quantum-code.app
 0.0.0.0 www.quantum-fusion.site
 0.0.0.0 www.quantum-in.pw
 0.0.0.0 www.quantum.firewallzoqe.cyou
 0.0.0.0 www.quantum.homezoaisd.shop
+0.0.0.0 www.quantumcode.info
 0.0.0.0 www.quantumeducation.fun
 0.0.0.0 www.quantumlive.space
 0.0.0.0 www.quantummarket.net
 0.0.0.0 www.quantumpl.site
+0.0.0.0 www.quantumprimeprofit.app
 0.0.0.0 www.quantumpro.space
 0.0.0.0 www.quantums-trade.com
 0.0.0.0 www.quardoiltrade1.online
@@ -97855,6 +97892,7 @@
 0.0.0.0 www.vintedsite-purchase.5444343.xyz
 0.0.0.0 www.vintedsk.order1064.eu
 0.0.0.0 www.vintedsk.order1120.eu
+0.0.0.0 www.vintedsk.order1177.eu
 0.0.0.0 www.vintedsk.order1287.eu
 0.0.0.0 www.vintedsk.order1848.eu
 0.0.0.0 www.vintedsk.order2974.eu
