@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 29 Oct 2023, 13:28 UTC+01:00
-# Version: 2023.10.29.2
+# Last modified: Sun, 29 Oct 2023, 17:21 UTC+01:00
+# Version: 2023.10.29.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -8372,6 +8372,7 @@
 0.0.0.0 allegrolokalnie.pay-now24.pl
 0.0.0.0 allegrolokalnie.pay-u.pl
 0.0.0.0 allegrolokalnie.payu-online.pl
+0.0.0.0 allegrolokalnie.pewnie-zakup.pl
 0.0.0.0 allegrolokalnie.pl-kup-szybko.pl
 0.0.0.0 allegrolokalnie.pl-kupteraz.pl
 0.0.0.0 allegrolokalnie.pl-kupuj-lokalnie.pl
@@ -8390,6 +8391,7 @@
 0.0.0.0 allegrolokalnie.platnosc-w-sieci.pl
 0.0.0.0 allegrolokalnie.platnosc-zweryfikowana.pl
 0.0.0.0 allegrolokalnie.platnosci-24h.pl
+0.0.0.0 allegrolokalnie.platnosci-z-ochrona.pl
 0.0.0.0 allegrolokalnie.polskie-zakupy.pl
 0.0.0.0 allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 allegrolokalnie.prywanty-zakup24.pl
@@ -8426,6 +8428,7 @@
 0.0.0.0 allegrolokalnie.szybkie-zaplac.pl
 0.0.0.0 allegrolokalnie.szybko-kupuj.pl
 0.0.0.0 allegrolokalnie.szybko-zakup24.pl
+0.0.0.0 allegrolokalnie.tani-zakup.pl
 0.0.0.0 allegrolokalnie.tanie-zamowienie.pl
 0.0.0.0 allegrolokalnie.wygodna-platnosc.pl
 0.0.0.0 allegrolokalnie.wygodne-platnosci.pl
@@ -8458,10 +8461,12 @@
 0.0.0.0 allegrolokalnie.zamow-taniej.pl
 0.0.0.0 allegrolokalnie.zamowienia-bezpieczne24.pl
 0.0.0.0 allegrolokalnie.zamowienia-online.pl
+0.0.0.0 allegrolokalnie.zamowienia-szybko.pl
 0.0.0.0 allegrolokalnie.zamowienie24h.pl
 0.0.0.0 allegrolokalnie.zamowienie-24h.pl
 0.0.0.0 allegrolokalnie.zamowienie-online24.pl
 0.0.0.0 allegrolokalnie.zamowienie-szybkie.pl
+0.0.0.0 allegrolokalnie.zaplac24h.pl
 0.0.0.0 allegrolokalnie.zaplac-bezpieczenie.pl
 0.0.0.0 allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 allegrolokalnie.zaplac-online24.pl
@@ -10152,14 +10157,17 @@
 0.0.0.0 auta-jan.pl
 0.0.0.0 auta-jarek.pl
 0.0.0.0 auta-kalinowski.pl
+0.0.0.0 auta-kaminski.pl
 0.0.0.0 auta-katowice.pl
 0.0.0.0 auta-kosowski.pl
 0.0.0.0 auta-koszalin.pl
+0.0.0.0 auta-kowalczyk.pl
 0.0.0.0 auta-kowalska.pl
 0.0.0.0 auta-krzysztof.pl
 0.0.0.0 auta-kuba.pl
 0.0.0.0 auta-kwiatkowski.pl
 0.0.0.0 auta-leszczynski.pl
+0.0.0.0 auta-lewandowski.pl
 0.0.0.0 auta-lisiecki.pl
 0.0.0.0 auta-lublin.pl
 0.0.0.0 auta-maciek.pl
@@ -10194,6 +10202,7 @@
 0.0.0.0 auta-slupsk.pl
 0.0.0.0 auta-sobieski.pl
 0.0.0.0 auta-sopot.pl
+0.0.0.0 auta-szymanski.pl
 0.0.0.0 auta-tadeusz.pl
 0.0.0.0 auta-tarnow.pl
 0.0.0.0 auta-tomasz.pl
@@ -10205,6 +10214,7 @@
 0.0.0.0 auta-wiejska.pl
 0.0.0.0 auta-wojciech.pl
 0.0.0.0 auta-wojtek.pl
+0.0.0.0 auta-wozniak.pl
 0.0.0.0 auta-wroclaw.pl
 0.0.0.0 auta-zborowski.pl
 0.0.0.0 auta-zbyszek.pl
@@ -18160,6 +18170,7 @@
 0.0.0.0 dipu.prlmaxiiisok.xyz
 0.0.0.0 diqomoofai.live
 0.0.0.0 direct-5f724.web.app
+0.0.0.0 direct-8fc3a.web.app
 0.0.0.0 direct-79ab7.web.app
 0.0.0.0 direct-962dd.web.app
 0.0.0.0 direct-c4ded.web.app
@@ -28061,6 +28072,7 @@
 0.0.0.0 inpost-yhwx.order2315.info
 0.0.0.0 inpost-yngj.order9205.info
 0.0.0.0 inpost.6594512.xyz
+0.0.0.0 inpost.19784574.xyz
 0.0.0.0 inpost.20451544.xyz
 0.0.0.0 inpost.39784574.xyz
 0.0.0.0 inpost.59784574.xyz
@@ -37143,6 +37155,7 @@
 0.0.0.0 oddamy-glosuje.eu
 0.0.0.0 oddamy-yorka.site
 0.0.0.0 oddamy-yorka.store
+0.0.0.0 oddamyonline24.pl
 0.0.0.0 oddamyzadarmo.pl
 0.0.0.0 oddamyzagrosze.pl
 0.0.0.0 oddamzagrosze.pl
@@ -37774,6 +37787,7 @@
 0.0.0.0 olx.online-zakupy.pl
 0.0.0.0 olx.oplata24.pl
 0.0.0.0 olx.paysend.space
+0.0.0.0 olx.pewnie-zakup.pl
 0.0.0.0 olx.pl24-7.pl
 0.0.0.0 olx.pl-cash.link
 0.0.0.0 olx.pl-getorder.link
@@ -37810,6 +37824,7 @@
 0.0.0.0 olx.rwpay.ru
 0.0.0.0 olx.swell-redirect.pw
 0.0.0.0 olx.szybki-zakupy24.pl
+0.0.0.0 olx.tani-zakup.pl
 0.0.0.0 olx.themilitia.shop
 0.0.0.0 olx.torina.top
 0.0.0.0 olx.tumusica.pw
@@ -37829,8 +37844,11 @@
 0.0.0.0 olx.zakup-teraz24.pl
 0.0.0.0 olx.zakupybezpieczne.pl
 0.0.0.0 olx.zakupyogloszenia.pl
+0.0.0.0 olx.zamawiaj-taniej.pl
 0.0.0.0 olx.zamowienia-bezpieczne24.pl
+0.0.0.0 olx.zamowienia-szybko.pl
 0.0.0.0 olx.zamowienie24.pl
+0.0.0.0 olx.zaplac24h.pl
 0.0.0.0 olx.zaufany-zakup.pl
 0.0.0.0 olxbank.co
 0.0.0.0 olxpay-merchandise.689365.xyz
@@ -39286,6 +39304,7 @@
 0.0.0.0 pewaukees.live
 0.0.0.0 pewbbsflff.sa.com
 0.0.0.0 pewlladfeer.site
+0.0.0.0 pewnie-zakup.pl
 0.0.0.0 pewterclub.com
 0.0.0.0 pexeqsend.shop
 0.0.0.0 peypendostaw247.shop
@@ -40120,6 +40139,7 @@
 0.0.0.0 platnosci-express.pl
 0.0.0.0 platnosci-payu.prv.pl
 0.0.0.0 platnosci-sendit.link
+0.0.0.0 platnosci-z-ochrona.pl
 0.0.0.0 platnosciexpress.pl
 0.0.0.0 platosdeducha.com
 0.0.0.0 plausiblec.com
@@ -48030,6 +48050,7 @@
 0.0.0.0 tangy-cat-turn.glitch.me
 0.0.0.0 tani-pojazd.pl
 0.0.0.0 tani-samochod.com.pl
+0.0.0.0 tani-zakup.pl
 0.0.0.0 tania-motoryzacja24.pl
 0.0.0.0 tanie-samochody.com.pl
 0.0.0.0 tanie-wycieczki.com.pl
@@ -52483,6 +52504,7 @@
 0.0.0.0 voogueemania.site
 0.0.0.0 voolsop-website.preview-domain.com
 0.0.0.0 voopcreative.com
+0.0.0.0 vop-poczta0.top
 0.0.0.0 vop.bashus.site
 0.0.0.0 vop.bosd.online
 0.0.0.0 vopasil.space
@@ -52613,6 +52635,7 @@
 0.0.0.0 vz404.netdc.pl
 0.0.0.0 vz18719.dahost.pl
 0.0.0.0 vzgrof.gamemods.com.tr
+0.0.0.0 vzp-poczta0.top
 0.0.0.0 vzxqm.shivamgmt.com
 0.0.0.0 w0kuf03oeekjjrnr24aol80a.quickmarketnow.me
 0.0.0.0 w0lf4p78oke7acuritcv7fdu.quickmarketnow.me
@@ -57127,6 +57150,7 @@
 0.0.0.0 www.allegrolokalnie.pay-now24.pl
 0.0.0.0 www.allegrolokalnie.pay-u.pl
 0.0.0.0 www.allegrolokalnie.payu-online.pl
+0.0.0.0 www.allegrolokalnie.pewnie-zakup.pl
 0.0.0.0 www.allegrolokalnie.pl-kup-szybko.pl
 0.0.0.0 www.allegrolokalnie.pl-kupteraz.pl
 0.0.0.0 www.allegrolokalnie.pl-kupuj-lokalnie.pl
@@ -57145,6 +57169,7 @@
 0.0.0.0 www.allegrolokalnie.platnosc-w-sieci.pl
 0.0.0.0 www.allegrolokalnie.platnosc-zweryfikowana.pl
 0.0.0.0 www.allegrolokalnie.platnosci-24h.pl
+0.0.0.0 www.allegrolokalnie.platnosci-z-ochrona.pl
 0.0.0.0 www.allegrolokalnie.polskie-zakupy.pl
 0.0.0.0 www.allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.prywanty-zakup24.pl
@@ -57181,6 +57206,7 @@
 0.0.0.0 www.allegrolokalnie.szybkie-zaplac.pl
 0.0.0.0 www.allegrolokalnie.szybko-kupuj.pl
 0.0.0.0 www.allegrolokalnie.szybko-zakup24.pl
+0.0.0.0 www.allegrolokalnie.tani-zakup.pl
 0.0.0.0 www.allegrolokalnie.tanie-zamowienie.pl
 0.0.0.0 www.allegrolokalnie.wygodna-platnosc.pl
 0.0.0.0 www.allegrolokalnie.wygodne-platnosci.pl
@@ -57213,10 +57239,12 @@
 0.0.0.0 www.allegrolokalnie.zamow-taniej.pl
 0.0.0.0 www.allegrolokalnie.zamowienia-bezpieczne24.pl
 0.0.0.0 www.allegrolokalnie.zamowienia-online.pl
+0.0.0.0 www.allegrolokalnie.zamowienia-szybko.pl
 0.0.0.0 www.allegrolokalnie.zamowienie24h.pl
 0.0.0.0 www.allegrolokalnie.zamowienie-24h.pl
 0.0.0.0 www.allegrolokalnie.zamowienie-online24.pl
 0.0.0.0 www.allegrolokalnie.zamowienie-szybkie.pl
+0.0.0.0 www.allegrolokalnie.zaplac24h.pl
 0.0.0.0 www.allegrolokalnie.zaplac-bezpieczenie.pl
 0.0.0.0 www.allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 www.allegrolokalnie.zaplac-online24.pl
@@ -58907,14 +58935,17 @@
 0.0.0.0 www.auta-jan.pl
 0.0.0.0 www.auta-jarek.pl
 0.0.0.0 www.auta-kalinowski.pl
+0.0.0.0 www.auta-kaminski.pl
 0.0.0.0 www.auta-katowice.pl
 0.0.0.0 www.auta-kosowski.pl
 0.0.0.0 www.auta-koszalin.pl
+0.0.0.0 www.auta-kowalczyk.pl
 0.0.0.0 www.auta-kowalska.pl
 0.0.0.0 www.auta-krzysztof.pl
 0.0.0.0 www.auta-kuba.pl
 0.0.0.0 www.auta-kwiatkowski.pl
 0.0.0.0 www.auta-leszczynski.pl
+0.0.0.0 www.auta-lewandowski.pl
 0.0.0.0 www.auta-lisiecki.pl
 0.0.0.0 www.auta-lublin.pl
 0.0.0.0 www.auta-maciek.pl
@@ -58949,6 +58980,7 @@
 0.0.0.0 www.auta-slupsk.pl
 0.0.0.0 www.auta-sobieski.pl
 0.0.0.0 www.auta-sopot.pl
+0.0.0.0 www.auta-szymanski.pl
 0.0.0.0 www.auta-tadeusz.pl
 0.0.0.0 www.auta-tarnow.pl
 0.0.0.0 www.auta-tomasz.pl
@@ -58960,6 +58992,7 @@
 0.0.0.0 www.auta-wiejska.pl
 0.0.0.0 www.auta-wojciech.pl
 0.0.0.0 www.auta-wojtek.pl
+0.0.0.0 www.auta-wozniak.pl
 0.0.0.0 www.auta-wroclaw.pl
 0.0.0.0 www.auta-zborowski.pl
 0.0.0.0 www.auta-zbyszek.pl
@@ -66915,6 +66948,7 @@
 0.0.0.0 www.dipu.prlmaxiiisok.xyz
 0.0.0.0 www.diqomoofai.live
 0.0.0.0 www.direct-5f724.web.app
+0.0.0.0 www.direct-8fc3a.web.app
 0.0.0.0 www.direct-79ab7.web.app
 0.0.0.0 www.direct-962dd.web.app
 0.0.0.0 www.direct-c4ded.web.app
@@ -76816,6 +76850,7 @@
 0.0.0.0 www.inpost-yhwx.order2315.info
 0.0.0.0 www.inpost-yngj.order9205.info
 0.0.0.0 www.inpost.6594512.xyz
+0.0.0.0 www.inpost.19784574.xyz
 0.0.0.0 www.inpost.20451544.xyz
 0.0.0.0 www.inpost.39784574.xyz
 0.0.0.0 www.inpost.59784574.xyz
@@ -85899,6 +85934,7 @@
 0.0.0.0 www.oddamy-glosuje.eu
 0.0.0.0 www.oddamy-yorka.site
 0.0.0.0 www.oddamy-yorka.store
+0.0.0.0 www.oddamyonline24.pl
 0.0.0.0 www.oddamyzadarmo.pl
 0.0.0.0 www.oddamyzagrosze.pl
 0.0.0.0 www.oddamzagrosze.pl
@@ -86530,6 +86566,7 @@
 0.0.0.0 www.olx.online-zakupy.pl
 0.0.0.0 www.olx.oplata24.pl
 0.0.0.0 www.olx.paysend.space
+0.0.0.0 www.olx.pewnie-zakup.pl
 0.0.0.0 www.olx.pl24-7.pl
 0.0.0.0 www.olx.pl-cash.link
 0.0.0.0 www.olx.pl-getorder.link
@@ -86566,6 +86603,7 @@
 0.0.0.0 www.olx.rwpay.ru
 0.0.0.0 www.olx.swell-redirect.pw
 0.0.0.0 www.olx.szybki-zakupy24.pl
+0.0.0.0 www.olx.tani-zakup.pl
 0.0.0.0 www.olx.themilitia.shop
 0.0.0.0 www.olx.torina.top
 0.0.0.0 www.olx.tumusica.pw
@@ -86585,8 +86623,11 @@
 0.0.0.0 www.olx.zakup-teraz24.pl
 0.0.0.0 www.olx.zakupybezpieczne.pl
 0.0.0.0 www.olx.zakupyogloszenia.pl
+0.0.0.0 www.olx.zamawiaj-taniej.pl
 0.0.0.0 www.olx.zamowienia-bezpieczne24.pl
+0.0.0.0 www.olx.zamowienia-szybko.pl
 0.0.0.0 www.olx.zamowienie24.pl
+0.0.0.0 www.olx.zaplac24h.pl
 0.0.0.0 www.olx.zaufany-zakup.pl
 0.0.0.0 www.olxbank.co
 0.0.0.0 www.olxpay-merchandise.689365.xyz
@@ -88042,6 +88083,7 @@
 0.0.0.0 www.pewaukees.live
 0.0.0.0 www.pewbbsflff.sa.com
 0.0.0.0 www.pewlladfeer.site
+0.0.0.0 www.pewnie-zakup.pl
 0.0.0.0 www.pewterclub.com
 0.0.0.0 www.pexeqsend.shop
 0.0.0.0 www.peypendostaw247.shop
@@ -88770,6 +88812,7 @@
 0.0.0.0 www.platnosci-express.pl
 0.0.0.0 www.platnosci-payu.prv.pl
 0.0.0.0 www.platnosci-sendit.link
+0.0.0.0 www.platnosci-z-ochrona.pl
 0.0.0.0 www.platnosciexpress.pl
 0.0.0.0 www.platosdeducha.com
 0.0.0.0 www.plausiblec.com
@@ -96680,6 +96723,7 @@
 0.0.0.0 www.tangy-cat-turn.glitch.me
 0.0.0.0 www.tani-pojazd.pl
 0.0.0.0 www.tani-samochod.com.pl
+0.0.0.0 www.tani-zakup.pl
 0.0.0.0 www.tania-motoryzacja24.pl
 0.0.0.0 www.tanie-samochody.com.pl
 0.0.0.0 www.tanie-wycieczki.com.pl
@@ -101133,6 +101177,7 @@
 0.0.0.0 www.voogueemania.site
 0.0.0.0 www.voolsop-website.preview-domain.com
 0.0.0.0 www.voopcreative.com
+0.0.0.0 www.vop-poczta0.top
 0.0.0.0 www.vop.bashus.site
 0.0.0.0 www.vop.bosd.online
 0.0.0.0 www.vopasil.space
@@ -101263,6 +101308,7 @@
 0.0.0.0 www.vz404.netdc.pl
 0.0.0.0 www.vz18719.dahost.pl
 0.0.0.0 www.vzgrof.gamemods.com.tr
+0.0.0.0 www.vzp-poczta0.top
 0.0.0.0 www.vzxqm.shivamgmt.com
 0.0.0.0 www.w0kuf03oeekjjrnr24aol80a.quickmarketnow.me
 0.0.0.0 www.w0lf4p78oke7acuritcv7fdu.quickmarketnow.me
@@ -103435,6 +103481,7 @@
 0.0.0.0 www.zamow-tanio.pl
 0.0.0.0 www.zamowienia-bezpieczne24.pl
 0.0.0.0 www.zamowienia-online.pl
+0.0.0.0 www.zamowienia-szybko.pl
 0.0.0.0 www.zamowienie24.shop
 0.0.0.0 www.zamowienie24h.pl
 0.0.0.0 www.zamowienie761265261.pl
@@ -103460,6 +103507,7 @@
 0.0.0.0 www.zapakujmy.cloud
 0.0.0.0 www.zapakujpolska.cloud
 0.0.0.0 www.zaplaan.se
+0.0.0.0 www.zaplac24h.pl
 0.0.0.0 www.zaplac-24h.pl
 0.0.0.0 www.zaplac-bezpiecznie24.pl
 0.0.0.0 www.zaplac-bezpieczniej.pl
@@ -104834,6 +104882,7 @@
 0.0.0.0 zamow-tanio.pl
 0.0.0.0 zamowienia-bezpieczne24.pl
 0.0.0.0 zamowienia-online.pl
+0.0.0.0 zamowienia-szybko.pl
 0.0.0.0 zamowienie24.shop
 0.0.0.0 zamowienie24h.pl
 0.0.0.0 zamowienie761265261.pl
@@ -104859,6 +104908,7 @@
 0.0.0.0 zapakujmy.cloud
 0.0.0.0 zapakujpolska.cloud
 0.0.0.0 zaplaan.se
+0.0.0.0 zaplac24h.pl
 0.0.0.0 zaplac-24h.pl
 0.0.0.0 zaplac-bezpiecznie24.pl
 0.0.0.0 zaplac-bezpieczniej.pl
