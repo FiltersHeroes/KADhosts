@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 26 Nov 2023, 21:16 UTC+01:00
-# Version: 2023.11.26.4
+# Last modified: Mon, 27 Nov 2023, 09:22 UTC+01:00
+# Version: 2023.11.27.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5755,6 +5755,7 @@
 0.0.0.0 4etd.skin
 0.0.0.0 4ex.info
 0.0.0.0 4f2a5f89cf2da4c66bccef8b51f7b17b.iposl.pl
+0.0.0.0 4f-cyber.top
 0.0.0.0 4f-online.top
 0.0.0.0 4f-onlinestore.top
 0.0.0.0 4f-pl.com
@@ -6608,6 +6609,7 @@
 0.0.0.0 7069f54b94d92dc6159c994d14326394.lisapwa.pl
 0.0.0.0 7081df195ba.johncornell.com
 0.0.0.0 7204-zaloguj-dom.neowis.pl
+0.0.0.0 7220a6565da49de0f484a373c21bebeb.nietx.pl
 0.0.0.0 7228.eu
 0.0.0.0 7554f3ab.sibforms.com
 0.0.0.0 07615c5c600.chefs-kitchen.co.uk
@@ -11008,6 +11010,7 @@
 0.0.0.0 auta-jarek.pl
 0.0.0.0 auta-jarzabek.pl
 0.0.0.0 auta-jarzynowski.pl
+0.0.0.0 auta-jasinski.pl
 0.0.0.0 auta-jurkowski.pl
 0.0.0.0 auta-kacprowski.pl
 0.0.0.0 auta-kalinowski.pl
@@ -19782,6 +19785,7 @@
 0.0.0.0 dhlexpress-status.com
 0.0.0.0 dhlexpress.704950.ubuntu.buzz
 0.0.0.0 dhlexpresse-qa.com
+0.0.0.0 dhll.club
 0.0.0.0 dhlpackage-delivery.info
 0.0.0.0 dhlpackage-track.com
 0.0.0.0 dhlposta-pl.evacmap.net.au
@@ -21275,6 +21279,7 @@
 0.0.0.0 dzungvu.com
 0.0.0.0 dzxhw.hiddenmasters.com
 0.0.0.0 dzxnxv06c.digital
+0.0.0.0 e0c7ec5ff403f54d95ffc4f899bfc7f8.nietx.pl
 0.0.0.0 e0x5.c10.e2-3.dev
 0.0.0.0 e2d3m1.com
 0.0.0.0 e2enwwmuiw.shop
@@ -30945,8 +30950,13 @@
 0.0.0.0 inpost.paczkomaty.link
 0.0.0.0 inpost.pl-admin.cyou
 0.0.0.0 inpost.pl-c.cf
+0.0.0.0 inpost.pl-cert.icu
+0.0.0.0 inpost.pl-hole.icu
+0.0.0.0 inpost.pl-index.icu
 0.0.0.0 inpost.pl-link.cyou
 0.0.0.0 inpost.pl-link.icu
+0.0.0.0 inpost.pl-links.cyou
+0.0.0.0 inpost.pl-live.icu
 0.0.0.0 inpost.pl-login.cyou
 0.0.0.0 inpost.pl-login.icu
 0.0.0.0 inpost.pl-mail.cyou
@@ -30954,7 +30964,9 @@
 0.0.0.0 inpost.pl-safecash.link
 0.0.0.0 inpost.pl-service.cyou
 0.0.0.0 inpost.pl-service.icu
+0.0.0.0 inpost.pl-support.cyou
 0.0.0.0 inpost.pl-support.icu
+0.0.0.0 inpost.pl-user.cyou
 0.0.0.0 inpost.pl-user.icu
 0.0.0.0 inpost.posad.site
 0.0.0.0 inpost.pronartek.org
@@ -30994,6 +31006,7 @@
 0.0.0.0 inpostl.top
 0.0.0.0 inpostoffice.info
 0.0.0.0 inpostoffice.top
+0.0.0.0 inpostpe.xyz
 0.0.0.0 inpostpl.life
 0.0.0.0 inpostpol.top
 0.0.0.0 inposts-kad.top
@@ -33685,6 +33698,7 @@
 0.0.0.0 krzys.barbuscia.pl
 0.0.0.0 krzys.diament.info.pl
 0.0.0.0 krzysiekp23.maximilianmaciej.pl
+0.0.0.0 krzysiekp23.wincentbaran.pl
 0.0.0.0 krzysztof-ibisz-info24.com
 0.0.0.0 krzysztof-ibisz-info24.eu
 0.0.0.0 krzysztof.amadeuszanastazy.pl
@@ -34573,6 +34587,7 @@
 0.0.0.0 lh-pl-5cd9d107306.digiuaisolutions.com.br
 0.0.0.0 lh-pl-5e04f37714a.digiuaisolutions.com.br
 0.0.0.0 lh-pl-5f5e51d406e.digiuaisolutions.com.br
+0.0.0.0 lh-pl-6a8ef7f8ab3.dramaririnaldi.com
 0.0.0.0 lh-pl-6c603598693.digiuaisolutions.com.br
 0.0.0.0 lh-pl-6d05cadb67b.digiuaisolutions.com.br
 0.0.0.0 lh-pl-6fa9f8e0499.digiuaisolutions.com.br
@@ -34809,6 +34824,7 @@
 0.0.0.0 lib1.revoprogramxzsed.com
 0.0.0.0 lib.free9k.site
 0.0.0.0 lib.infbal.site
+0.0.0.0 lib.meetttaa-prog.top
 0.0.0.0 lib.pro1program.site
 0.0.0.0 libam.masler.xyz
 0.0.0.0 libata.newsiteok.site
@@ -35911,6 +35927,7 @@
 0.0.0.0 lustrify.live
 0.0.0.0 lusupeiley.live
 0.0.0.0 lutany.info
+0.0.0.0 lutek-auto.pl
 0.0.0.0 luthercreek.com
 0.0.0.0 lutlu2x0d.digital
 0.0.0.0 lutralgugu.space
@@ -36036,6 +36053,7 @@
 0.0.0.0 m-pof.hotpr0g.site
 0.0.0.0 m-pr.newplx.site
 0.0.0.0 m-prog.online-like1.site
+0.0.0.0 m-vinted.info
 0.0.0.0 m-vrg.com
 0.0.0.0 m.4rtjvm.cn
 0.0.0.0 m.a20qqaf.cn
@@ -38431,6 +38449,7 @@
 0.0.0.0 motoryzacja-gieida24.pl
 0.0.0.0 motoryzacja-gielda.pl
 0.0.0.0 motoryzacja-handlowa24.net.pl
+0.0.0.0 motoryzacja-janczewski24.pl
 0.0.0.0 motoryzacja-kowalczyk.net.pl
 0.0.0.0 motoryzacja-lokalna.pl
 0.0.0.0 motoryzacja-marketplce.pl
@@ -41194,6 +41213,7 @@
 0.0.0.0 oddamyzagrosze.pl
 0.0.0.0 oddamzagrosze.pl
 0.0.0.0 odenthal-solutions.com
+0.0.0.0 odeonman.online
 0.0.0.0 odj4s702.web.app
 0.0.0.0 odj.skin
 0.0.0.0 odkryte-funkcje.eu
@@ -44354,6 +44374,9 @@
 0.0.0.0 pl-prywatna-oferta2145.pl
 0.0.0.0 pl-prywatna-oferta3210.pl
 0.0.0.0 pl-prywatna-oferta3344.pl
+0.0.0.0 pl-prywatna-oferta5566.pl
+0.0.0.0 pl-prywatna-oferta5678.pl
+0.0.0.0 pl-prywatna-oferta6543.pl
 0.0.0.0 pl-santander.capojo.com
 0.0.0.0 pl-shopinvest.shop
 0.0.0.0 pl-sklep.pl
@@ -45428,6 +45451,7 @@
 0.0.0.0 polololiemce.site
 0.0.0.0 polonisations.xyz
 0.0.0.0 poloqter.com
+0.0.0.0 polorlen.com
 0.0.0.0 polotransmedia.cfd
 0.0.0.0 polowczyk-auto.pl
 0.0.0.0 polowczyk-autohandel.pl
@@ -52127,6 +52151,7 @@
 0.0.0.0 streamenergyld.site
 0.0.0.0 streamimovies.com
 0.0.0.0 streaming.lakeflo.com
+0.0.0.0 streaming.streamingnetfl.com
 0.0.0.0 streamnow.club
 0.0.0.0 streamserviceone.work.gd
 0.0.0.0 streamvod.pl
@@ -55990,6 +56015,7 @@
 0.0.0.0 ups-pl.com
 0.0.0.0 ups-post-parcel.com
 0.0.0.0 ups-postage.com
+0.0.0.0 ups-savtrack.com
 0.0.0.0 ups-shipping-parcel.com
 0.0.0.0 ups-shipping-track.com
 0.0.0.0 ups-track-my-delivery.info
@@ -56630,6 +56656,7 @@
 0.0.0.0 vid.madds.xyz
 0.0.0.0 vidalegal.org
 0.0.0.0 vidalmarmoles.com
+0.0.0.0 vidental.maurycymarcin.pl
 0.0.0.0 video.4mf2.gay
 0.0.0.0 video.4tog.gay
 0.0.0.0 video.54157.sbs
@@ -57729,6 +57756,7 @@
 0.0.0.0 vlnted-gb.asaop.info
 0.0.0.0 vlnted-gb.ggegl.info
 0.0.0.0 vlnted-gb.hopal.info
+0.0.0.0 vlnted-gb.ijiol.info
 0.0.0.0 vlnted-gb.ikomd.info
 0.0.0.0 vlnted-gb.kontkt.info
 0.0.0.0 vlnted-gb.onliningwallet.info
@@ -59897,6 +59925,7 @@
 0.0.0.0 www.4etd.skin
 0.0.0.0 www.4ex.info
 0.0.0.0 www.4f2a5f89cf2da4c66bccef8b51f7b17b.iposl.pl
+0.0.0.0 www.4f-cyber.top
 0.0.0.0 www.4f-online.top
 0.0.0.0 www.4f-onlinestore.top
 0.0.0.0 www.4f-pl.com
@@ -60750,6 +60779,7 @@
 0.0.0.0 www.7069f54b94d92dc6159c994d14326394.lisapwa.pl
 0.0.0.0 www.7081df195ba.johncornell.com
 0.0.0.0 www.7204-zaloguj-dom.neowis.pl
+0.0.0.0 www.7220a6565da49de0f484a373c21bebeb.nietx.pl
 0.0.0.0 www.7228.eu
 0.0.0.0 www.7554f3ab.sibforms.com
 0.0.0.0 www.07615c5c600.chefs-kitchen.co.uk
@@ -65150,6 +65180,7 @@
 0.0.0.0 www.auta-jarek.pl
 0.0.0.0 www.auta-jarzabek.pl
 0.0.0.0 www.auta-jarzynowski.pl
+0.0.0.0 www.auta-jasinski.pl
 0.0.0.0 www.auta-jurkowski.pl
 0.0.0.0 www.auta-kacprowski.pl
 0.0.0.0 www.auta-kalinowski.pl
@@ -73924,6 +73955,7 @@
 0.0.0.0 www.dhlexpress-status.com
 0.0.0.0 www.dhlexpress.704950.ubuntu.buzz
 0.0.0.0 www.dhlexpresse-qa.com
+0.0.0.0 www.dhll.club
 0.0.0.0 www.dhlpackage-delivery.info
 0.0.0.0 www.dhlpackage-track.com
 0.0.0.0 www.dhlposta-pl.evacmap.net.au
@@ -75417,6 +75449,7 @@
 0.0.0.0 www.dzungvu.com
 0.0.0.0 www.dzxhw.hiddenmasters.com
 0.0.0.0 www.dzxnxv06c.digital
+0.0.0.0 www.e0c7ec5ff403f54d95ffc4f899bfc7f8.nietx.pl
 0.0.0.0 www.e0x5.c10.e2-3.dev
 0.0.0.0 www.e2d3m1.com
 0.0.0.0 www.e2enwwmuiw.shop
@@ -85087,8 +85120,13 @@
 0.0.0.0 www.inpost.paczkomaty.link
 0.0.0.0 www.inpost.pl-admin.cyou
 0.0.0.0 www.inpost.pl-c.cf
+0.0.0.0 www.inpost.pl-cert.icu
+0.0.0.0 www.inpost.pl-hole.icu
+0.0.0.0 www.inpost.pl-index.icu
 0.0.0.0 www.inpost.pl-link.cyou
 0.0.0.0 www.inpost.pl-link.icu
+0.0.0.0 www.inpost.pl-links.cyou
+0.0.0.0 www.inpost.pl-live.icu
 0.0.0.0 www.inpost.pl-login.cyou
 0.0.0.0 www.inpost.pl-login.icu
 0.0.0.0 www.inpost.pl-mail.cyou
@@ -85096,7 +85134,9 @@
 0.0.0.0 www.inpost.pl-safecash.link
 0.0.0.0 www.inpost.pl-service.cyou
 0.0.0.0 www.inpost.pl-service.icu
+0.0.0.0 www.inpost.pl-support.cyou
 0.0.0.0 www.inpost.pl-support.icu
+0.0.0.0 www.inpost.pl-user.cyou
 0.0.0.0 www.inpost.pl-user.icu
 0.0.0.0 www.inpost.posad.site
 0.0.0.0 www.inpost.pronartek.org
@@ -85136,6 +85176,7 @@
 0.0.0.0 www.inpostl.top
 0.0.0.0 www.inpostoffice.info
 0.0.0.0 www.inpostoffice.top
+0.0.0.0 www.inpostpe.xyz
 0.0.0.0 www.inpostpl.life
 0.0.0.0 www.inpostpol.top
 0.0.0.0 www.inposts-kad.top
@@ -87827,6 +87868,7 @@
 0.0.0.0 www.krzys.barbuscia.pl
 0.0.0.0 www.krzys.diament.info.pl
 0.0.0.0 www.krzysiekp23.maximilianmaciej.pl
+0.0.0.0 www.krzysiekp23.wincentbaran.pl
 0.0.0.0 www.krzysztof-ibisz-info24.com
 0.0.0.0 www.krzysztof-ibisz-info24.eu
 0.0.0.0 www.krzysztof.amadeuszanastazy.pl
@@ -88715,6 +88757,7 @@
 0.0.0.0 www.lh-pl-5cd9d107306.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-5e04f37714a.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-5f5e51d406e.digiuaisolutions.com.br
+0.0.0.0 www.lh-pl-6a8ef7f8ab3.dramaririnaldi.com
 0.0.0.0 www.lh-pl-6c603598693.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-6d05cadb67b.digiuaisolutions.com.br
 0.0.0.0 www.lh-pl-6fa9f8e0499.digiuaisolutions.com.br
@@ -88951,6 +88994,7 @@
 0.0.0.0 www.lib1.revoprogramxzsed.com
 0.0.0.0 www.lib.free9k.site
 0.0.0.0 www.lib.infbal.site
+0.0.0.0 www.lib.meetttaa-prog.top
 0.0.0.0 www.lib.pro1program.site
 0.0.0.0 www.libam.masler.xyz
 0.0.0.0 www.libata.newsiteok.site
@@ -90053,6 +90097,7 @@
 0.0.0.0 www.lustrify.live
 0.0.0.0 www.lusupeiley.live
 0.0.0.0 www.lutany.info
+0.0.0.0 www.lutek-auto.pl
 0.0.0.0 www.luthercreek.com
 0.0.0.0 www.lutlu2x0d.digital
 0.0.0.0 www.lutralgugu.space
@@ -90178,6 +90223,7 @@
 0.0.0.0 www.m-pof.hotpr0g.site
 0.0.0.0 www.m-pr.newplx.site
 0.0.0.0 www.m-prog.online-like1.site
+0.0.0.0 www.m-vinted.info
 0.0.0.0 www.m-vrg.com
 0.0.0.0 www.m.4rtjvm.cn
 0.0.0.0 www.m.a20qqaf.cn
@@ -92573,6 +92619,7 @@
 0.0.0.0 www.motoryzacja-gieida24.pl
 0.0.0.0 www.motoryzacja-gielda.pl
 0.0.0.0 www.motoryzacja-handlowa24.net.pl
+0.0.0.0 www.motoryzacja-janczewski24.pl
 0.0.0.0 www.motoryzacja-kowalczyk.net.pl
 0.0.0.0 www.motoryzacja-lokalna.pl
 0.0.0.0 www.motoryzacja-marketplce.pl
@@ -95337,6 +95384,7 @@
 0.0.0.0 www.oddamyzagrosze.pl
 0.0.0.0 www.oddamzagrosze.pl
 0.0.0.0 www.odenthal-solutions.com
+0.0.0.0 www.odeonman.online
 0.0.0.0 www.odj4s702.web.app
 0.0.0.0 www.odj.skin
 0.0.0.0 www.odkryte-funkcje.eu
@@ -98487,6 +98535,9 @@
 0.0.0.0 www.pl-prywatna-oferta2145.pl
 0.0.0.0 www.pl-prywatna-oferta3210.pl
 0.0.0.0 www.pl-prywatna-oferta3344.pl
+0.0.0.0 www.pl-prywatna-oferta5566.pl
+0.0.0.0 www.pl-prywatna-oferta5678.pl
+0.0.0.0 www.pl-prywatna-oferta6543.pl
 0.0.0.0 www.pl-santander.capojo.com
 0.0.0.0 www.pl-shopinvest.shop
 0.0.0.0 www.pl-sklep.pl
@@ -99463,6 +99514,7 @@
 0.0.0.0 www.polololiemce.site
 0.0.0.0 www.polonisations.xyz
 0.0.0.0 www.poloqter.com
+0.0.0.0 www.polorlen.com
 0.0.0.0 www.polotransmedia.cfd
 0.0.0.0 www.polowczyk-auto.pl
 0.0.0.0 www.polowczyk-autohandel.pl
@@ -106162,6 +106214,7 @@
 0.0.0.0 www.streamenergyld.site
 0.0.0.0 www.streamimovies.com
 0.0.0.0 www.streaming.lakeflo.com
+0.0.0.0 www.streaming.streamingnetfl.com
 0.0.0.0 www.streamnow.club
 0.0.0.0 www.streamserviceone.work.gd
 0.0.0.0 www.streamvod.pl
@@ -110025,6 +110078,7 @@
 0.0.0.0 www.ups-pl.com
 0.0.0.0 www.ups-post-parcel.com
 0.0.0.0 www.ups-postage.com
+0.0.0.0 www.ups-savtrack.com
 0.0.0.0 www.ups-shipping-parcel.com
 0.0.0.0 www.ups-shipping-track.com
 0.0.0.0 www.ups-track-my-delivery.info
@@ -110665,6 +110719,7 @@
 0.0.0.0 www.vid.madds.xyz
 0.0.0.0 www.vidalegal.org
 0.0.0.0 www.vidalmarmoles.com
+0.0.0.0 www.vidental.maurycymarcin.pl
 0.0.0.0 www.video.4mf2.gay
 0.0.0.0 www.video.4tog.gay
 0.0.0.0 www.video.54157.sbs
@@ -111764,6 +111819,7 @@
 0.0.0.0 www.vlnted-gb.asaop.info
 0.0.0.0 www.vlnted-gb.ggegl.info
 0.0.0.0 www.vlnted-gb.hopal.info
+0.0.0.0 www.vlnted-gb.ijiol.info
 0.0.0.0 www.vlnted-gb.ikomd.info
 0.0.0.0 www.vlnted-gb.kontkt.info
 0.0.0.0 www.vlnted-gb.onliningwallet.info
