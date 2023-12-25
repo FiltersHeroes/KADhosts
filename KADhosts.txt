@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 24 Dec 2023, 21:16 UTC+01:00
-# Version: 2023.12.24.4
+# Last modified: Mon, 25 Dec 2023, 09:21 UTC+01:00
+# Version: 2023.12.25.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7660,6 +7660,7 @@
 0.0.0.0 allegro.3dspayments.com
 0.0.0.0 allegro.24-platnosci.pl
 0.0.0.0 allegro.24transakcje.pl
+0.0.0.0 allegro.aukcjepayu24.pl
 0.0.0.0 allegro.dostawa24-7.pl
 0.0.0.0 allegro.e-aukcje24h.pl
 0.0.0.0 allegro.e-oplata247.pl
@@ -7732,6 +7733,7 @@
 0.0.0.0 allegrolokalnie.aukcja-allegro.pl
 0.0.0.0 allegrolokalnie.aukcja-id7948261.pl
 0.0.0.0 allegrolokalnie.aukcjawsieci.pl
+0.0.0.0 allegrolokalnie.aukcjepayu24.pl
 0.0.0.0 allegrolokalnie.bezpieczny-ezakup.pl
 0.0.0.0 allegrolokalnie.bezpieczny-zakup24.pl
 0.0.0.0 allegrolokalnie.chronionezakupy.pl
@@ -26416,6 +26418,7 @@
 0.0.0.0 instagarm.pl
 0.0.0.0 instagraam.serv00.net
 0.0.0.0 instagramnyc.com
+0.0.0.0 instagran.pl
 0.0.0.0 installear.cfd
 0.0.0.0 installinfbpg.site
 0.0.0.0 instantconnect.shop
@@ -35547,6 +35550,7 @@
 0.0.0.0 ogloszenia-muranscy.pl
 0.0.0.0 ogloszenia-mytyk.pl
 0.0.0.0 ogloszenia-nowacki.pl
+0.0.0.0 ogloszenia-oferty.pl
 0.0.0.0 ogloszenia-przybylski.pl
 0.0.0.0 ogloszenia-romanowski.pl
 0.0.0.0 ogloszenia-rykalski.pl
@@ -36744,6 +36748,7 @@
 0.0.0.0 pajoneaxeu.space
 0.0.0.0 pajuceavyu.live
 0.0.0.0 pajyxiicuy.info
+0.0.0.0 paket-lieferung-info.net
 0.0.0.0 paketlemeisimm.com
 0.0.0.0 pakiet-upsklient.com
 0.0.0.0 pakietklient-ups.com
@@ -54085,6 +54090,7 @@
 0.0.0.0 www.allegro.3dspayments.com
 0.0.0.0 www.allegro.24-platnosci.pl
 0.0.0.0 www.allegro.24transakcje.pl
+0.0.0.0 www.allegro.aukcjepayu24.pl
 0.0.0.0 www.allegro.dostawa24-7.pl
 0.0.0.0 www.allegro.e-aukcje24h.pl
 0.0.0.0 www.allegro.e-oplata247.pl
@@ -54157,6 +54163,7 @@
 0.0.0.0 www.allegrolokalnie.aukcja-allegro.pl
 0.0.0.0 www.allegrolokalnie.aukcja-id7948261.pl
 0.0.0.0 www.allegrolokalnie.aukcjawsieci.pl
+0.0.0.0 www.allegrolokalnie.aukcjepayu24.pl
 0.0.0.0 www.allegrolokalnie.bezpieczny-ezakup.pl
 0.0.0.0 www.allegrolokalnie.bezpieczny-zakup24.pl
 0.0.0.0 www.allegrolokalnie.chronionezakupy.pl
@@ -72841,6 +72848,7 @@
 0.0.0.0 www.instagarm.pl
 0.0.0.0 www.instagraam.serv00.net
 0.0.0.0 www.instagramnyc.com
+0.0.0.0 www.instagran.pl
 0.0.0.0 www.installear.cfd
 0.0.0.0 www.installinfbpg.site
 0.0.0.0 www.instantconnect.shop
@@ -81972,6 +81980,7 @@
 0.0.0.0 www.ogloszenia-muranscy.pl
 0.0.0.0 www.ogloszenia-mytyk.pl
 0.0.0.0 www.ogloszenia-nowacki.pl
+0.0.0.0 www.ogloszenia-oferty.pl
 0.0.0.0 www.ogloszenia-przybylski.pl
 0.0.0.0 www.ogloszenia-romanowski.pl
 0.0.0.0 www.ogloszenia-rykalski.pl
@@ -83169,6 +83178,7 @@
 0.0.0.0 www.pajoneaxeu.space
 0.0.0.0 www.pajuceavyu.live
 0.0.0.0 www.pajyxiicuy.info
+0.0.0.0 www.paket-lieferung-info.net
 0.0.0.0 www.paketlemeisimm.com
 0.0.0.0 www.pakiet-upsklient.com
 0.0.0.0 www.pakietklient-ups.com
