@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Thu, 04 Jan 2024, 06:54 UTC+01:00
-# Version: 2024.1.4.0
+# Last modified: Thu, 04 Jan 2024, 09:20 UTC+01:00
+# Version: 2024.1.4.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6261,6 +6261,7 @@
 0.0.0.0 14215455.xyz
 0.0.0.0 020000333.xyz
 0.0.0.0 20091080ff77db531b3c7c1b7d934b7f.denisniemiec.pl
+0.0.0.0 20240104-source-payu-com.kalweit-gmbh.de
 0.0.0.0 22062155.xyz
 0.0.0.0 22066623.xyz
 0.0.0.0 22151522.xyz
@@ -10963,6 +10964,7 @@
 0.0.0.0 bcanostress.site
 0.0.0.0 bcb.neuru.top
 0.0.0.0 bcfgd.neomai.site
+0.0.0.0 bchomestaging.org
 0.0.0.0 bclfc.com
 0.0.0.0 bcm-45b.cfd
 0.0.0.0 bcned.com
@@ -17905,6 +17907,7 @@
 0.0.0.0 dpanel-pl-f000507de8c.proenergy-engenharia.com
 0.0.0.0 dpanel-pl-f11012c15d1.proenergy-engenharia.com
 0.0.0.0 dpanel-pl-faa4edccd82.proenergy-engenharia.com
+0.0.0.0 dpanel-pl-payu-com-2024-01-04.kalweit-gmbh.de
 0.0.0.0 dpd-dorstrowka102.downpahgro.cf
 0.0.0.0 dpd-dostrwka82.fundcetunasollco.cf
 0.0.0.0 dpd-dostrwka122.parcompsubsmagkett.cf
@@ -25842,6 +25845,7 @@
 0.0.0.0 impost.icu
 0.0.0.0 impost.lol
 0.0.0.0 impost.pics
+0.0.0.0 impost.run
 0.0.0.0 impostpl.cc
 0.0.0.0 impostpl.info
 0.0.0.0 impostpl.shop
@@ -25916,6 +25920,7 @@
 0.0.0.0 in-post.app
 0.0.0.0 in-post.buzz
 0.0.0.0 in-post.cyou
+0.0.0.0 in-post.fun
 0.0.0.0 in-post.life
 0.0.0.0 in-post.one
 0.0.0.0 in-post.shop
@@ -26679,12 +26684,15 @@
 0.0.0.0 inposta-pl.com
 0.0.0.0 inposta-pl.xyz
 0.0.0.0 inpostb.top
+0.0.0.0 inpostbfpls.top
 0.0.0.0 inpostbl.one
+0.0.0.0 inpostcc.top
 0.0.0.0 inpostcc.xyz
 0.0.0.0 inpostck.top
 0.0.0.0 inpostck.xyz
 0.0.0.0 inpostcloud.top
 0.0.0.0 inpostcpl.top
+0.0.0.0 inpostct.top
 0.0.0.0 inpostdm.top
 0.0.0.0 inpostdp.info
 0.0.0.0 inpostdp.top
@@ -26708,6 +26716,7 @@
 0.0.0.0 inpostil.top
 0.0.0.0 inpostill.top
 0.0.0.0 inpostill.xyz
+0.0.0.0 inposting.top
 0.0.0.0 inpostipli.top
 0.0.0.0 inpostiplonline.top
 0.0.0.0 inpostl.shop
@@ -26716,6 +26725,7 @@
 0.0.0.0 inpostlok.top
 0.0.0.0 inpostmii.xyz
 0.0.0.0 inpostn.online
+0.0.0.0 inpostn.top
 0.0.0.0 inposto.online
 0.0.0.0 inpostoa.top
 0.0.0.0 inpostoffice.cyou
@@ -37432,6 +37442,7 @@
 0.0.0.0 pamietnik.dgdev.pl
 0.0.0.0 pamiietliwosc.site
 0.0.0.0 pampanuts.com
+0.0.0.0 pan-pl-shoeturl.kw-kran.de
 0.0.0.0 pandairtravel.com
 0.0.0.0 pandakids.ee
 0.0.0.0 pandaredjeder.life
@@ -39746,6 +39757,7 @@
 0.0.0.0 pol-inpostony.club
 0.0.0.0 pol-inpostony.top
 0.0.0.0 pol-inpostsosy.club
+0.0.0.0 pol-inpostsosy.top
 0.0.0.0 pol-inv.web.app
 0.0.0.0 pol-ni.web.app
 0.0.0.0 pol-paka.cloud
@@ -39876,6 +39888,7 @@
 0.0.0.0 polipropilenoperu.com
 0.0.0.0 poliseat.com
 0.0.0.0 poliseat.website
+0.0.0.0 polish-parcel.com
 0.0.0.0 polish-post.cc
 0.0.0.0 polish-post.com
 0.0.0.0 polish-post.xyz
@@ -39883,6 +39896,7 @@
 0.0.0.0 polished-offers.com
 0.0.0.0 polished-truth-3269.on.fleek.co
 0.0.0.0 polishnewsreader.net
+0.0.0.0 polishparcels.com
 0.0.0.0 polishplatform.life
 0.0.0.0 polishpolar.com
 0.0.0.0 polishpost.xyz
@@ -53694,6 +53708,7 @@
 0.0.0.0 www.14215455.xyz
 0.0.0.0 www.020000333.xyz
 0.0.0.0 www.20091080ff77db531b3c7c1b7d934b7f.denisniemiec.pl
+0.0.0.0 www.20240104-source-payu-com.kalweit-gmbh.de
 0.0.0.0 www.22062155.xyz
 0.0.0.0 www.22066623.xyz
 0.0.0.0 www.22151522.xyz
@@ -58396,6 +58411,7 @@
 0.0.0.0 www.bcanostress.site
 0.0.0.0 www.bcb.neuru.top
 0.0.0.0 www.bcfgd.neomai.site
+0.0.0.0 www.bchomestaging.org
 0.0.0.0 www.bclfc.com
 0.0.0.0 www.bcm-45b.cfd
 0.0.0.0 www.bcned.com
@@ -65338,6 +65354,7 @@
 0.0.0.0 www.dpanel-pl-f000507de8c.proenergy-engenharia.com
 0.0.0.0 www.dpanel-pl-f11012c15d1.proenergy-engenharia.com
 0.0.0.0 www.dpanel-pl-faa4edccd82.proenergy-engenharia.com
+0.0.0.0 www.dpanel-pl-payu-com-2024-01-04.kalweit-gmbh.de
 0.0.0.0 www.dpd-dorstrowka102.downpahgro.cf
 0.0.0.0 www.dpd-dostrwka82.fundcetunasollco.cf
 0.0.0.0 www.dpd-dostrwka122.parcompsubsmagkett.cf
@@ -73275,6 +73292,7 @@
 0.0.0.0 www.impost.icu
 0.0.0.0 www.impost.lol
 0.0.0.0 www.impost.pics
+0.0.0.0 www.impost.run
 0.0.0.0 www.impostpl.cc
 0.0.0.0 www.impostpl.info
 0.0.0.0 www.impostpl.shop
@@ -73349,6 +73367,7 @@
 0.0.0.0 www.in-post.app
 0.0.0.0 www.in-post.buzz
 0.0.0.0 www.in-post.cyou
+0.0.0.0 www.in-post.fun
 0.0.0.0 www.in-post.life
 0.0.0.0 www.in-post.one
 0.0.0.0 www.in-post.shop
@@ -74112,12 +74131,15 @@
 0.0.0.0 www.inposta-pl.com
 0.0.0.0 www.inposta-pl.xyz
 0.0.0.0 www.inpostb.top
+0.0.0.0 www.inpostbfpls.top
 0.0.0.0 www.inpostbl.one
+0.0.0.0 www.inpostcc.top
 0.0.0.0 www.inpostcc.xyz
 0.0.0.0 www.inpostck.top
 0.0.0.0 www.inpostck.xyz
 0.0.0.0 www.inpostcloud.top
 0.0.0.0 www.inpostcpl.top
+0.0.0.0 www.inpostct.top
 0.0.0.0 www.inpostdm.top
 0.0.0.0 www.inpostdp.info
 0.0.0.0 www.inpostdp.top
@@ -74141,6 +74163,7 @@
 0.0.0.0 www.inpostil.top
 0.0.0.0 www.inpostill.top
 0.0.0.0 www.inpostill.xyz
+0.0.0.0 www.inposting.top
 0.0.0.0 www.inpostipli.top
 0.0.0.0 www.inpostiplonline.top
 0.0.0.0 www.inpostl.shop
@@ -74149,6 +74172,7 @@
 0.0.0.0 www.inpostlok.top
 0.0.0.0 www.inpostmii.xyz
 0.0.0.0 www.inpostn.online
+0.0.0.0 www.inpostn.top
 0.0.0.0 www.inposto.online
 0.0.0.0 www.inpostoa.top
 0.0.0.0 www.inpostoffice.cyou
@@ -84865,6 +84889,7 @@
 0.0.0.0 www.pamietnik.dgdev.pl
 0.0.0.0 www.pamiietliwosc.site
 0.0.0.0 www.pampanuts.com
+0.0.0.0 www.pan-pl-shoeturl.kw-kran.de
 0.0.0.0 www.pandairtravel.com
 0.0.0.0 www.pandakids.ee
 0.0.0.0 www.pandaredjeder.life
@@ -87093,6 +87118,7 @@
 0.0.0.0 www.pol-inpostony.club
 0.0.0.0 www.pol-inpostony.top
 0.0.0.0 www.pol-inpostsosy.club
+0.0.0.0 www.pol-inpostsosy.top
 0.0.0.0 www.pol-inv.web.app
 0.0.0.0 www.pol-ni.web.app
 0.0.0.0 www.pol-paka.cloud
@@ -87223,6 +87249,7 @@
 0.0.0.0 www.polipropilenoperu.com
 0.0.0.0 www.poliseat.com
 0.0.0.0 www.poliseat.website
+0.0.0.0 www.polish-parcel.com
 0.0.0.0 www.polish-post.cc
 0.0.0.0 www.polish-post.com
 0.0.0.0 www.polish-post.xyz
@@ -87230,6 +87257,7 @@
 0.0.0.0 www.polished-offers.com
 0.0.0.0 www.polished-truth-3269.on.fleek.co
 0.0.0.0 www.polishnewsreader.net
+0.0.0.0 www.polishparcels.com
 0.0.0.0 www.polishplatform.life
 0.0.0.0 www.polishpolar.com
 0.0.0.0 www.polishpost.xyz
