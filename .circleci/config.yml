@@ -2,12 +2,12 @@ version: 2
 jobs:
   build:
     docker:
-    - image: polishfiltersteam/sflb_image:3.0.11
+    - image: polishfiltersteam/sflb_image:3.0.12
     working_directory: ~/git/KADhosts
     steps:
     - checkout
     - run: |
-        python3 /usr/bin/SFLB.py KADhosts.txt KADhole.txt KADomains.txt
+        python3 /usr/bin/SFLB.py KADhosts.txt KADhole.txt KADomains.txt KADdnsmasq.txt
 workflows:
   version: 2
   workflow:
