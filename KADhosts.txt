@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 18 Feb 2024, 09:19 UTC+01:00
-# Version: 2024.2.18.1
+# Last modified: Sun, 18 Feb 2024, 13:27 UTC+01:00
+# Version: 2024.2.18.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7979,6 +7979,7 @@
 0.0.0.0 allegro.su
 0.0.0.0 allegro.szybki-zakup24.pl
 0.0.0.0 allegro.szybkie-zakupy24h.pl
+0.0.0.0 allegro.szybkizakup24h.pl
 0.0.0.0 allegro.szybkizakup-24h.pl
 0.0.0.0 allegro.ttsl.pl
 0.0.0.0 allegro.zakup-online24.pl
@@ -8437,6 +8438,7 @@
 0.0.0.0 allegrolokalnie.szybkie-aukcje.pl
 0.0.0.0 allegrolokalnie.szybkie-kupno.pl
 0.0.0.0 allegrolokalnie.szybkiekupno.pl
+0.0.0.0 allegrolokalnie.szybkizakup24h.pl
 0.0.0.0 allegrolokalnie.szybkizakup00921.pl
 0.0.0.0 allegrolokalnie.szybkizakup15132.pl
 0.0.0.0 allegrolokalnie.szybkizakup22011.pl
@@ -10065,10 +10067,12 @@
 0.0.0.0 auta-bemowo.pl
 0.0.0.0 auta-bielany.pl
 0.0.0.0 auta-borkowski.pl
+0.0.0.0 auta-ceglinski.pl
 0.0.0.0 auta-dzikowski.pl
 0.0.0.0 auta-fikus.pl
 0.0.0.0 auta-filipski.pl
 0.0.0.0 auta-fornalski.pl
+0.0.0.0 auta-gorski.pl
 0.0.0.0 auta-grzesik.pl
 0.0.0.0 auta-gutowski.pl
 0.0.0.0 auta-jakubiak.pl
@@ -33350,6 +33354,7 @@
 0.0.0.0 lnpost-pl.cc
 0.0.0.0 lnpost-pl.icu
 0.0.0.0 lnpost-pl.wiki
+0.0.0.0 lnpost.197454412.xyz
 0.0.0.0 lnpost.abika.lol
 0.0.0.0 lnpost.advous.top
 0.0.0.0 lnpost.ahzc.shop
@@ -39362,6 +39367,7 @@
 0.0.0.0 olx.kupuje-teraz.pl
 0.0.0.0 olx.market-following.pw
 0.0.0.0 olx.mirror-left.pw
+0.0.0.0 olx.ndjwbu.org
 0.0.0.0 olx.ochrona-ogloszenia.pl
 0.0.0.0 olx.ochrona-paczki.pl
 0.0.0.0 olx.oferta247h.pl
@@ -39410,6 +39416,7 @@
 0.0.0.0 olx.szybki-zakup24.pl
 0.0.0.0 olx.szybkieaukcje.pl
 0.0.0.0 olx.szybkiezakupy247h.pl
+0.0.0.0 olx.szybkizakup24h.pl
 0.0.0.0 olx.szybkizakup-24h.pl
 0.0.0.0 olx.themilitia.shop
 0.0.0.0 olx.torina.top
@@ -49623,6 +49630,7 @@
 0.0.0.0 stowesjoage.life
 0.0.0.0 stowjestesmyztoba.fryderykmatvii.pl
 0.0.0.0 stowncold.site
+0.0.0.0 stpl.mazecuadr.top
 0.0.0.0 stpp.goprogramia.top
 0.0.0.0 str1.freepl.top
 0.0.0.0 str4.freepl.top
@@ -59757,6 +59765,7 @@
 0.0.0.0 www.allegro.su
 0.0.0.0 www.allegro.szybki-zakup24.pl
 0.0.0.0 www.allegro.szybkie-zakupy24h.pl
+0.0.0.0 www.allegro.szybkizakup24h.pl
 0.0.0.0 www.allegro.szybkizakup-24h.pl
 0.0.0.0 www.allegro.ttsl.pl
 0.0.0.0 www.allegro.zakup-online24.pl
@@ -60215,6 +60224,7 @@
 0.0.0.0 www.allegrolokalnie.szybkie-aukcje.pl
 0.0.0.0 www.allegrolokalnie.szybkie-kupno.pl
 0.0.0.0 www.allegrolokalnie.szybkiekupno.pl
+0.0.0.0 www.allegrolokalnie.szybkizakup24h.pl
 0.0.0.0 www.allegrolokalnie.szybkizakup00921.pl
 0.0.0.0 www.allegrolokalnie.szybkizakup15132.pl
 0.0.0.0 www.allegrolokalnie.szybkizakup22011.pl
@@ -61843,10 +61853,12 @@
 0.0.0.0 www.auta-bemowo.pl
 0.0.0.0 www.auta-bielany.pl
 0.0.0.0 www.auta-borkowski.pl
+0.0.0.0 www.auta-ceglinski.pl
 0.0.0.0 www.auta-dzikowski.pl
 0.0.0.0 www.auta-fikus.pl
 0.0.0.0 www.auta-filipski.pl
 0.0.0.0 www.auta-fornalski.pl
+0.0.0.0 www.auta-gorski.pl
 0.0.0.0 www.auta-grzesik.pl
 0.0.0.0 www.auta-gutowski.pl
 0.0.0.0 www.auta-jakubiak.pl
@@ -85128,6 +85140,7 @@
 0.0.0.0 www.lnpost-pl.cc
 0.0.0.0 www.lnpost-pl.icu
 0.0.0.0 www.lnpost-pl.wiki
+0.0.0.0 www.lnpost.197454412.xyz
 0.0.0.0 www.lnpost.abika.lol
 0.0.0.0 www.lnpost.advous.top
 0.0.0.0 www.lnpost.ahzc.shop
@@ -91140,6 +91153,7 @@
 0.0.0.0 www.olx.kupuje-teraz.pl
 0.0.0.0 www.olx.market-following.pw
 0.0.0.0 www.olx.mirror-left.pw
+0.0.0.0 www.olx.ndjwbu.org
 0.0.0.0 www.olx.ochrona-ogloszenia.pl
 0.0.0.0 www.olx.ochrona-paczki.pl
 0.0.0.0 www.olx.oferta247h.pl
@@ -91188,6 +91202,7 @@
 0.0.0.0 www.olx.szybki-zakup24.pl
 0.0.0.0 www.olx.szybkieaukcje.pl
 0.0.0.0 www.olx.szybkiezakupy247h.pl
+0.0.0.0 www.olx.szybkizakup24h.pl
 0.0.0.0 www.olx.szybkizakup-24h.pl
 0.0.0.0 www.olx.themilitia.shop
 0.0.0.0 www.olx.torina.top
@@ -101312,6 +101327,7 @@
 0.0.0.0 www.stowesjoage.life
 0.0.0.0 www.stowjestesmyztoba.fryderykmatvii.pl
 0.0.0.0 www.stowncold.site
+0.0.0.0 www.stpl.mazecuadr.top
 0.0.0.0 www.stpp.goprogramia.top
 0.0.0.0 www.str1.freepl.top
 0.0.0.0 www.str4.freepl.top
@@ -108714,6 +108730,7 @@
 0.0.0.0 www.yvzplast.com
 0.0.0.0 www.yw4-blw.cfd
 0.0.0.0 www.yw5e.hair
+0.0.0.0 www.yw7.eu
 0.0.0.0 www.ywe-247.homes
 0.0.0.0 www.ywekls.sbs
 0.0.0.0 www.ywenlip.sbs
@@ -110072,6 +110089,7 @@
 0.0.0.0 yvzplast.com
 0.0.0.0 yw4-blw.cfd
 0.0.0.0 yw5e.hair
+0.0.0.0 yw7.eu
 0.0.0.0 ywe-247.homes
 0.0.0.0 ywekls.sbs
 0.0.0.0 ywenlip.sbs
