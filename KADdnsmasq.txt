@@ -1,7 +1,7 @@
 # Title: KAD - Dnsmasq Edition (Beta)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 29 Mar 2024, 17:21 UTC+01:00
-# Version: 2024.3.29.2
+# Last modified: Fri, 29 Mar 2024, 21:18 UTC+01:00
+# Version: 2024.3.29.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -2297,6 +2297,7 @@ address=/zgarniij_vouchher.skroc.pl/
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => dnsmasq
 address=/0-2lyb.sbs/
+address=/0-02pw.cfd/
 address=/0-6n10.sbs/
 address=/0-9m4v.sbs/
 address=/0-avn0.sbs/
@@ -7369,6 +7370,7 @@ address=/allegrolokalnie.id-oferta85727.pl/
 address=/allegrolokalnie.id-oferta85785.pl/
 address=/allegrolokalnie.id-oferta88932.pl/
 address=/allegrolokalnie.id-oferta99083.pl/
+address=/allegrolokalnie.id-y91-u18-c91-ciu-rd8.pl/
 address=/allegrolokalnie.ikupna.pl/
 address=/allegrolokalnie.ikupno24h.pl/
 address=/allegrolokalnie.iogloszenia24.pl/
@@ -7604,10 +7606,12 @@ address=/allegrolokalnie.pay-oferta15124.pl/
 address=/allegrolokalnie.pay-oferta75413.pl/
 address=/allegrolokalnie.pay-oferta75450.pl/
 address=/allegrolokalnie.pay-oferta75451.pl/
+address=/allegrolokalnie.pay-oferta75452.pl/
 address=/allegrolokalnie.payu24h.pl/
 address=/allegrolokalnie.payu-online45781.pl/
 address=/allegrolokalnie.payu-online45782.pl/
 address=/allegrolokalnie.payu-online45783.pl/
+address=/allegrolokalnie.payu-online45785.pl/
 address=/allegrolokalnie.payu-online56251.pl/
 address=/allegrolokalnie.payu-online92521.pl/
 address=/allegrolokalnie.payu-online92522.pl/
@@ -22318,6 +22322,7 @@ address=/dpd.7784541.xyz/
 address=/dpd.087845544.xyz/
 address=/dpd.687845544.xyz/
 address=/dpd.dostawazoix.shop/
+address=/dpd.edich.shop/
 address=/dpd.eovercin.pics/
 address=/dpd.europedelivery.top/
 address=/dpd.ip-648342.pw/
@@ -29038,6 +29043,7 @@ address=/gg-inw.web.app/
 address=/gg-puncak.com/
 address=/gg.bet/
 address=/gg.eutrty.top/
+address=/gg.gamechampdigest.com/
 address=/gg.mix-legl.top/
 address=/gg.newcrew.site/
 address=/gg.progrr.top/
@@ -31844,6 +31850,7 @@ address=/histidine.sbs/
 address=/histor.choiseprog.xyz/
 address=/historia.maxymus.xyz/
 address=/historiadnia.click/
+address=/historiaprawdziwa.click/
 address=/historicaldataninjas.com/
 address=/historichorseracingph.com/
 address=/historieludzkie*.online/
@@ -38861,6 +38868,7 @@ address=/l40.d318.lat/
 address=/l328.info/
 address=/l913.info/
 address=/l77427-926984.us-south.cf.appdomain.cloud/
+address=/l-kimq.cfd/
 address=/l-oj3c.sbs/
 address=/l-pcom.web.app/
 address=/l-wellne5s.live/
@@ -42511,6 +42519,7 @@ address=/member.39credit.com/
 address=/member.fullpotentialtutor.com/
 address=/memberable.com/
 address=/memberhealthbenefits.com/
+address=/membranewind.click/
 address=/memcel.com/
 address=/memeiank.link/
 address=/memeumbrella.yachts/
@@ -64694,6 +64703,7 @@ address=/u-43fsw.cfd/
 address=/u-can.site/
 address=/u-form.online/
 address=/u-i.cfd/
+address=/u-pdum.cfd/
 address=/u-qnda.sbs/
 address=/u-qwvc.sbs/
 address=/u-s.cfd/
@@ -64918,6 +64928,7 @@ address=/un1que749.xyz/
 address=/un1qued3velop.site/
 address=/un1v33rs4lj0urn3y.site/
 address=/un76-t.cfd/
+address=/un-9ii.cfd/
 address=/un.ij5.cc/
 address=/una-sms.pw/
 address=/unadventuring.com/
@@ -66764,6 +66775,7 @@ address=/vlnted-gb.aoyuik.info/
 address=/vlnted-gb.asaop.info/
 address=/vlnted-gb.assau.info/
 address=/vlnted-gb.aueia.info/
+address=/vlnted-gb.auieri.info/
 address=/vlnted-gb.auioe.info/
 address=/vlnted-gb.auiog.info/
 address=/vlnted-gb.auoit.info/
