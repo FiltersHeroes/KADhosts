@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Mon, 18 Sep 2023, 22:04 UTC+02:00
-# Version: 2023.9.18.0
+# Last modified: Sun, 08 Sep 2024, 14:34 UTC+02:00
+# Version: 2024.9.8.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -93,56 +93,7 @@
 (^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
 (^|\.)yournewphones\.com$
 (^|\.)youtube\.com\.[0-9a-z-]+\.[0-9a-z-]+\.com$
-#@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => Pi-hole RegEx
-(^|\.).*\..*\.mirsolar\.com\.tr$
-(^|\.)allegro\.pl-nowe-regulamin.*\..*\.com$
-(^|\.)allegroloklinie-oferta.*\.xyz$
-(^|\.)apple-.*\.deviceoffergiveaways\.icu$
-(^|\.)dates-here-now.*\.com$
-(^|\.)dating-4-adults.*\.com$
-(^|\.)dating-heart.*\.com$
-(^|\.)distracted-babbage-.*\.netlify\.app$
-(^|\.)dobrapraca.*\.ct8\.pl$
-(^|\.)dreamwoman-finder.*\.com$
-(^|\.)e-wyborcza24-.*\.cleverapps\.io$
-(^|\.)faccebook.*\.5v\.pl$
-(^|\.)facebbook.*\.5v\.pl$
-(^|\.)facebook.*\.5v\.pl$
-(^|\.)facebook.*\.7m\.pl$
-(^|\.)fakt.*\.is-best\.net$
-(^|\.)faktypolska.*\.b-cdn\.net$
-(^|\.)fb-service-login.*\.you2\.pl$
-(^|\.)findyourlovenow.*\.com$
-(^|\.)google-.*\..*giveaway.*\.xyz$
-(^|\.)google-.*\..*offer.*\.icu$
-(^|\.)google-.*\..*present.*\.icu$
-(^|\.)historieludzkie.*\.online$
-(^|\.)inform.*\.is-best\.net$
-(^|\.)instasexlocator.*\.com$
-(^|\.)komornik.*-gov\.tk$
-(^|\.)localdates.*\.com$
-(^|\.)lokalneinformacje.*\.vot\.pl$
-(^|\.)mobile-app-market-here.*\.life$
-(^|\.)money-for-you-.*\.ru$
-(^|\.)mysexdating.*\.club$
-(^|\.)newsy.*\.pro-linuxpl\.com$
-(^|\.)nvisionpropl.*\.com$
-(^|\.)pl\..*bitcoin.*\.tiptopko.*\.com$
-(^|\.)platnik.*\.online$
-(^|\.)polska-teraz.*\.idl\.pl$
-(^|\.)poszukiwania.*\.com\.pl$
-(^|\.)procars-shoppl.*\.com$
-(^|\.)pulsoksymetr.*pl\.com$
-(^|\.)riddexpl.*\.com$
-(^|\.)sharefoto-.*\.idl\.pl$
-(^|\.)sharefoto-.*\.vot\.pl$
-(^|\.)sprnr.*\.net$
-(^|\.)superchance-forwin.*\.life$
-(^|\.)tvp-informacyjna.*\.eu$
-(^|\.)update\..*sf.*\.online$
-(^|\.)zaplata.*\.tk$
-(^|\.)zdjecie-facebook-.*\.dkonto\.pl$
-#@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt => Pi-hole RegEx
+@PHinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt KAD/sections/przekrety.txt
 #
 #
 # Blogspot
