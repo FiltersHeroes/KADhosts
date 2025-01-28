@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 28 Jan 2025, 17:26 UTC+01:00
-# Version: 2025.1.28.2
+# Last modified: Tue, 28 Jan 2025, 21:22 UTC+01:00
+# Version: 2025.1.28.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3429,6 +3429,7 @@
 0.0.0.0 0ix-904.info
 0.0.0.0 0ix.806263.xyz
 0.0.0.0 0ix.4748447.xyz
+0.0.0.0 0ix.6907453.xyz
 0.0.0.0 0ix.37834753.xyz
 0.0.0.0 0ix.82343243.xyz
 0.0.0.0 0jx.194805473.xyz
@@ -5004,6 +5005,7 @@
 0.0.0.0 alebilet.pl-app-82368.cfd
 0.0.0.0 alebilet.pl-aukcja-5774345.icu
 0.0.0.0 alebilet.pl-nr12315.icu
+0.0.0.0 alebilet.pl-oferta1317.icu
 0.0.0.0 alebilet.pl-oferta1852.pl
 0.0.0.0 alebilet.pl-oferta2949.online
 0.0.0.0 alebilet.pl-oferta7491.cfd
@@ -5021,6 +5023,7 @@
 0.0.0.0 alebilet.pl-oferta573721.icu
 0.0.0.0 alebilet.pl-oferta746837.icu
 0.0.0.0 alebilet.pl-oferta758469.icu
+0.0.0.0 alebilet.pl-oferta775397.pl
 0.0.0.0 alebilet.pl-oferta936267.cfd
 0.0.0.0 alebilet.pl-oferta936267.icu
 0.0.0.0 alebilet.pl-oferta936667.cfd
@@ -5309,6 +5312,7 @@
 0.0.0.0 allegro.pl-app-82368.cfd
 0.0.0.0 allegro.pl-aukcja-5774345.icu
 0.0.0.0 allegro.pl-nr12315.icu
+0.0.0.0 allegro.pl-oferta1317.icu
 0.0.0.0 allegro.pl-oferta7491.cfd
 0.0.0.0 allegro.pl-oferta7544.icu
 0.0.0.0 allegro.pl-oferta216217.cfd
@@ -5320,6 +5324,7 @@
 0.0.0.0 allegro.pl-oferta573721.icu
 0.0.0.0 allegro.pl-oferta746837.icu
 0.0.0.0 allegro.pl-oferta758469.icu
+0.0.0.0 allegro.pl-oferta775397.pl
 0.0.0.0 allegro.pl-oferta936267.cfd
 0.0.0.0 allegro.pl-oferta936267.icu
 0.0.0.0 allegro.pl-oferta936667.cfd
@@ -5775,17 +5780,20 @@
 0.0.0.0 allegrolokalnie.pl-969.icu
 0.0.0.0 allegrolokalnie.pl-1294.icu
 0.0.0.0 allegrolokalnie.pl-1416-id.shop
+0.0.0.0 allegrolokalnie.pl-1728.rest
 0.0.0.0 allegrolokalnie.pl-1782.shop
 0.0.0.0 allegrolokalnie.pl-1783.buzz
 0.0.0.0 allegrolokalnie.pl-2140.cfd
 0.0.0.0 allegrolokalnie.pl-2141.cfd
 0.0.0.0 allegrolokalnie.pl-2149.cfd
 0.0.0.0 allegrolokalnie.pl-2392.cfd
+0.0.0.0 allegrolokalnie.pl-2421.cfd
 0.0.0.0 allegrolokalnie.pl-2841.cfd
 0.0.0.0 allegrolokalnie.pl-2987.cfd
 0.0.0.0 allegrolokalnie.pl-3112.cfd
 0.0.0.0 allegrolokalnie.pl-3245dx235fd43565.buzz
 0.0.0.0 allegrolokalnie.pl-3261.cfd
+0.0.0.0 allegrolokalnie.pl-3292.cfd
 0.0.0.0 allegrolokalnie.pl-3294.cfd
 0.0.0.0 allegrolokalnie.pl-3823.cfd
 0.0.0.0 allegrolokalnie.pl-3934.cfd
@@ -5807,6 +5815,7 @@
 0.0.0.0 allegrolokalnie.pl-8749.cfd
 0.0.0.0 allegrolokalnie.pl-8912.buzz
 0.0.0.0 allegrolokalnie.pl-9122.buzz
+0.0.0.0 allegrolokalnie.pl-9212.cfd
 0.0.0.0 allegrolokalnie.pl-9432.cfd
 0.0.0.0 allegrolokalnie.pl-09844.icu
 0.0.0.0 allegrolokalnie.pl-13454.icu
@@ -5926,6 +5935,7 @@
 0.0.0.0 allegrolokalnie.pl-kategorie-pozostale.shop
 0.0.0.0 allegrolokalnie.pl-nr12315.icu
 0.0.0.0 allegrolokalnie.pl-nv345434.icu
+0.0.0.0 allegrolokalnie.pl-oferta1317.icu
 0.0.0.0 allegrolokalnie.pl-oferta1466.online
 0.0.0.0 allegrolokalnie.pl-oferta3341.online
 0.0.0.0 allegrolokalnie.pl-oferta4356f5647.buzz
@@ -5981,6 +5991,7 @@
 0.0.0.0 allegrolokalnie.pl-oferta758117.com
 0.0.0.0 allegrolokalnie.pl-oferta758469.icu
 0.0.0.0 allegrolokalnie.pl-oferta758917.com
+0.0.0.0 allegrolokalnie.pl-oferta775397.pl
 0.0.0.0 allegrolokalnie.pl-oferta875345.com
 0.0.0.0 allegrolokalnie.pl-oferta932417.com
 0.0.0.0 allegrolokalnie.pl-oferta936267.cfd
@@ -8624,6 +8635,7 @@
 0.0.0.0 booking.rescomunicationshow.com
 0.0.0.0 booking.rewiesbadcheked.com
 0.0.0.0 booking.rewiewsguestforhouse.com
+0.0.0.0 booking.rewiresgusterio.com
 0.0.0.0 booking.rewscomunicationgusty.com
 0.0.0.0 booking.sign-in27813.cfd
 0.0.0.0 booking.viollationpage.top
@@ -9236,6 +9248,7 @@
 0.0.0.0 bykome.com
 0.0.0.0 bykrissyann.com
 0.0.0.0 bykugya.com
+0.0.0.0 bylawoe.com
 0.0.0.0 bylicao.com
 0.0.0.0 bymarchitect.com
 0.0.0.0 bynazue.pics
@@ -9740,6 +9753,7 @@
 0.0.0.0 cemebe.markets4bridges.com
 0.0.0.0 cemjot.com
 0.0.0.0 cemuhi.treasurendtrovedeals.com
+0.0.0.0 cemukiu.com
 0.0.0.0 cemuwa.dat4defenders.com
 0.0.0.0 cenalog.com
 0.0.0.0 centermanagements-advertisings.online
@@ -12905,6 +12919,7 @@
 0.0.0.0 e2ilpc.icu
 0.0.0.0 e2qyso.rest
 0.0.0.0 e2wizb.hair
+0.0.0.0 e3ktfv.cyou
 0.0.0.0 e3llqv.lol
 0.0.0.0 e3zmxw.rest
 0.0.0.0 e4e7ae784878a55a.myplus.click
@@ -15133,6 +15148,7 @@
 0.0.0.0 fyjudaa.com
 0.0.0.0 fylagya6.pro
 0.0.0.0 fywewiula.xyz
+0.0.0.0 fywysey.com
 0.0.0.0 fyxasa.info
 0.0.0.0 fyxd.lat
 0.0.0.0 fz6tmg.lat
@@ -16133,7 +16149,6 @@
 0.0.0.0 grupawp.weebly.com
 0.0.0.0 grupluxury.com
 0.0.0.0 grupoazulejerodemayoristas.com
-0.0.0.0 grupocedva.mx
 0.0.0.0 grupodisal.com.co
 0.0.0.0 grupoeq.com
 0.0.0.0 grupomoebius.com
@@ -17221,6 +17236,7 @@
 0.0.0.0 hymetalproduct.com
 0.0.0.0 hynehou9.pro
 0.0.0.0 hynyjuy.com
+0.0.0.0 hypaag-mcdiouds-scroiaz.yolasite.com
 0.0.0.0 hypecliente.s-host.net
 0.0.0.0 hypeendurance.com
 0.0.0.0 hyperstt.com
@@ -18191,7 +18207,6 @@
 0.0.0.0 integratedsignal.com
 0.0.0.0 integratedsorbent.life
 0.0.0.0 intel-ark.com
-0.0.0.0 intelligentmoneyoffers.com
 0.0.0.0 intelligenttomorrow.com
 0.0.0.0 intelligentuniverse.life
 0.0.0.0 intelligentwaves.xyz
@@ -18642,6 +18657,7 @@
 0.0.0.0 jannsales44.com
 0.0.0.0 janodsale.shop
 0.0.0.0 jansan-canada.com
+0.0.0.0 jansendfig.glitch.me
 0.0.0.0 jansmawijngaarden.com
 0.0.0.0 jansportpoland.shop
 0.0.0.0 jantarika.com
@@ -18791,7 +18807,6 @@
 0.0.0.0 jh0spt0d.447383383.com
 0.0.0.0 jh0spt0d.757864378.com
 0.0.0.0 jh0spt0d.id6756588.shop
-0.0.0.0 jh4bng.lol
 0.0.0.0 jh.nwmw.skin
 0.0.0.0 jhbjhvhgcgfncnmvgfcjyh.co.in
 0.0.0.0 jhk.trdeone.top
@@ -23414,6 +23429,7 @@
 0.0.0.0 newsspypro.com
 0.0.0.0 newstandardgroup.site
 0.0.0.0 newstandardpro.site
+0.0.0.0 newstandardway.site
 0.0.0.0 newstartcounsellingservicesinc.com
 0.0.0.0 newstochka24.top
 0.0.0.0 newstodayabout-1.xyz
@@ -23970,6 +23986,7 @@
 0.0.0.0 o41gxny9qjfhmw.pl-plus.online
 0.0.0.0 o56p.space
 0.0.0.0 o-interior.com
+0.0.0.0 o-jx.58087464.xyz
 0.0.0.0 o-l-x.redirect-link.icu
 0.0.0.0 o-lx.406263.xyz
 0.0.0.0 o-lx.0533435.xyz
@@ -24214,7 +24231,6 @@
 0.0.0.0 ojx.79421548.xyz
 0.0.0.0 ojx.79478205.xyz
 0.0.0.0 ok4uju.hair
-0.0.0.0 ok6sto.rest
 0.0.0.0 ok.aofw.top
 0.0.0.0 okchichy.com
 0.0.0.0 okcrealestategroup.com
@@ -25821,6 +25837,7 @@
 0.0.0.0 olx.pl-aukcja-5774345.icu
 0.0.0.0 olx.pl-bezpiecznaoferta.store
 0.0.0.0 olx.pl-nr12315.icu
+0.0.0.0 olx.pl-oferta1317.icu
 0.0.0.0 olx.pl-oferta7491.cfd
 0.0.0.0 olx.pl-oferta7544.icu
 0.0.0.0 olx.pl-oferta8349.cfd
@@ -25834,6 +25851,7 @@
 0.0.0.0 olx.pl-oferta573721.icu
 0.0.0.0 olx.pl-oferta746837.icu
 0.0.0.0 olx.pl-oferta758469.icu
+0.0.0.0 olx.pl-oferta775397.pl
 0.0.0.0 olx.pl-oferta936267.cfd
 0.0.0.0 olx.pl-oferta936267.icu
 0.0.0.0 olx.pl-oferta936667.cfd
@@ -27494,11 +27512,13 @@
 0.0.0.0 pl-969.icu
 0.0.0.0 pl-2140.cfd
 0.0.0.0 pl-2141.cfd
+0.0.0.0 pl-3292.cfd
 0.0.0.0 pl-3294.cfd
 0.0.0.0 pl-4281.cfd
 0.0.0.0 pl-5185.cfd
 0.0.0.0 pl-8271.cfd
 0.0.0.0 pl-8540.cfd
+0.0.0.0 pl-9212.cfd
 0.0.0.0 pl-09844.icu
 0.0.0.0 pl-13454.icu
 0.0.0.0 pl-17824.com
@@ -27561,6 +27581,7 @@
 0.0.0.0 pl-netflix-v10927.cfolks.pl
 0.0.0.0 pl-nr12315.icu
 0.0.0.0 pl-of.com
+0.0.0.0 pl-oferta1317.icu
 0.0.0.0 pl-oferta7491.cfd
 0.0.0.0 pl-oferta7544.icu
 0.0.0.0 pl-oferta23342.top
@@ -27574,6 +27595,7 @@
 0.0.0.0 pl-oferta573721.icu
 0.0.0.0 pl-oferta746837.icu
 0.0.0.0 pl-oferta758469.icu
+0.0.0.0 pl-oferta775397.pl
 0.0.0.0 pl-oferta936267.cfd
 0.0.0.0 pl-oferta936267.icu
 0.0.0.0 pl-oferta936667.cfd
@@ -27931,7 +27953,9 @@
 0.0.0.0 poczta-polska-pl-zaplata.customsie.com
 0.0.0.0 poczta-polska-pl-zaplata.pl-zplt.info
 0.0.0.0 poczta-polska-pl.customsie.com
+0.0.0.0 poczta-polska-pl.pl-oplata.info
 0.0.0.0 poczta-polska-pl.pl-zplt.info
+0.0.0.0 poczta-polska-zaplata-pl.pl-oplata.info
 0.0.0.0 poczta-polska-zaplata-pl.pl-zplt.info
 0.0.0.0 poczta-polska-zaplata.pl-zplt.info
 0.0.0.0 poczta-polska-zaplata.pl-zpo.info
@@ -29409,7 +29433,6 @@
 0.0.0.0 qzxy-light.com
 0.0.0.0 r1cjga.top
 0.0.0.0 r1cjog.lol
-0.0.0.0 r1lixa.skin
 0.0.0.0 r1nk.space
 0.0.0.0 r1rhfo.skin
 0.0.0.0 r2kjtj.bond
@@ -31043,6 +31066,7 @@
 0.0.0.0 sc.bzot.top
 0.0.0.0 sc.oeej.skin
 0.0.0.0 scaleatsale.com
+0.0.0.0 scalttesta.com
 0.0.0.0 scanditoys.myfreesites.net
 0.0.0.0 scanmagfucku.com
 0.0.0.0 scanmineralsgh.com
@@ -35101,6 +35125,7 @@
 0.0.0.0 trustemmim.com
 0.0.0.0 trustmoneyx.com
 0.0.0.0 trustswalleverifuy.com
+0.0.0.0 trustwallet.group
 0.0.0.0 trusty.law
 0.0.0.0 trustycoupon.com
 0.0.0.0 truth-consult.com
@@ -36292,6 +36317,7 @@
 0.0.0.0 vinted.bid-click443.net
 0.0.0.0 vinted.charge281.run
 0.0.0.0 vinted.charge389.club
+0.0.0.0 vinted.checksales.info
 0.0.0.0 vinted.complete-deal.info
 0.0.0.0 vinted.complete-sale.com
 0.0.0.0 vinted.complete-status.com
@@ -36527,6 +36553,7 @@
 0.0.0.0 vjnteden.64327.shop
 0.0.0.0 vjntedes.53589.xyz
 0.0.0.0 vjntedes.64327.shop
+0.0.0.0 vjntedit.53589.xyz
 0.0.0.0 vjntedit.defen.info
 0.0.0.0 vjntedit.jetdl.info
 0.0.0.0 vjntednl.64327.shop
@@ -38022,6 +38049,7 @@
 0.0.0.0 www.0ix-904.info
 0.0.0.0 www.0ix.806263.xyz
 0.0.0.0 www.0ix.4748447.xyz
+0.0.0.0 www.0ix.6907453.xyz
 0.0.0.0 www.0ix.37834753.xyz
 0.0.0.0 www.0ix.82343243.xyz
 0.0.0.0 www.0jx.194805473.xyz
@@ -39597,6 +39625,7 @@
 0.0.0.0 www.alebilet.pl-app-82368.cfd
 0.0.0.0 www.alebilet.pl-aukcja-5774345.icu
 0.0.0.0 www.alebilet.pl-nr12315.icu
+0.0.0.0 www.alebilet.pl-oferta1317.icu
 0.0.0.0 www.alebilet.pl-oferta1852.pl
 0.0.0.0 www.alebilet.pl-oferta2949.online
 0.0.0.0 www.alebilet.pl-oferta7491.cfd
@@ -39614,6 +39643,7 @@
 0.0.0.0 www.alebilet.pl-oferta573721.icu
 0.0.0.0 www.alebilet.pl-oferta746837.icu
 0.0.0.0 www.alebilet.pl-oferta758469.icu
+0.0.0.0 www.alebilet.pl-oferta775397.pl
 0.0.0.0 www.alebilet.pl-oferta936267.cfd
 0.0.0.0 www.alebilet.pl-oferta936267.icu
 0.0.0.0 www.alebilet.pl-oferta936667.cfd
@@ -39902,6 +39932,7 @@
 0.0.0.0 www.allegro.pl-app-82368.cfd
 0.0.0.0 www.allegro.pl-aukcja-5774345.icu
 0.0.0.0 www.allegro.pl-nr12315.icu
+0.0.0.0 www.allegro.pl-oferta1317.icu
 0.0.0.0 www.allegro.pl-oferta7491.cfd
 0.0.0.0 www.allegro.pl-oferta7544.icu
 0.0.0.0 www.allegro.pl-oferta216217.cfd
@@ -39913,6 +39944,7 @@
 0.0.0.0 www.allegro.pl-oferta573721.icu
 0.0.0.0 www.allegro.pl-oferta746837.icu
 0.0.0.0 www.allegro.pl-oferta758469.icu
+0.0.0.0 www.allegro.pl-oferta775397.pl
 0.0.0.0 www.allegro.pl-oferta936267.cfd
 0.0.0.0 www.allegro.pl-oferta936267.icu
 0.0.0.0 www.allegro.pl-oferta936667.cfd
@@ -40368,17 +40400,20 @@
 0.0.0.0 www.allegrolokalnie.pl-969.icu
 0.0.0.0 www.allegrolokalnie.pl-1294.icu
 0.0.0.0 www.allegrolokalnie.pl-1416-id.shop
+0.0.0.0 www.allegrolokalnie.pl-1728.rest
 0.0.0.0 www.allegrolokalnie.pl-1782.shop
 0.0.0.0 www.allegrolokalnie.pl-1783.buzz
 0.0.0.0 www.allegrolokalnie.pl-2140.cfd
 0.0.0.0 www.allegrolokalnie.pl-2141.cfd
 0.0.0.0 www.allegrolokalnie.pl-2149.cfd
 0.0.0.0 www.allegrolokalnie.pl-2392.cfd
+0.0.0.0 www.allegrolokalnie.pl-2421.cfd
 0.0.0.0 www.allegrolokalnie.pl-2841.cfd
 0.0.0.0 www.allegrolokalnie.pl-2987.cfd
 0.0.0.0 www.allegrolokalnie.pl-3112.cfd
 0.0.0.0 www.allegrolokalnie.pl-3245dx235fd43565.buzz
 0.0.0.0 www.allegrolokalnie.pl-3261.cfd
+0.0.0.0 www.allegrolokalnie.pl-3292.cfd
 0.0.0.0 www.allegrolokalnie.pl-3294.cfd
 0.0.0.0 www.allegrolokalnie.pl-3823.cfd
 0.0.0.0 www.allegrolokalnie.pl-3934.cfd
@@ -40400,6 +40435,7 @@
 0.0.0.0 www.allegrolokalnie.pl-8749.cfd
 0.0.0.0 www.allegrolokalnie.pl-8912.buzz
 0.0.0.0 www.allegrolokalnie.pl-9122.buzz
+0.0.0.0 www.allegrolokalnie.pl-9212.cfd
 0.0.0.0 www.allegrolokalnie.pl-9432.cfd
 0.0.0.0 www.allegrolokalnie.pl-09844.icu
 0.0.0.0 www.allegrolokalnie.pl-13454.icu
@@ -40519,6 +40555,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategorie-pozostale.shop
 0.0.0.0 www.allegrolokalnie.pl-nr12315.icu
 0.0.0.0 www.allegrolokalnie.pl-nv345434.icu
+0.0.0.0 www.allegrolokalnie.pl-oferta1317.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta1466.online
 0.0.0.0 www.allegrolokalnie.pl-oferta3341.online
 0.0.0.0 www.allegrolokalnie.pl-oferta4356f5647.buzz
@@ -40574,6 +40611,7 @@
 0.0.0.0 www.allegrolokalnie.pl-oferta758117.com
 0.0.0.0 www.allegrolokalnie.pl-oferta758469.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta758917.com
+0.0.0.0 www.allegrolokalnie.pl-oferta775397.pl
 0.0.0.0 www.allegrolokalnie.pl-oferta875345.com
 0.0.0.0 www.allegrolokalnie.pl-oferta932417.com
 0.0.0.0 www.allegrolokalnie.pl-oferta936267.cfd
@@ -43217,6 +43255,7 @@
 0.0.0.0 www.booking.rescomunicationshow.com
 0.0.0.0 www.booking.rewiesbadcheked.com
 0.0.0.0 www.booking.rewiewsguestforhouse.com
+0.0.0.0 www.booking.rewiresgusterio.com
 0.0.0.0 www.booking.rewscomunicationgusty.com
 0.0.0.0 www.booking.sign-in27813.cfd
 0.0.0.0 www.booking.viollationpage.top
@@ -43829,6 +43868,7 @@
 0.0.0.0 www.bykome.com
 0.0.0.0 www.bykrissyann.com
 0.0.0.0 www.bykugya.com
+0.0.0.0 www.bylawoe.com
 0.0.0.0 www.bylicao.com
 0.0.0.0 www.bymarchitect.com
 0.0.0.0 www.bynazue.pics
@@ -44333,6 +44373,7 @@
 0.0.0.0 www.cemebe.markets4bridges.com
 0.0.0.0 www.cemjot.com
 0.0.0.0 www.cemuhi.treasurendtrovedeals.com
+0.0.0.0 www.cemukiu.com
 0.0.0.0 www.cemuwa.dat4defenders.com
 0.0.0.0 www.cenalog.com
 0.0.0.0 www.centermanagements-advertisings.online
@@ -47498,6 +47539,7 @@
 0.0.0.0 www.e2ilpc.icu
 0.0.0.0 www.e2qyso.rest
 0.0.0.0 www.e2wizb.hair
+0.0.0.0 www.e3ktfv.cyou
 0.0.0.0 www.e3llqv.lol
 0.0.0.0 www.e3zmxw.rest
 0.0.0.0 www.e4e7ae784878a55a.myplus.click
@@ -49726,6 +49768,7 @@
 0.0.0.0 www.fyjudaa.com
 0.0.0.0 www.fylagya6.pro
 0.0.0.0 www.fywewiula.xyz
+0.0.0.0 www.fywysey.com
 0.0.0.0 www.fyxasa.info
 0.0.0.0 www.fyxd.lat
 0.0.0.0 www.fz6tmg.lat
@@ -50726,7 +50769,6 @@
 0.0.0.0 www.grupawp.weebly.com
 0.0.0.0 www.grupluxury.com
 0.0.0.0 www.grupoazulejerodemayoristas.com
-0.0.0.0 www.grupocedva.mx
 0.0.0.0 www.grupodisal.com.co
 0.0.0.0 www.grupoeq.com
 0.0.0.0 www.grupomoebius.com
@@ -51814,6 +51856,7 @@
 0.0.0.0 www.hymetalproduct.com
 0.0.0.0 www.hynehou9.pro
 0.0.0.0 www.hynyjuy.com
+0.0.0.0 www.hypaag-mcdiouds-scroiaz.yolasite.com
 0.0.0.0 www.hypecliente.s-host.net
 0.0.0.0 www.hypeendurance.com
 0.0.0.0 www.hyperstt.com
@@ -52784,7 +52827,6 @@
 0.0.0.0 www.integratedsignal.com
 0.0.0.0 www.integratedsorbent.life
 0.0.0.0 www.intel-ark.com
-0.0.0.0 www.intelligentmoneyoffers.com
 0.0.0.0 www.intelligenttomorrow.com
 0.0.0.0 www.intelligentuniverse.life
 0.0.0.0 www.intelligentwaves.xyz
@@ -53235,6 +53277,7 @@
 0.0.0.0 www.jannsales44.com
 0.0.0.0 www.janodsale.shop
 0.0.0.0 www.jansan-canada.com
+0.0.0.0 www.jansendfig.glitch.me
 0.0.0.0 www.jansmawijngaarden.com
 0.0.0.0 www.jansportpoland.shop
 0.0.0.0 www.jantarika.com
@@ -53384,7 +53427,6 @@
 0.0.0.0 www.jh0spt0d.447383383.com
 0.0.0.0 www.jh0spt0d.757864378.com
 0.0.0.0 www.jh0spt0d.id6756588.shop
-0.0.0.0 www.jh4bng.lol
 0.0.0.0 www.jh.nwmw.skin
 0.0.0.0 www.jhbjhvhgcgfncnmvgfcjyh.co.in
 0.0.0.0 www.jhk.trdeone.top
@@ -58007,6 +58049,7 @@
 0.0.0.0 www.newsspypro.com
 0.0.0.0 www.newstandardgroup.site
 0.0.0.0 www.newstandardpro.site
+0.0.0.0 www.newstandardway.site
 0.0.0.0 www.newstartcounsellingservicesinc.com
 0.0.0.0 www.newstochka24.top
 0.0.0.0 www.newstodayabout-1.xyz
@@ -58563,6 +58606,7 @@
 0.0.0.0 www.o41gxny9qjfhmw.pl-plus.online
 0.0.0.0 www.o56p.space
 0.0.0.0 www.o-interior.com
+0.0.0.0 www.o-jx.58087464.xyz
 0.0.0.0 www.o-l-x.redirect-link.icu
 0.0.0.0 www.o-lx.406263.xyz
 0.0.0.0 www.o-lx.0533435.xyz
@@ -58807,7 +58851,6 @@
 0.0.0.0 www.ojx.79421548.xyz
 0.0.0.0 www.ojx.79478205.xyz
 0.0.0.0 www.ok4uju.hair
-0.0.0.0 www.ok6sto.rest
 0.0.0.0 www.ok.aofw.top
 0.0.0.0 www.okchichy.com
 0.0.0.0 www.okcrealestategroup.com
@@ -60414,6 +60457,7 @@
 0.0.0.0 www.olx.pl-aukcja-5774345.icu
 0.0.0.0 www.olx.pl-bezpiecznaoferta.store
 0.0.0.0 www.olx.pl-nr12315.icu
+0.0.0.0 www.olx.pl-oferta1317.icu
 0.0.0.0 www.olx.pl-oferta7491.cfd
 0.0.0.0 www.olx.pl-oferta7544.icu
 0.0.0.0 www.olx.pl-oferta8349.cfd
@@ -60427,6 +60471,7 @@
 0.0.0.0 www.olx.pl-oferta573721.icu
 0.0.0.0 www.olx.pl-oferta746837.icu
 0.0.0.0 www.olx.pl-oferta758469.icu
+0.0.0.0 www.olx.pl-oferta775397.pl
 0.0.0.0 www.olx.pl-oferta936267.cfd
 0.0.0.0 www.olx.pl-oferta936267.icu
 0.0.0.0 www.olx.pl-oferta936667.cfd
@@ -62071,11 +62116,13 @@
 0.0.0.0 www.pl-969.icu
 0.0.0.0 www.pl-2140.cfd
 0.0.0.0 www.pl-2141.cfd
+0.0.0.0 www.pl-3292.cfd
 0.0.0.0 www.pl-3294.cfd
 0.0.0.0 www.pl-4281.cfd
 0.0.0.0 www.pl-5185.cfd
 0.0.0.0 www.pl-8271.cfd
 0.0.0.0 www.pl-8540.cfd
+0.0.0.0 www.pl-9212.cfd
 0.0.0.0 www.pl-09844.icu
 0.0.0.0 www.pl-13454.icu
 0.0.0.0 www.pl-17824.com
@@ -62138,6 +62185,7 @@
 0.0.0.0 www.pl-netflix-v10927.cfolks.pl
 0.0.0.0 www.pl-nr12315.icu
 0.0.0.0 www.pl-of.com
+0.0.0.0 www.pl-oferta1317.icu
 0.0.0.0 www.pl-oferta7491.cfd
 0.0.0.0 www.pl-oferta7544.icu
 0.0.0.0 www.pl-oferta23342.top
@@ -62151,6 +62199,7 @@
 0.0.0.0 www.pl-oferta573721.icu
 0.0.0.0 www.pl-oferta746837.icu
 0.0.0.0 www.pl-oferta758469.icu
+0.0.0.0 www.pl-oferta775397.pl
 0.0.0.0 www.pl-oferta936267.cfd
 0.0.0.0 www.pl-oferta936267.icu
 0.0.0.0 www.pl-oferta936667.cfd
@@ -62471,7 +62520,9 @@
 0.0.0.0 www.poczta-polska-pl-zaplata.customsie.com
 0.0.0.0 www.poczta-polska-pl-zaplata.pl-zplt.info
 0.0.0.0 www.poczta-polska-pl.customsie.com
+0.0.0.0 www.poczta-polska-pl.pl-oplata.info
 0.0.0.0 www.poczta-polska-pl.pl-zplt.info
+0.0.0.0 www.poczta-polska-zaplata-pl.pl-oplata.info
 0.0.0.0 www.poczta-polska-zaplata-pl.pl-zplt.info
 0.0.0.0 www.poczta-polska-zaplata.pl-zplt.info
 0.0.0.0 www.poczta-polska-zaplata.pl-zpo.info
@@ -63949,7 +64000,6 @@
 0.0.0.0 www.qzxy-light.com
 0.0.0.0 www.r1cjga.top
 0.0.0.0 www.r1cjog.lol
-0.0.0.0 www.r1lixa.skin
 0.0.0.0 www.r1nk.space
 0.0.0.0 www.r1rhfo.skin
 0.0.0.0 www.r2kjtj.bond
@@ -65583,6 +65633,7 @@
 0.0.0.0 www.sc.bzot.top
 0.0.0.0 www.sc.oeej.skin
 0.0.0.0 www.scaleatsale.com
+0.0.0.0 www.scalttesta.com
 0.0.0.0 www.scanditoys.myfreesites.net
 0.0.0.0 www.scanmagfucku.com
 0.0.0.0 www.scanmineralsgh.com
@@ -69641,6 +69692,7 @@
 0.0.0.0 www.trustemmim.com
 0.0.0.0 www.trustmoneyx.com
 0.0.0.0 www.trustswalleverifuy.com
+0.0.0.0 www.trustwallet.group
 0.0.0.0 www.trusty.law
 0.0.0.0 www.trustycoupon.com
 0.0.0.0 www.truth-consult.com
@@ -70832,6 +70884,7 @@
 0.0.0.0 www.vinted.bid-click443.net
 0.0.0.0 www.vinted.charge281.run
 0.0.0.0 www.vinted.charge389.club
+0.0.0.0 www.vinted.checksales.info
 0.0.0.0 www.vinted.complete-deal.info
 0.0.0.0 www.vinted.complete-sale.com
 0.0.0.0 www.vinted.complete-status.com
@@ -71067,6 +71120,7 @@
 0.0.0.0 www.vjnteden.64327.shop
 0.0.0.0 www.vjntedes.53589.xyz
 0.0.0.0 www.vjntedes.64327.shop
+0.0.0.0 www.vjntedit.53589.xyz
 0.0.0.0 www.vjntedit.defen.info
 0.0.0.0 www.vjntedit.jetdl.info
 0.0.0.0 www.vjntednl.64327.shop
@@ -72531,7 +72585,6 @@
 0.0.0.0 www.wydarzeniaczytaj.rest
 0.0.0.0 www.wydarzeniaiwiadomosci.rest
 0.0.0.0 www.wydarzeniamiasteczko.rest
-0.0.0.0 www.wydarzeniapolska.com
 0.0.0.0 www.wydarzeniaswiat.rest
 0.0.0.0 www.wydarzeniatutaj.rest
 0.0.0.0 www.wyeld.woctchain.info
@@ -73511,7 +73564,6 @@
 0.0.0.0 wydarzeniaczytaj.rest
 0.0.0.0 wydarzeniaiwiadomosci.rest
 0.0.0.0 wydarzeniamiasteczko.rest
-0.0.0.0 wydarzeniapolska.com
 0.0.0.0 wydarzeniaswiat.rest
 0.0.0.0 wydarzeniatutaj.rest
 0.0.0.0 wyeld.woctchain.info
