@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 05 Apr 2025, 14:40 UTC+02:00
-# Version: 2025.4.5.1
+# Last modified: Sat, 05 Apr 2025, 18:27 UTC+02:00
+# Version: 2025.4.5.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3415,6 +3415,7 @@
 0.0.0.0 0-1-x.514484648.xyz
 0.0.0.0 0-1-x.609418154.xyz
 0.0.0.0 0-1-x.659520851.xyz
+0.0.0.0 0-1-xx.57154872.xyz
 0.0.0.0 0-1-xx.77154872.xyz
 0.0.0.0 0-1x.8632152.xyz
 0.0.0.0 0-i-x.29651548.xyz
@@ -3499,7 +3500,6 @@
 0.0.0.0 0llx.86659125.xyz
 0.0.0.0 0llx.97948323.xyz
 0.0.0.0 0llx.228569132.xyz
-0.0.0.0 0lx.260382.xyz
 0.0.0.0 0lx.0862232.xyz
 0.0.0.0 0lx.1623137.xyz
 0.0.0.0 0lx.1684376.xyz
@@ -5076,6 +5076,7 @@
 0.0.0.0 aiebilet.pl-garaze-blaszane-120.icu
 0.0.0.0 aiebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 aiebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 aiebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 aiebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 aiebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 aiebilet.pl-kategorie-inne-17.icu
@@ -5084,6 +5085,7 @@
 0.0.0.0 aiebilet.pl-kategorie-inne-187.icu
 0.0.0.0 aiebilet.pl-kategorie-inne-894.icu
 0.0.0.0 aiebilet.pl-kategorie-inne-982.icu
+0.0.0.0 aiebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 aiebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 aiebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 aiebilet.pl-kategorie-inne.cfd
@@ -5604,6 +5606,7 @@
 0.0.0.0 alebilet.pl-id1374786.sbs
 0.0.0.0 alebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 alebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 alebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 alebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 alebilet.pl-kategoria-traktorki-32612.icu
 0.0.0.0 alebilet.pl-kategorie-dom-i-ogrod.sbs
@@ -5613,7 +5616,9 @@
 0.0.0.0 alebilet.pl-kategorie-inne-187.icu
 0.0.0.0 alebilet.pl-kategorie-inne-894.icu
 0.0.0.0 alebilet.pl-kategorie-inne-982.icu
+0.0.0.0 alebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 alebilet.pl-kategorie-inne-9814.icu
+0.0.0.0 alebilet.pl-kategorie-inne-27834.icu
 0.0.0.0 alebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 alebilet.pl-kategorie-inne.cfd
 0.0.0.0 alebilet.pl-kategorie-polecane-82839.shop
@@ -6134,6 +6139,7 @@
 0.0.0.0 allebilet.pl-garaze-blaszane-120.icu
 0.0.0.0 allebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 allebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 allebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 allebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 allebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 allebilet.pl-kategorie-inne-17.icu
@@ -6142,6 +6148,7 @@
 0.0.0.0 allebilet.pl-kategorie-inne-187.icu
 0.0.0.0 allebilet.pl-kategorie-inne-894.icu
 0.0.0.0 allebilet.pl-kategorie-inne-982.icu
+0.0.0.0 allebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 allebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 allebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 allebilet.pl-kategorie-inne.cfd
@@ -6536,6 +6543,7 @@
 0.0.0.0 allegro.pl-id1374786.sbs
 0.0.0.0 allegro.pl-kategoria-inne231787346.rest
 0.0.0.0 allegro.pl-kategoria-inne-1722.icu
+0.0.0.0 allegro.pl-kategoria-ponton-1.icu
 0.0.0.0 allegro.pl-kategoria-szklarnie-13.icu
 0.0.0.0 allegro.pl-kategoria-traktorki-32612.icu
 0.0.0.0 allegro.pl-kategorie-dom-i-ogrod.sbs
@@ -6545,7 +6553,9 @@
 0.0.0.0 allegro.pl-kategorie-inne-187.icu
 0.0.0.0 allegro.pl-kategorie-inne-894.icu
 0.0.0.0 allegro.pl-kategorie-inne-982.icu
+0.0.0.0 allegro.pl-kategorie-inne-7155.cfd
 0.0.0.0 allegro.pl-kategorie-inne-9814.icu
+0.0.0.0 allegro.pl-kategorie-inne-27834.icu
 0.0.0.0 allegro.pl-kategorie-inne-85612422.cfd
 0.0.0.0 allegro.pl-kategorie-inne.cfd
 0.0.0.0 allegro.pl-kategorie-polecane-82839.shop
@@ -7152,6 +7162,7 @@
 0.0.0.0 allegrolokainie.pl-garaze-blaszane-120.icu
 0.0.0.0 allegrolokainie.pl-kategoria-inne231787346.rest
 0.0.0.0 allegrolokainie.pl-kategoria-inne-1722.icu
+0.0.0.0 allegrolokainie.pl-kategoria-ponton-1.icu
 0.0.0.0 allegrolokainie.pl-kategoria-szklarnie-13.icu
 0.0.0.0 allegrolokainie.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 allegrolokainie.pl-kategorie-inne-17.icu
@@ -7160,6 +7171,7 @@
 0.0.0.0 allegrolokainie.pl-kategorie-inne-187.icu
 0.0.0.0 allegrolokainie.pl-kategorie-inne-894.icu
 0.0.0.0 allegrolokainie.pl-kategorie-inne-982.icu
+0.0.0.0 allegrolokainie.pl-kategorie-inne-7155.cfd
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9814.icu
 0.0.0.0 allegrolokainie.pl-kategorie-inne-85612422.cfd
 0.0.0.0 allegrolokainie.pl-kategorie-inne.cfd
@@ -7244,6 +7256,7 @@
 0.0.0.0 allegrolokalne.pl-garaze-blaszane-120.icu
 0.0.0.0 allegrolokalne.pl-kategoria-inne231787346.rest
 0.0.0.0 allegrolokalne.pl-kategoria-inne-1722.icu
+0.0.0.0 allegrolokalne.pl-kategoria-ponton-1.icu
 0.0.0.0 allegrolokalne.pl-kategoria-szklarnie-13.icu
 0.0.0.0 allegrolokalne.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 allegrolokalne.pl-kategorie-inne-17.icu
@@ -7252,6 +7265,7 @@
 0.0.0.0 allegrolokalne.pl-kategorie-inne-187.icu
 0.0.0.0 allegrolokalne.pl-kategorie-inne-894.icu
 0.0.0.0 allegrolokalne.pl-kategorie-inne-982.icu
+0.0.0.0 allegrolokalne.pl-kategorie-inne-7155.cfd
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9814.icu
 0.0.0.0 allegrolokalne.pl-kategorie-inne-85612422.cfd
 0.0.0.0 allegrolokalne.pl-kategorie-inne.cfd
@@ -7514,6 +7528,7 @@
 0.0.0.0 allegrolokalnie.id-287651-listing.cfd
 0.0.0.0 allegrolokalnie.id-712648.buzz
 0.0.0.0 allegrolokalnie.id-763254-listing.cfd
+0.0.0.0 allegrolokalnie.id-871244.cfd
 0.0.0.0 allegrolokalnie.id-871246.buzz
 0.0.0.0 allegrolokalnie.id-1982412.icu
 0.0.0.0 allegrolokalnie.id-7128444.cfd
@@ -7927,7 +7942,6 @@
 0.0.0.0 allegrolokalnie.pl-457gh5687345gv234g6vc.buzz
 0.0.0.0 allegrolokalnie.pl-510.cfd
 0.0.0.0 allegrolokalnie.pl-546t348977t.shop
-0.0.0.0 allegrolokalnie.pl-546t3476548977t.shop
 0.0.0.0 allegrolokalnie.pl-562.icu
 0.0.0.0 allegrolokalnie.pl-564.cfd
 0.0.0.0 allegrolokalnie.pl-564h7g5678h546.buzz
@@ -8270,6 +8284,7 @@
 0.0.0.0 allegrolokalnie.pl-kategoria-436732.icu
 0.0.0.0 allegrolokalnie.pl-kategoria-inne231787346.rest
 0.0.0.0 allegrolokalnie.pl-kategoria-inne-1722.icu
+0.0.0.0 allegrolokalnie.pl-kategoria-ponton-1.icu
 0.0.0.0 allegrolokalnie.pl-kategoria-szklarnie-5.icu
 0.0.0.0 allegrolokalnie.pl-kategoria-szklarnie-13.icu
 0.0.0.0 allegrolokalnie.pl-kategoria-traktorki-32612.icu
@@ -8287,6 +8302,7 @@
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-501.cfd
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-894.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-982.icu
+0.0.0.0 allegrolokalnie.pl-kategorie-inne-7155.cfd
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-7412.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-8173.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-8402.sbs
@@ -8296,6 +8312,7 @@
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9812.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9814.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9824.icu
+0.0.0.0 allegrolokalnie.pl-kategorie-inne-27834.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-85612422.cfd
 0.0.0.0 allegrolokalnie.pl-kategorie-inne.cfd
 0.0.0.0 allegrolokalnie.pl-kategorie-inne.sbs
@@ -9006,7 +9023,6 @@
 0.0.0.0 allegrolokalnie.v15.buzz
 0.0.0.0 allegrolokalnie.x0e9q1p0.icu
 0.0.0.0 allegrolokalnie.x0v491-9c0a91-91357.icu
-0.0.0.0 allegrolokalnie.x0v-s0a9-v0s9.shop
 0.0.0.0 allegrolokalnie.y0c9x8a0139c.buzz
 0.0.0.0 allegrolokalnie.y0c-a31-v0a-310.buzz
 0.0.0.0 allegrolokalnie.y0v8av7a01031.buzz
@@ -10523,7 +10539,6 @@
 0.0.0.0 bacdantpi.com
 0.0.0.0 bacekend.com
 0.0.0.0 bachiche.com
-0.0.0.0 back-nefiix-apps-up.com
 0.0.0.0 back-olx.service-main.shop
 0.0.0.0 backcarecanada.com
 0.0.0.0 backontrackusaa.top
@@ -15991,7 +16006,6 @@
 0.0.0.0 ditraconsulting.com
 0.0.0.0 ditunye.xyz
 0.0.0.0 diundisburdened.info
-0.0.0.0 diurnation.suiledrak.online
 0.0.0.0 divaspaces.com
 0.0.0.0 divatea.pro
 0.0.0.0 dive4.click
@@ -16390,6 +16404,7 @@
 0.0.0.0 dpd-pl.check-buy100.shop
 0.0.0.0 dpd-pl.check-buy103.shop
 0.0.0.0 dpd-pl.check-buy109.shop
+0.0.0.0 dpd-pl.check-buy110.shop
 0.0.0.0 dpd-pl.check-buy178.shop
 0.0.0.0 dpd-pl.check-buy180.shop
 0.0.0.0 dpd-pl.check-buy1115.shop
@@ -16594,7 +16609,6 @@
 0.0.0.0 dtcodeitx.com
 0.0.0.0 dtcorporateacquisitions.com
 0.0.0.0 dtcreativeideas.com
-0.0.0.0 dtcreativeio.info
 0.0.0.0 dtcybermatrix.info
 0.0.0.0 dtcybertechno.com
 0.0.0.0 dtdatastreams.com
@@ -18098,7 +18112,6 @@
 0.0.0.0 ezpayrollhr.com
 0.0.0.0 ezpazios.com
 0.0.0.0 ezrecoveryservice.com
-0.0.0.0 ezut.top
 0.0.0.0 ezvow.com
 0.0.0.0 ezzg.lat
 0.0.0.0 f0ed8b2284.outbtv.fun
@@ -18124,7 +18137,6 @@
 0.0.0.0 f7gthp.skin
 0.0.0.0 f7jorgemendoza.com
 0.0.0.0 f7q13w.cfd
-0.0.0.0 f8hvat.rest
 0.0.0.0 f8mchx.cyou
 0.0.0.0 f9fe62e383.www-dis.lat
 0.0.0.0 f9szdd.lat
@@ -18557,7 +18569,6 @@
 0.0.0.0 ffrewards.org
 0.0.0.0 ffsamerica.org
 0.0.0.0 fg-plh.qweunsl.top
-0.0.0.0 fg.ezut.top
 0.0.0.0 fgandtu.com
 0.0.0.0 fgda.jinmap.top
 0.0.0.0 fgdgf.pages.dev
@@ -19547,7 +19558,6 @@
 0.0.0.0 fywewiula.xyz
 0.0.0.0 fywysey.com
 0.0.0.0 fyxasa.info
-0.0.0.0 fyxd.lat
 0.0.0.0 fz.poxj.skin
 0.0.0.0 fzrp.lat
 0.0.0.0 g1bngvefe.top
@@ -19563,7 +19573,6 @@
 0.0.0.0 g4alct.lat
 0.0.0.0 g5temonta.com
 0.0.0.0 g5uxsx.skin
-0.0.0.0 g7nbmo.skin
 0.0.0.0 g7tcvf.skin
 0.0.0.0 g8cpjs.top
 0.0.0.0 g8njgf.lol
@@ -19660,7 +19669,6 @@
 0.0.0.0 gamesdailynews.com
 0.0.0.0 gamesidia.com
 0.0.0.0 gamestopone.com
-0.0.0.0 gamic.suiledrak.online
 0.0.0.0 gamifylife.site
 0.0.0.0 gamingages.com
 0.0.0.0 gamingame.com
@@ -23706,7 +23714,6 @@
 0.0.0.0 jexigao.xyz
 0.0.0.0 jexxicat.com
 0.0.0.0 jeyene-puhulu.site
-0.0.0.0 jf.ezut.top
 0.0.0.0 jfbweeloteaudfrgt.obscurepath.eu
 0.0.0.0 jfmartlncpa.com
 0.0.0.0 jfxpos.com
@@ -24530,7 +24537,6 @@
 0.0.0.0 keystonlaw.com
 0.0.0.0 keystoredesign.com
 0.0.0.0 kf2sun.top
-0.0.0.0 kf9msx.rest
 0.0.0.0 kfc-fans-official2024.blogspot.com
 0.0.0.0 kfc-fans-official-2024.blogspot.com
 0.0.0.0 kgb34ui9rs8wvez.nutfx.pl
@@ -24944,7 +24950,6 @@
 0.0.0.0 kpqsnm.com
 0.0.0.0 kqa3srihtv89wz.oferta-plus.fun
 0.0.0.0 kqxx.lat
-0.0.0.0 kr.ezut.top
 0.0.0.0 kr.qwantumm.top
 0.0.0.0 kr.waagge.top
 0.0.0.0 kraftangelkrafts.com
@@ -25072,7 +25077,6 @@
 0.0.0.0 kybujoi.com
 0.0.0.0 kyc-statistics.net
 0.0.0.0 kyfemya.com
-0.0.0.0 kyhimiy4.pro
 0.0.0.0 kykunuy.com
 0.0.0.0 kykyniu7.pro
 0.0.0.0 kylajey.info
@@ -26439,7 +26443,6 @@
 0.0.0.0 m3tp.imml.top
 0.0.0.0 m3ykl5rqxa0p7g.tv-plus.fun
 0.0.0.0 m04.b5a2zb.cfd
-0.0.0.0 m4gyoe.skin
 0.0.0.0 m4smxk.icu
 0.0.0.0 m4tp.wtrad.top
 0.0.0.0 m4vrev.skin
@@ -30002,7 +30005,6 @@
 0.0.0.0 o2spl1.ink
 0.0.0.0 o2spl4.top
 0.0.0.0 o2x.98154865.xyz
-0.0.0.0 o3ucun.lat
 0.0.0.0 o4tsnt.hair
 0.0.0.0 o4xoub.rest
 0.0.0.0 o5ogim.staticfast.com
@@ -32067,7 +32069,6 @@
 0.0.0.0 olx.current-url.shop
 0.0.0.0 olx.custom-net.shop
 0.0.0.0 olx.daqenkt.cfd
-0.0.0.0 olx.daspyb.org
 0.0.0.0 olx.de-ordertop.com
 0.0.0.0 olx.denozal.cfd
 0.0.0.0 olx.denzole.sbs
@@ -32090,7 +32091,6 @@
 0.0.0.0 olx.eplatnosc24.pl
 0.0.0.0 olx.esnuta.org
 0.0.0.0 olx.explore-add.shop
-0.0.0.0 olx.explore-net.shop
 0.0.0.0 olx.express-track.store
 0.0.0.0 olx.extensions-click.shop
 0.0.0.0 olx.eywrdow.pics
@@ -32330,7 +32330,6 @@
 0.0.0.0 olx.offer-search.shop
 0.0.0.0 olx.offer-view.shop
 0.0.0.0 olx.official-backup.shop
-0.0.0.0 olx.ofreta-698123.xyz
 0.0.0.0 olx.ogloszenie-354793.shop
 0.0.0.0 olx.ogloszenie-671553.shop
 0.0.0.0 olx.ogloszenie-5292293.shop
@@ -32513,6 +32512,7 @@
 0.0.0.0 olx.pl-id-312098343459893.cfd
 0.0.0.0 olx.pl-kategoria-inne231787346.rest
 0.0.0.0 olx.pl-kategoria-inne-1722.icu
+0.0.0.0 olx.pl-kategoria-ponton-1.icu
 0.0.0.0 olx.pl-kategoria-szklarnie-13.icu
 0.0.0.0 olx.pl-kategoria-traktorki-32612.icu
 0.0.0.0 olx.pl-kategorie-dom-i-ogrod.sbs
@@ -32522,7 +32522,9 @@
 0.0.0.0 olx.pl-kategorie-inne-187.icu
 0.0.0.0 olx.pl-kategorie-inne-894.icu
 0.0.0.0 olx.pl-kategorie-inne-982.icu
+0.0.0.0 olx.pl-kategorie-inne-7155.cfd
 0.0.0.0 olx.pl-kategorie-inne-9814.icu
+0.0.0.0 olx.pl-kategorie-inne-27834.icu
 0.0.0.0 olx.pl-kategorie-inne-85612422.cfd
 0.0.0.0 olx.pl-kategorie-inne.cfd
 0.0.0.0 olx.pl-kategorie-polecane-82839.shop
@@ -32974,6 +32976,7 @@
 0.0.0.0 olx.triolek.today
 0.0.0.0 olx.turbela.sbs
 0.0.0.0 olx.tviske1t.sbs
+0.0.0.0 olx.tvpinfo24.pl
 0.0.0.0 olx.tynezlor.cfd
 0.0.0.0 olx.uomejk.pics
 0.0.0.0 olx.vcealon.icu
@@ -33719,7 +33722,6 @@
 0.0.0.0 p4b2copua.top
 0.0.0.0 p5hpny.cyou
 0.0.0.0 p5mamsd.botard.life
-0.0.0.0 p5whwn.hair
 0.0.0.0 p6nansd.botard.life
 0.0.0.0 p7-gitturim.glitch.me
 0.0.0.0 p7aoyz.bond
@@ -35041,6 +35043,7 @@
 0.0.0.0 pl-kampaniiakredyt.online
 0.0.0.0 pl-kategoria-inne231787346.rest
 0.0.0.0 pl-kategoria-inne-1722.icu
+0.0.0.0 pl-kategoria-ponton-1.icu
 0.0.0.0 pl-kategoria-szklarnie-13.icu
 0.0.0.0 pl-kategoria-traktorki-32612.icu
 0.0.0.0 pl-kategorie-dom-i-ogrod.sbs
@@ -35050,7 +35053,9 @@
 0.0.0.0 pl-kategorie-inne-187.icu
 0.0.0.0 pl-kategorie-inne-894.icu
 0.0.0.0 pl-kategorie-inne-982.icu
+0.0.0.0 pl-kategorie-inne-7155.cfd
 0.0.0.0 pl-kategorie-inne-9814.icu
+0.0.0.0 pl-kategorie-inne-27834.icu
 0.0.0.0 pl-kategorie-inne-85612422.cfd
 0.0.0.0 pl-kategorie-inne.cfd
 0.0.0.0 pl-kategorie-polecane-82839.shop
@@ -35988,7 +35993,6 @@
 0.0.0.0 pocztapolskai.lol
 0.0.0.0 pocztapolskaid.cyou
 0.0.0.0 pocztapolskaid.lat
-0.0.0.0 pocztapolskain.lol
 0.0.0.0 pocztapolskaip.lol
 0.0.0.0 pocztapolskall.lol
 0.0.0.0 pocztapolskals.cyou
@@ -37378,7 +37382,6 @@
 0.0.0.0 quferay.autos
 0.0.0.0 qufos.com
 0.0.0.0 quiariofficial.com
-0.0.0.0 quick8x.space
 0.0.0.0 quick.offer-check.shop
 0.0.0.0 quickangle.cfd
 0.0.0.0 quickbookshelpsupport.com
@@ -41159,6 +41162,7 @@
 0.0.0.0 spl4t2l.lol
 0.0.0.0 spl4tl4.lol
 0.0.0.0 spl5t5.space
+0.0.0.0 spl7t3.lol
 0.0.0.0 spl12t1.lol
 0.0.0.0 spl12t2.lol
 0.0.0.0 spl12tll.lol
@@ -42424,7 +42428,6 @@
 0.0.0.0 tarandka.com
 0.0.0.0 tarblue.com
 0.0.0.0 targetarrows.sbs
-0.0.0.0 targi3267.site
 0.0.0.0 targulpescarilor.ro
 0.0.0.0 targuslock.com
 0.0.0.0 tarifabeaches.com
@@ -43440,7 +43443,6 @@
 0.0.0.0 tiya.tracktango247.xyz
 0.0.0.0 tj3z.com
 0.0.0.0 tj6ucj.rest
-0.0.0.0 tj.ezut.top
 0.0.0.0 tjackson40ccfund.com
 0.0.0.0 tjbeats.com
 0.0.0.0 tjenestetorget.net
@@ -45049,6 +45051,7 @@
 0.0.0.0 vatpers.life
 0.0.0.0 vatripping.com
 0.0.0.0 vaultnetsphere.com
+0.0.0.0 vaultqueri.pro
 0.0.0.0 vaultsecurity.net
 0.0.0.0 vavawi.widgetmarkething.com
 0.0.0.0 vazeney4.pro
@@ -45769,7 +45772,6 @@
 0.0.0.0 vivubo.com
 0.0.0.0 vizanya.pics
 0.0.0.0 vizjer.com.pl
-0.0.0.0 vj.ezut.top
 0.0.0.0 vjcnmkxzksduioklz.pages.dev
 0.0.0.0 vjnted.37782642.xyz
 0.0.0.0 vjnted.57346757.xyz
@@ -45984,7 +45986,6 @@
 0.0.0.0 vunurye.com
 0.0.0.0 vuqonyi.com
 0.0.0.0 vuril.info
-0.0.0.0 vusnapel.sbs
 0.0.0.0 vuvohie.pics
 0.0.0.0 vuvulae.com
 0.0.0.0 vuxynyo.com
@@ -46306,7 +46307,6 @@
 0.0.0.0 wc1hx40nyuti6s.pl-dsn.fun
 0.0.0.0 wc5ls6d4e7oi5e5637g9dfd2.lifestyleones.com
 0.0.0.0 wc9qfx2dmjayz7.pl-plus.lat
-0.0.0.0 wc.ezut.top
 0.0.0.0 wcandl.woctsumm.info
 0.0.0.0 wccuicuitu.com
 0.0.0.0 wcg-roofing.com
@@ -47366,6 +47366,7 @@
 0.0.0.0 www.0-1-x.514484648.xyz
 0.0.0.0 www.0-1-x.609418154.xyz
 0.0.0.0 www.0-1-x.659520851.xyz
+0.0.0.0 www.0-1-xx.57154872.xyz
 0.0.0.0 www.0-1-xx.77154872.xyz
 0.0.0.0 www.0-1x.8632152.xyz
 0.0.0.0 www.0-i-x.29651548.xyz
@@ -47450,7 +47451,6 @@
 0.0.0.0 www.0llx.86659125.xyz
 0.0.0.0 www.0llx.97948323.xyz
 0.0.0.0 www.0llx.228569132.xyz
-0.0.0.0 www.0lx.260382.xyz
 0.0.0.0 www.0lx.0862232.xyz
 0.0.0.0 www.0lx.1623137.xyz
 0.0.0.0 www.0lx.1684376.xyz
@@ -49027,6 +49027,7 @@
 0.0.0.0 www.aiebilet.pl-garaze-blaszane-120.icu
 0.0.0.0 www.aiebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 www.aiebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 www.aiebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 www.aiebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.aiebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.aiebilet.pl-kategorie-inne-17.icu
@@ -49035,6 +49036,7 @@
 0.0.0.0 www.aiebilet.pl-kategorie-inne-187.icu
 0.0.0.0 www.aiebilet.pl-kategorie-inne-894.icu
 0.0.0.0 www.aiebilet.pl-kategorie-inne-982.icu
+0.0.0.0 www.aiebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 www.aiebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.aiebilet.pl-kategorie-inne.cfd
@@ -49555,6 +49557,7 @@
 0.0.0.0 www.alebilet.pl-id1374786.sbs
 0.0.0.0 www.alebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 www.alebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 www.alebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 www.alebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.alebilet.pl-kategoria-traktorki-32612.icu
 0.0.0.0 www.alebilet.pl-kategorie-dom-i-ogrod.sbs
@@ -49564,7 +49567,9 @@
 0.0.0.0 www.alebilet.pl-kategorie-inne-187.icu
 0.0.0.0 www.alebilet.pl-kategorie-inne-894.icu
 0.0.0.0 www.alebilet.pl-kategorie-inne-982.icu
+0.0.0.0 www.alebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.alebilet.pl-kategorie-inne-9814.icu
+0.0.0.0 www.alebilet.pl-kategorie-inne-27834.icu
 0.0.0.0 www.alebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.alebilet.pl-kategorie-inne.cfd
 0.0.0.0 www.alebilet.pl-kategorie-polecane-82839.shop
@@ -50085,6 +50090,7 @@
 0.0.0.0 www.allebilet.pl-garaze-blaszane-120.icu
 0.0.0.0 www.allebilet.pl-kategoria-inne231787346.rest
 0.0.0.0 www.allebilet.pl-kategoria-inne-1722.icu
+0.0.0.0 www.allebilet.pl-kategoria-ponton-1.icu
 0.0.0.0 www.allebilet.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.allebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.allebilet.pl-kategorie-inne-17.icu
@@ -50093,6 +50099,7 @@
 0.0.0.0 www.allebilet.pl-kategorie-inne-187.icu
 0.0.0.0 www.allebilet.pl-kategorie-inne-894.icu
 0.0.0.0 www.allebilet.pl-kategorie-inne-982.icu
+0.0.0.0 www.allebilet.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.allebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allebilet.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.allebilet.pl-kategorie-inne.cfd
@@ -50487,6 +50494,7 @@
 0.0.0.0 www.allegro.pl-id1374786.sbs
 0.0.0.0 www.allegro.pl-kategoria-inne231787346.rest
 0.0.0.0 www.allegro.pl-kategoria-inne-1722.icu
+0.0.0.0 www.allegro.pl-kategoria-ponton-1.icu
 0.0.0.0 www.allegro.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.allegro.pl-kategoria-traktorki-32612.icu
 0.0.0.0 www.allegro.pl-kategorie-dom-i-ogrod.sbs
@@ -50496,7 +50504,9 @@
 0.0.0.0 www.allegro.pl-kategorie-inne-187.icu
 0.0.0.0 www.allegro.pl-kategorie-inne-894.icu
 0.0.0.0 www.allegro.pl-kategorie-inne-982.icu
+0.0.0.0 www.allegro.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.allegro.pl-kategorie-inne-9814.icu
+0.0.0.0 www.allegro.pl-kategorie-inne-27834.icu
 0.0.0.0 www.allegro.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.allegro.pl-kategorie-inne.cfd
 0.0.0.0 www.allegro.pl-kategorie-polecane-82839.shop
@@ -51103,6 +51113,7 @@
 0.0.0.0 www.allegrolokainie.pl-garaze-blaszane-120.icu
 0.0.0.0 www.allegrolokainie.pl-kategoria-inne231787346.rest
 0.0.0.0 www.allegrolokainie.pl-kategoria-inne-1722.icu
+0.0.0.0 www.allegrolokainie.pl-kategoria-ponton-1.icu
 0.0.0.0 www.allegrolokainie.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.allegrolokainie.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-17.icu
@@ -51111,6 +51122,7 @@
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-187.icu
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-894.icu
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-982.icu
+0.0.0.0 www.allegrolokainie.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne.cfd
@@ -51195,6 +51207,7 @@
 0.0.0.0 www.allegrolokalne.pl-garaze-blaszane-120.icu
 0.0.0.0 www.allegrolokalne.pl-kategoria-inne231787346.rest
 0.0.0.0 www.allegrolokalne.pl-kategoria-inne-1722.icu
+0.0.0.0 www.allegrolokalne.pl-kategoria-ponton-1.icu
 0.0.0.0 www.allegrolokalne.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.allegrolokalne.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-17.icu
@@ -51203,6 +51216,7 @@
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-187.icu
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-894.icu
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-982.icu
+0.0.0.0 www.allegrolokalne.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne.cfd
@@ -51465,6 +51479,7 @@
 0.0.0.0 www.allegrolokalnie.id-287651-listing.cfd
 0.0.0.0 www.allegrolokalnie.id-712648.buzz
 0.0.0.0 www.allegrolokalnie.id-763254-listing.cfd
+0.0.0.0 www.allegrolokalnie.id-871244.cfd
 0.0.0.0 www.allegrolokalnie.id-871246.buzz
 0.0.0.0 www.allegrolokalnie.id-1982412.icu
 0.0.0.0 www.allegrolokalnie.id-7128444.cfd
@@ -51878,7 +51893,6 @@
 0.0.0.0 www.allegrolokalnie.pl-457gh5687345gv234g6vc.buzz
 0.0.0.0 www.allegrolokalnie.pl-510.cfd
 0.0.0.0 www.allegrolokalnie.pl-546t348977t.shop
-0.0.0.0 www.allegrolokalnie.pl-546t3476548977t.shop
 0.0.0.0 www.allegrolokalnie.pl-562.icu
 0.0.0.0 www.allegrolokalnie.pl-564.cfd
 0.0.0.0 www.allegrolokalnie.pl-564h7g5678h546.buzz
@@ -52221,6 +52235,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategoria-436732.icu
 0.0.0.0 www.allegrolokalnie.pl-kategoria-inne231787346.rest
 0.0.0.0 www.allegrolokalnie.pl-kategoria-inne-1722.icu
+0.0.0.0 www.allegrolokalnie.pl-kategoria-ponton-1.icu
 0.0.0.0 www.allegrolokalnie.pl-kategoria-szklarnie-5.icu
 0.0.0.0 www.allegrolokalnie.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.allegrolokalnie.pl-kategoria-traktorki-32612.icu
@@ -52238,6 +52253,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-501.cfd
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-894.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-982.icu
+0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-7412.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-8173.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-8402.sbs
@@ -52247,6 +52263,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9812.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9824.icu
+0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-27834.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne.cfd
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne.sbs
@@ -52957,7 +52974,6 @@
 0.0.0.0 www.allegrolokalnie.v15.buzz
 0.0.0.0 www.allegrolokalnie.x0e9q1p0.icu
 0.0.0.0 www.allegrolokalnie.x0v491-9c0a91-91357.icu
-0.0.0.0 www.allegrolokalnie.x0v-s0a9-v0s9.shop
 0.0.0.0 www.allegrolokalnie.y0c9x8a0139c.buzz
 0.0.0.0 www.allegrolokalnie.y0c-a31-v0a-310.buzz
 0.0.0.0 www.allegrolokalnie.y0v8av7a01031.buzz
@@ -54474,7 +54490,6 @@
 0.0.0.0 www.bacdantpi.com
 0.0.0.0 www.bacekend.com
 0.0.0.0 www.bachiche.com
-0.0.0.0 www.back-nefiix-apps-up.com
 0.0.0.0 www.back-olx.service-main.shop
 0.0.0.0 www.backcarecanada.com
 0.0.0.0 www.backontrackusaa.top
@@ -59942,7 +59957,6 @@
 0.0.0.0 www.ditraconsulting.com
 0.0.0.0 www.ditunye.xyz
 0.0.0.0 www.diundisburdened.info
-0.0.0.0 www.diurnation.suiledrak.online
 0.0.0.0 www.divaspaces.com
 0.0.0.0 www.divatea.pro
 0.0.0.0 www.dive4.click
@@ -60341,6 +60355,7 @@
 0.0.0.0 www.dpd-pl.check-buy100.shop
 0.0.0.0 www.dpd-pl.check-buy103.shop
 0.0.0.0 www.dpd-pl.check-buy109.shop
+0.0.0.0 www.dpd-pl.check-buy110.shop
 0.0.0.0 www.dpd-pl.check-buy178.shop
 0.0.0.0 www.dpd-pl.check-buy180.shop
 0.0.0.0 www.dpd-pl.check-buy1115.shop
@@ -60545,7 +60560,6 @@
 0.0.0.0 www.dtcodeitx.com
 0.0.0.0 www.dtcorporateacquisitions.com
 0.0.0.0 www.dtcreativeideas.com
-0.0.0.0 www.dtcreativeio.info
 0.0.0.0 www.dtcybermatrix.info
 0.0.0.0 www.dtcybertechno.com
 0.0.0.0 www.dtdatastreams.com
@@ -62049,7 +62063,6 @@
 0.0.0.0 www.ezpayrollhr.com
 0.0.0.0 www.ezpazios.com
 0.0.0.0 www.ezrecoveryservice.com
-0.0.0.0 www.ezut.top
 0.0.0.0 www.ezvow.com
 0.0.0.0 www.ezzg.lat
 0.0.0.0 www.f0ed8b2284.outbtv.fun
@@ -62075,7 +62088,6 @@
 0.0.0.0 www.f7gthp.skin
 0.0.0.0 www.f7jorgemendoza.com
 0.0.0.0 www.f7q13w.cfd
-0.0.0.0 www.f8hvat.rest
 0.0.0.0 www.f8mchx.cyou
 0.0.0.0 www.f9fe62e383.www-dis.lat
 0.0.0.0 www.f9szdd.lat
@@ -62508,7 +62520,6 @@
 0.0.0.0 www.ffrewards.org
 0.0.0.0 www.ffsamerica.org
 0.0.0.0 www.fg-plh.qweunsl.top
-0.0.0.0 www.fg.ezut.top
 0.0.0.0 www.fgandtu.com
 0.0.0.0 www.fgda.jinmap.top
 0.0.0.0 www.fgdgf.pages.dev
@@ -63498,7 +63509,6 @@
 0.0.0.0 www.fywewiula.xyz
 0.0.0.0 www.fywysey.com
 0.0.0.0 www.fyxasa.info
-0.0.0.0 www.fyxd.lat
 0.0.0.0 www.fz.poxj.skin
 0.0.0.0 www.fzrp.lat
 0.0.0.0 www.g1bngvefe.top
@@ -63514,7 +63524,6 @@
 0.0.0.0 www.g4alct.lat
 0.0.0.0 www.g5temonta.com
 0.0.0.0 www.g5uxsx.skin
-0.0.0.0 www.g7nbmo.skin
 0.0.0.0 www.g7tcvf.skin
 0.0.0.0 www.g8cpjs.top
 0.0.0.0 www.g8njgf.lol
@@ -63611,7 +63620,6 @@
 0.0.0.0 www.gamesdailynews.com
 0.0.0.0 www.gamesidia.com
 0.0.0.0 www.gamestopone.com
-0.0.0.0 www.gamic.suiledrak.online
 0.0.0.0 www.gamifylife.site
 0.0.0.0 www.gamingages.com
 0.0.0.0 www.gamingame.com
@@ -67657,7 +67665,6 @@
 0.0.0.0 www.jexigao.xyz
 0.0.0.0 www.jexxicat.com
 0.0.0.0 www.jeyene-puhulu.site
-0.0.0.0 www.jf.ezut.top
 0.0.0.0 www.jfbweeloteaudfrgt.obscurepath.eu
 0.0.0.0 www.jfmartlncpa.com
 0.0.0.0 www.jfxpos.com
@@ -68481,7 +68488,6 @@
 0.0.0.0 www.keystonlaw.com
 0.0.0.0 www.keystoredesign.com
 0.0.0.0 www.kf2sun.top
-0.0.0.0 www.kf9msx.rest
 0.0.0.0 www.kfc-fans-official2024.blogspot.com
 0.0.0.0 www.kfc-fans-official-2024.blogspot.com
 0.0.0.0 www.kgb34ui9rs8wvez.nutfx.pl
@@ -68895,7 +68901,6 @@
 0.0.0.0 www.kpqsnm.com
 0.0.0.0 www.kqa3srihtv89wz.oferta-plus.fun
 0.0.0.0 www.kqxx.lat
-0.0.0.0 www.kr.ezut.top
 0.0.0.0 www.kr.qwantumm.top
 0.0.0.0 www.kr.waagge.top
 0.0.0.0 www.kraftangelkrafts.com
@@ -69023,7 +69028,6 @@
 0.0.0.0 www.kybujoi.com
 0.0.0.0 www.kyc-statistics.net
 0.0.0.0 www.kyfemya.com
-0.0.0.0 www.kyhimiy4.pro
 0.0.0.0 www.kykunuy.com
 0.0.0.0 www.kykyniu7.pro
 0.0.0.0 www.kylajey.info
@@ -70390,7 +70394,6 @@
 0.0.0.0 www.m3tp.imml.top
 0.0.0.0 www.m3ykl5rqxa0p7g.tv-plus.fun
 0.0.0.0 www.m04.b5a2zb.cfd
-0.0.0.0 www.m4gyoe.skin
 0.0.0.0 www.m4smxk.icu
 0.0.0.0 www.m4tp.wtrad.top
 0.0.0.0 www.m4vrev.skin
@@ -73953,7 +73956,6 @@
 0.0.0.0 www.o2spl1.ink
 0.0.0.0 www.o2spl4.top
 0.0.0.0 www.o2x.98154865.xyz
-0.0.0.0 www.o3ucun.lat
 0.0.0.0 www.o4tsnt.hair
 0.0.0.0 www.o4xoub.rest
 0.0.0.0 www.o5ogim.staticfast.com
@@ -76018,7 +76020,6 @@
 0.0.0.0 www.olx.current-url.shop
 0.0.0.0 www.olx.custom-net.shop
 0.0.0.0 www.olx.daqenkt.cfd
-0.0.0.0 www.olx.daspyb.org
 0.0.0.0 www.olx.de-ordertop.com
 0.0.0.0 www.olx.denozal.cfd
 0.0.0.0 www.olx.denzole.sbs
@@ -76041,7 +76042,6 @@
 0.0.0.0 www.olx.eplatnosc24.pl
 0.0.0.0 www.olx.esnuta.org
 0.0.0.0 www.olx.explore-add.shop
-0.0.0.0 www.olx.explore-net.shop
 0.0.0.0 www.olx.express-track.store
 0.0.0.0 www.olx.extensions-click.shop
 0.0.0.0 www.olx.eywrdow.pics
@@ -76281,7 +76281,6 @@
 0.0.0.0 www.olx.offer-search.shop
 0.0.0.0 www.olx.offer-view.shop
 0.0.0.0 www.olx.official-backup.shop
-0.0.0.0 www.olx.ofreta-698123.xyz
 0.0.0.0 www.olx.ogloszenie-354793.shop
 0.0.0.0 www.olx.ogloszenie-671553.shop
 0.0.0.0 www.olx.ogloszenie-5292293.shop
@@ -76464,6 +76463,7 @@
 0.0.0.0 www.olx.pl-id-312098343459893.cfd
 0.0.0.0 www.olx.pl-kategoria-inne231787346.rest
 0.0.0.0 www.olx.pl-kategoria-inne-1722.icu
+0.0.0.0 www.olx.pl-kategoria-ponton-1.icu
 0.0.0.0 www.olx.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.olx.pl-kategoria-traktorki-32612.icu
 0.0.0.0 www.olx.pl-kategorie-dom-i-ogrod.sbs
@@ -76473,7 +76473,9 @@
 0.0.0.0 www.olx.pl-kategorie-inne-187.icu
 0.0.0.0 www.olx.pl-kategorie-inne-894.icu
 0.0.0.0 www.olx.pl-kategorie-inne-982.icu
+0.0.0.0 www.olx.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.olx.pl-kategorie-inne-9814.icu
+0.0.0.0 www.olx.pl-kategorie-inne-27834.icu
 0.0.0.0 www.olx.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.olx.pl-kategorie-inne.cfd
 0.0.0.0 www.olx.pl-kategorie-polecane-82839.shop
@@ -76925,6 +76927,7 @@
 0.0.0.0 www.olx.triolek.today
 0.0.0.0 www.olx.turbela.sbs
 0.0.0.0 www.olx.tviske1t.sbs
+0.0.0.0 www.olx.tvpinfo24.pl
 0.0.0.0 www.olx.tynezlor.cfd
 0.0.0.0 www.olx.uomejk.pics
 0.0.0.0 www.olx.vcealon.icu
@@ -77670,7 +77673,6 @@
 0.0.0.0 www.p4b2copua.top
 0.0.0.0 www.p5hpny.cyou
 0.0.0.0 www.p5mamsd.botard.life
-0.0.0.0 www.p5whwn.hair
 0.0.0.0 www.p6nansd.botard.life
 0.0.0.0 www.p7-gitturim.glitch.me
 0.0.0.0 www.p7aoyz.bond
@@ -78981,6 +78983,7 @@
 0.0.0.0 www.pl-kampaniiakredyt.online
 0.0.0.0 www.pl-kategoria-inne231787346.rest
 0.0.0.0 www.pl-kategoria-inne-1722.icu
+0.0.0.0 www.pl-kategoria-ponton-1.icu
 0.0.0.0 www.pl-kategoria-szklarnie-13.icu
 0.0.0.0 www.pl-kategoria-traktorki-32612.icu
 0.0.0.0 www.pl-kategorie-dom-i-ogrod.sbs
@@ -78990,7 +78993,9 @@
 0.0.0.0 www.pl-kategorie-inne-187.icu
 0.0.0.0 www.pl-kategorie-inne-894.icu
 0.0.0.0 www.pl-kategorie-inne-982.icu
+0.0.0.0 www.pl-kategorie-inne-7155.cfd
 0.0.0.0 www.pl-kategorie-inne-9814.icu
+0.0.0.0 www.pl-kategorie-inne-27834.icu
 0.0.0.0 www.pl-kategorie-inne-85612422.cfd
 0.0.0.0 www.pl-kategorie-inne.cfd
 0.0.0.0 www.pl-kategorie-polecane-82839.shop
@@ -79892,7 +79897,6 @@
 0.0.0.0 www.pocztapolskai.lol
 0.0.0.0 www.pocztapolskaid.cyou
 0.0.0.0 www.pocztapolskaid.lat
-0.0.0.0 www.pocztapolskain.lol
 0.0.0.0 www.pocztapolskaip.lol
 0.0.0.0 www.pocztapolskall.lol
 0.0.0.0 www.pocztapolskals.cyou
@@ -81282,7 +81286,6 @@
 0.0.0.0 www.quferay.autos
 0.0.0.0 www.qufos.com
 0.0.0.0 www.quiariofficial.com
-0.0.0.0 www.quick8x.space
 0.0.0.0 www.quick.offer-check.shop
 0.0.0.0 www.quickangle.cfd
 0.0.0.0 www.quickbookshelpsupport.com
@@ -85063,6 +85066,7 @@
 0.0.0.0 www.spl4t2l.lol
 0.0.0.0 www.spl4tl4.lol
 0.0.0.0 www.spl5t5.space
+0.0.0.0 www.spl7t3.lol
 0.0.0.0 www.spl12t1.lol
 0.0.0.0 www.spl12t2.lol
 0.0.0.0 www.spl12tll.lol
@@ -86328,7 +86332,6 @@
 0.0.0.0 www.tarandka.com
 0.0.0.0 www.tarblue.com
 0.0.0.0 www.targetarrows.sbs
-0.0.0.0 www.targi3267.site
 0.0.0.0 www.targulpescarilor.ro
 0.0.0.0 www.targuslock.com
 0.0.0.0 www.tarifabeaches.com
@@ -87344,7 +87347,6 @@
 0.0.0.0 www.tiya.tracktango247.xyz
 0.0.0.0 www.tj3z.com
 0.0.0.0 www.tj6ucj.rest
-0.0.0.0 www.tj.ezut.top
 0.0.0.0 www.tjackson40ccfund.com
 0.0.0.0 www.tjbeats.com
 0.0.0.0 www.tjenestetorget.net
@@ -88953,6 +88955,7 @@
 0.0.0.0 www.vatpers.life
 0.0.0.0 www.vatripping.com
 0.0.0.0 www.vaultnetsphere.com
+0.0.0.0 www.vaultqueri.pro
 0.0.0.0 www.vaultsecurity.net
 0.0.0.0 www.vavawi.widgetmarkething.com
 0.0.0.0 www.vazeney4.pro
@@ -89673,7 +89676,6 @@
 0.0.0.0 www.vivubo.com
 0.0.0.0 www.vizanya.pics
 0.0.0.0 www.vizjer.com.pl
-0.0.0.0 www.vj.ezut.top
 0.0.0.0 www.vjcnmkxzksduioklz.pages.dev
 0.0.0.0 www.vjnted.37782642.xyz
 0.0.0.0 www.vjnted.57346757.xyz
@@ -89888,7 +89890,6 @@
 0.0.0.0 www.vunurye.com
 0.0.0.0 www.vuqonyi.com
 0.0.0.0 www.vuril.info
-0.0.0.0 www.vusnapel.sbs
 0.0.0.0 www.vuvohie.pics
 0.0.0.0 www.vuvulae.com
 0.0.0.0 www.vuxynyo.com
@@ -90210,7 +90211,6 @@
 0.0.0.0 www.wc1hx40nyuti6s.pl-dsn.fun
 0.0.0.0 www.wc5ls6d4e7oi5e5637g9dfd2.lifestyleones.com
 0.0.0.0 www.wc9qfx2dmjayz7.pl-plus.lat
-0.0.0.0 www.wc.ezut.top
 0.0.0.0 www.wcandl.woctsumm.info
 0.0.0.0 www.wccuicuitu.com
 0.0.0.0 www.wcg-roofing.com
@@ -91707,7 +91707,6 @@
 0.0.0.0 www.yovivodelamusica.com
 0.0.0.0 www.yovivoketo.com
 0.0.0.0 www.yp2eax.bond
-0.0.0.0 www.yp.ezut.top
 0.0.0.0 www.yppyvipb3.top
 0.0.0.0 www.yqlq.skin
 0.0.0.0 www.yqxx.lat
@@ -92106,7 +92105,6 @@
 0.0.0.0 www.zpf5fpqqissa870yv0ijqhxb.s3.us-west-1.amazonaws.com
 0.0.0.0 www.zptpszj.shop
 0.0.0.0 www.zqcnjqj.shop
-0.0.0.0 www.zr.ezut.top
 0.0.0.0 www.zrdgvrgdz.top
 0.0.0.0 www.zrdu.top
 0.0.0.0 www.zregtube.com
@@ -92642,7 +92640,6 @@
 0.0.0.0 yovivodelamusica.com
 0.0.0.0 yovivoketo.com
 0.0.0.0 yp2eax.bond
-0.0.0.0 yp.ezut.top
 0.0.0.0 yppyvipb3.top
 0.0.0.0 yqlq.skin
 0.0.0.0 yqxx.lat
@@ -93041,7 +93038,6 @@
 0.0.0.0 zpf5fpqqissa870yv0ijqhxb.s3.us-west-1.amazonaws.com
 0.0.0.0 zptpszj.shop
 0.0.0.0 zqcnjqj.shop
-0.0.0.0 zr.ezut.top
 0.0.0.0 zrdgvrgdz.top
 0.0.0.0 zrdu.top
 0.0.0.0 zregtube.com
