@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 09 May 2025, 22:27 UTC+02:00
-# Version: 2025.5.9.3
+# Last modified: Sat, 10 May 2025, 02:16 UTC+02:00
+# Version: 2025.5.10.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -416,6 +416,7 @@
 0.0.0.0 fun-mobi.pl
 0.0.0.0 funatyk.com
 0.0.0.0 fundacjaazyl.pl
+0.0.0.0 fundacjaperiod.pl
 0.0.0.0 fundacjazielonaprzyszlosc.pl
 0.0.0.0 funskan.pl
 0.0.0.0 furlapolska.com
@@ -1790,6 +1791,7 @@
 0.0.0.0 www.fun-mobi.pl
 0.0.0.0 www.funatyk.com
 0.0.0.0 www.fundacjaazyl.pl
+0.0.0.0 www.fundacjaperiod.pl
 0.0.0.0 www.fundacjazielonaprzyszlosc.pl
 0.0.0.0 www.funskan.pl
 0.0.0.0 www.furlapolska.com
@@ -4038,7 +4040,6 @@
 0.0.0.0 9bb5030083.dsnplus.one
 0.0.0.0 9c10f40d28.nxcli.io
 0.0.0.0 9c050b5f684d72802f2c23bef359c03f.albfilz.com
-0.0.0.0 9c71802255.smtvw.pl
 0.0.0.0 09cf4681b7.plus-d.eu
 0.0.0.0 9cmpv3072w65xeu.nutfx.pl
 0.0.0.0 9d1f54.cc
@@ -4330,7 +4331,6 @@
 0.0.0.0 550grados.com
 0.0.0.0 595s.com
 0.0.0.0 596e921984.plus3m.fun
-0.0.0.0 623ca1203d.mertv.pl
 0.0.0.0 637cgvd.cc
 0.0.0.0 641yncwfkm83s0x.netfix-plts.online
 0.0.0.0 679c9bba1.brzysk.hekko.pl
@@ -4388,7 +4388,6 @@
 0.0.0.0 2750allegr0.info
 0.0.0.0 2841-94219-48124.shop
 0.0.0.0 3234mypz.com
-0.0.0.0 3752f83db0.mertv.pl
 0.0.0.0 04081fccc795cf.www-plus.site
 0.0.0.0 4327be446a.4psq.one
 0.0.0.0 6357castejon.com
@@ -4424,7 +4423,6 @@
 0.0.0.0 74372.cfd
 0.0.0.0 74657.top
 0.0.0.0 76185-094142.shop
-0.0.0.0 77264cf0e6.mertv.pl
 0.0.0.0 77926bb393dd19e2909a4e8f8609dccb.ip-ddns.com
 0.0.0.0 84935cb032.facplus.click
 0.0.0.0 091284.shop
@@ -4551,7 +4549,6 @@
 0.0.0.0 278423774.xyz
 0.0.0.0 282883833.com
 0.0.0.0 360875915.xyz
-0.0.0.0 391342715f.mertv.pl
 0.0.0.0 456376270.xyz
 0.0.0.0 460875915.xyz
 0.0.0.0 499393944.com
@@ -5992,6 +5989,7 @@
 0.0.0.0 alebilet.oferta-1025612.cfd
 0.0.0.0 alebilet.oferta-1050135.icu
 0.0.0.0 alebilet.oferta-1151911.icu
+0.0.0.0 alebilet.oferta-1205672.sbs
 0.0.0.0 alebilet.oferta-1235623.shop
 0.0.0.0 alebilet.oferta-1296373.icu
 0.0.0.0 alebilet.oferta-1576868.shop
@@ -7326,6 +7324,7 @@
 0.0.0.0 allegro.oferta-1025612.cfd
 0.0.0.0 allegro.oferta-1050135.icu
 0.0.0.0 allegro.oferta-1151911.icu
+0.0.0.0 allegro.oferta-1205672.sbs
 0.0.0.0 allegro.oferta-1235623.shop
 0.0.0.0 allegro.oferta-1296373.icu
 0.0.0.0 allegro.oferta-1576868.shop
@@ -9374,6 +9373,7 @@
 0.0.0.0 allegrolokalnie.oferta-1025612.cfd
 0.0.0.0 allegrolokalnie.oferta-1050135.icu
 0.0.0.0 allegrolokalnie.oferta-1151911.icu
+0.0.0.0 allegrolokalnie.oferta-1205672.sbs
 0.0.0.0 allegrolokalnie.oferta-1235623.shop
 0.0.0.0 allegrolokalnie.oferta-1296373.icu
 0.0.0.0 allegrolokalnie.oferta-1576868.shop
@@ -10044,6 +10044,7 @@
 0.0.0.0 allegrolokalnie.pl-92032932.rest
 0.0.0.0 allegrolokalnie.pl-92049021.rest
 0.0.0.0 allegrolokalnie.pl-92049021.sbs
+0.0.0.0 allegrolokalnie.pl-92471031.cfd
 0.0.0.0 allegrolokalnie.pl-93045492.sbs
 0.0.0.0 allegrolokalnie.pl-93824348.cfd
 0.0.0.0 allegrolokalnie.pl-93824348.icu
@@ -13495,6 +13496,7 @@
 0.0.0.0 balnearioelraposo.com
 0.0.0.0 balnequadr.pro
 0.0.0.0 balpipe1.typedream.app
+0.0.0.0 balpp.typedream.app
 0.0.0.0 balsidisin.pro
 0.0.0.0 baltasarsoage.com
 0.0.0.0 balticnews.pages.dev
@@ -19690,7 +19692,6 @@
 0.0.0.0 cryptomarketgap.com
 0.0.0.0 cryptomonnaiesuisse.com
 0.0.0.0 cryptomortales.com
-0.0.0.0 cryptomusk.io
 0.0.0.0 cryptonitro.com
 0.0.0.0 cryptonote.site
 0.0.0.0 cryptonowz.xyz
@@ -22696,7 +22697,6 @@
 0.0.0.0 e7caf3e584.aliegro.click
 0.0.0.0 e8cf09b7fffec10cbf7205d765d005d7.albfilz.com
 0.0.0.0 e8d429b386.disnnplus.click
-0.0.0.0 e8ee132d5b.mertv.pl
 0.0.0.0 e9lvau.lat
 0.0.0.0 e9qtif.icu
 0.0.0.0 e29a2f84f.brzysk.hekko.pl
@@ -24950,6 +24950,7 @@
 0.0.0.0 ferreiraconstructioninc.com
 0.0.0.0 ferreti-it.com
 0.0.0.0 ferripiati.pro
+0.0.0.0 ferroconn.com
 0.0.0.0 ferroinfer.pro
 0.0.0.0 ferruramme.pro
 0.0.0.0 ferruretin.pro
@@ -28770,6 +28771,7 @@
 0.0.0.0 herprairiemountainhome.com
 0.0.0.0 herrakit.com
 0.0.0.0 herramientalandia.com
+0.0.0.0 hertads.info
 0.0.0.0 hertenauto.com
 0.0.0.0 heruprise.org
 0.0.0.0 herupriseera.com
@@ -32038,6 +32040,7 @@
 0.0.0.0 itservicessolution.com
 0.0.0.0 itsgabemotta.com
 0.0.0.0 itsleila.com
+0.0.0.0 itsohcken.s3.fr-par.scw.cloud
 0.0.0.0 itsrahulev.com
 0.0.0.0 itsrapidtransactionhub.com
 0.0.0.0 itsrohan.com
@@ -33619,6 +33622,7 @@
 0.0.0.0 knowledgewebzone.info
 0.0.0.0 knowlerion.info
 0.0.0.0 knowlevo.info
+0.0.0.0 knowlith.info
 0.0.0.0 knowlura.info
 0.0.0.0 knv.apeweae.top
 0.0.0.0 ko1vkg.hair
@@ -34149,6 +34153,7 @@
 0.0.0.0 laredocabinets.org
 0.0.0.0 laredouteorg.cc
 0.0.0.0 laredouteorg.com
+0.0.0.0 laretder.info
 0.0.0.0 large-controller-massive.on-fleek.app
 0.0.0.0 largeinsel.pro
 0.0.0.0 larghdecon.pro
@@ -40395,6 +40400,7 @@
 0.0.0.0 oferta-1025612.cfd
 0.0.0.0 oferta-1050135.icu
 0.0.0.0 oferta-1151911.icu
+0.0.0.0 oferta-1205672.sbs
 0.0.0.0 oferta-1235623.shop
 0.0.0.0 oferta-1296373.icu
 0.0.0.0 oferta-1576868.shop
@@ -40561,7 +40567,6 @@
 0.0.0.0 officeproductivityhub.com
 0.0.0.0 officewestside.org
 0.0.0.0 officgeocr.pro
-0.0.0.0 officialco.shop
 0.0.0.0 officialkdppublishers.com
 0.0.0.0 officiallegalinformarketplaces.com
 0.0.0.0 officialsun.com
@@ -42300,6 +42305,7 @@
 0.0.0.0 olx.oferta-1025612.cfd
 0.0.0.0 olx.oferta-1050135.icu
 0.0.0.0 olx.oferta-1151911.icu
+0.0.0.0 olx.oferta-1205672.sbs
 0.0.0.0 olx.oferta-1235623.shop
 0.0.0.0 olx.oferta-1296373.icu
 0.0.0.0 olx.oferta-1576868.shop
@@ -46127,7 +46133,6 @@
 0.0.0.0 pl-idf53476y657hgv5678.buzz
 0.0.0.0 pl-infon.com
 0.0.0.0 pl-inpost.click
-0.0.0.0 pl-inspost.top
 0.0.0.0 pl-ipkobp.pl-bp.com
 0.0.0.0 pl-kampaniiakredyt.online
 0.0.0.0 pl-kategoria97515835.icu
@@ -52621,6 +52626,7 @@
 0.0.0.0 scopeflick.cfd
 0.0.0.0 scopegrid.site
 0.0.0.0 scopehatch.site
+0.0.0.0 scopehub.cfd
 0.0.0.0 scopeknot.site
 0.0.0.0 scopepizzi.pro
 0.0.0.0 scopet.pics
@@ -54296,7 +54302,6 @@
 0.0.0.0 smsiak.pl
 0.0.0.0 smsiaki.eu
 0.0.0.0 smsy24.pl
-0.0.0.0 smtvw.pl
 0.0.0.0 smushgame.com
 0.0.0.0 smzecamer.pro
 0.0.0.0 sn1lerpski.com
@@ -55373,6 +55378,7 @@
 0.0.0.0 srtnadwerkicfja17.543558.com
 0.0.0.0 srtnadwerkicfja17.699539.com
 0.0.0.0 srtndawtikcj.004722.info
+0.0.0.0 srtndawtikcj.452640.info
 0.0.0.0 srtndawtikcj.611357.info
 0.0.0.0 srtndawtikcj.899110.info
 0.0.0.0 sruggmesur.pro
@@ -57415,6 +57421,7 @@
 0.0.0.0 temza.com
 0.0.0.0 tenaimalac.pro
 0.0.0.0 tenantscores.top
+0.0.0.0 tenawii.com
 0.0.0.0 tenbestalbums.com
 0.0.0.0 tendermuse.pro
 0.0.0.0 tendertango.pro
@@ -61540,6 +61547,7 @@
 0.0.0.0 vinted.verpfiy837593.com
 0.0.0.0 vinted.vint-vint.com.de
 0.0.0.0 vinted.vinted-order2012.shop
+0.0.0.0 vinted.vintedverify905217paypal.com
 0.0.0.0 vinted.wallet305.homes
 0.0.0.0 vinted.wallet905.shop
 0.0.0.0 vinted.zahlung13.de
@@ -61580,7 +61588,6 @@
 0.0.0.0 violinextraordinaire.com
 0.0.0.0 violinsignup.com
 0.0.0.0 vioravex.site
-0.0.0.0 vip2.gift
 0.0.0.0 vip-helikon.shop
 0.0.0.0 vip.utf-li.xyz
 0.0.0.0 vipacadem.com
@@ -64424,7 +64431,6 @@
 0.0.0.0 www.9bb5030083.dsnplus.one
 0.0.0.0 www.9c10f40d28.nxcli.io
 0.0.0.0 www.9c050b5f684d72802f2c23bef359c03f.albfilz.com
-0.0.0.0 www.9c71802255.smtvw.pl
 0.0.0.0 www.09cf4681b7.plus-d.eu
 0.0.0.0 www.9cmpv3072w65xeu.nutfx.pl
 0.0.0.0 www.9d1f54.cc
@@ -64716,7 +64722,6 @@
 0.0.0.0 www.550grados.com
 0.0.0.0 www.595s.com
 0.0.0.0 www.596e921984.plus3m.fun
-0.0.0.0 www.623ca1203d.mertv.pl
 0.0.0.0 www.637cgvd.cc
 0.0.0.0 www.641yncwfkm83s0x.netfix-plts.online
 0.0.0.0 www.679c9bba1.brzysk.hekko.pl
@@ -64774,7 +64779,6 @@
 0.0.0.0 www.2750allegr0.info
 0.0.0.0 www.2841-94219-48124.shop
 0.0.0.0 www.3234mypz.com
-0.0.0.0 www.3752f83db0.mertv.pl
 0.0.0.0 www.04081fccc795cf.www-plus.site
 0.0.0.0 www.4327be446a.4psq.one
 0.0.0.0 www.6357castejon.com
@@ -64810,7 +64814,6 @@
 0.0.0.0 www.74372.cfd
 0.0.0.0 www.74657.top
 0.0.0.0 www.76185-094142.shop
-0.0.0.0 www.77264cf0e6.mertv.pl
 0.0.0.0 www.77926bb393dd19e2909a4e8f8609dccb.ip-ddns.com
 0.0.0.0 www.84935cb032.facplus.click
 0.0.0.0 www.091284.shop
@@ -64937,7 +64940,6 @@
 0.0.0.0 www.278423774.xyz
 0.0.0.0 www.282883833.com
 0.0.0.0 www.360875915.xyz
-0.0.0.0 www.391342715f.mertv.pl
 0.0.0.0 www.456376270.xyz
 0.0.0.0 www.460875915.xyz
 0.0.0.0 www.499393944.com
@@ -66378,6 +66380,7 @@
 0.0.0.0 www.alebilet.oferta-1025612.cfd
 0.0.0.0 www.alebilet.oferta-1050135.icu
 0.0.0.0 www.alebilet.oferta-1151911.icu
+0.0.0.0 www.alebilet.oferta-1205672.sbs
 0.0.0.0 www.alebilet.oferta-1235623.shop
 0.0.0.0 www.alebilet.oferta-1296373.icu
 0.0.0.0 www.alebilet.oferta-1576868.shop
@@ -67712,6 +67715,7 @@
 0.0.0.0 www.allegro.oferta-1025612.cfd
 0.0.0.0 www.allegro.oferta-1050135.icu
 0.0.0.0 www.allegro.oferta-1151911.icu
+0.0.0.0 www.allegro.oferta-1205672.sbs
 0.0.0.0 www.allegro.oferta-1235623.shop
 0.0.0.0 www.allegro.oferta-1296373.icu
 0.0.0.0 www.allegro.oferta-1576868.shop
@@ -69760,6 +69764,7 @@
 0.0.0.0 www.allegrolokalnie.oferta-1025612.cfd
 0.0.0.0 www.allegrolokalnie.oferta-1050135.icu
 0.0.0.0 www.allegrolokalnie.oferta-1151911.icu
+0.0.0.0 www.allegrolokalnie.oferta-1205672.sbs
 0.0.0.0 www.allegrolokalnie.oferta-1235623.shop
 0.0.0.0 www.allegrolokalnie.oferta-1296373.icu
 0.0.0.0 www.allegrolokalnie.oferta-1576868.shop
@@ -70430,6 +70435,7 @@
 0.0.0.0 www.allegrolokalnie.pl-92032932.rest
 0.0.0.0 www.allegrolokalnie.pl-92049021.rest
 0.0.0.0 www.allegrolokalnie.pl-92049021.sbs
+0.0.0.0 www.allegrolokalnie.pl-92471031.cfd
 0.0.0.0 www.allegrolokalnie.pl-93045492.sbs
 0.0.0.0 www.allegrolokalnie.pl-93824348.cfd
 0.0.0.0 www.allegrolokalnie.pl-93824348.icu
@@ -73881,6 +73887,7 @@
 0.0.0.0 www.balnearioelraposo.com
 0.0.0.0 www.balnequadr.pro
 0.0.0.0 www.balpipe1.typedream.app
+0.0.0.0 www.balpp.typedream.app
 0.0.0.0 www.balsidisin.pro
 0.0.0.0 www.baltasarsoage.com
 0.0.0.0 www.balticnews.pages.dev
@@ -80076,7 +80083,6 @@
 0.0.0.0 www.cryptomarketgap.com
 0.0.0.0 www.cryptomonnaiesuisse.com
 0.0.0.0 www.cryptomortales.com
-0.0.0.0 www.cryptomusk.io
 0.0.0.0 www.cryptonitro.com
 0.0.0.0 www.cryptonote.site
 0.0.0.0 www.cryptonowz.xyz
@@ -83082,7 +83088,6 @@
 0.0.0.0 www.e7caf3e584.aliegro.click
 0.0.0.0 www.e8cf09b7fffec10cbf7205d765d005d7.albfilz.com
 0.0.0.0 www.e8d429b386.disnnplus.click
-0.0.0.0 www.e8ee132d5b.mertv.pl
 0.0.0.0 www.e9lvau.lat
 0.0.0.0 www.e9qtif.icu
 0.0.0.0 www.e29a2f84f.brzysk.hekko.pl
@@ -85336,6 +85341,7 @@
 0.0.0.0 www.ferreiraconstructioninc.com
 0.0.0.0 www.ferreti-it.com
 0.0.0.0 www.ferripiati.pro
+0.0.0.0 www.ferroconn.com
 0.0.0.0 www.ferroinfer.pro
 0.0.0.0 www.ferruramme.pro
 0.0.0.0 www.ferruretin.pro
@@ -89156,6 +89162,7 @@
 0.0.0.0 www.herprairiemountainhome.com
 0.0.0.0 www.herrakit.com
 0.0.0.0 www.herramientalandia.com
+0.0.0.0 www.hertads.info
 0.0.0.0 www.hertenauto.com
 0.0.0.0 www.heruprise.org
 0.0.0.0 www.herupriseera.com
@@ -92424,6 +92431,7 @@
 0.0.0.0 www.itservicessolution.com
 0.0.0.0 www.itsgabemotta.com
 0.0.0.0 www.itsleila.com
+0.0.0.0 www.itsohcken.s3.fr-par.scw.cloud
 0.0.0.0 www.itsrahulev.com
 0.0.0.0 www.itsrapidtransactionhub.com
 0.0.0.0 www.itsrohan.com
@@ -94005,6 +94013,7 @@
 0.0.0.0 www.knowledgewebzone.info
 0.0.0.0 www.knowlerion.info
 0.0.0.0 www.knowlevo.info
+0.0.0.0 www.knowlith.info
 0.0.0.0 www.knowlura.info
 0.0.0.0 www.knv.apeweae.top
 0.0.0.0 www.ko1vkg.hair
@@ -94535,6 +94544,7 @@
 0.0.0.0 www.laredocabinets.org
 0.0.0.0 www.laredouteorg.cc
 0.0.0.0 www.laredouteorg.com
+0.0.0.0 www.laretder.info
 0.0.0.0 www.large-controller-massive.on-fleek.app
 0.0.0.0 www.largeinsel.pro
 0.0.0.0 www.larghdecon.pro
@@ -100781,6 +100791,7 @@
 0.0.0.0 www.oferta-1025612.cfd
 0.0.0.0 www.oferta-1050135.icu
 0.0.0.0 www.oferta-1151911.icu
+0.0.0.0 www.oferta-1205672.sbs
 0.0.0.0 www.oferta-1235623.shop
 0.0.0.0 www.oferta-1296373.icu
 0.0.0.0 www.oferta-1576868.shop
@@ -100947,7 +100958,6 @@
 0.0.0.0 www.officeproductivityhub.com
 0.0.0.0 www.officewestside.org
 0.0.0.0 www.officgeocr.pro
-0.0.0.0 www.officialco.shop
 0.0.0.0 www.officialkdppublishers.com
 0.0.0.0 www.officiallegalinformarketplaces.com
 0.0.0.0 www.officialsun.com
@@ -102686,6 +102696,7 @@
 0.0.0.0 www.olx.oferta-1025612.cfd
 0.0.0.0 www.olx.oferta-1050135.icu
 0.0.0.0 www.olx.oferta-1151911.icu
+0.0.0.0 www.olx.oferta-1205672.sbs
 0.0.0.0 www.olx.oferta-1235623.shop
 0.0.0.0 www.olx.oferta-1296373.icu
 0.0.0.0 www.olx.oferta-1576868.shop
@@ -106508,7 +106519,6 @@
 0.0.0.0 www.pl-idf53476y657hgv5678.buzz
 0.0.0.0 www.pl-infon.com
 0.0.0.0 www.pl-inpost.click
-0.0.0.0 www.pl-inspost.top
 0.0.0.0 www.pl-ipkobp.pl-bp.com
 0.0.0.0 www.pl-kampaniiakredyt.online
 0.0.0.0 www.pl-kategoria97515835.icu
@@ -112964,6 +112974,7 @@
 0.0.0.0 www.scopeflick.cfd
 0.0.0.0 www.scopegrid.site
 0.0.0.0 www.scopehatch.site
+0.0.0.0 www.scopehub.cfd
 0.0.0.0 www.scopeknot.site
 0.0.0.0 www.scopepizzi.pro
 0.0.0.0 www.scopet.pics
@@ -114639,7 +114650,6 @@
 0.0.0.0 www.smsiak.pl
 0.0.0.0 www.smsiaki.eu
 0.0.0.0 www.smsy24.pl
-0.0.0.0 www.smtvw.pl
 0.0.0.0 www.smushgame.com
 0.0.0.0 www.smzecamer.pro
 0.0.0.0 www.sn1lerpski.com
@@ -115716,6 +115726,7 @@
 0.0.0.0 www.srtnadwerkicfja17.543558.com
 0.0.0.0 www.srtnadwerkicfja17.699539.com
 0.0.0.0 www.srtndawtikcj.004722.info
+0.0.0.0 www.srtndawtikcj.452640.info
 0.0.0.0 www.srtndawtikcj.611357.info
 0.0.0.0 www.srtndawtikcj.899110.info
 0.0.0.0 www.sruggmesur.pro
@@ -117758,6 +117769,7 @@
 0.0.0.0 www.temza.com
 0.0.0.0 www.tenaimalac.pro
 0.0.0.0 www.tenantscores.top
+0.0.0.0 www.tenawii.com
 0.0.0.0 www.tenbestalbums.com
 0.0.0.0 www.tendermuse.pro
 0.0.0.0 www.tendertango.pro
@@ -121883,6 +121895,7 @@
 0.0.0.0 www.vinted.verpfiy837593.com
 0.0.0.0 www.vinted.vint-vint.com.de
 0.0.0.0 www.vinted.vinted-order2012.shop
+0.0.0.0 www.vinted.vintedverify905217paypal.com
 0.0.0.0 www.vinted.wallet305.homes
 0.0.0.0 www.vinted.wallet905.shop
 0.0.0.0 www.vinted.zahlung13.de
@@ -121923,7 +121936,6 @@
 0.0.0.0 www.violinextraordinaire.com
 0.0.0.0 www.violinsignup.com
 0.0.0.0 www.vioravex.site
-0.0.0.0 www.vip2.gift
 0.0.0.0 www.vip-helikon.shop
 0.0.0.0 www.vip.utf-li.xyz
 0.0.0.0 www.vipacadem.com
