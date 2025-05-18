@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 18 May 2025, 18:28 UTC+02:00
-# Version: 2025.5.18.3
+# Last modified: Sun, 18 May 2025, 20:26 UTC+02:00
+# Version: 2025.5.18.4
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -3003,6 +3003,7 @@
 0.0.0.0 traffic-c.com
 0.0.0.0 trkplus.info
 0.0.0.0 true-click.pro
+0.0.0.0 true-date.eu
 0.0.0.0 trusted-invest.com
 0.0.0.0 twojenewsy24pl.livejournal.com
 0.0.0.0 up.maschinen.ba
@@ -3147,6 +3148,7 @@
 0.0.0.0 www.traffic-c.com
 0.0.0.0 www.trkplus.info
 0.0.0.0 www.true-click.pro
+0.0.0.0 www.true-date.eu
 0.0.0.0 www.trusted-invest.com
 0.0.0.0 www.twojenewsy24pl.livejournal.com
 0.0.0.0 www.up.maschinen.ba
@@ -3522,10 +3524,8 @@
 0.0.0.0 0lx.2850943.xyz
 0.0.0.0 0lx.3063265.xyz
 0.0.0.0 0lx.03098233.xyz
-0.0.0.0 0lx.5846232.xyz
 0.0.0.0 0lx.06253652.xyz
 0.0.0.0 00lx.06580451.xyz
-0.0.0.0 00lx.6846232.xyz
 0.0.0.0 0lx.7684376.xyz
 0.0.0.0 0lx.7723290.xyz
 0.0.0.0 0lx.7843647.xyz
@@ -3976,7 +3976,6 @@
 0.0.0.0 6d9f60dbbc.aliegro40.one
 0.0.0.0 6d9fd4.cc
 0.0.0.0 6f59g1.cc
-0.0.0.0 6f7317b289.allegro40.fun
 0.0.0.0 6febfc4fd7.dis-my.eu
 0.0.0.0 6fiw4hkabnlq3x.my-dis.site
 0.0.0.0 6hjpydo2bel4urk.kokpitplat.pl
@@ -5650,6 +5649,8 @@
 0.0.0.0 aiebilet.pl-firmowe161.sbs
 0.0.0.0 aiebilet.pl-firmowe347635.icu
 0.0.0.0 aiebilet.pl-garaze-blaszane-120.icu
+0.0.0.0 aiebilet.pl-id739155.cfd
+0.0.0.0 aiebilet.pl-id739155.cyou
 0.0.0.0 aiebilet.pl-id1631544.cfd
 0.0.0.0 aiebilet.pl-id2710522.icu
 0.0.0.0 aiebilet.pl-id7291036.icu
@@ -5681,6 +5682,7 @@
 0.0.0.0 aiebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 aiebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 aiebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 aiebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 aiebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 aiebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 aiebilet.pl-kategorie-inne-9814.sbs
@@ -6427,6 +6429,8 @@
 0.0.0.0 alebilet.pl-h8v94klwr7kfn0x3jdq2y1.com
 0.0.0.0 alebilet.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 alebilet.pl-id639162.sbs
+0.0.0.0 alebilet.pl-id739155.cfd
+0.0.0.0 alebilet.pl-id739155.cyou
 0.0.0.0 alebilet.pl-id1234786.icu
 0.0.0.0 alebilet.pl-id1274786.icu
 0.0.0.0 alebilet.pl-id1274786.sbs
@@ -6465,6 +6469,7 @@
 0.0.0.0 alebilet.pl-kategorie3511985486.icu
 0.0.0.0 alebilet.pl-kategorie4348764927.icu
 0.0.0.0 alebilet.pl-kategorie5127694613.icu
+0.0.0.0 alebilet.pl-kategorie61284682161.icu
 0.0.0.0 alebilet.pl-kategorie97412714712.icu
 0.0.0.0 alebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 alebilet.pl-kategorie-elektronika-411.sbs
@@ -6484,6 +6489,7 @@
 0.0.0.0 alebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 alebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 alebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 alebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 alebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 alebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 alebilet.pl-kategorie-inne-9814.sbs
@@ -7341,6 +7347,8 @@
 0.0.0.0 allebilet.pl-firmowe161.sbs
 0.0.0.0 allebilet.pl-firmowe347635.icu
 0.0.0.0 allebilet.pl-garaze-blaszane-120.icu
+0.0.0.0 allebilet.pl-id739155.cfd
+0.0.0.0 allebilet.pl-id739155.cyou
 0.0.0.0 allebilet.pl-id1631544.cfd
 0.0.0.0 allebilet.pl-id2710522.icu
 0.0.0.0 allebilet.pl-id7291036.icu
@@ -7372,6 +7380,7 @@
 0.0.0.0 allebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 allebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 allebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 allebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 allebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 allebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 allebilet.pl-kategorie-inne-9814.sbs
@@ -7956,6 +7965,8 @@
 0.0.0.0 allegro.pl-h8v94klwr7kfn0x3jdq2y1.com
 0.0.0.0 allegro.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 allegro.pl-id639162.sbs
+0.0.0.0 allegro.pl-id739155.cfd
+0.0.0.0 allegro.pl-id739155.cyou
 0.0.0.0 allegro.pl-id781361.icu
 0.0.0.0 allegro.pl-id1234786.icu
 0.0.0.0 allegro.pl-id1274786.icu
@@ -7995,6 +8006,7 @@
 0.0.0.0 allegro.pl-kategorie3511985486.icu
 0.0.0.0 allegro.pl-kategorie4348764927.icu
 0.0.0.0 allegro.pl-kategorie5127694613.icu
+0.0.0.0 allegro.pl-kategorie61284682161.icu
 0.0.0.0 allegro.pl-kategorie97412714712.icu
 0.0.0.0 allegro.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 allegro.pl-kategorie-elektronika-411.sbs
@@ -8014,6 +8026,7 @@
 0.0.0.0 allegro.pl-kategorie-inne-8914.sbs
 0.0.0.0 allegro.pl-kategorie-inne-9135.sbs
 0.0.0.0 allegro.pl-kategorie-inne-9144.sbs
+0.0.0.0 allegro.pl-kategorie-inne-9244.sbs
 0.0.0.0 allegro.pl-kategorie-inne-9812.shop
 0.0.0.0 allegro.pl-kategorie-inne-9814.icu
 0.0.0.0 allegro.pl-kategorie-inne-9814.sbs
@@ -8913,6 +8926,8 @@
 0.0.0.0 allegrolokainie.pl-firmowe161.sbs
 0.0.0.0 allegrolokainie.pl-firmowe347635.icu
 0.0.0.0 allegrolokainie.pl-garaze-blaszane-120.icu
+0.0.0.0 allegrolokainie.pl-id739155.cfd
+0.0.0.0 allegrolokainie.pl-id739155.cyou
 0.0.0.0 allegrolokainie.pl-id1631544.cfd
 0.0.0.0 allegrolokainie.pl-id2710522.icu
 0.0.0.0 allegrolokainie.pl-id7291036.icu
@@ -8944,6 +8959,7 @@
 0.0.0.0 allegrolokainie.pl-kategorie-inne-8914.sbs
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9135.sbs
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9144.sbs
+0.0.0.0 allegrolokainie.pl-kategorie-inne-9244.sbs
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9812.shop
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9814.icu
 0.0.0.0 allegrolokainie.pl-kategorie-inne-9814.sbs
@@ -9100,6 +9116,8 @@
 0.0.0.0 allegrolokalne.pl-firmowe161.sbs
 0.0.0.0 allegrolokalne.pl-firmowe347635.icu
 0.0.0.0 allegrolokalne.pl-garaze-blaszane-120.icu
+0.0.0.0 allegrolokalne.pl-id739155.cfd
+0.0.0.0 allegrolokalne.pl-id739155.cyou
 0.0.0.0 allegrolokalne.pl-id1631544.cfd
 0.0.0.0 allegrolokalne.pl-id2710522.icu
 0.0.0.0 allegrolokalne.pl-id7291036.icu
@@ -9131,6 +9149,7 @@
 0.0.0.0 allegrolokalne.pl-kategorie-inne-8914.sbs
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9135.sbs
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9144.sbs
+0.0.0.0 allegrolokalne.pl-kategorie-inne-9244.sbs
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9812.shop
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9814.icu
 0.0.0.0 allegrolokalne.pl-kategorie-inne-9814.sbs
@@ -9341,6 +9360,7 @@
 0.0.0.0 allegrolokalnie.659312.shop
 0.0.0.0 allegrolokalnie.696099.shop
 0.0.0.0 allegrolokalnie.723661.cfd
+0.0.0.0 allegrolokalnie.726262.cfd
 0.0.0.0 allegrolokalnie.746465.top
 0.0.0.0 allegrolokalnie.783737.top
 0.0.0.0 allegrolokalnie.784325.shop
@@ -10493,6 +10513,8 @@
 0.0.0.0 allegrolokalnie.pl-id45345fg346gf34.buzz
 0.0.0.0 allegrolokalnie.pl-id51239.rest
 0.0.0.0 allegrolokalnie.pl-id639162.sbs
+0.0.0.0 allegrolokalnie.pl-id739155.cfd
+0.0.0.0 allegrolokalnie.pl-id739155.cyou
 0.0.0.0 allegrolokalnie.pl-id781361.icu
 0.0.0.0 allegrolokalnie.pl-id1234786.icu
 0.0.0.0 allegrolokalnie.pl-id1272856.sbs
@@ -10541,6 +10563,7 @@
 0.0.0.0 allegrolokalnie.pl-kategorie3511985486.icu
 0.0.0.0 allegrolokalnie.pl-kategorie4348764927.icu
 0.0.0.0 allegrolokalnie.pl-kategorie5127694613.icu
+0.0.0.0 allegrolokalnie.pl-kategorie61284682161.icu
 0.0.0.0 allegrolokalnie.pl-kategorie97412714712.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 allegrolokalnie.pl-kategorie-elektronika-411.sbs
@@ -10571,6 +10594,7 @@
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9135.sbs
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9144.sbs
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9183.rest
+0.0.0.0 allegrolokalnie.pl-kategorie-inne-9244.sbs
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9412.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9812.icu
 0.0.0.0 allegrolokalnie.pl-kategorie-inne-9812.shop
@@ -12050,10 +12074,8 @@
 0.0.0.0 ams3.yourweddingvision.cyou
 0.0.0.0 ams4.artfulcreations.cfd
 0.0.0.0 ams4.gadgetbott.com
-0.0.0.0 ams4.gadgetchroma.com
 0.0.0.0 ams4.gadgetnetworks.com
 0.0.0.0 ams4.gadgetports.com
-0.0.0.0 ams4.gadgetsystemz.com
 0.0.0.0 ams4.gadgettaskk.com
 0.0.0.0 ams4.gadgetvisionn.com
 0.0.0.0 ams4.lifestyleekin.com
@@ -16919,7 +16941,6 @@
 0.0.0.0 byhh007.com
 0.0.0.0 byhoxuu.com
 0.0.0.0 byjykyu.com
-0.0.0.0 bykar.homes
 0.0.0.0 bykrissyann.com
 0.0.0.0 bylawoe.com
 0.0.0.0 bylicao.com
@@ -19365,7 +19386,6 @@
 0.0.0.0 cmmindustry.com
 0.0.0.0 cmouss.com
 0.0.0.0 cmr-te.com
-0.0.0.0 cmrao.majestic.dev
 0.0.0.0 cmsgenius.com
 0.0.0.0 cmsprekvz.pro
 0.0.0.0 cmtestwebsite5.com
@@ -19558,6 +19578,7 @@
 0.0.0.0 cointrade1000.net
 0.0.0.0 cointrade-1000.com
 0.0.0.0 coinvault.website
+0.0.0.0 coinworkk.top
 0.0.0.0 coinxybrin.com
 0.0.0.0 coinzonel.top
 0.0.0.0 coinzoneq.top
@@ -24247,7 +24268,6 @@
 0.0.0.0 ekitone.com
 0.0.0.0 ekkremmabidenincilr.com
 0.0.0.0 ekleelbooks.com
-0.0.0.0 eko-wegiel.eu
 0.0.0.0 ekowegiel24.eu
 0.0.0.0 ekowegiel.com
 0.0.0.0 ekowegiel.eu
@@ -24430,7 +24450,6 @@
 0.0.0.0 elnaa-fashion.com
 0.0.0.0 elnashir.com
 0.0.0.0 elnidodigitalnomads.com
-0.0.0.0 elodic.shop
 0.0.0.0 eloforyou.com
 0.0.0.0 elohiabomi.pro
 0.0.0.0 elondick.com
@@ -28873,6 +28892,7 @@
 0.0.0.0 gollanczs.com
 0.0.0.0 golliarroc.pro
 0.0.0.0 golookercommunications.com
+0.0.0.0 golulyu.pro
 0.0.0.0 gomammut.shop
 0.0.0.0 gomarpievi.pro
 0.0.0.0 gommanonfu.pro
@@ -29467,7 +29487,6 @@
 0.0.0.0 gulfportcabinets.com
 0.0.0.0 gulfportpulmbing.com
 0.0.0.0 gulfsafetys.com
-0.0.0.0 gulojyi1.pro
 0.0.0.0 gulsahagbal.com
 0.0.0.0 gulurye7.pro
 0.0.0.0 gumballderby.com
@@ -30789,6 +30808,7 @@
 0.0.0.0 hsjsn.com
 0.0.0.0 hsjypxzx.com
 0.0.0.0 hskglobalmart.com
+0.0.0.0 hsnn.zeabur.app
 0.0.0.0 hstavay.com
 0.0.0.0 ht2ls8.cc
 0.0.0.0 ht2s41.lat
@@ -32510,7 +32530,6 @@
 0.0.0.0 inpost-c4632.top
 0.0.0.0 inpost-c6323.top
 0.0.0.0 inpost-c7345.top
-0.0.0.0 inpost-etr.top
 0.0.0.0 inpost-expansion-ag.emapa.pl
 0.0.0.0 inpost-home.com
 0.0.0.0 inpost-mypost.icu
@@ -37169,6 +37188,7 @@
 0.0.0.0 luthorin.com
 0.0.0.0 lutybya.com
 0.0.0.0 luumora.info
+0.0.0.0 luv-ver.com
 0.0.0.0 luven.website
 0.0.0.0 luvonue8.pro
 0.0.0.0 luwupou.com
@@ -43737,7 +43757,6 @@
 0.0.0.0 olx-pl.xtezanil.cfd
 0.0.0.0 olx-pl.xuzne.lol
 0.0.0.0 olx-pl.xvepolk.cfd
-0.0.0.0 olx-pl.yalejern.pics
 0.0.0.0 olx-pl.yamise.lol
 0.0.0.0 olx-pl.yapripol.sbs
 0.0.0.0 olx-pl.yaskeli.pics
@@ -44407,6 +44426,8 @@
 0.0.0.0 olx.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 olx.pl-id429390.sbs
 0.0.0.0 olx.pl-id639162.sbs
+0.0.0.0 olx.pl-id739155.cfd
+0.0.0.0 olx.pl-id739155.cyou
 0.0.0.0 olx.pl-id1234786.icu
 0.0.0.0 olx.pl-id1274786.icu
 0.0.0.0 olx.pl-id1274786.sbs
@@ -44446,6 +44467,7 @@
 0.0.0.0 olx.pl-kategorie3511985486.icu
 0.0.0.0 olx.pl-kategorie4348764927.icu
 0.0.0.0 olx.pl-kategorie5127694613.icu
+0.0.0.0 olx.pl-kategorie61284682161.icu
 0.0.0.0 olx.pl-kategorie97412714712.icu
 0.0.0.0 olx.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 olx.pl-kategorie-elektronika-411.sbs
@@ -44465,6 +44487,7 @@
 0.0.0.0 olx.pl-kategorie-inne-8914.sbs
 0.0.0.0 olx.pl-kategorie-inne-9135.sbs
 0.0.0.0 olx.pl-kategorie-inne-9144.sbs
+0.0.0.0 olx.pl-kategorie-inne-9244.sbs
 0.0.0.0 olx.pl-kategorie-inne-9812.shop
 0.0.0.0 olx.pl-kategorie-inne-9814.icu
 0.0.0.0 olx.pl-kategorie-inne-9814.sbs
@@ -47970,6 +47993,8 @@
 0.0.0.0 pl-id3456f6354gf67.buzz
 0.0.0.0 pl-id78432.top
 0.0.0.0 pl-id639162.sbs
+0.0.0.0 pl-id739155.cfd
+0.0.0.0 pl-id739155.cyou
 0.0.0.0 pl-id781361.icu
 0.0.0.0 pl-id1234786.icu
 0.0.0.0 pl-id1274786.icu
@@ -48019,6 +48044,7 @@
 0.0.0.0 pl-kategorie3511985486.icu
 0.0.0.0 pl-kategorie4348764927.icu
 0.0.0.0 pl-kategorie5127694613.icu
+0.0.0.0 pl-kategorie61284682161.icu
 0.0.0.0 pl-kategorie97412714712.icu
 0.0.0.0 pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 pl-kategorie-elektronika-411.sbs
@@ -48038,6 +48064,7 @@
 0.0.0.0 pl-kategorie-inne-8914.sbs
 0.0.0.0 pl-kategorie-inne-9135.sbs
 0.0.0.0 pl-kategorie-inne-9144.sbs
+0.0.0.0 pl-kategorie-inne-9244.sbs
 0.0.0.0 pl-kategorie-inne-9812.shop
 0.0.0.0 pl-kategorie-inne-9814.icu
 0.0.0.0 pl-kategorie-inne-9814.sbs
@@ -50375,6 +50402,7 @@
 0.0.0.0 profile.specifics.world
 0.0.0.0 profilenetflix.com
 0.0.0.0 profiles.propertty.click
+0.0.0.0 profilrandka.pl
 0.0.0.0 profimax-pl-aivix.investmentinsiights.com
 0.0.0.0 profiportraits.com
 0.0.0.0 profiremgt.com
@@ -51036,7 +51064,6 @@
 0.0.0.0 qf5teu.top
 0.0.0.0 qfdk92l6ui0crx.ml6-dsn.fun
 0.0.0.0 qfs.best
-0.0.0.0 qgil.skin
 0.0.0.0 qgvvd67nhk.autograalmann.de
 0.0.0.0 qhcd.com
 0.0.0.0 qhdvy5k80rr.bashaerproject.com
@@ -51109,6 +51136,7 @@
 0.0.0.0 qlxx.78451841.xyz
 0.0.0.0 qm5koe.hair
 0.0.0.0 qmysap.com
+0.0.0.0 qn6zjb.lat
 0.0.0.0 qn8cqf.rest
 0.0.0.0 qn.com
 0.0.0.0 qobaguu.com
@@ -66306,10 +66334,8 @@
 0.0.0.0 www.0lx.2850943.xyz
 0.0.0.0 www.0lx.3063265.xyz
 0.0.0.0 www.0lx.03098233.xyz
-0.0.0.0 www.0lx.5846232.xyz
 0.0.0.0 www.0lx.06253652.xyz
 0.0.0.0 www.00lx.06580451.xyz
-0.0.0.0 www.00lx.6846232.xyz
 0.0.0.0 www.0lx.7684376.xyz
 0.0.0.0 www.0lx.7723290.xyz
 0.0.0.0 www.0lx.7843647.xyz
@@ -66760,7 +66786,6 @@
 0.0.0.0 www.6d9f60dbbc.aliegro40.one
 0.0.0.0 www.6d9fd4.cc
 0.0.0.0 www.6f59g1.cc
-0.0.0.0 www.6f7317b289.allegro40.fun
 0.0.0.0 www.6febfc4fd7.dis-my.eu
 0.0.0.0 www.6fiw4hkabnlq3x.my-dis.site
 0.0.0.0 www.6hjpydo2bel4urk.kokpitplat.pl
@@ -68434,6 +68459,8 @@
 0.0.0.0 www.aiebilet.pl-firmowe161.sbs
 0.0.0.0 www.aiebilet.pl-firmowe347635.icu
 0.0.0.0 www.aiebilet.pl-garaze-blaszane-120.icu
+0.0.0.0 www.aiebilet.pl-id739155.cfd
+0.0.0.0 www.aiebilet.pl-id739155.cyou
 0.0.0.0 www.aiebilet.pl-id1631544.cfd
 0.0.0.0 www.aiebilet.pl-id2710522.icu
 0.0.0.0 www.aiebilet.pl-id7291036.icu
@@ -68465,6 +68492,7 @@
 0.0.0.0 www.aiebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.aiebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 www.aiebilet.pl-kategorie-inne-9814.sbs
@@ -69211,6 +69239,8 @@
 0.0.0.0 www.alebilet.pl-h8v94klwr7kfn0x3jdq2y1.com
 0.0.0.0 www.alebilet.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 www.alebilet.pl-id639162.sbs
+0.0.0.0 www.alebilet.pl-id739155.cfd
+0.0.0.0 www.alebilet.pl-id739155.cyou
 0.0.0.0 www.alebilet.pl-id1234786.icu
 0.0.0.0 www.alebilet.pl-id1274786.icu
 0.0.0.0 www.alebilet.pl-id1274786.sbs
@@ -69249,6 +69279,7 @@
 0.0.0.0 www.alebilet.pl-kategorie3511985486.icu
 0.0.0.0 www.alebilet.pl-kategorie4348764927.icu
 0.0.0.0 www.alebilet.pl-kategorie5127694613.icu
+0.0.0.0 www.alebilet.pl-kategorie61284682161.icu
 0.0.0.0 www.alebilet.pl-kategorie97412714712.icu
 0.0.0.0 www.alebilet.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.alebilet.pl-kategorie-elektronika-411.sbs
@@ -69268,6 +69299,7 @@
 0.0.0.0 www.alebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.alebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.alebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.alebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.alebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 www.alebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 www.alebilet.pl-kategorie-inne-9814.sbs
@@ -70125,6 +70157,8 @@
 0.0.0.0 www.allebilet.pl-firmowe161.sbs
 0.0.0.0 www.allebilet.pl-firmowe347635.icu
 0.0.0.0 www.allebilet.pl-garaze-blaszane-120.icu
+0.0.0.0 www.allebilet.pl-id739155.cfd
+0.0.0.0 www.allebilet.pl-id739155.cyou
 0.0.0.0 www.allebilet.pl-id1631544.cfd
 0.0.0.0 www.allebilet.pl-id2710522.icu
 0.0.0.0 www.allebilet.pl-id7291036.icu
@@ -70156,6 +70190,7 @@
 0.0.0.0 www.allebilet.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.allebilet.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.allebilet.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.allebilet.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.allebilet.pl-kategorie-inne-9812.shop
 0.0.0.0 www.allebilet.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allebilet.pl-kategorie-inne-9814.sbs
@@ -70740,6 +70775,8 @@
 0.0.0.0 www.allegro.pl-h8v94klwr7kfn0x3jdq2y1.com
 0.0.0.0 www.allegro.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 www.allegro.pl-id639162.sbs
+0.0.0.0 www.allegro.pl-id739155.cfd
+0.0.0.0 www.allegro.pl-id739155.cyou
 0.0.0.0 www.allegro.pl-id781361.icu
 0.0.0.0 www.allegro.pl-id1234786.icu
 0.0.0.0 www.allegro.pl-id1274786.icu
@@ -70779,6 +70816,7 @@
 0.0.0.0 www.allegro.pl-kategorie3511985486.icu
 0.0.0.0 www.allegro.pl-kategorie4348764927.icu
 0.0.0.0 www.allegro.pl-kategorie5127694613.icu
+0.0.0.0 www.allegro.pl-kategorie61284682161.icu
 0.0.0.0 www.allegro.pl-kategorie97412714712.icu
 0.0.0.0 www.allegro.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.allegro.pl-kategorie-elektronika-411.sbs
@@ -70798,6 +70836,7 @@
 0.0.0.0 www.allegro.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.allegro.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.allegro.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.allegro.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.allegro.pl-kategorie-inne-9812.shop
 0.0.0.0 www.allegro.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegro.pl-kategorie-inne-9814.sbs
@@ -71697,6 +71736,8 @@
 0.0.0.0 www.allegrolokainie.pl-firmowe161.sbs
 0.0.0.0 www.allegrolokainie.pl-firmowe347635.icu
 0.0.0.0 www.allegrolokainie.pl-garaze-blaszane-120.icu
+0.0.0.0 www.allegrolokainie.pl-id739155.cfd
+0.0.0.0 www.allegrolokainie.pl-id739155.cyou
 0.0.0.0 www.allegrolokainie.pl-id1631544.cfd
 0.0.0.0 www.allegrolokainie.pl-id2710522.icu
 0.0.0.0 www.allegrolokainie.pl-id7291036.icu
@@ -71728,6 +71769,7 @@
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9812.shop
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegrolokainie.pl-kategorie-inne-9814.sbs
@@ -71884,6 +71926,8 @@
 0.0.0.0 www.allegrolokalne.pl-firmowe161.sbs
 0.0.0.0 www.allegrolokalne.pl-firmowe347635.icu
 0.0.0.0 www.allegrolokalne.pl-garaze-blaszane-120.icu
+0.0.0.0 www.allegrolokalne.pl-id739155.cfd
+0.0.0.0 www.allegrolokalne.pl-id739155.cyou
 0.0.0.0 www.allegrolokalne.pl-id1631544.cfd
 0.0.0.0 www.allegrolokalne.pl-id2710522.icu
 0.0.0.0 www.allegrolokalne.pl-id7291036.icu
@@ -71915,6 +71959,7 @@
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9812.shop
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9814.icu
 0.0.0.0 www.allegrolokalne.pl-kategorie-inne-9814.sbs
@@ -72125,6 +72170,7 @@
 0.0.0.0 www.allegrolokalnie.659312.shop
 0.0.0.0 www.allegrolokalnie.696099.shop
 0.0.0.0 www.allegrolokalnie.723661.cfd
+0.0.0.0 www.allegrolokalnie.726262.cfd
 0.0.0.0 www.allegrolokalnie.746465.top
 0.0.0.0 www.allegrolokalnie.783737.top
 0.0.0.0 www.allegrolokalnie.784325.shop
@@ -73277,6 +73323,8 @@
 0.0.0.0 www.allegrolokalnie.pl-id45345fg346gf34.buzz
 0.0.0.0 www.allegrolokalnie.pl-id51239.rest
 0.0.0.0 www.allegrolokalnie.pl-id639162.sbs
+0.0.0.0 www.allegrolokalnie.pl-id739155.cfd
+0.0.0.0 www.allegrolokalnie.pl-id739155.cyou
 0.0.0.0 www.allegrolokalnie.pl-id781361.icu
 0.0.0.0 www.allegrolokalnie.pl-id1234786.icu
 0.0.0.0 www.allegrolokalnie.pl-id1272856.sbs
@@ -73325,6 +73373,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategorie3511985486.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie4348764927.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie5127694613.icu
+0.0.0.0 www.allegrolokalnie.pl-kategorie61284682161.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie97412714712.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.allegrolokalnie.pl-kategorie-elektronika-411.sbs
@@ -73355,6 +73404,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9144.sbs
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9183.rest
+0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9412.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9812.icu
 0.0.0.0 www.allegrolokalnie.pl-kategorie-inne-9812.shop
@@ -74834,10 +74884,8 @@
 0.0.0.0 www.ams3.yourweddingvision.cyou
 0.0.0.0 www.ams4.artfulcreations.cfd
 0.0.0.0 www.ams4.gadgetbott.com
-0.0.0.0 www.ams4.gadgetchroma.com
 0.0.0.0 www.ams4.gadgetnetworks.com
 0.0.0.0 www.ams4.gadgetports.com
-0.0.0.0 www.ams4.gadgetsystemz.com
 0.0.0.0 www.ams4.gadgettaskk.com
 0.0.0.0 www.ams4.gadgetvisionn.com
 0.0.0.0 www.ams4.lifestyleekin.com
@@ -79703,7 +79751,6 @@
 0.0.0.0 www.byhh007.com
 0.0.0.0 www.byhoxuu.com
 0.0.0.0 www.byjykyu.com
-0.0.0.0 www.bykar.homes
 0.0.0.0 www.bykrissyann.com
 0.0.0.0 www.bylawoe.com
 0.0.0.0 www.bylicao.com
@@ -82149,7 +82196,6 @@
 0.0.0.0 www.cmmindustry.com
 0.0.0.0 www.cmouss.com
 0.0.0.0 www.cmr-te.com
-0.0.0.0 www.cmrao.majestic.dev
 0.0.0.0 www.cmsgenius.com
 0.0.0.0 www.cmsprekvz.pro
 0.0.0.0 www.cmtestwebsite5.com
@@ -82342,6 +82388,7 @@
 0.0.0.0 www.cointrade1000.net
 0.0.0.0 www.cointrade-1000.com
 0.0.0.0 www.coinvault.website
+0.0.0.0 www.coinworkk.top
 0.0.0.0 www.coinxybrin.com
 0.0.0.0 www.coinzonel.top
 0.0.0.0 www.coinzoneq.top
@@ -87031,7 +87078,6 @@
 0.0.0.0 www.ekitone.com
 0.0.0.0 www.ekkremmabidenincilr.com
 0.0.0.0 www.ekleelbooks.com
-0.0.0.0 www.eko-wegiel.eu
 0.0.0.0 www.ekowegiel24.eu
 0.0.0.0 www.ekowegiel.com
 0.0.0.0 www.ekowegiel.eu
@@ -87214,7 +87260,6 @@
 0.0.0.0 www.elnaa-fashion.com
 0.0.0.0 www.elnashir.com
 0.0.0.0 www.elnidodigitalnomads.com
-0.0.0.0 www.elodic.shop
 0.0.0.0 www.eloforyou.com
 0.0.0.0 www.elohiabomi.pro
 0.0.0.0 www.elondick.com
@@ -91657,6 +91702,7 @@
 0.0.0.0 www.gollanczs.com
 0.0.0.0 www.golliarroc.pro
 0.0.0.0 www.golookercommunications.com
+0.0.0.0 www.golulyu.pro
 0.0.0.0 www.gomammut.shop
 0.0.0.0 www.gomarpievi.pro
 0.0.0.0 www.gommanonfu.pro
@@ -92251,7 +92297,6 @@
 0.0.0.0 www.gulfportcabinets.com
 0.0.0.0 www.gulfportpulmbing.com
 0.0.0.0 www.gulfsafetys.com
-0.0.0.0 www.gulojyi1.pro
 0.0.0.0 www.gulsahagbal.com
 0.0.0.0 www.gulurye7.pro
 0.0.0.0 www.gumballderby.com
@@ -93573,6 +93618,7 @@
 0.0.0.0 www.hsjsn.com
 0.0.0.0 www.hsjypxzx.com
 0.0.0.0 www.hskglobalmart.com
+0.0.0.0 www.hsnn.zeabur.app
 0.0.0.0 www.hstavay.com
 0.0.0.0 www.ht2ls8.cc
 0.0.0.0 www.ht2s41.lat
@@ -95294,7 +95340,6 @@
 0.0.0.0 www.inpost-c4632.top
 0.0.0.0 www.inpost-c6323.top
 0.0.0.0 www.inpost-c7345.top
-0.0.0.0 www.inpost-etr.top
 0.0.0.0 www.inpost-expansion-ag.emapa.pl
 0.0.0.0 www.inpost-home.com
 0.0.0.0 www.inpost-mypost.icu
@@ -99953,6 +99998,7 @@
 0.0.0.0 www.luthorin.com
 0.0.0.0 www.lutybya.com
 0.0.0.0 www.luumora.info
+0.0.0.0 www.luv-ver.com
 0.0.0.0 www.luven.website
 0.0.0.0 www.luvonue8.pro
 0.0.0.0 www.luwupou.com
@@ -106521,7 +106567,6 @@
 0.0.0.0 www.olx-pl.xtezanil.cfd
 0.0.0.0 www.olx-pl.xuzne.lol
 0.0.0.0 www.olx-pl.xvepolk.cfd
-0.0.0.0 www.olx-pl.yalejern.pics
 0.0.0.0 www.olx-pl.yamise.lol
 0.0.0.0 www.olx-pl.yapripol.sbs
 0.0.0.0 www.olx-pl.yaskeli.pics
@@ -107191,6 +107236,8 @@
 0.0.0.0 www.olx.pl-hf37h3jksk235ndc832ckcxks.cfd
 0.0.0.0 www.olx.pl-id429390.sbs
 0.0.0.0 www.olx.pl-id639162.sbs
+0.0.0.0 www.olx.pl-id739155.cfd
+0.0.0.0 www.olx.pl-id739155.cyou
 0.0.0.0 www.olx.pl-id1234786.icu
 0.0.0.0 www.olx.pl-id1274786.icu
 0.0.0.0 www.olx.pl-id1274786.sbs
@@ -107230,6 +107277,7 @@
 0.0.0.0 www.olx.pl-kategorie3511985486.icu
 0.0.0.0 www.olx.pl-kategorie4348764927.icu
 0.0.0.0 www.olx.pl-kategorie5127694613.icu
+0.0.0.0 www.olx.pl-kategorie61284682161.icu
 0.0.0.0 www.olx.pl-kategorie97412714712.icu
 0.0.0.0 www.olx.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.olx.pl-kategorie-elektronika-411.sbs
@@ -107249,6 +107297,7 @@
 0.0.0.0 www.olx.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.olx.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.olx.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.olx.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.olx.pl-kategorie-inne-9812.shop
 0.0.0.0 www.olx.pl-kategorie-inne-9814.icu
 0.0.0.0 www.olx.pl-kategorie-inne-9814.sbs
@@ -110750,6 +110799,8 @@
 0.0.0.0 www.pl-id3456f6354gf67.buzz
 0.0.0.0 www.pl-id78432.top
 0.0.0.0 www.pl-id639162.sbs
+0.0.0.0 www.pl-id739155.cfd
+0.0.0.0 www.pl-id739155.cyou
 0.0.0.0 www.pl-id781361.icu
 0.0.0.0 www.pl-id1234786.icu
 0.0.0.0 www.pl-id1274786.icu
@@ -110799,6 +110850,7 @@
 0.0.0.0 www.pl-kategorie3511985486.icu
 0.0.0.0 www.pl-kategorie4348764927.icu
 0.0.0.0 www.pl-kategorie5127694613.icu
+0.0.0.0 www.pl-kategorie61284682161.icu
 0.0.0.0 www.pl-kategorie97412714712.icu
 0.0.0.0 www.pl-kategorie-dom-i-ogrod.sbs
 0.0.0.0 www.pl-kategorie-elektronika-411.sbs
@@ -110818,6 +110870,7 @@
 0.0.0.0 www.pl-kategorie-inne-8914.sbs
 0.0.0.0 www.pl-kategorie-inne-9135.sbs
 0.0.0.0 www.pl-kategorie-inne-9144.sbs
+0.0.0.0 www.pl-kategorie-inne-9244.sbs
 0.0.0.0 www.pl-kategorie-inne-9812.shop
 0.0.0.0 www.pl-kategorie-inne-9814.icu
 0.0.0.0 www.pl-kategorie-inne-9814.sbs
@@ -113116,6 +113169,7 @@
 0.0.0.0 www.profile.specifics.world
 0.0.0.0 www.profilenetflix.com
 0.0.0.0 www.profiles.propertty.click
+0.0.0.0 www.profilrandka.pl
 0.0.0.0 www.profimax-pl-aivix.investmentinsiights.com
 0.0.0.0 www.profiportraits.com
 0.0.0.0 www.profiremgt.com
@@ -113777,7 +113831,6 @@
 0.0.0.0 www.qf5teu.top
 0.0.0.0 www.qfdk92l6ui0crx.ml6-dsn.fun
 0.0.0.0 www.qfs.best
-0.0.0.0 www.qgil.skin
 0.0.0.0 www.qgvvd67nhk.autograalmann.de
 0.0.0.0 www.qhcd.com
 0.0.0.0 www.qhdvy5k80rr.bashaerproject.com
@@ -113850,6 +113903,7 @@
 0.0.0.0 www.qlxx.78451841.xyz
 0.0.0.0 www.qm5koe.hair
 0.0.0.0 www.qmysap.com
+0.0.0.0 www.qn6zjb.lat
 0.0.0.0 www.qn8cqf.rest
 0.0.0.0 www.qn.com
 0.0.0.0 www.qobaguu.com
