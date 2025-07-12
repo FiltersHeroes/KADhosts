@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Mon, 30 Jun 2025, 23:37 UTC+02:00
-# Version: 2025.6.30.0
+# Last modified: Sun, 13 Jul 2025, 00:52 UTC+02:00
+# Version: 2025.7.13.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -94,7 +94,6 @@
 (^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
 (^|\.)yournewphones\.com$
 (^|\.)youtube\.com\.[0-9a-z-]+\.[0-9a-z-]+\.com$
-@PHinclude https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt KAD/sections/przekrety.txt
 #
 #
 # Blogspot
