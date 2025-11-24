@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/filtersheroes/expired_domains_image:latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           python3 ./scripts/IsOnline.py
