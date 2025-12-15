@@ -12,7 +12,7 @@ jobs:
       - run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           python3 ./scripts/IsOnline.py
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: E_KADh_offline
           path: exclusions/offline.txt
