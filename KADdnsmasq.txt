@@ -1,7 +1,7 @@
 # Title: KAD - Dnsmasq Edition (Beta)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 23 Aug 2026, 10:15 UTC+02:00
-# Version: 2026.8.23.1
+# Last modified: Sun, 23 Aug 2026, 12:44 UTC+02:00
+# Version: 2026.8.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -11603,7 +11603,6 @@ address=/karvelnfondix.net/
 address=/karvelo.shop/
 address=/karvynmarkholm.net/
 address=/kasa-sms.pl/
-address=/kasacjapojazdow.com.pl/
 address=/kasadochodnoscai.com/
 address=/kasagrill.live/
 address=/kasiadimi.mom/
@@ -18222,6 +18221,7 @@ address=/slowpicturestudio.live/
 address=/slupskiesmaki.mom/
 address=/slurvenixtrade.com/
 address=/sm2r9.o8fgwc.top/
+address=/smacznakolejowa.pl/
 address=/smalijudmi.autos/
 address=/smallable.mom/
 address=/smaltonik.com/
@@ -22879,8 +22879,10 @@ address=/zzounds.mom/
 #@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety_CERT.txt => dnsmasq
 #@ >>>>>>>> header_location => dnsmasq
 address=/alexdent.waw.pl/
+address=/kasacjapojazdow.com.pl/
 address=/krainaekozabawek.pl/
 address=/mojeikp.pl/
+address=/smacznakolejowa.pl/
 #@ <<<<<<<< header_location => dnsmasq
 #
 #
