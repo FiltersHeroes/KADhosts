@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 20 Sep 2026, 16:43 UTC+02:00
-# Version: 2026.9.20.2
+# Last modified: Sun, 20 Sep 2026, 17:28 UTC+02:00
+# Version: 2026.9.20.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -2923,7 +2923,6 @@
 # Przekrety
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety_CERT.txt => hosts
 0.0.0.0 0b8918640c.nxcli.io
-0.0.0.0 0c02y9v.pics
 0.0.0.0 00c6ce7d.vcstrucks.be
 0.0.0.0 0fon55s.pics
 0.0.0.0 0i4lx-modbd4w.h4ctni.qpon
@@ -3360,7 +3359,6 @@
 0.0.0.0 acteii.com
 0.0.0.0 action-fr.buy-vera.com
 0.0.0.0 action.mgi-es.com
-0.0.0.0 action.nuvora.top
 0.0.0.0 action.ro-mediagalaxysale.shop
 0.0.0.0 actionantigua.com
 0.0.0.0 actionlinedesigns.com
@@ -7001,7 +6999,6 @@
 0.0.0.0 avatudmarkdex.net
 0.0.0.0 avcoa.click
 0.0.0.0 avelicioaitrade.com
-0.0.0.0 avendorixa.com
 0.0.0.0 avendrico.com
 0.0.0.0 avenidaopulenciagpt70.com
 0.0.0.0 aveniraitrade.com
@@ -7086,7 +7083,6 @@
 0.0.0.0 b5z1qp.lat
 0.0.0.0 b6jzhi.qpon
 0.0.0.0 b6m5yk.lat
-0.0.0.0 b7vk2c.cfd
 0.0.0.0 b8d981ad2a.nxcli.io
 0.0.0.0 b8jx2n.cfd
 0.0.0.0 b8wz.j9ylbz.qpon
@@ -7098,7 +7094,6 @@
 0.0.0.0 babyboxes.store
 0.0.0.0 babybuybuybuy.shop
 0.0.0.0 babyclydesdale.com
-0.0.0.0 babysfavoritethings.shop
 0.0.0.0 backpack-style.shop
 0.0.0.0 backshhtages.info
 0.0.0.0 bactebomba.online
@@ -7278,7 +7273,6 @@
 0.0.0.0 besttwomarkup.com
 0.0.0.0 bet777red.com
 0.0.0.0 betaubyte.site
-0.0.0.0 betazeblast.site
 0.0.0.0 betr-for-tod.com
 0.0.0.0 betronexai.com
 0.0.0.0 betronexnova.com
@@ -7324,6 +7318,7 @@
 0.0.0.0 bigheaigui.store
 0.0.0.0 bigmoviesz.com
 0.0.0.0 bigsmovie.us
+0.0.0.0 bigstar-pl.shop
 0.0.0.0 bigstarshoes.sprintersports-pt.sbs
 0.0.0.0 bil.plvsellrwerfy.shop
 0.0.0.0 bilermoaitrade.com
@@ -8008,7 +8003,6 @@
 0.0.0.0 cemeja.mobi
 0.0.0.0 cenalo.pro
 0.0.0.0 cenanovers.store
-0.0.0.0 cendralivoxqz.info
 0.0.0.0 ceneo-adheringtoquality.shop
 0.0.0.0 ceneo-gardenpl.shop
 0.0.0.0 cennostw.com
@@ -9834,7 +9828,6 @@
 0.0.0.0 fisio0-est80.sbs
 0.0.0.0 fisio0-et71.sbs
 0.0.0.0 fisio0-et91.sbs
-0.0.0.0 fisio0-eum90.sbs
 0.0.0.0 fisio0-excepturi70.sbs
 0.0.0.0 fisio0-facere90.sbs
 0.0.0.0 fisio0-illo1.sbs
@@ -10849,7 +10842,6 @@
 0.0.0.0 fissalgotra.site
 0.0.0.0 fissbeppilot.site
 0.0.0.0 fissdnode.site
-0.0.0.0 fissjizvault.site
 0.0.0.0 fit-poradnik.pl
 0.0.0.0 fitchciapara.com
 0.0.0.0 fitness.storepl.shop
@@ -13328,7 +13320,6 @@
 0.0.0.0 lumarvexakiz.com
 0.0.0.0 lumaxrdito.com
 0.0.0.0 lumbreinvereza.net
-0.0.0.0 lumbreinwerezo.net
 0.0.0.0 lumecapitivo.net
 0.0.0.0 lumecobre.net
 0.0.0.0 lumekado.com
@@ -13590,7 +13581,6 @@
 0.0.0.0 mentalmaint.com
 0.0.0.0 menteredat.store
 0.0.0.0 meobsogu.shop
-0.0.0.0 meravrinso.online
 0.0.0.0 mercaborda.store
 0.0.0.0 mercadocapitalum.net
 0.0.0.0 mercadonacapital.com
@@ -13602,7 +13592,6 @@
 0.0.0.0 meridalisappgreen.com
 0.0.0.0 meridiancrestfinance.net
 0.0.0.0 meridianwertgrove.net
-0.0.0.0 merinoprotect.mom
 0.0.0.0 meritumtrade.com
 0.0.0.0 merlesmacr.store
 0.0.0.0 merlosquad.store
@@ -13816,6 +13805,7 @@
 0.0.0.0 msell.site
 0.0.0.0 mtncapital.digital
 0.0.0.0 mttvv.tk7fdg.casa
+0.0.0.0 mty6kwr1cor.hair
 0.0.0.0 muddy-firefly-e9eb.bonniechelseaeneghz1680.workers.dev
 0.0.0.0 muddy-lab-2e65.yegjmxyncioexng.workers.dev
 0.0.0.0 mudriprinostektrade.com
@@ -13928,6 +13918,7 @@
 0.0.0.0 naira-refinery-ai.com
 0.0.0.0 nairapulseprotrade.com
 0.0.0.0 najlepszewrozby.pl
+0.0.0.0 nakelovin-pt.com
 0.0.0.0 nakelovin.net
 0.0.0.0 nalviros-ai.com
 0.0.0.0 namiejsce.eu.cc
@@ -14253,7 +14244,6 @@
 0.0.0.0 nonsegiorn.store
 0.0.0.0 nonspsprol.cyou
 0.0.0.0 nonstopvideos.pl
-0.0.0.0 nonsyendof.online
 0.0.0.0 nookgopad.com
 0.0.0.0 norakado.com
 0.0.0.0 norc-part.cfd
@@ -14392,7 +14382,6 @@
 0.0.0.0 nuvexoril.com
 0.0.0.0 nuvexoril.net
 0.0.0.0 nuviloxarelu.com
-0.0.0.0 nuvora.top
 0.0.0.0 nuvorelcintarix.com
 0.0.0.0 nuzadi-lohexe.info
 0.0.0.0 nv0rked0rplatform.com
@@ -17236,7 +17225,6 @@
 0.0.0.0 redarcontr.store
 0.0.0.0 redectacto.store
 0.0.0.0 redehu.click
-0.0.0.0 redgetentro.lovable.app
 0.0.0.0 redikey.site
 0.0.0.0 redirecting.pl
 0.0.0.0 redirection.pl
@@ -17264,7 +17252,6 @@
 0.0.0.0 refund-ebok-pl.stackstaging.com
 0.0.0.0 regalkapitmere.org
 0.0.0.0 regalsozius.de
-0.0.0.0 regatgeher.lovable.app
 0.0.0.0 regenext.org
 0.0.0.0 regentvermothal.net
 0.0.0.0 reggaemonthjamaica.com
@@ -17334,7 +17321,6 @@
 0.0.0.0 requindale.click
 0.0.0.0 requindale.live
 0.0.0.0 resarprede.store
-0.0.0.0 resdigepol.lovable.app
 0.0.0.0 researchvise.com
 0.0.0.0 resendo.casa
 0.0.0.0 reserv-advanced67557.com
@@ -17709,6 +17695,7 @@
 0.0.0.0 saldowkaai.net
 0.0.0.0 sale-lamania.top
 0.0.0.0 sale-lyko.shop
+0.0.0.0 sale-taranko.com
 0.0.0.0 sale.onlines-sales.shop
 0.0.0.0 salikstock-tech-com.pages.dev
 0.0.0.0 saliktrade.com
@@ -18339,7 +18326,6 @@
 0.0.0.0 smyk.fishing-xfish.shop
 0.0.0.0 smyk.lorvessa.sbs
 0.0.0.0 smyk.muellerdeal.sbs
-0.0.0.0 smyk.pl-ezebra.shop
 0.0.0.0 smyk.velnivo.top
 0.0.0.0 snai1s.qpon
 0.0.0.0 snap-pip-exelon.org
@@ -18742,6 +18728,7 @@
 0.0.0.0 stream-manerix-nx.com
 0.0.0.0 stream-sys-eprex.net
 0.0.0.0 streamavonexpro.net
+0.0.0.0 streamcontrol.shop
 0.0.0.0 streamdexairarktrade.com
 0.0.0.0 streamerymax600trade.com
 0.0.0.0 streamherplexnx-digital.pages.dev
@@ -18784,7 +18771,6 @@
 0.0.0.0 styptoutmo.store
 0.0.0.0 suacclyasmo.store
 0.0.0.0 subcodetas.store
-0.0.0.0 subdeaggconscrevasse.info
 0.0.0.0 subduheter.online
 0.0.0.0 sublirepos.rest
 0.0.0.0 subloingio.store
@@ -19584,7 +19570,6 @@
 0.0.0.0 theoddersidedystrybutor.top
 0.0.0.0 theoddersideretail.shop
 0.0.0.0 theoddersidesretail.shop
-0.0.0.0 theolrenot.online
 0.0.0.0 theopclupe.store
 0.0.0.0 thepacificagroup.com
 0.0.0.0 thepoliticswar.com
@@ -20088,7 +20073,6 @@
 0.0.0.0 ukaldi-sale.zyvrallc.com
 0.0.0.0 ukfinvexgroup-digital.pages.dev
 0.0.0.0 ukhonor.net
-0.0.0.0 ukionivision.site
 0.0.0.0 ukportableac.shop
 0.0.0.0 ukrain.pl
 0.0.0.0 ukrainskiportal.pl
@@ -21089,7 +21073,6 @@
 0.0.0.0 vkladera.pro
 0.0.0.0 vl8.kz7dsq.top
 0.0.0.0 vlaamsex.net
-0.0.0.0 vlaguzgovoplatform.com
 0.0.0.0 vlaguzgovotrade.com
 0.0.0.0 vlamwaardiek.net
 0.0.0.0 vldr4.bemobtrk.com
@@ -21311,7 +21294,6 @@
 0.0.0.0 wekaya.site
 0.0.0.0 welcomedashboardoppeservicesptclientstationonlinespotionline.bisnu.com.np
 0.0.0.0 welfarentixtrade.com
-0.0.0.0 weligatpol.lovable.app
 0.0.0.0 welkotevax.tech
 0.0.0.0 welkotrivax.pro
 0.0.0.0 welkrotivax-click.pages.dev
@@ -21496,7 +21478,6 @@
 0.0.0.0 ww1-secur-poczta-polska.pokkyvan.com
 0.0.0.0 ww3bags.com
 0.0.0.0 www.0b8918640c.nxcli.io
-0.0.0.0 www.0c02y9v.pics
 0.0.0.0 www.00c6ce7d.vcstrucks.be
 0.0.0.0 www.0fon55s.pics
 0.0.0.0 www.0i4lx-modbd4w.h4ctni.qpon
@@ -21933,7 +21914,6 @@
 0.0.0.0 www.acteii.com
 0.0.0.0 www.action-fr.buy-vera.com
 0.0.0.0 www.action.mgi-es.com
-0.0.0.0 www.action.nuvora.top
 0.0.0.0 www.action.ro-mediagalaxysale.shop
 0.0.0.0 www.actionantigua.com
 0.0.0.0 www.actionlinedesigns.com
@@ -25574,7 +25554,6 @@
 0.0.0.0 www.avatudmarkdex.net
 0.0.0.0 www.avcoa.click
 0.0.0.0 www.avelicioaitrade.com
-0.0.0.0 www.avendorixa.com
 0.0.0.0 www.avendrico.com
 0.0.0.0 www.avenidaopulenciagpt70.com
 0.0.0.0 www.aveniraitrade.com
@@ -25659,7 +25638,6 @@
 0.0.0.0 www.b5z1qp.lat
 0.0.0.0 www.b6jzhi.qpon
 0.0.0.0 www.b6m5yk.lat
-0.0.0.0 www.b7vk2c.cfd
 0.0.0.0 www.b8d981ad2a.nxcli.io
 0.0.0.0 www.b8jx2n.cfd
 0.0.0.0 www.b8wz.j9ylbz.qpon
@@ -25671,7 +25649,6 @@
 0.0.0.0 www.babyboxes.store
 0.0.0.0 www.babybuybuybuy.shop
 0.0.0.0 www.babyclydesdale.com
-0.0.0.0 www.babysfavoritethings.shop
 0.0.0.0 www.backpack-style.shop
 0.0.0.0 www.backshhtages.info
 0.0.0.0 www.bactebomba.online
@@ -25851,7 +25828,6 @@
 0.0.0.0 www.besttwomarkup.com
 0.0.0.0 www.bet777red.com
 0.0.0.0 www.betaubyte.site
-0.0.0.0 www.betazeblast.site
 0.0.0.0 www.betr-for-tod.com
 0.0.0.0 www.betronexai.com
 0.0.0.0 www.betronexnova.com
@@ -25897,6 +25873,7 @@
 0.0.0.0 www.bigheaigui.store
 0.0.0.0 www.bigmoviesz.com
 0.0.0.0 www.bigsmovie.us
+0.0.0.0 www.bigstar-pl.shop
 0.0.0.0 www.bigstarshoes.sprintersports-pt.sbs
 0.0.0.0 www.bil.plvsellrwerfy.shop
 0.0.0.0 www.bilermoaitrade.com
@@ -26581,7 +26558,6 @@
 0.0.0.0 www.cemeja.mobi
 0.0.0.0 www.cenalo.pro
 0.0.0.0 www.cenanovers.store
-0.0.0.0 www.cendralivoxqz.info
 0.0.0.0 www.ceneo-adheringtoquality.shop
 0.0.0.0 www.ceneo-gardenpl.shop
 0.0.0.0 www.cennostw.com
@@ -28407,7 +28383,6 @@
 0.0.0.0 www.fisio0-est80.sbs
 0.0.0.0 www.fisio0-et71.sbs
 0.0.0.0 www.fisio0-et91.sbs
-0.0.0.0 www.fisio0-eum90.sbs
 0.0.0.0 www.fisio0-excepturi70.sbs
 0.0.0.0 www.fisio0-facere90.sbs
 0.0.0.0 www.fisio0-illo1.sbs
@@ -29422,7 +29397,6 @@
 0.0.0.0 www.fissalgotra.site
 0.0.0.0 www.fissbeppilot.site
 0.0.0.0 www.fissdnode.site
-0.0.0.0 www.fissjizvault.site
 0.0.0.0 www.fit-poradnik.pl
 0.0.0.0 www.fitchciapara.com
 0.0.0.0 www.fitness.storepl.shop
@@ -31901,7 +31875,6 @@
 0.0.0.0 www.lumarvexakiz.com
 0.0.0.0 www.lumaxrdito.com
 0.0.0.0 www.lumbreinvereza.net
-0.0.0.0 www.lumbreinwerezo.net
 0.0.0.0 www.lumecapitivo.net
 0.0.0.0 www.lumecobre.net
 0.0.0.0 www.lumekado.com
@@ -32163,7 +32136,6 @@
 0.0.0.0 www.mentalmaint.com
 0.0.0.0 www.menteredat.store
 0.0.0.0 www.meobsogu.shop
-0.0.0.0 www.meravrinso.online
 0.0.0.0 www.mercaborda.store
 0.0.0.0 www.mercadocapitalum.net
 0.0.0.0 www.mercadonacapital.com
@@ -32175,7 +32147,6 @@
 0.0.0.0 www.meridalisappgreen.com
 0.0.0.0 www.meridiancrestfinance.net
 0.0.0.0 www.meridianwertgrove.net
-0.0.0.0 www.merinoprotect.mom
 0.0.0.0 www.meritumtrade.com
 0.0.0.0 www.merlesmacr.store
 0.0.0.0 www.merlosquad.store
@@ -32389,6 +32360,7 @@
 0.0.0.0 www.msell.site
 0.0.0.0 www.mtncapital.digital
 0.0.0.0 www.mttvv.tk7fdg.casa
+0.0.0.0 www.mty6kwr1cor.hair
 0.0.0.0 www.muddy-firefly-e9eb.bonniechelseaeneghz1680.workers.dev
 0.0.0.0 www.muddy-lab-2e65.yegjmxyncioexng.workers.dev
 0.0.0.0 www.mudriprinostektrade.com
@@ -32501,6 +32473,7 @@
 0.0.0.0 www.naira-refinery-ai.com
 0.0.0.0 www.nairapulseprotrade.com
 0.0.0.0 www.najlepszewrozby.pl
+0.0.0.0 www.nakelovin-pt.com
 0.0.0.0 www.nakelovin.net
 0.0.0.0 www.nalviros-ai.com
 0.0.0.0 www.namiejsce.eu.cc
@@ -32826,7 +32799,6 @@
 0.0.0.0 www.nonsegiorn.store
 0.0.0.0 www.nonspsprol.cyou
 0.0.0.0 www.nonstopvideos.pl
-0.0.0.0 www.nonsyendof.online
 0.0.0.0 www.nookgopad.com
 0.0.0.0 www.norakado.com
 0.0.0.0 www.norc-part.cfd
@@ -32965,7 +32937,6 @@
 0.0.0.0 www.nuvexoril.com
 0.0.0.0 www.nuvexoril.net
 0.0.0.0 www.nuviloxarelu.com
-0.0.0.0 www.nuvora.top
 0.0.0.0 www.nuvorelcintarix.com
 0.0.0.0 www.nuzadi-lohexe.info
 0.0.0.0 www.nv0rked0rplatform.com
@@ -35798,7 +35769,6 @@
 0.0.0.0 www.redarcontr.store
 0.0.0.0 www.redectacto.store
 0.0.0.0 www.redehu.click
-0.0.0.0 www.redgetentro.lovable.app
 0.0.0.0 www.redikey.site
 0.0.0.0 www.redirecting.pl
 0.0.0.0 www.redirection.pl
@@ -35826,7 +35796,6 @@
 0.0.0.0 www.refund-ebok-pl.stackstaging.com
 0.0.0.0 www.regalkapitmere.org
 0.0.0.0 www.regalsozius.de
-0.0.0.0 www.regatgeher.lovable.app
 0.0.0.0 www.regenext.org
 0.0.0.0 www.regentvermothal.net
 0.0.0.0 www.reggaemonthjamaica.com
@@ -35896,7 +35865,6 @@
 0.0.0.0 www.requindale.click
 0.0.0.0 www.requindale.live
 0.0.0.0 www.resarprede.store
-0.0.0.0 www.resdigepol.lovable.app
 0.0.0.0 www.researchvise.com
 0.0.0.0 www.resendo.casa
 0.0.0.0 www.reserv-advanced67557.com
@@ -36271,6 +36239,7 @@
 0.0.0.0 www.saldowkaai.net
 0.0.0.0 www.sale-lamania.top
 0.0.0.0 www.sale-lyko.shop
+0.0.0.0 www.sale-taranko.com
 0.0.0.0 www.sale.onlines-sales.shop
 0.0.0.0 www.salikstock-tech-com.pages.dev
 0.0.0.0 www.saliktrade.com
@@ -36901,7 +36870,6 @@
 0.0.0.0 www.smyk.fishing-xfish.shop
 0.0.0.0 www.smyk.lorvessa.sbs
 0.0.0.0 www.smyk.muellerdeal.sbs
-0.0.0.0 www.smyk.pl-ezebra.shop
 0.0.0.0 www.smyk.velnivo.top
 0.0.0.0 www.snai1s.qpon
 0.0.0.0 www.snap-pip-exelon.org
@@ -37304,6 +37272,7 @@
 0.0.0.0 www.stream-manerix-nx.com
 0.0.0.0 www.stream-sys-eprex.net
 0.0.0.0 www.streamavonexpro.net
+0.0.0.0 www.streamcontrol.shop
 0.0.0.0 www.streamdexairarktrade.com
 0.0.0.0 www.streamerymax600trade.com
 0.0.0.0 www.streamherplexnx-digital.pages.dev
@@ -37346,7 +37315,6 @@
 0.0.0.0 www.styptoutmo.store
 0.0.0.0 www.suacclyasmo.store
 0.0.0.0 www.subcodetas.store
-0.0.0.0 www.subdeaggconscrevasse.info
 0.0.0.0 www.subduheter.online
 0.0.0.0 www.sublirepos.rest
 0.0.0.0 www.subloingio.store
@@ -38146,7 +38114,6 @@
 0.0.0.0 www.theoddersidedystrybutor.top
 0.0.0.0 www.theoddersideretail.shop
 0.0.0.0 www.theoddersidesretail.shop
-0.0.0.0 www.theolrenot.online
 0.0.0.0 www.theopclupe.store
 0.0.0.0 www.thepacificagroup.com
 0.0.0.0 www.thepoliticswar.com
@@ -38650,7 +38617,6 @@
 0.0.0.0 www.ukaldi-sale.zyvrallc.com
 0.0.0.0 www.ukfinvexgroup-digital.pages.dev
 0.0.0.0 www.ukhonor.net
-0.0.0.0 www.ukionivision.site
 0.0.0.0 www.ukportableac.shop
 0.0.0.0 www.ukrain.pl
 0.0.0.0 www.ukrainskiportal.pl
@@ -39651,7 +39617,6 @@
 0.0.0.0 www.vkladera.pro
 0.0.0.0 www.vl8.kz7dsq.top
 0.0.0.0 www.vlaamsex.net
-0.0.0.0 www.vlaguzgovoplatform.com
 0.0.0.0 www.vlaguzgovotrade.com
 0.0.0.0 www.vlamwaardiek.net
 0.0.0.0 www.vldr4.bemobtrk.com
@@ -39873,7 +39838,6 @@
 0.0.0.0 www.wekaya.site
 0.0.0.0 www.welcomedashboardoppeservicesptclientstationonlinespotionline.bisnu.com.np
 0.0.0.0 www.welfarentixtrade.com
-0.0.0.0 www.weligatpol.lovable.app
 0.0.0.0 www.welkotevax.tech
 0.0.0.0 www.welkotrivax.pro
 0.0.0.0 www.welkrotivax-click.pages.dev
@@ -40362,6 +40326,7 @@
 0.0.0.0 www.zakupy-biedrankos.com
 0.0.0.0 www.zakupy-biedrankosale.shop
 0.0.0.0 www.zakupy-biedroneczka.shop
+0.0.0.0 www.zakupy-biedroneczkas.shop
 0.0.0.0 www.zakupy-biedronkasale.shop
 0.0.0.0 www.zakupy-biedronko.shop
 0.0.0.0 www.zakupy-biedronkos.shop
@@ -40712,7 +40677,6 @@
 0.0.0.0 www.zyqorvelithtrade.com
 0.0.0.0 www.zyreanoplatform.com
 0.0.0.0 www.zyreanotrade.com
-0.0.0.0 www.zyrenqofalmex.net
 0.0.0.0 www.zyrrfixnext.site
 0.0.0.0 www.zyskbit-fundtex.com
 0.0.0.0 www.zyskonex.net
@@ -41031,6 +40995,7 @@
 0.0.0.0 zakupy-biedrankos.com
 0.0.0.0 zakupy-biedrankosale.shop
 0.0.0.0 zakupy-biedroneczka.shop
+0.0.0.0 zakupy-biedroneczkas.shop
 0.0.0.0 zakupy-biedronkasale.shop
 0.0.0.0 zakupy-biedronko.shop
 0.0.0.0 zakupy-biedronkos.shop
@@ -41381,7 +41346,6 @@
 0.0.0.0 zyqorvelithtrade.com
 0.0.0.0 zyreanoplatform.com
 0.0.0.0 zyreanotrade.com
-0.0.0.0 zyrenqofalmex.net
 0.0.0.0 zyrrfixnext.site
 0.0.0.0 zyskbit-fundtex.com
 0.0.0.0 zyskonex.net
