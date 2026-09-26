@@ -1,7 +1,7 @@
 # Title: KAD - Dnsmasq Edition (Beta)
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 26 Sep 2026, 14:33 UTC+02:00
-# Version: 2026.9.26.1
+# Last modified: Sat, 26 Sep 2026, 17:55 UTC+02:00
+# Version: 2026.9.26.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -1439,6 +1439,7 @@ address=/xn--21955-gya.biz/
 address=/xn--22455-udb.biz/
 address=/xn--30986-udb.biz/
 address=/xtroglobal.com/
+address=/zalicave.blog/
 address=/zetreview.com/
 address=/znajdzbdsmkontakt.pl/
 #@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekierowujace_do_przekretow.txt => dnsmasq
