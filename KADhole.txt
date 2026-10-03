@@ -1,7 +1,7 @@
 # Title: KADhole
 # Description: Uzupelnienie KADhosts do Pi-hole
-# Last modified: Mon, 21 Sep 2026, 22:52 UTC+02:00
-# Version: 2026.9.21.0
+# Last modified: Sat, 03 Oct 2026, 17:40 UTC+02:00
+# Version: 2026.10.3.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -21,6 +21,8 @@
 #
 # Przekrety
 (^|\.)(inwestpoland|inwestpl|polandinw|lotos-poland|poland-lotos)[a-z]+?[0-9]+\.(site|space)$
+(^|\.).bringmeday.icu$
+(^|\.).bringmelove.icu$
 (^|\.)[0-9]+\.adwokat-mk\.pl$
 (^|\.)[0-9]+platnosci?\.online$
 (^|\.)[0-9a-z]+\.mergeconnection\.co\.in$
