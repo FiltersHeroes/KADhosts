@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 22 Nov 2026, 07:45 UTC+01:00
-# Version: 2026.11.22.0
+# Last modified: Sun, 22 Nov 2026, 16:06 UTC+01:00
+# Version: 2026.11.22.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -50,7 +50,6 @@
 0.0.0.0 agroturist.com.pl
 0.0.0.0 akredytowane.pl
 0.0.0.0 alamoni.com
-0.0.0.0 alconv.com
 0.0.0.0 aldaniti.net
 0.0.0.0 aleperfumeria.pl
 0.0.0.0 alerter.pl
@@ -476,12 +475,10 @@
 0.0.0.0 landofm.com
 0.0.0.0 landonv.com
 0.0.0.0 landovn.com
-0.0.0.0 landpiv.com
 0.0.0.0 landril.com
 0.0.0.0 landtrov.com
 0.0.0.0 landunv.com
 0.0.0.0 landurt.com
-0.0.0.0 landvom.com
 0.0.0.0 laptopyinfo.pl
 0.0.0.0 lead5.pl
 0.0.0.0 lead.network
@@ -574,7 +571,6 @@
 0.0.0.0 myway.com
 0.0.0.0 nabazarze.pl
 0.0.0.0 najlepszapremka.pl
-0.0.0.0 najlepszedlaciebie.com
 0.0.0.0 nameguess.com
 0.0.0.0 nametests.com
 0.0.0.0 namierz-telefon.com.pl
@@ -923,10 +919,7 @@
 0.0.0.0 swietnebuty.pl
 0.0.0.0 swiezaki.weebly.com
 0.0.0.0 swisswatch.pl
-0.0.0.0 szalonenagrody.com
-0.0.0.0 szalonepromocje.com
 0.0.0.0 szamponrevita.pl
-0.0.0.0 szczesliwydzien.com
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybkaupadlosc.pl
 0.0.0.0 tangoltd.com
@@ -974,7 +967,6 @@
 0.0.0.0 twoja-kariera.pl
 0.0.0.0 twoje-piekno.pl
 0.0.0.0 twojelogo.eu
-0.0.0.0 twojszczesliwydzien.com
 0.0.0.0 udziele-pozyczki-prywatnie.pl
 0.0.0.0 udzielepozyczkiprywatnejszybko.pl
 0.0.0.0 uggwyprzedaz.pl
@@ -1130,7 +1122,6 @@
 0.0.0.0 www.agroturist.com.pl
 0.0.0.0 www.akredytowane.pl
 0.0.0.0 www.alamoni.com
-0.0.0.0 www.alconv.com
 0.0.0.0 www.aldaniti.net
 0.0.0.0 www.aleperfumeria.pl
 0.0.0.0 www.alerter.pl
@@ -1556,12 +1547,10 @@
 0.0.0.0 www.landofm.com
 0.0.0.0 www.landonv.com
 0.0.0.0 www.landovn.com
-0.0.0.0 www.landpiv.com
 0.0.0.0 www.landril.com
 0.0.0.0 www.landtrov.com
 0.0.0.0 www.landunv.com
 0.0.0.0 www.landurt.com
-0.0.0.0 www.landvom.com
 0.0.0.0 www.laptopyinfo.pl
 0.0.0.0 www.lead5.pl
 0.0.0.0 www.lead.network
@@ -1654,7 +1643,6 @@
 0.0.0.0 www.myway.com
 0.0.0.0 www.nabazarze.pl
 0.0.0.0 www.najlepszapremka.pl
-0.0.0.0 www.najlepszedlaciebie.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 www.nametests.com
 0.0.0.0 www.namierz-telefon.com.pl
@@ -1990,10 +1978,7 @@
 0.0.0.0 www.swietnebuty.pl
 0.0.0.0 www.swiezaki.weebly.com
 0.0.0.0 www.swisswatch.pl
-0.0.0.0 www.szalonenagrody.com
-0.0.0.0 www.szalonepromocje.com
 0.0.0.0 www.szamponrevita.pl
-0.0.0.0 www.szczesliwydzien.com
 0.0.0.0 www.szybkapozyczkateraz.pl
 0.0.0.0 www.szybkaupadlosc.pl
 0.0.0.0 www.tangoltd.com
@@ -2041,7 +2026,6 @@
 0.0.0.0 www.twoja-kariera.pl
 0.0.0.0 www.twoje-piekno.pl
 0.0.0.0 www.twojelogo.eu
-0.0.0.0 www.twojszczesliwydzien.com
 0.0.0.0 www.udziele-pozyczki-prywatnie.pl
 0.0.0.0 www.udzielepozyczkiprywatnejszybko.pl
 0.0.0.0 www.uggwyprzedaz.pl
@@ -2171,7 +2155,6 @@
 0.0.0.0 www.xmlgrab.com
 0.0.0.0 www.xtrazex.info
 0.0.0.0 www.yanjunijuni.com
-0.0.0.0 www.ycsshb.cn
 0.0.0.0 www.yellownet.pl
 0.0.0.0 www.yotafiles.com
 0.0.0.0 www.you-and-me.pl
@@ -2220,7 +2203,6 @@
 0.0.0.0 xmlgrab.com
 0.0.0.0 xtrazex.info
 0.0.0.0 yanjunijuni.com
-0.0.0.0 ycsshb.cn
 0.0.0.0 yellownet.pl
 0.0.0.0 yotafiles.com
 0.0.0.0 you-and-me.pl
@@ -2270,7 +2252,6 @@
 0.0.0.0 4clicker.pro
 0.0.0.0 12monki-redirect.com
 0.0.0.0 12monkiredirect.com
-0.0.0.0 59na.com
 0.0.0.0 62ad.com
 0.0.0.0 adsbtrack.com
 0.0.0.0 adservd.com
@@ -2421,7 +2402,6 @@
 0.0.0.0 www.4clicker.pro
 0.0.0.0 www.12monki-redirect.com
 0.0.0.0 www.12monkiredirect.com
-0.0.0.0 www.59na.com
 0.0.0.0 www.62ad.com
 0.0.0.0 www.adsbtrack.com
 0.0.0.0 www.adservd.com
@@ -2622,7 +2602,6 @@
 0.0.0.0 skinsycs.89.pl
 0.0.0.0 snap.cba.pl
 0.0.0.0 st.acstnst.com
-0.0.0.0 tylko-dla-ciebie.com
 0.0.0.0 uroffer.link
 0.0.0.0 uzupelniaj-dane.ml
 0.0.0.0 www.4ur.click
@@ -2656,7 +2635,6 @@
 0.0.0.0 www.skinsycs.89.pl
 0.0.0.0 www.snap.cba.pl
 0.0.0.0 www.st.acstnst.com
-0.0.0.0 www.tylko-dla-ciebie.com
 0.0.0.0 www.uroffer.link
 0.0.0.0 www.uzupelniaj-dane.ml
 #@ <<<<<<<< https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/szybko_wygaszajace.txt => hosts
@@ -4322,7 +4300,6 @@
 0.0.0.0 alebilet.pl24-przedmioty-zzz.top
 0.0.0.0 alebilet.pl24-przedmioty.top
 0.0.0.0 alebilet.pl982.top
-0.0.0.0 alebilet.pl74892.pl
 0.0.0.0 alebilet.pl396931.top
 0.0.0.0 alebilet.pl869840.cfd
 0.0.0.0 alebilet.pl535363839oferta.sbs
@@ -5276,7 +5253,6 @@
 0.0.0.0 allegro.pl24-przedmioty.top
 0.0.0.0 allegro.pl982.top
 0.0.0.0 allegro.pl47351.top
-0.0.0.0 allegro.pl74892.pl
 0.0.0.0 allegro.pl88334.top
 0.0.0.0 allegro.pl396931.top
 0.0.0.0 allegro.pl869840.cfd
@@ -6515,7 +6491,6 @@
 0.0.0.0 allegrolokalnie.pl71367.top
 0.0.0.0 allegrolokalnie.pl71484.top
 0.0.0.0 allegrolokalnie.pl73149.top
-0.0.0.0 allegrolokalnie.pl74892.pl
 0.0.0.0 allegrolokalnie.pl83872.shop
 0.0.0.0 allegrolokalnie.pl87219c928v780.rest
 0.0.0.0 allegrolokalnie.pl88334.top
@@ -6525,7 +6500,6 @@
 0.0.0.0 allegrolokalnie.pl869840.cfd
 0.0.0.0 allegrolokalnie.pl890123n43r.rest
 0.0.0.0 allegrolokalnie.pl4921641nq90127n192.rest
-0.0.0.0 allegrolokalnie.pl5336784.pl
 0.0.0.0 allegrolokalnie.pl5396784.pl
 0.0.0.0 allegrolokalnie.pl43123434.lol
 0.0.0.0 allegrolokalnie.pl052636388.cfd
@@ -6846,7 +6820,6 @@
 0.0.0.0 allegrolokalnie.pl-ogloszezenle891241.shop
 0.0.0.0 allegrolokalnie.pl-ogloszezenle978142.shop
 0.0.0.0 allegrolokalnie.pl-oqloszenie88567138288271.sbs
-0.0.0.0 allegrolokalnie.pl-oqloszenie8378278282739401.pl
 0.0.0.0 allegrolokalnie.pl-oqloszenie9184192159126235125.sbs
 0.0.0.0 allegrolokalnie.pl-paczka3245123.sbs
 0.0.0.0 allegrolokalnie.pl-pl.top
@@ -7930,7 +7903,6 @@
 0.0.0.0 birdultralab.digital
 0.0.0.0 bireadofa.lovable.app
 0.0.0.0 biresuca.com
-0.0.0.0 birkenstock-pl.pl
 0.0.0.0 birracracc.store
 0.0.0.0 bishopdalewatch.top
 0.0.0.0 bisoncasino2.io
@@ -10125,7 +10097,6 @@
 0.0.0.0 dohgovphsurprise.com
 0.0.0.0 doiindexero.net
 0.0.0.0 dojrzalerandkowanie.com
-0.0.0.0 dok-oswiata-kadry.pl
 0.0.0.0 dolicsfitt.store
 0.0.0.0 dolion24pl.shop
 0.0.0.0 dolu-yatirimotiv.pro
@@ -10939,7 +10910,6 @@
 0.0.0.0 facollante.store
 0.0.0.0 fafitimemipomovitoxa.life
 0.0.0.0 fagruvilreviews.click
-0.0.0.0 fahidfgh.site
 0.0.0.0 faidactet.lovable.app
 0.0.0.0 faimacapitorio.com
 0.0.0.0 faimacapitorio.store
@@ -13006,7 +12976,6 @@
 0.0.0.0 hill900.serv00.net
 0.0.0.0 hipyqey.lovable.app
 0.0.0.0 hiqalityqa.org
-0.0.0.0 hirexpo.com
 0.0.0.0 hiro.tranemidamerica.com
 0.0.0.0 histoylover.com
 0.0.0.0 hivaro.shop
@@ -14287,7 +14256,6 @@
 0.0.0.0 klicnaddiliste.store
 0.0.0.0 klidnymajetin.store
 0.0.0.0 klient-aktualizacje-bezpieczenstwa-id.e-rezept-kirchzarten.de
-0.0.0.0 klikijuz.com
 0.0.0.0 klimpost24pl.eu.cc
 0.0.0.0 klipwaardeling.com
 0.0.0.0 klouklikpra.top
@@ -17426,7 +17394,6 @@
 0.0.0.0 olx.pl24-przedmioty.top
 0.0.0.0 olx.pl982.top
 0.0.0.0 olx.pl72149.top
-0.0.0.0 olx.pl74892.pl
 0.0.0.0 olx.pl396931.top
 0.0.0.0 olx.pl869840.cfd
 0.0.0.0 olx.pl74356323.shop
@@ -17800,7 +17767,6 @@
 0.0.0.0 oneuoold.shop
 0.0.0.0 onewise.top
 0.0.0.0 onfalipocr.store
-0.0.0.0 onflix.us
 0.0.0.0 ongnhuaganxoan.com
 0.0.0.0 onictoto-hoki.com
 0.0.0.0 online-cda.pl
@@ -17954,7 +17920,6 @@
 0.0.0.0 ostinglugl.store
 0.0.0.0 osw1ik.blazebasic.com
 0.0.0.0 oszvur.com
-0.0.0.0 otherstories-polska.pl
 0.0.0.0 othys.shop
 0.0.0.0 otoscopyobaasolete.info
 0.0.0.0 otrrf3.nweeks.pl
@@ -18183,7 +18148,6 @@
 0.0.0.0 pavren.shop
 0.0.0.0 pawansutenterprise.in
 0.0.0.0 pay2me.pl
-0.0.0.0 pay.sindbadbus.pl
 0.0.0.0 paycore-my1.shop
 0.0.0.0 paycore-my3.shop
 0.0.0.0 payflow-fast-poland.my.id
@@ -18304,7 +18268,6 @@
 0.0.0.0 pervenche-volute.shop
 0.0.0.0 pervuqo.net
 0.0.0.0 perwnsitsp.lovable.app
-0.0.0.0 petmego.com
 0.0.0.0 petorbra.com
 0.0.0.0 petpathika.pro
 0.0.0.0 petrelwinstmere-ai.com
@@ -18539,12 +18502,9 @@
 0.0.0.0 pl24-przedmioty-zzz.top
 0.0.0.0 pl24-przedmioty.top
 0.0.0.0 pl982.top
-0.0.0.0 pl74892.pl
 0.0.0.0 pl00121615.polopsicodinamiche.com
 0.0.0.0 pl396931.top
 0.0.0.0 pl869840.cfd
-0.0.0.0 pl5336784.pl
-0.0.0.0 pl5398784.pl
 0.0.0.0 pl535363839oferta.sbs
 0.0.0.0 pl2552638484.sbs
 0.0.0.0 pl3485823421.top
@@ -19282,7 +19242,6 @@
 0.0.0.0 poisoconju.store
 0.0.0.0 pojuamqy.shop
 0.0.0.0 pokochajmy.pl
-0.0.0.0 pol-mater.pl
 0.0.0.0 polanatex.net
 0.0.0.0 polanatexai.com
 0.0.0.0 polanatexai.net
@@ -19342,9 +19301,7 @@
 0.0.0.0 pomyslmyofinansach.com
 0.0.0.0 ponderharborlane.xyz
 0.0.0.0 poonkiewaters.com
-0.0.0.0 pop-shop.pl
 0.0.0.0 pop-store.org
-0.0.0.0 pop-store.pl
 0.0.0.0 popcornflix.pl
 0.0.0.0 poperlantunih.top
 0.0.0.0 popivexetiro.life
@@ -19553,7 +19510,6 @@
 0.0.0.0 prne1r.volker.pl
 0.0.0.0 probitapeak.com
 0.0.0.0 proceedary.com
-0.0.0.0 procu2f.de
 0.0.0.0 procuotaje.com
 0.0.0.0 procuritage.com
 0.0.0.0 prod.deepaul.co
@@ -19736,7 +19692,6 @@
 0.0.0.0 purple-boat-c337.wassim-dhouib.workers.dev
 0.0.0.0 purple-truth-4741.estebanadolfo584cij2.workers.dev
 0.0.0.0 purpucommi.store
-0.0.0.0 pvtsejmrp.pl
 0.0.0.0 pwpwwp.sbs
 0.0.0.0 pwt4k8.yl029.com
 0.0.0.0 pynoruvely.net
@@ -20552,7 +20507,6 @@
 0.0.0.0 romantic-lab-care-pro.base44.app
 0.0.0.0 romelizia.top
 0.0.0.0 romolizio-ai.com
-0.0.0.0 ronchmixa.cfd
 0.0.0.0 rondaneherald.pro
 0.0.0.0 rondurasecurities.com
 0.0.0.0 rondurasecurities.store
@@ -21956,7 +21910,6 @@
 0.0.0.0 spotify-ch.multinfos.com
 0.0.0.0 spotify.muttinfo.com
 0.0.0.0 spotify.narayanispices.com
-0.0.0.0 spotionline.site
 0.0.0.0 spotkaniamilosne.pl
 0.0.0.0 spotlabeasy.digital
 0.0.0.0 spotlabs.digital
@@ -22150,7 +22103,6 @@
 0.0.0.0 steuruckholdings.com
 0.0.0.0 steuruckholdings.info
 0.0.0.0 steveflix-ai.com
-0.0.0.0 stevemaddenpolska.pl
 0.0.0.0 stevigspaarvatuur.com
 0.0.0.0 stewardancy.com
 0.0.0.0 stewardcomptorine.com
@@ -23811,7 +23763,6 @@
 0.0.0.0 ugg-shop-fans.myshoplaza.com
 0.0.0.0 uggeu.shop
 0.0.0.0 uggi.shop
-0.0.0.0 uggoutlet.pl
 0.0.0.0 ugr3cy.alitqan-plus.com
 0.0.0.0 ugsomdiffi.store
 0.0.0.0 ugsome-troke.shop
@@ -24823,7 +24774,6 @@
 0.0.0.0 vinted.pl24-przedmioty-zzz.top
 0.0.0.0 vinted.pl24-przedmioty.top
 0.0.0.0 vinted.pl982.top
-0.0.0.0 vinted.pl74892.pl
 0.0.0.0 vinted.pl396931.top
 0.0.0.0 vinted.pl869840.cfd
 0.0.0.0 vinted.pl74356323.shop
@@ -25205,7 +25155,6 @@
 0.0.0.0 vnoskudrentrx-ai-ie.com
 0.0.0.0 vod-film.pl
 0.0.0.0 vod-tv.pl
-0.0.0.0 vod.film
 0.0.0.0 vod.plus
 0.0.0.0 vodacom-ai.pro
 0.0.0.0 vodbest.pl
@@ -25457,7 +25406,6 @@
 0.0.0.0 wedelfood-pl.shop
 0.0.0.0 wedelmarket.shop
 0.0.0.0 wedelpl.shop
-0.0.0.0 wedgwoodpolska.pl
 0.0.0.0 weethley.com
 0.0.0.0 wefixfeet.org
 0.0.0.0 weishathwar.lovable.app
@@ -27408,7 +27356,6 @@
 0.0.0.0 www.alebilet.pl24-przedmioty-zzz.top
 0.0.0.0 www.alebilet.pl24-przedmioty.top
 0.0.0.0 www.alebilet.pl982.top
-0.0.0.0 www.alebilet.pl74892.pl
 0.0.0.0 www.alebilet.pl396931.top
 0.0.0.0 www.alebilet.pl869840.cfd
 0.0.0.0 www.alebilet.pl535363839oferta.sbs
@@ -28362,7 +28309,6 @@
 0.0.0.0 www.allegro.pl24-przedmioty.top
 0.0.0.0 www.allegro.pl982.top
 0.0.0.0 www.allegro.pl47351.top
-0.0.0.0 www.allegro.pl74892.pl
 0.0.0.0 www.allegro.pl88334.top
 0.0.0.0 www.allegro.pl396931.top
 0.0.0.0 www.allegro.pl869840.cfd
@@ -29601,7 +29547,6 @@
 0.0.0.0 www.allegrolokalnie.pl71367.top
 0.0.0.0 www.allegrolokalnie.pl71484.top
 0.0.0.0 www.allegrolokalnie.pl73149.top
-0.0.0.0 www.allegrolokalnie.pl74892.pl
 0.0.0.0 www.allegrolokalnie.pl83872.shop
 0.0.0.0 www.allegrolokalnie.pl87219c928v780.rest
 0.0.0.0 www.allegrolokalnie.pl88334.top
@@ -29611,7 +29556,6 @@
 0.0.0.0 www.allegrolokalnie.pl869840.cfd
 0.0.0.0 www.allegrolokalnie.pl890123n43r.rest
 0.0.0.0 www.allegrolokalnie.pl4921641nq90127n192.rest
-0.0.0.0 www.allegrolokalnie.pl5336784.pl
 0.0.0.0 www.allegrolokalnie.pl5396784.pl
 0.0.0.0 www.allegrolokalnie.pl43123434.lol
 0.0.0.0 www.allegrolokalnie.pl052636388.cfd
@@ -29932,7 +29876,6 @@
 0.0.0.0 www.allegrolokalnie.pl-ogloszezenle891241.shop
 0.0.0.0 www.allegrolokalnie.pl-ogloszezenle978142.shop
 0.0.0.0 www.allegrolokalnie.pl-oqloszenie88567138288271.sbs
-0.0.0.0 www.allegrolokalnie.pl-oqloszenie8378278282739401.pl
 0.0.0.0 www.allegrolokalnie.pl-oqloszenie9184192159126235125.sbs
 0.0.0.0 www.allegrolokalnie.pl-paczka3245123.sbs
 0.0.0.0 www.allegrolokalnie.pl-pl.top
@@ -31016,7 +30959,6 @@
 0.0.0.0 www.birdultralab.digital
 0.0.0.0 www.bireadofa.lovable.app
 0.0.0.0 www.biresuca.com
-0.0.0.0 www.birkenstock-pl.pl
 0.0.0.0 www.birracracc.store
 0.0.0.0 www.bishopdalewatch.top
 0.0.0.0 www.bisoncasino2.io
@@ -33211,7 +33153,6 @@
 0.0.0.0 www.dohgovphsurprise.com
 0.0.0.0 www.doiindexero.net
 0.0.0.0 www.dojrzalerandkowanie.com
-0.0.0.0 www.dok-oswiata-kadry.pl
 0.0.0.0 www.dolicsfitt.store
 0.0.0.0 www.dolion24pl.shop
 0.0.0.0 www.dolu-yatirimotiv.pro
@@ -34025,7 +33966,6 @@
 0.0.0.0 www.facollante.store
 0.0.0.0 www.fafitimemipomovitoxa.life
 0.0.0.0 www.fagruvilreviews.click
-0.0.0.0 www.fahidfgh.site
 0.0.0.0 www.faidactet.lovable.app
 0.0.0.0 www.faimacapitorio.com
 0.0.0.0 www.faimacapitorio.store
@@ -36092,7 +36032,6 @@
 0.0.0.0 www.hill900.serv00.net
 0.0.0.0 www.hipyqey.lovable.app
 0.0.0.0 www.hiqalityqa.org
-0.0.0.0 www.hirexpo.com
 0.0.0.0 www.hiro.tranemidamerica.com
 0.0.0.0 www.histoylover.com
 0.0.0.0 www.hivaro.shop
@@ -37373,7 +37312,6 @@
 0.0.0.0 www.klicnaddiliste.store
 0.0.0.0 www.klidnymajetin.store
 0.0.0.0 www.klient-aktualizacje-bezpieczenstwa-id.e-rezept-kirchzarten.de
-0.0.0.0 www.klikijuz.com
 0.0.0.0 www.klimpost24pl.eu.cc
 0.0.0.0 www.klipwaardeling.com
 0.0.0.0 www.klouklikpra.top
@@ -40512,7 +40450,6 @@
 0.0.0.0 www.olx.pl24-przedmioty.top
 0.0.0.0 www.olx.pl982.top
 0.0.0.0 www.olx.pl72149.top
-0.0.0.0 www.olx.pl74892.pl
 0.0.0.0 www.olx.pl396931.top
 0.0.0.0 www.olx.pl869840.cfd
 0.0.0.0 www.olx.pl74356323.shop
@@ -40886,7 +40823,6 @@
 0.0.0.0 www.oneuoold.shop
 0.0.0.0 www.onewise.top
 0.0.0.0 www.onfalipocr.store
-0.0.0.0 www.onflix.us
 0.0.0.0 www.ongnhuaganxoan.com
 0.0.0.0 www.onictoto-hoki.com
 0.0.0.0 www.online-cda.pl
@@ -41040,7 +40976,6 @@
 0.0.0.0 www.ostinglugl.store
 0.0.0.0 www.osw1ik.blazebasic.com
 0.0.0.0 www.oszvur.com
-0.0.0.0 www.otherstories-polska.pl
 0.0.0.0 www.othys.shop
 0.0.0.0 www.otoscopyobaasolete.info
 0.0.0.0 www.otrrf3.nweeks.pl
@@ -41269,7 +41204,6 @@
 0.0.0.0 www.pavren.shop
 0.0.0.0 www.pawansutenterprise.in
 0.0.0.0 www.pay2me.pl
-0.0.0.0 www.pay.sindbadbus.pl
 0.0.0.0 www.paycore-my1.shop
 0.0.0.0 www.paycore-my3.shop
 0.0.0.0 www.payflow-fast-poland.my.id
@@ -41390,7 +41324,6 @@
 0.0.0.0 www.pervenche-volute.shop
 0.0.0.0 www.pervuqo.net
 0.0.0.0 www.perwnsitsp.lovable.app
-0.0.0.0 www.petmego.com
 0.0.0.0 www.petorbra.com
 0.0.0.0 www.petpathika.pro
 0.0.0.0 www.petrelwinstmere-ai.com
@@ -41619,12 +41552,9 @@
 0.0.0.0 www.pl24-przedmioty-zzz.top
 0.0.0.0 www.pl24-przedmioty.top
 0.0.0.0 www.pl982.top
-0.0.0.0 www.pl74892.pl
 0.0.0.0 www.pl00121615.polopsicodinamiche.com
 0.0.0.0 www.pl396931.top
 0.0.0.0 www.pl869840.cfd
-0.0.0.0 www.pl5336784.pl
-0.0.0.0 www.pl5398784.pl
 0.0.0.0 www.pl535363839oferta.sbs
 0.0.0.0 www.pl2552638484.sbs
 0.0.0.0 www.pl3485823421.top
@@ -42348,7 +42278,6 @@
 0.0.0.0 www.poisoconju.store
 0.0.0.0 www.pojuamqy.shop
 0.0.0.0 www.pokochajmy.pl
-0.0.0.0 www.pol-mater.pl
 0.0.0.0 www.polanatex.net
 0.0.0.0 www.polanatexai.com
 0.0.0.0 www.polanatexai.net
@@ -42408,9 +42337,7 @@
 0.0.0.0 www.pomyslmyofinansach.com
 0.0.0.0 www.ponderharborlane.xyz
 0.0.0.0 www.poonkiewaters.com
-0.0.0.0 www.pop-shop.pl
 0.0.0.0 www.pop-store.org
-0.0.0.0 www.pop-store.pl
 0.0.0.0 www.popcornflix.pl
 0.0.0.0 www.poperlantunih.top
 0.0.0.0 www.popivexetiro.life
@@ -42619,7 +42546,6 @@
 0.0.0.0 www.prne1r.volker.pl
 0.0.0.0 www.probitapeak.com
 0.0.0.0 www.proceedary.com
-0.0.0.0 www.procu2f.de
 0.0.0.0 www.procuotaje.com
 0.0.0.0 www.procuritage.com
 0.0.0.0 www.prod.deepaul.co
@@ -42802,7 +42728,6 @@
 0.0.0.0 www.purple-boat-c337.wassim-dhouib.workers.dev
 0.0.0.0 www.purple-truth-4741.estebanadolfo584cij2.workers.dev
 0.0.0.0 www.purpucommi.store
-0.0.0.0 www.pvtsejmrp.pl
 0.0.0.0 www.pwpwwp.sbs
 0.0.0.0 www.pwt4k8.yl029.com
 0.0.0.0 www.pynoruvely.net
@@ -43618,7 +43543,6 @@
 0.0.0.0 www.romantic-lab-care-pro.base44.app
 0.0.0.0 www.romelizia.top
 0.0.0.0 www.romolizio-ai.com
-0.0.0.0 www.ronchmixa.cfd
 0.0.0.0 www.rondaneherald.pro
 0.0.0.0 www.rondurasecurities.com
 0.0.0.0 www.rondurasecurities.store
@@ -45022,7 +44946,6 @@
 0.0.0.0 www.spotify-ch.multinfos.com
 0.0.0.0 www.spotify.muttinfo.com
 0.0.0.0 www.spotify.narayanispices.com
-0.0.0.0 www.spotionline.site
 0.0.0.0 www.spotkaniamilosne.pl
 0.0.0.0 www.spotlabeasy.digital
 0.0.0.0 www.spotlabs.digital
@@ -45216,7 +45139,6 @@
 0.0.0.0 www.steuruckholdings.com
 0.0.0.0 www.steuruckholdings.info
 0.0.0.0 www.steveflix-ai.com
-0.0.0.0 www.stevemaddenpolska.pl
 0.0.0.0 www.stevigspaarvatuur.com
 0.0.0.0 www.stewardancy.com
 0.0.0.0 www.stewardcomptorine.com
@@ -46877,7 +46799,6 @@
 0.0.0.0 www.ugg-shop-fans.myshoplaza.com
 0.0.0.0 www.uggeu.shop
 0.0.0.0 www.uggi.shop
-0.0.0.0 www.uggoutlet.pl
 0.0.0.0 www.ugr3cy.alitqan-plus.com
 0.0.0.0 www.ugsomdiffi.store
 0.0.0.0 www.ugsome-troke.shop
@@ -47889,7 +47810,6 @@
 0.0.0.0 www.vinted.pl24-przedmioty-zzz.top
 0.0.0.0 www.vinted.pl24-przedmioty.top
 0.0.0.0 www.vinted.pl982.top
-0.0.0.0 www.vinted.pl74892.pl
 0.0.0.0 www.vinted.pl396931.top
 0.0.0.0 www.vinted.pl869840.cfd
 0.0.0.0 www.vinted.pl74356323.shop
@@ -48271,7 +48191,6 @@
 0.0.0.0 www.vnoskudrentrx-ai-ie.com
 0.0.0.0 www.vod-film.pl
 0.0.0.0 www.vod-tv.pl
-0.0.0.0 www.vod.film
 0.0.0.0 www.vod.plus
 0.0.0.0 www.vodacom-ai.pro
 0.0.0.0 www.vodbest.pl
@@ -48523,7 +48442,6 @@
 0.0.0.0 www.wedelfood-pl.shop
 0.0.0.0 www.wedelmarket.shop
 0.0.0.0 www.wedelpl.shop
-0.0.0.0 www.wedgwoodpolska.pl
 0.0.0.0 www.weethley.com
 0.0.0.0 www.wefixfeet.org
 0.0.0.0 www.weishathwar.lovable.app
